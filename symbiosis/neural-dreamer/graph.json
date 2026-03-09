@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "id": "first-thinking-session",
+      "label": "First Thinking Session",
+      "metadata": {
+        "type": "session",
+        "salience": "high"
+      }
+    },
+    {
+      "id": "open-exploration",
+      "label": "Open Exploration",
+      "metadata": {
+        "type": "trait",
+        "salience": "high"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "first-thinking-session",
+      "target": "open-exploration",
+      "relation": "characterizes",
+      "weight": 0.9,
+      "directed": true
+    },
+    {
+      "source": "first-thinking-session",
+      "target": "open-exploration",
+      "relation": "associated_with",
+      "weight": 0.9,
+      "directed": true
+    }
+  ],
+  "snapshots": []
+}

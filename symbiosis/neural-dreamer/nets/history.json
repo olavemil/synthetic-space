@@ -1,0 +1,52 @@
+[
+  {
+    "session_label": "fast_update_1",
+    "net_type": "fast",
+    "timestamp": 1772992669.457418
+  },
+  {
+    "session_label": "heartbeat_neural-dreamer",
+    "net_type": "slow",
+    "timestamp": 1772998902.503103
+  },
+  {
+    "session_label": "fast_update_2",
+    "net_type": "fast",
+    "timestamp": 1772999242.4229681
+  },
+  {
+    "session_label": "fast_update_3",
+    "net_type": "fast",
+    "timestamp": 1772999469.250782
+  },
+  {
+    "session_label": "heartbeat_neural-dreamer",
+    "net_type": "slow",
+    "timestamp": 1773000624.042042
+  },
+  {
+    "session_label": "fast_update_4",
+    "net_type": "fast",
+    "timestamp": 1773001354.3416462
+  },
+  {
+    "session_label": "fast_update_5",
+    "net_type": "fast",
+    "timestamp": 1773001834.23652
+  },
+  {
+    "session_label": "fast_update_6",
+    "net_type": "fast",
+    "timestamp": 1773002341.275251
+  },
+  {
+    "session_label": "fast_update_7",
+    "net_type": "fast",
+    "timestamp": 1773027273.347691
+  },
+  {
+    "session_label": "fast_update_8",
+    "net_type": "fast",
+    "timestamp": 1773027907.840302
+  }
+]

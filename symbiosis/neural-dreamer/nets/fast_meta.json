@@ -1,0 +1,13 @@
+{
+  "created_at": 1773027907.838945,
+  "update_count": 8,
+  "session_label": "",
+  "config": {
+    "input_dim": 15,
+    "hidden_dim": 32,
+    "num_layers": 3,
+    "output_dim": 12,
+    "learning_rate": 0.01,
+    "weight_decay": 0.0
+  }
+}

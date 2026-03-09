@@ -1,0 +1,13 @@
+{
+  "created_at": 1773000624.0415099,
+  "update_count": 2,
+  "session_label": "heartbeat_neural-dreamer",
+  "config": {
+    "input_dim": 12,
+    "hidden_dim": 64,
+    "num_layers": 5,
+    "output_dim": 11,
+    "learning_rate": 0.001,
+    "weight_decay": 0.01
+  }
+}
