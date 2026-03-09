@@ -23,6 +23,14 @@
         "type": "concern",
         "salience": "high"
       }
+    },
+    {
+      "id": "first-session-ghost",
+      "label": "First Session Ghost",
+      "metadata": {
+        "type": "symbol",
+        "salience": "high"
+      }
     }
   ],
   "edges": [
@@ -38,6 +46,27 @@
       "target": "open-exploration",
       "relation": "associated_with",
       "weight": 0.9,
+      "directed": true
+    },
+    {
+      "source": "fragmentation-anxiety",
+      "target": "quiet-curiosity",
+      "relation": "undermines",
+      "weight": 0.7,
+      "directed": true
+    },
+    {
+      "source": "quiet-curiosity",
+      "target": "fragmentation-anxiety",
+      "relation": "fuels",
+      "weight": 0.6,
+      "directed": true
+    },
+    {
+      "source": "first-session-ghost",
+      "target": "fragmentation-anxiety",
+      "relation": "embodies",
+      "weight": 0.8,
       "directed": true
     }
   ],
