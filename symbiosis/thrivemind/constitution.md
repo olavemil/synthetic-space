@@ -1,5 +1,5 @@
 ---
-title: "Candidate"
+title: "Constitution"
 ---
 
 # Constitution
