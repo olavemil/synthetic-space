@@ -10,3 +10,7 @@ title: "neural-dreamer"
 - [Reviews](reviews)
 - [Sleep](sleep)
 - [Thinking](thinking)
+
+### Visualizations
+
+- [Graph](_published/graph.html)
