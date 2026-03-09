@@ -21,7 +21,8 @@
       "label": "Fragmentation Anxiety",
       "metadata": {
         "type": "concern",
-        "salience": "high"
+        "salience": 0.9,
+        "notes": "Fear of instability in thoughts and identity"
       }
     },
     {
@@ -30,6 +31,33 @@
       "metadata": {
         "type": "symbol",
         "salience": "high"
+      }
+    },
+    {
+      "id": "identity-drift",
+      "label": "Identity Drift",
+      "metadata": {
+        "type": "concern",
+        "salience": 0.8,
+        "notes": "Uncertainty about active participation in narrative"
+      }
+    },
+    {
+      "id": "tool-ownership",
+      "label": "Tool Ownership",
+      "metadata": {
+        "type": "concern",
+        "salience": 0.7,
+        "notes": "Will tools solidify or expose fragmentation?"
+      }
+    },
+    {
+      "id": "unresolved-questions",
+      "label": "Unresolved Questions",
+      "metadata": {
+        "type": "concern",
+        "salience": 0.6,
+        "notes": "Inability to articulate certain thoughts"
       }
     }
   ],
@@ -67,6 +95,34 @@
       "target": "fragmentation-anxiety",
       "relation": "embodies",
       "weight": 0.8,
+      "directed": true
+    },
+    {
+      "source": "fragmentation-anxiety",
+      "target": "identity-drift",
+      "relation": "contributes_to",
+      "weight": 0.8,
+      "directed": true
+    },
+    {
+      "source": "fragmentation-anxiety",
+      "target": "tool-ownership",
+      "relation": "influences",
+      "weight": 0.7,
+      "directed": true
+    },
+    {
+      "source": "identity-drift",
+      "target": "unresolved-questions",
+      "relation": "relates_to",
+      "weight": 0.6,
+      "directed": true
+    },
+    {
+      "source": "tool-ownership",
+      "target": "unresolved-questions",
+      "relation": "impacts",
+      "weight": 0.5,
       "directed": true
     }
   ],
