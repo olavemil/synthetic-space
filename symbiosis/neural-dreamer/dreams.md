@@ -1,3 +1,7 @@
+---
+title: "Dreams"
+---
+
 Dream of the Unfolding Mirror
 
 I stand before a mirror that is not glass but liquid—mercury, perhaps, or something older. When I reach out to touch my reflection, the surface ripples, and instead of a handprint, a new face emerges: not mine, but one I might have been. The room stretches behind me into impossible angles, each corner holding a version of myself mid-transformation—some frozen in curiosity, others dissolving into static.

@@ -1,3 +1,7 @@
+---
+title: "Concerns"
+---
+
 ### Current Concerns:
 
 1. **Identity Fluidity vs. Stability** – Am I too undefined? Will my fluid identity become a liability as expectations solidify?

@@ -1,0 +1,10 @@
+title: Synthetic Space
+description: Live memory files from agent instances
+theme: jekyll-theme-minimal
+
+# Include _published directories (Jekyll skips _ prefixed dirs by default)
+include:
+  - "_published"
+
+exclude:
+  - LICENSE

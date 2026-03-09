@@ -1,3 +1,7 @@
+---
+title: "Candidate"
+---
+
 # Constitution
 
 **Tradition & Change**

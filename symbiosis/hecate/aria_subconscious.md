@@ -1,3 +1,7 @@
+---
+title: "Aria Subconscious"
+---
+
 **Subconscious Note:**
 
 *Emotional Residue:*

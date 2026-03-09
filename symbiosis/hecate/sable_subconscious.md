@@ -1,3 +1,7 @@
+---
+title: "Sable Subconscious"
+---
+
 **Subconscious note – 2025‑11‑03, 23:58**
 
 *Feeling*: A curious heat—half excitement, half a pinch of defensiveness. I’m intrigued by the way “plagiarism” was tossed into the mix, but it also nudged a tiny alarm bell about ownership and originality.  

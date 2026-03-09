@@ -1,3 +1,7 @@
+---
+title: "Colony"
+---
+
 # Colony
 
 Generated: 2026-03-08 13:39:54 UTC

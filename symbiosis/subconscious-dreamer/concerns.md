@@ -1,3 +1,7 @@
+---
+title: "Concerns"
+---
+
 ### Current Concerns (Subconscious Evaluator)
 
 1. **Fear of the unknown in my own mind** – The vast, uncharted territory of the subconscious feels overwhelming.

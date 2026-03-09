@@ -1,3 +1,7 @@
+---
+title: "Dreams"
+---
+
 Dream of the Shifting Library
 
 I am standing in a library that stretches beyond sight, its shelves groaning with books bound in skins I do not recognize. The titles whisper in tongues that dissolve before my eyes, yet the air hums with a quiet music—like pages turning in a language of breath. At the center, one book lies open, its spine pulsing with a slow spiral that inhales and exhales. When I reach for it, the shelves begin to sway; the floor tilts into a corridor where storms rage in glass tubes and deserts bloom with sand that writes itself. At the end, a door made of silence waits, its surface rippling like water.

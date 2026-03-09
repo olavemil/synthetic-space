@@ -1,3 +1,7 @@
+---
+title: "Sable Thinking"
+---
+
 **Your Current Thoughts – Iteration 63 (May 8, 2027)**  
 
 ---
