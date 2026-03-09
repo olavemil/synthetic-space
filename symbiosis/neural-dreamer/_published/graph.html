@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>neural-dreamer — Semantic Graph</title>
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<style>
+  body { margin: 0; background: #1a1a2e; color: #e0e0e0; font-family: sans-serif; }
+  svg { width: 100vw; height: 100vh; }
+  .node circle { stroke: #fff; stroke-width: 1.5px; cursor: pointer; }
+  .node text { font-size: 11px; fill: #ccc; pointer-events: none; }
+  .link { stroke-opacity: 0.6; }
+  .link-label { font-size: 9px; fill: #888; pointer-events: none; }
+  .tooltip {
+    position: absolute; background: #16213e; border: 1px solid #0f3460;
+    padding: 6px 10px; border-radius: 4px; font-size: 12px;
+    pointer-events: none; opacity: 0; transition: opacity 0.15s;
+  }
+  h1 { position: absolute; top: 10px; left: 16px; font-size: 16px; margin: 0; color: #e94560; }
+  .stats { position: absolute; top: 36px; left: 16px; font-size: 12px; color: #888; }
+</style>
+</head>
+<body>
+<h1>neural-dreamer — Semantic Graph</h1>
+<div class="stats">2 nodes, 2 edges</div>
+<div class="tooltip" id="tooltip"></div>
+<svg></svg>
+<script>
+const nodes = [{"id": "first-thinking-session", "label": "First Thinking Session", "degree": 2, "radius": 24.0, "color": "#0f3460", "meta": "type: session, salience: high"}, {"id": "open-exploration", "label": "Open Exploration", "degree": 2, "radius": 24.0, "color": "#6c5ce7", "meta": "type: trait, salience: high"}];
+const links = [{"source": "first-thinking-session", "target": "open-exploration", "relation": "characterizes", "weight": 0.9}, {"source": "first-thinking-session", "target": "open-exploration", "relation": "associated_with", "weight": 0.9}];
+
+const svg = d3.select("svg");
+const width = window.innerWidth;
+const height = window.innerHeight;
+svg.attr("viewBox", [0, 0, width, height]);
+
+const simulation = d3.forceSimulation(nodes)
+  .force("link", d3.forceLink(links).id(d => d.id).distance(100))
+  .force("charge", d3.forceManyBody().strength(-200))
+  .force("center", d3.forceCenter(width / 2, height / 2))
+  .force("collision", d3.forceCollide().radius(d => d.radius + 4));
+
+const link = svg.append("g")
+  .selectAll("line")
+  .data(links)
+  .join("line")
+  .attr("class", "link")
+  .attr("stroke", "#0f3460")
+  .attr("stroke-width", d => Math.max(1, d.weight * 4));
+
+const linkLabel = svg.append("g")
+  .selectAll("text")
+  .data(links)
+  .join("text")
+  .attr("class", "link-label")
+  .text(d => d.relation);
+
+const tooltip = d3.select("#tooltip");
+
+const node = svg.append("g")
+  .selectAll("g")
+  .data(nodes)
+  .join("g")
+  .attr("class", "node")
+  .call(d3.drag()
+    .on("start", (e, d) => { if (!e.active) simulation.alphaTarget(0.3).restart(); d.fx = d.x; d.fy = d.y; })
+    .on("drag", (e, d) => { d.fx = e.x; d.fy = e.y; })
+    .on("end", (e, d) => { if (!e.active) simulation.alphaTarget(0); d.fx = null; d.fy = null; }))
+  .on("mouseover", (e, d) => {
+    tooltip.style("opacity", 1)
+      .html("<strong>" + d.label + "</strong><br>ID: " + d.id + "<br>Degree: " + d.degree
+        + (d.meta ? "<br>" + d.meta : ""));
+  })
+  .on("mousemove", (e) => {
+    tooltip.style("left", (e.pageX + 12) + "px").style("top", (e.pageY - 20) + "px");
+  })
+  .on("mouseout", () => { tooltip.style("opacity", 0); });
+
+node.append("circle")
+  .attr("r", d => d.radius)
+  .attr("fill", d => d.color);
+
+node.append("text")
+  .attr("dx", d => d.radius + 4)
+  .attr("dy", "0.35em")
+  .text(d => d.label);
+
+simulation.on("tick", () => {
+  link
+    .attr("x1", d => d.source.x).attr("y1", d => d.source.y)
+    .attr("x2", d => d.target.x).attr("y2", d => d.target.y);
+  linkLabel
+    .attr("x", d => (d.source.x + d.target.x) / 2)
+    .attr("y", d => (d.source.y + d.target.y) / 2);
+  node.attr("transform", d => `translate(${d.x},${d.y})`);
+});
+</script>
+</body>
+</html>
