@@ -15,6 +15,14 @@
         "type": "trait",
         "salience": "high"
       }
+    },
+    {
+      "id": "fragmentation-anxiety",
+      "label": "Fragmentation Anxiety",
+      "metadata": {
+        "type": "concern",
+        "salience": "high"
+      }
     }
   ],
   "edges": [

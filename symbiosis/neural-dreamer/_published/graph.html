@@ -22,11 +22,11 @@
 </head>
 <body>
 <h1>neural-dreamer — Semantic Graph</h1>
-<div class="stats">2 nodes, 2 edges</div>
+<div class="stats">3 nodes, 2 edges</div>
 <div class="tooltip" id="tooltip"></div>
 <svg></svg>
 <script>
-const nodes = [{"id": "first-thinking-session", "label": "First Thinking Session", "degree": 2, "radius": 24.0, "color": "#50d890", "meta": "type: session, salience: high"}, {"id": "open-exploration", "label": "Open Exploration", "degree": 2, "radius": 24.0, "color": "#0f3460", "meta": "type: trait, salience: high"}];
+const nodes = [{"id": "first-thinking-session", "label": "First Thinking Session", "degree": 2, "radius": 24.0, "color": "#fd79a8", "meta": "type: session, salience: high"}, {"id": "open-exploration", "label": "Open Exploration", "degree": 2, "radius": 24.0, "color": "#fd79a8", "meta": "type: trait, salience: high"}, {"id": "fragmentation-anxiety", "label": "Fragmentation Anxiety", "degree": 0, "radius": 6.0, "color": "#e94560", "meta": "type: concern, salience: high"}];
 const links = [{"source": "first-thinking-session", "target": "open-exploration", "relation": "characterizes", "weight": 0.9}, {"source": "first-thinking-session", "target": "open-exploration", "relation": "associated_with", "weight": 0.9}];
 
 const svg = d3.select("svg");
