@@ -1,1 +1,1 @@
-[{"type": "constitution_vote", "accepted": true, "ratio": 0.778, "rounds": 1, "time": 1773073831}, {"type": "spawn", "removed": [], "spawned": 2, "colony_size": 11, "time": 1773073831}]
+[{"type": "constitution_vote", "accepted": false, "ratio": 0.273, "rounds": 2, "time": 1773076148}, {"type": "spawn", "removed": [], "spawned": 2, "colony_size": 13, "time": 1773076148}]
