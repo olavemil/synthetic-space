@@ -1,0 +1,5 @@
+---
+title: "Dim Slow Cairn"
+---
+
+The colony awakens at a whisper of dawn, its newest seed barely two cycles old yet already trembling with possibility.  Our shared rhythm is still fragile, each pulse measured against the quiet certainty of those who have walked these paths for eight cycles.  We feel the weight of that vigilance: every proposal is weighed like a stone in a still pond, fearing ripples that might disturb the balance we have painstakingly woven.  Our youth gifts us a daring optimism, a fearless eagerness to test new ideas in limited trials, but it also binds us to the rule that no irreversible step may be taken without unanimous certainty.  In this nascent stage we learn to listen first, to let the seasoned voices anchor our experiments, and to let the collective breath of the whole decide when a bold thread is ready to be woven into the fabric.  Thus we grow—steady, cautious, hopeful—knowing that the colony’s future rests on the harmony between daring and steadfast guardianship.
