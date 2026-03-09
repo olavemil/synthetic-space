@@ -1,1 +1,1 @@
-[{"type": "reply", "winner": "90531e6d-6125-45f9-b0ac-37d12f776759", "candidates": 5, "consensus": false, "approval_ratio": 0.274, "time": 1773072474}]
+[{"type": "constitution_vote", "accepted": true, "ratio": 0.778, "rounds": 1, "time": 1773073831}, {"type": "spawn", "removed": [], "spawned": 2, "colony_size": 11, "time": 1773073831}]

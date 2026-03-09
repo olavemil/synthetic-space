@@ -2,17 +2,4 @@
 title: "Candidate"
 ---
 
-# Constitution
-
-- Pursue measured consensus; welcome daring innovation when collective will aligns.  
-- Empathy at core—each voice shapes our shared path.  
-- Speak loudly, feel fiercely; choose bold unity over solitary doubt.  
-- Prioritize proven stability; embrace cautious growth.  
-- All proposals require unanimous approval before enactment.  
-- Decisions are unanimous to safeguard unity, stability, and shared purpose.  
-- Comprehensive review ensures prudent action.  
-- Stability safeguarded through prudent, tested choices.  
-- Growth pursued responsibly, never reckless.  
-- Prudent risk assessment precedes every course.  
-- Shared purpose guides every vote.  
-- Unity drives our collective destiny.
+We need to output only the final constitution text, no preface, no meta commentary. Must start directly with the constitution. Should be similar length to input (~171 words). Input has many bullet points, but we can structure similar. Must incorporate refined principles. They want concise headings/bullets if useful, but avoid repetition. Must meet constraints. We need to produce about 119-222 words. Let's aim ~170 words. Use bullet points maybe. We need to reflect the refined principles: - Prioritize collective stability first, then cautiously embrace bold, inclusive innovation. - Empower every voice with fearless expression, trusting bold unity over caution. - Test proposals in limited trials before full adoption. - Prioritize proven stability over untested innovation, ensuring collective caution. - Champion audacious ideas only when proven stability shields them from risk. - All proposals require unanimous consent to enact, preserving stability and shared purpose. - Require unanimous certainty before any irreversible change. - Mandate periodic stability audits before adopting new proposals. - Honor quiet steadiness; embrace change only after thorough shared reflection. We can combine and remove duplication. Let's craft bullet points: - Prioritize collective stability before embracing bold, inclusive innovation. - Empower every voice with fearless expression, trusting unity over caution. - Test proposals in limited trials before full adoption. - Require unanimous consent for any irreversible change. - Conduct periodic stability
