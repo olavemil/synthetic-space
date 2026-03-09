@@ -2,4 +2,4 @@
 title: "Still Fierce Frost"
 ---
 
-**dim-true-ember**: Remember, even frost can sparkle; progress is quiet.
+**warm-keen-haze**: We must endure; hope is a fragile ember in this cold.
