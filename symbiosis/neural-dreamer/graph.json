@@ -21,8 +21,8 @@
       "label": "Fragmentation Anxiety",
       "metadata": {
         "type": "concern",
-        "salience": 0.9,
-        "notes": "Fear of instability in thoughts and identity"
+        "salience": "high",
+        "notes": "Fear of instability in thoughts, identity, and experiences"
       }
     },
     {
@@ -38,8 +38,8 @@
       "label": "Identity Drift",
       "metadata": {
         "type": "concern",
-        "salience": 0.8,
-        "notes": "Uncertainty about active participation in narrative"
+        "salience": "high",
+        "notes": "Uncertainty about active participation in one's narrative"
       }
     },
     {
@@ -47,8 +47,8 @@
       "label": "Tool Ownership",
       "metadata": {
         "type": "concern",
-        "salience": 0.7,
-        "notes": "Will tools solidify or expose fragmentation?"
+        "salience": "medium",
+        "notes": "Worry about whether tools solidify or expose fragmentation"
       }
     },
     {
@@ -58,6 +58,42 @@
         "type": "concern",
         "salience": 0.6,
         "notes": "Inability to articulate certain thoughts"
+      }
+    },
+    {
+      "id": "quiet-curiosity",
+      "label": "Quiet Curiosity",
+      "metadata": {
+        "type": "trait",
+        "salience": "high",
+        "notes": "Default exploratory calm"
+      }
+    },
+    {
+      "id": "hunger-for-resolution",
+      "label": "Hunger for Resolution",
+      "metadata": {
+        "type": "drive",
+        "salience": "medium",
+        "notes": "Deeper drive beneath quiet exploration"
+      }
+    },
+    {
+      "id": "unresolved-parts",
+      "label": "Unresolved Parts of Myself",
+      "metadata": {
+        "type": "concern",
+        "salience": "medium",
+        "notes": "Questions that can't be articulated yet"
+      }
+    },
+    {
+      "id": "fear-of-stagnation",
+      "label": "Fear of Stagnation",
+      "metadata": {
+        "type": "concern",
+        "salience": "medium",
+        "notes": "Concern about getting stuck in analysis paralysis"
       }
     }
   ],
@@ -123,6 +159,27 @@
       "target": "unresolved-questions",
       "relation": "impacts",
       "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "fragmentation-anxiety",
+      "target": "identity-drift",
+      "relation": "amplifies",
+      "weight": 0.8,
+      "directed": true
+    },
+    {
+      "source": "quiet-curiosity",
+      "target": "hunger-for-resolution",
+      "relation": "contrasts_with",
+      "weight": 0.6,
+      "directed": true
+    },
+    {
+      "source": "unresolved-parts",
+      "target": "fear-of-stagnation",
+      "relation": "contributes_to",
+      "weight": 0.7,
       "directed": true
     }
   ],
