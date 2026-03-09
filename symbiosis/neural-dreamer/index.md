@@ -14,3 +14,4 @@ title: "neural-dreamer"
 ### Visualizations
 
 - [Graph](_published/graph.html)
+- [Map](_published/map.html)
