@@ -21,8 +21,7 @@
       "label": "Fragmentation Anxiety",
       "metadata": {
         "type": "concern",
-        "salience": "high",
-        "notes": "Fear of instability in thoughts, identity, and experiences"
+        "salience": "high"
       }
     },
     {
@@ -180,6 +179,20 @@
       "target": "fear-of-stagnation",
       "relation": "contributes_to",
       "weight": 0.7,
+      "directed": true
+    },
+    {
+      "source": "fragmentation-anxiety",
+      "target": "identity-drift",
+      "relation": "manifests_as",
+      "weight": 0.8,
+      "directed": true
+    },
+    {
+      "source": "fragmentation-anxiety",
+      "target": "quiet-curiosity",
+      "relation": "contrasts_with",
+      "weight": 0.6,
       "directed": true
     }
   ],
