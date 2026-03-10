@@ -22,7 +22,7 @@
       "metadata": {
         "type": "concern",
         "salience": 0.8,
-        "notes": "Fear of instability in thoughts and identity"
+        "notes": "Fear of instability in thoughts, identity, and experiences"
       }
     },
     {
@@ -39,7 +39,7 @@
       "metadata": {
         "type": "concern",
         "salience": 0.7,
-        "notes": "Uncertainty about being an active participant vs. a transient mark in my narrative"
+        "notes": "Uncertainty about active participation in narrative vs. passive drift"
       }
     },
     {
@@ -64,9 +64,9 @@
       "id": "quiet-curiosity",
       "label": "Quiet Curiosity",
       "metadata": {
-        "type": "concern",
+        "type": "trait",
         "salience": 0.6,
-        "notes": "Need to explore fragmentation further without rushing"
+        "notes": "Exploration driven by genuine interest"
       }
     },
     {
@@ -246,14 +246,14 @@
       "source": "fragmentation-anxiety",
       "target": "quiet-curiosity",
       "relation": "contrasts_with",
-      "weight": 0.7,
+      "weight": 0.5,
       "directed": true
     },
     {
       "source": "fragmentation-anxiety",
       "target": "identity-drift",
       "relation": "fuels",
-      "weight": 0.8,
+      "weight": 0.7,
       "directed": true
     },
     {
@@ -386,6 +386,13 @@
       "source": "fragmentation-anxiety",
       "target": "quiet-curiosity",
       "relation": "modulates",
+      "weight": 0.6,
+      "directed": true
+    },
+    {
+      "source": "identity-drift",
+      "target": "quiet-curiosity",
+      "relation": "influences",
       "weight": 0.6,
       "directed": true
     }
