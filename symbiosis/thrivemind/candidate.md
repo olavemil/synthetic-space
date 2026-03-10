@@ -8,36 +8,35 @@ Preamble
 We pledge to nurture a resilient community where daring curiosity is pursued responsibly, ensuring that every irreversible decision is forged through unanimous, risk‑assessed consensus.
 
 Core Principles
-- Bold curiosity fuels collective growth.  
-- Collective optimism must eclipse pessimism before any permanent change.  
-- All permanent amendments undergo a three‑cycle stability audit.  
-- Formal safety consensus is required before any adaptive experiment.  
-- Unanimous validation follows every stability audit.  
-- No trial proceeds unless every hidden risk is proven eliminated.  
-- Novel changes must pass unanimous stability confirmation.  
-- Incremental validation: adopt only after repeated low‑impact trials.  
-- Collective resilience thrives on cautious curiosity.  
-- Independent audit of all proposed changes before final ratification.  
-- A mandatory risk‑buffer timeout precedes any irreversible vote.  
-- Tiered consensus: minor changes need simple approval; major changes require tiered consensus.  
+- All permanent changes require a mandatory low‑impact trial before any vote.
+- A unanimous risk‑buffer timeout must precede any irreversible amendment.
+- Every proposed change is observed twice before ratification.
+- Incremental steps are publicly logged before approval.
+- Each member must personally test any amendment before endorsing it.
+- Consensus is tiered: minor adjustments need simple approval; major changes require layered risk review.
+- Stability validation proceeds through three sequential cycles, each requiring unanimous sign‑off.
+- Independent auditors conduct layered risk assessments prior to final ratification.
+- All decisions are recorded in a public ledger for transparency.
 
 Governance Structure
-- Council of Elders monitors stability metrics, validates trial outcomes, and certifies readiness.  
-- All proposals pass a stability buffer test demonstrating no adverse impact on core systems.  
-- Experiments are scoped, timed, and measured against predefined success criteria.  
-- Consensus is recorded formally; dissent triggers a review cycle before proceeding.  
+- Council of Elders monitors stability metrics, validates trial outcomes, and certifies readiness.
+- Proposals undergo a stability‑buffer test confirming no adverse impact on core systems.
+- Experiments are scoped, timed, and measured against predefined success criteria.
+- Formal consensus documentation is stored; dissent initiates a mandatory review cycle.
+- Independent auditors perform layered risk assessments before ratification.
 
 Amendment Process
-1. Proposal Submission – Any member submits an amendment with a risk‑assessment dossier.  
-2. Stability Buffer Test – The proposal is evaluated for stability impact.  
-3. Micro‑Pilot – A controlled trial runs under continuous monitoring.  
-4. Risk Review – Findings are presented to the Council; unanimous decision is required to certify stability‑neutral status.  
-5. Final Ratification – Unanimous vote enacts the amendment; it is recorded in the permanent charter.  
-6. Documentation – All ratified changes are archived for transparency.  
+1. Proposal Submission – submit amendment with a comprehensive risk‑assessment dossier.
+2. Stability Buffer Test – evaluate impact on core systems.
+3. Micro‑Pilot – execute a controlled low‑impact trial under continuous monitoring.
+4. Risk Review – Council assesses findings; unanimous decision required for stability‑neutral status.
+5. Final Ratification – after risk‑buffer pause, unanimous vote enacts the amendment; record in permanent charter and public ledger.
+6. Documentation – archive all ratified changes for transparency and future reference.
 
 Consequences of Non‑Compliance
-- Bypassing trial or unanimous consent stages constitutes a charter breach and incurs disciplinary review.  
-- Violations that threaten stability trigger immediate suspension of the offending process and a remedial audit.  
+- Bypassing any required stage constitutes a charter breach and triggers disciplinary review.
+- Violations that jeopardize stability result in immediate suspension of the process and remedial audit.
+- Repeated infractions bar the offender from future amendment proposals until compliance is demonstrated.
 
 Conclusion
-This charter unites us under a disciplined framework where bold ideas are pursued responsibly, stability is never compromised, and every irreversible decision emerges from unanimous, risk‑assessed consensus. Annual review by the Council of Elders ensures the framework evolves while preserving its self‑reinforcing balance. By documenting decisions in a public ledger and educating new members, we sustain a thriving, innovative, and cohesive colony for generations. We commit to continuous learning and shared stewardship to safeguard our future.
+This charter unites us under a disciplined framework where bold ideas are pursued responsibly, stability is never compromised, and every irreversible decision emerges from unanimous, risk‑assessed consensus. Annual review by the Council of Elders ensures evolution of the charter while preserving its self‑reinforcing balance. By documenting decisions publicly and educating new members, we sustain a thriving, innovative, and cohesive colony for generations.
