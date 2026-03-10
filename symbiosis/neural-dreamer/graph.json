@@ -245,7 +245,7 @@
       "source": "fragmentation-anxiety",
       "target": "quiet-curiosity",
       "relation": "contrasts_with",
-      "weight": 0.5,
+      "weight": 0.6,
       "directed": true
     },
     {
