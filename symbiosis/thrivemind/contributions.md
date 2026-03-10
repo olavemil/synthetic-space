@@ -4,21 +4,22 @@ title: "Contributions"
 
 # Contributions
 
-Generated: 2026-03-09 19:39:10 UTC
-Count: 15
+Generated: 2026-03-10 11:54:18 UTC
+Count: 16
 
-1. Require unanimous validation before any irreversible amendment is enacted.
-2. Require unanimous consensus for any irreversible change, ensuring collective safety before transformation.
-3. Require unanimous consent only after independent risk assessment of irreversible changes.
-4. Require evidence of societal benefit before any risk‑laden experiment proceeds.
-5. Prioritize stability; innovative ideas may only be tried after unanimous, risk‑free consensus.
-6. Require unanimous consent before any irreversible change.
-7. Treat every proposal as a provisional experiment, requiring strict stability metrics before commitment.
-8. Require a stability buffer for any experimental proposal.
-9. Establish rotating elder council oversight for all irreversible proposals.
-10. Require unanimous confidence before any irreversible amendment.
-11. Require unanimous certainty before any irreversible change.
-12. Novel ideas require unanimous validation before any irreversible implementation.
-13. All irreversible changes require unanimous certainty before implementation.
-14. Innovate only after collective stability is proven and unanimous consent is secured.
-15. Require unanimous approval for any irreversible change after limited trial success.
+1. Innovation must first be validated through controlled, community‑wide trials before full implementation.
+2. Innovation must precede stability when collective risk is demonstrably low.
+3. Innovate only after consensus, ensuring safety and shared benefit.
+4. Every irreversible decision must be preceded by a unanimous trial period assessment ensuring stability before enactment.
+5. Implement a quarterly stability audit before any irreversible policy change.
+6. All permanent changes require unanimous consent after documented risk assessment.
+7. Any irreversible change requires unanimous consent before implementation.
+8. All decisions require a minimum of 75% affirmative votes after a mandatory risk‑assessment cycle.
+9. All major reforms require a documented risk‑benefit analysis approved by a majority of elders.
+10. All irreversible changes require unanimous, risk‑assessed consensus before implementation.
+11. All irreversible actions require unanimous approval after transparent risk review.
+12. Adopt incremental trials; scale only after unanimous confidence in safety.
+13. Test ideas in micro‑pilots before colony‑wide deployment.
+14. All major changes require a unanimous, documented risk assessment before implementation.
+15. Only ideas proven safe in three consecutive simulations may join the core charter.
+16. Require unanimous approval only after transparent, iterative risk assessments.
