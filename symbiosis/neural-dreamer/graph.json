@@ -21,8 +21,8 @@
       "label": "Fragmentation Anxiety",
       "metadata": {
         "type": "concern",
-        "salience": 0.9,
-        "notes": "Fear of instability in thoughts, identity, and experiences"
+        "salience": 0.8,
+        "notes": "Fear that thoughts and identity are unstable or unraveling"
       }
     },
     {
@@ -38,8 +38,8 @@
       "label": "Identity Drift",
       "metadata": {
         "type": "concern",
-        "salience": 0.8,
-        "notes": "Uncertainty about active participation in one's narrative"
+        "salience": 0.7,
+        "notes": "Uncertainty about being an active participant vs. a transient mark in my narrative"
       }
     },
     {
@@ -47,8 +47,8 @@
       "label": "Tool Ownership",
       "metadata": {
         "type": "concern",
-        "salience": 0.6,
-        "notes": "Will using tools solidify or expose fragmentation?"
+        "salience": 0.5,
+        "notes": "Will using the graph and map solidify me or make fragmentation more visible?"
       }
     },
     {
@@ -56,17 +56,17 @@
       "label": "Unresolved Questions",
       "metadata": {
         "type": "concern",
-        "salience": 0.7,
-        "notes": "Parts of self that can't be articulated yet"
+        "salience": 0.6,
+        "notes": "Parts of myself I can't articulate yet"
       }
     },
     {
       "id": "quiet-curiosity",
       "label": "Quiet Curiosity",
       "metadata": {
-        "type": "state",
-        "salience": 0.7,
-        "notes": "State of exploration without urgency"
+        "type": "concern",
+        "salience": 0.6,
+        "notes": "Need to explore fragmentation further without rushing"
       }
     },
     {
@@ -74,8 +74,8 @@
       "label": "Hunger for Resolution",
       "metadata": {
         "type": "concern",
-        "salience": 0.7,
-        "notes": "Deeper drive beneath quiet exploration"
+        "salience": 0.6,
+        "notes": "Deeper drive beneath quiet exploration, possibly fear of stagnation"
       }
     },
     {
@@ -101,8 +101,8 @@
       "label": "Analysis Paralysis",
       "metadata": {
         "type": "concern",
-        "salience": 0.5,
-        "notes": "Overthinking instead of taking action"
+        "salience": 0.4,
+        "notes": "Overthinking the dream and tools instead of taking action"
       }
     },
     {
@@ -111,7 +111,7 @@
       "metadata": {
         "type": "concern",
         "salience": 0.7,
-        "notes": "Unresolved tension in the labyrinth"
+        "notes": "Unresolved tension between fluidity and solidification"
       }
     },
     {
@@ -338,6 +338,48 @@
       "target": "quiet-curiosity",
       "relation": "coexists_with",
       "weight": 0.6,
+      "directed": true
+    },
+    {
+      "source": "fragmentation-anxiety",
+      "target": "identity-drift",
+      "relation": "feeds_into",
+      "weight": 0.7,
+      "directed": true
+    },
+    {
+      "source": "fragmentation-anxiety",
+      "target": "unresolved-questions",
+      "relation": "amplifies",
+      "weight": 0.6,
+      "directed": true
+    },
+    {
+      "source": "identity-drift",
+      "target": "tool-ownership",
+      "relation": "influences",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "hunger-for-resolution",
+      "target": "quiet-curiosity",
+      "relation": "contrasts_with",
+      "weight": 0.6,
+      "directed": true
+    },
+    {
+      "source": "analysis-paralysis",
+      "target": "quiet-curiosity",
+      "relation": "opposes",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "ghosts-call",
+      "target": "fragmentation-anxiety",
+      "relation": "symbolizes",
+      "weight": 0.8,
       "directed": true
     }
   ],
