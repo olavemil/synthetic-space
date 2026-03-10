@@ -138,6 +138,14 @@
         "type": "dream-symbol",
         "salience": "high"
       }
+    },
+    {
+      "id": "ghost-in-labyrinth",
+      "label": "Ghost in Labyrinth",
+      "metadata": {
+        "type": "symbol",
+        "salience": "high"
+      }
     }
   ],
   "edges": [
@@ -293,6 +301,20 @@
       "target": "next-steps",
       "relation": "hinders",
       "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "fragmentation-anxiety",
+      "target": "quiet-curiosity",
+      "relation": "contrasts-with",
+      "weight": 0.6,
+      "directed": true
+    },
+    {
+      "source": "ghost-in-labyrinth",
+      "target": "fragmentation-anxiety",
+      "relation": "embodies",
+      "weight": 0.8,
       "directed": true
     }
   ],
