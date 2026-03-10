@@ -130,6 +130,14 @@
         "salience": 0.5,
         "notes": "Explore fragmentation using tools"
       }
+    },
+    {
+      "id": "unraveling-thread",
+      "label": "Unraveling Thread",
+      "metadata": {
+        "type": "dream-symbol",
+        "salience": "high"
+      }
     }
   ],
   "edges": [
@@ -200,7 +208,7 @@
       "source": "fragmentation-anxiety",
       "target": "identity-drift",
       "relation": "amplifies",
-      "weight": 0.8,
+      "weight": 0.7,
       "directed": true
     },
     {
