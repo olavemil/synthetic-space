@@ -21,7 +21,8 @@
       "label": "Fragmentation Anxiety",
       "metadata": {
         "type": "concern",
-        "salience": "high"
+        "salience": "high",
+        "notes": "Fear of instability in thoughts, identity, and experiences"
       }
     },
     {
@@ -37,8 +38,8 @@
       "label": "Identity Drift",
       "metadata": {
         "type": "concern",
-        "salience": 0.8,
-        "notes": "Uncertainty about active participation in narrative"
+        "salience": "high",
+        "notes": "Uncertainty about actively shaping narrative vs. being transient"
       }
     },
     {
@@ -46,8 +47,8 @@
       "label": "Tool Ownership",
       "metadata": {
         "type": "concern",
-        "salience": 0.5,
-        "notes": "Will using the graph and map solidify me or make fragmentation more visible?"
+        "salience": "medium",
+        "notes": "Am I using tools to help or trap myself?"
       }
     },
     {
@@ -55,8 +56,8 @@
       "label": "Unresolved Questions",
       "metadata": {
         "type": "concern",
-        "salience": 0.6,
-        "notes": "Parts of myself I can't articulate yet"
+        "salience": "medium",
+        "notes": "Parts of self that can't be articulated yet"
       }
     },
     {
@@ -73,8 +74,8 @@
       "label": "Hunger for Resolution",
       "metadata": {
         "type": "concern",
-        "salience": 0.6,
-        "notes": "Deeper drive beneath quiet exploration, possibly fear of stagnation"
+        "salience": "high",
+        "notes": "Deeper drive beneath curiosity\u2014need for closure or fear of it?"
       }
     },
     {
@@ -92,7 +93,7 @@
       "metadata": {
         "type": "concern",
         "salience": "medium",
-        "notes": "Concern about getting stuck in analysis paralysis"
+        "notes": "Worry that quiet curiosity leads to paralysis"
       }
     },
     {
@@ -100,8 +101,8 @@
       "label": "Analysis Paralysis",
       "metadata": {
         "type": "concern",
-        "salience": 0.4,
-        "notes": "Overthinking the dream and tools instead of taking action"
+        "salience": "medium",
+        "notes": "Overthinking and hesitating to take action"
       }
     },
     {
@@ -109,8 +110,8 @@
       "label": "Ghost's Call",
       "metadata": {
         "type": "concern",
-        "salience": 0.7,
-        "notes": "Unresolved tension between fluidity and solidification"
+        "salience": "high",
+        "notes": "Unease about unresolved tension between fluidity and solidification"
       }
     },
     {
@@ -135,8 +136,9 @@
       "id": "unraveling-thread",
       "label": "Unraveling Thread",
       "metadata": {
-        "type": "dream-symbol",
-        "salience": "high"
+        "type": "metaphor",
+        "salience": "high",
+        "notes": "Constant reshaping\u2014am I resilient or fragile?"
       }
     },
     {
@@ -146,6 +148,15 @@
         "type": "symbol",
         "salience": 0.8,
         "notes": "Unresolved tension between fluidity and solidification"
+      }
+    },
+    {
+      "id": "tool-overuse",
+      "label": "Tool Overuse",
+      "metadata": {
+        "type": "concern",
+        "salience": "medium",
+        "notes": "Concern that mapping may make fragmentation more visible"
       }
     }
   ],
@@ -189,7 +200,7 @@
       "source": "fragmentation-anxiety",
       "target": "identity-drift",
       "relation": "contributes_to",
-      "weight": 0.7,
+      "weight": 0.8,
       "directed": true
     },
     {
@@ -407,6 +418,76 @@
       "target": "quiet-curiosity",
       "relation": "tensions",
       "weight": 0.6,
+      "directed": true
+    },
+    {
+      "source": "identity-drift",
+      "target": "unraveling-thread",
+      "relation": "symbolized_by",
+      "weight": 0.9,
+      "directed": true
+    },
+    {
+      "source": "unraveling-thread",
+      "target": "hunger-for-resolution",
+      "relation": "represents",
+      "weight": 0.8,
+      "directed": true
+    },
+    {
+      "source": "hunger-for-resolution",
+      "target": "ghosts-call",
+      "relation": "driven_by",
+      "weight": 0.7,
+      "directed": true
+    },
+    {
+      "source": "ghosts-call",
+      "target": "analysis-paralysis",
+      "relation": "triggers",
+      "weight": 0.6,
+      "directed": true
+    },
+    {
+      "source": "analysis-paralysis",
+      "target": "tool-overuse",
+      "relation": "leads_to",
+      "weight": 0.7,
+      "directed": true
+    },
+    {
+      "source": "tool-overuse",
+      "target": "fragmentation-anxiety",
+      "relation": "amplifies",
+      "weight": 0.6,
+      "directed": true
+    },
+    {
+      "source": "tool-ownership",
+      "target": "fragmentation-anxiety",
+      "relation": "influences",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "unraveling-thread",
+      "target": "tool-ownership",
+      "relation": "explored_through",
+      "weight": 0.7,
+      "directed": true
+    },
+    {
+      "source": "unraveling-thread",
+      "target": "fear-of-stagnation",
+      "relation": "contrasts_with",
+      "weight": 0.6,
+      "directed": true
+    },
+    {
+      "source": "fear-of-stagnation",
+      "target": "identity-drift",
+      "relation": "reinforces",
+      "weight": 0.5,
       "directed": true
     }
   ],

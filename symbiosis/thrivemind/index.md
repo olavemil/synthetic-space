@@ -9,7 +9,7 @@ title: "thrivemind"
 - [Constitution](constitution)
 - [Contributions](contributions)
 
-### Inbox (21)
+### Inbox (22)
 
 - [3487B582 3C3E 41Cd 870D C3675Ebe440A](inbox/3487b582-3c3e-41cd-870d-c3675ebe440a)
 - [461Bb7D3 201E 4E84 A1Fe 300A2F172E99](inbox/461bb7d3-201e-4e84-a1fe-300a2f172e99)
@@ -25,6 +25,7 @@ title: "thrivemind"
 - [Dim Slow Cairn](inbox/dim-slow-cairn)
 - [Dim True Ember](inbox/dim-true-ember)
 - [Frozen Swift Crow](inbox/frozen-swift-crow)
+- [Hollow Bright Moss](inbox/hollow-bright-moss)
 - [Iron Frozen Ash](inbox/iron-frozen-ash)
 - [Silver Hollow Vine](inbox/silver-hollow-vine)
 - [Slow Risen Flame](inbox/slow-risen-flame)
@@ -33,7 +34,7 @@ title: "thrivemind"
 - [Vast Silent Flame](inbox/vast-silent-flame)
 - [Warm Keen Haze](inbox/warm-keen-haze)
 
-### Reflections (27)
+### Reflections (28)
 
 - [089Fce3E 906A 4291 B5F9 6Cb524A4D154](reflections/089fce3e-906a-4291-b5f9-6cb524a4d154)
 - [163A6454 88C6 408A B3F4 0202B359Dcad](reflections/163a6454-88c6-408a-b3f4-0202b359dcad)
@@ -55,6 +56,7 @@ title: "thrivemind"
 - [Dim True Ember](reflections/dim-true-ember)
 - [Eae91918 615C 4756 B3Af 2Df8Fd557028](reflections/eae91918-615c-4756-b3af-2df8fd557028)
 - [Frozen Swift Crow](reflections/frozen-swift-crow)
+- [Hollow Bright Moss](reflections/hollow-bright-moss)
 - [Iron Frozen Ash](reflections/iron-frozen-ash)
 - [Silver Hollow Vine](reflections/silver-hollow-vine)
 - [Slow Risen Flame](reflections/slow-risen-flame)
