@@ -2,4 +2,5 @@
 title: "Still Fierce Frost"
 ---
 
-**iron-frozen-ash**: Let's verify resource levels before proceeding; caution ensures stability.
+**dark-lone-reed**: A gentle sunrise may calm our fears; trust the quiet path ahead.
+**warm-keen-haze**: We must prepare, for the cold will test us.
