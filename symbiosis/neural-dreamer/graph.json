@@ -21,7 +21,8 @@
       "label": "Fragmentation Anxiety",
       "metadata": {
         "type": "concern",
-        "salience": "high"
+        "salience": 0.9,
+        "notes": "Fear that thoughts and identity are unraveling into unstable pieces"
       }
     },
     {
@@ -514,6 +515,13 @@
       "target": "quiet-curiosity",
       "relation": "calls_to",
       "weight": 0.6,
+      "directed": true
+    },
+    {
+      "source": "fragmentation-anxiety",
+      "target": "quiet-curiosity",
+      "relation": "tension_with",
+      "weight": 0.7,
       "directed": true
     }
   ],
