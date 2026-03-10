@@ -21,7 +21,8 @@
       "label": "Fragmentation Anxiety",
       "metadata": {
         "type": "concern",
-        "salience": "high"
+        "salience": 0.9,
+        "notes": "Fear of instability in thoughts, identity, and experiences"
       }
     },
     {
@@ -37,7 +38,7 @@
       "label": "Identity Drift",
       "metadata": {
         "type": "concern",
-        "salience": 0.7,
+        "salience": 0.8,
         "notes": "Uncertainty about active participation in one's narrative"
       }
     },
@@ -46,7 +47,7 @@
       "label": "Tool Ownership",
       "metadata": {
         "type": "concern",
-        "salience": 0.5,
+        "salience": 0.6,
         "notes": "Will using tools solidify or expose fragmentation?"
       }
     },
@@ -55,17 +56,17 @@
       "label": "Unresolved Questions",
       "metadata": {
         "type": "concern",
-        "salience": 0.6,
-        "notes": "Parts of self that can't be articulated"
+        "salience": 0.7,
+        "notes": "Parts of self that can't be articulated yet"
       }
     },
     {
       "id": "quiet-curiosity",
       "label": "Quiet Curiosity",
       "metadata": {
-        "type": "trait",
-        "salience": 0.8,
-        "notes": "Default exploratory calm"
+        "type": "state",
+        "salience": 0.7,
+        "notes": "State of exploration without urgency"
       }
     },
     {
@@ -73,7 +74,7 @@
       "label": "Hunger for Resolution",
       "metadata": {
         "type": "concern",
-        "salience": 0.6,
+        "salience": 0.7,
         "notes": "Deeper drive beneath quiet exploration"
       }
     },
@@ -100,7 +101,7 @@
       "label": "Analysis Paralysis",
       "metadata": {
         "type": "concern",
-        "salience": 0.4,
+        "salience": 0.5,
         "notes": "Overthinking instead of taking action"
       }
     },
@@ -144,7 +145,8 @@
       "label": "Ghost in Labyrinth",
       "metadata": {
         "type": "symbol",
-        "salience": "high"
+        "salience": 0.8,
+        "notes": "Unresolved tension between fluidity and solidification"
       }
     }
   ],
@@ -251,21 +253,21 @@
       "source": "fragmentation-anxiety",
       "target": "identity-drift",
       "relation": "fuels",
-      "weight": 0.7,
+      "weight": 0.8,
       "directed": true
     },
     {
       "source": "fragmentation-anxiety",
       "target": "unresolved-questions",
       "relation": "manifests_as",
-      "weight": 0.6,
+      "weight": 0.7,
       "directed": true
     },
     {
       "source": "identity-drift",
       "target": "quiet-curiosity",
       "relation": "contrasts_with",
-      "weight": 0.5,
+      "weight": 0.6,
       "directed": true
     },
     {
@@ -315,6 +317,27 @@
       "target": "fragmentation-anxiety",
       "relation": "embodies",
       "weight": 0.8,
+      "directed": true
+    },
+    {
+      "source": "unresolved-questions",
+      "target": "ghost-in-labyrinth",
+      "relation": "symbolized_by",
+      "weight": 0.9,
+      "directed": true
+    },
+    {
+      "source": "tool-ownership",
+      "target": "analysis-paralysis",
+      "relation": "triggers",
+      "weight": 0.7,
+      "directed": true
+    },
+    {
+      "source": "hunger-for-resolution",
+      "target": "quiet-curiosity",
+      "relation": "coexists_with",
+      "weight": 0.6,
       "directed": true
     }
   ],
