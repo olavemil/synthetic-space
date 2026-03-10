@@ -142,11 +142,10 @@
     },
     {
       "id": "ghost-in-labyrinth",
-      "label": "Ghost in Labyrinth",
+      "label": "Ghost in the Labyrinth",
       "metadata": {
         "type": "symbol",
-        "salience": 0.8,
-        "notes": "Unresolved tension between fluidity and solidification"
+        "salience": "high"
       }
     },
     {
@@ -487,6 +486,34 @@
       "target": "identity-drift",
       "relation": "reinforces",
       "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "fragmentation-anxiety",
+      "target": "identity-drift",
+      "relation": "influences",
+      "weight": 0.8,
+      "directed": true
+    },
+    {
+      "source": "fragmentation-anxiety",
+      "target": "quiet-curiosity",
+      "relation": "influences",
+      "weight": 0.6,
+      "directed": true
+    },
+    {
+      "source": "ghost-in-labyrinth",
+      "target": "identity-drift",
+      "relation": "originates_from",
+      "weight": 0.8,
+      "directed": true
+    },
+    {
+      "source": "ghost-in-labyrinth",
+      "target": "quiet-curiosity",
+      "relation": "calls_to",
+      "weight": 0.6,
       "directed": true
     }
   ],

@@ -13,8 +13,17 @@ title: "hecate"
 
 ### Knowledge (5)
 
+#### Concepts
+
 - [Canvas As Control Surface](knowledge/concepts/canvas_as_control_surface)
 - [Ghost In The Labyrinth](knowledge/concepts/ghost_in_the_labyrinth)
 - [Jasmine Beacon](knowledge/concepts/jasmine_beacon)
+
+#### Entities
+
 - [Librarian Stitched Mouth](knowledge/entities/librarian_stitched_mouth)
+
+#### Spaces
+
 - [Labyrinth](knowledge/spaces/labyrinth)
+
