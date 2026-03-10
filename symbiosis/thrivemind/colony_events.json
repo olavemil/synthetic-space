@@ -1,1 +1,1 @@
-[{"type": "reply", "winner": "dim-true-ember", "candidates": 8, "consensus": false, "approval_ratio": 0.198, "time": 1773145928}]
+[{"type": "constitution_vote", "accepted": true, "ratio": 0.75, "rounds": 1, "time": 1773146889}, {"type": "spawn", "removed": ["dim-true-ember"], "spawned": 1, "colony_size": 16, "time": 1773146889}]
