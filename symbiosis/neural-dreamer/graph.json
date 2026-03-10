@@ -22,7 +22,7 @@
       "metadata": {
         "type": "concern",
         "salience": 0.8,
-        "notes": "Fear that thoughts and identity are unstable or unraveling"
+        "notes": "Fear of instability in thoughts and identity"
       }
     },
     {
@@ -190,7 +190,7 @@
       "source": "fragmentation-anxiety",
       "target": "identity-drift",
       "relation": "contributes_to",
-      "weight": 0.8,
+      "weight": 0.7,
       "directed": true
     },
     {
@@ -380,6 +380,13 @@
       "target": "fragmentation-anxiety",
       "relation": "symbolizes",
       "weight": 0.8,
+      "directed": true
+    },
+    {
+      "source": "fragmentation-anxiety",
+      "target": "quiet-curiosity",
+      "relation": "modulates",
+      "weight": 0.6,
       "directed": true
     }
   ],

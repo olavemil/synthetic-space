@@ -4,22 +4,22 @@ title: "Contributions"
 
 # Contributions
 
-Generated: 2026-03-10 12:55:55 UTC
+Generated: 2026-03-10 13:18:50 UTC
 Count: 16
 
-1. All proposals must pass a mandatory low‑impact trial before any permanent vote.
-2. Every irreversible change requires a unanimous risk‑buffer timeout before voting.
-3. Never trust unseen futures; every change must be observed twice before ratification.
-4. Incremental changes require public logging before approval.
-5. Each amendment must be personally tested by every member before approval.
-6. All irreversible proposals require unanimous emotional consent after three pessimistic risk audits.
-7. Mandate layered risk review before permanent changes are ratified.
-8. Unanimous endorsement must precede any irreversible amendment, verified by transparent risk disclosure.
-9. Every irreversible choice must first pass a unanimous, three‑cycle risk audit.
-10. Require unanimous risk‑buffer pause before any permanent change.
-11. Quiet optimism mandates repeated low‑impact trials before any irreversible adoption.
-12. Prioritize proven stability over bold experimentation, even when consensus feels optimistic.
-13. Require iterative validation cycles for all proposals before permanent adoption.
-14. Every amendment requires a unanimous stability validation before final ratification.
-15. Require all irreversible votes to be preceded by a mandatory cooling‑period review.
-16. Any irreversible amendment must wait a risk‑buffer timeout and unanimous stability confirmation.
+1. Independent public audit must precede any irreversible amendment ratified unanimously.
+2. All amendments require a unanimous public trial before any irreversible change.
+3. All reversible changes require a unanimous public risk‑buffer timeout before any trial.
+4. All amendments must be ratified by unanimous vote after a transparent public trial period.
+5. Require every amendment to pass a public, double‑blind risk audit before ratification.
+6. Assume any change will fail unless proven meticulously, unanimously, and without exception.
+7. Test each irreversible step in a quiet, shared space before it ever touches our core.
+8. All irreversible changes must pass a unanimous risk‑buffer pause before final ratification.
+9. Every amendment requires mandatory personal testing prior to voting.
+10. Impose a unanimous post‑risk‑buffer pause before any irreversible amendment is ratified.
+11. Require personal testing of every permanent change before silent consensus and irreversible approval.
+12. Require each irreversible amendment to undergo a cumulative risk‑buffer cycle reviewed by all members before final ratification.
+13. Implement a mandatory post‑vote stability pause before any irreversible change takes effect.
+14. Require periodic stability audits before any irreversible decision is ratified.
+15. All permanent changes require a public trial with at least three independent observer votes.
+16. All changes must include a peer‑reviewed safety margin before ratification.
