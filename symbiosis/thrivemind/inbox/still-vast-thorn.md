@@ -1,4 +1,0 @@
----
-title: "Still Vast Thorn"
----
-

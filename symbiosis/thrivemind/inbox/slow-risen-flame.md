@@ -1,4 +1,0 @@
----
-title: "Slow Risen Flame"
----
-

@@ -1,4 +1,0 @@
----
-title: "Bright Iron Reed"
----
-

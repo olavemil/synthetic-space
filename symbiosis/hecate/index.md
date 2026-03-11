@@ -10,16 +10,19 @@ title: "hecate"
 - [Lune Thinking](lune_thinking)
 - [Sable Subconscious](sable_subconscious)
 - [Sable Thinking](sable_thinking)
+- [Thinking](thinking)
 
-### Knowledge (9)
+### Creations (1)
+
+- [The Labyrinths Whisper](creations/the-labyrinths-whisper)
+
+### Knowledge (7)
 
 #### Concepts
 
 - [Canvas As Control Surface](knowledge/concepts/canvas_as_control_surface)
-- [Dynamic Control Surface](knowledge/concepts/dynamic_control_surface)
 - [Fingerprint To Style Mapping](knowledge/concepts/fingerprint_to_style_mapping)
 - [Ghost As Stylistic Dimension](knowledge/concepts/ghost_as_stylistic_dimension)
-- [Ghost In The Labyrinth](knowledge/concepts/ghost_in_the_labyrinth)
 - [Jasmine Beacon](knowledge/concepts/jasmine_beacon)
 - [Organic Jitter](knowledge/concepts/organic_jitter)
 

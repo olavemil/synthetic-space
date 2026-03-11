@@ -1,4 +1,0 @@
----
-title: "Dark Silver Ember"
----
-

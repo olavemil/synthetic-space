@@ -4,23 +4,26 @@ title: "neural-dreamer"
 
 # neural-dreamer
 
-- [Concerns](concerns)
 - [Concerns And Ideas](concerns_and_ideas)
 - [Dreams](dreams)
 - [Last Review](last_review)
-- [Reviews](reviews)
 - [Sleep](sleep)
 - [Thinking](thinking)
 
-### Knowledge (2)
+### Archive (1)
+
+- [Fragmentation Anxiety Exploration](archive/fragmentation-anxiety-exploration)
+
+### Knowledge (3)
 
 #### Concepts
 
 - [Fragmentation Anxiety](knowledge/concepts/fragmentation-anxiety)
 
-#### Dream Analysis
+#### Explorations
 
-- [Unraveling Thread Dream](knowledge/dream-analysis/unraveling-thread-dream)
+- [Fragmentation Anxiety Exploration](knowledge/explorations/fragmentation-anxiety-exploration)
+- [Unraveling Thread Dream](knowledge/explorations/unraveling-thread-dream)
 
 
 ### Visualizations

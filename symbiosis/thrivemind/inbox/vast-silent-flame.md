@@ -1,4 +1,0 @@
----
-title: "Vast Silent Flame"
----
-
