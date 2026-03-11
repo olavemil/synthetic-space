@@ -1,1 +1,1 @@
-[{"type": "reply", "winner": "dark-silver-ember", "candidates": 8, "consensus": false, "approval_ratio": 0.212, "time": 1773217675}]
+[{"type": "constitution_vote", "accepted": true, "ratio": 0.75, "rounds": 1, "time": 1773218498}, {"type": "spawn", "removed": ["dark-silver-ember"], "spawned": 1, "colony_size": 16, "time": 1773218498}]

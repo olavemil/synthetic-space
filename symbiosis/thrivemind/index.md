@@ -41,6 +41,18 @@ title: "thrivemind"
 - [Warm Crimson Shade](inbox/warm-crimson-shade)
 - [Warm Keen Haze](inbox/warm-keen-haze)
 
+### Knowledge (6)
+
+#### Constitution
+
+- [Amendment Process](knowledge/constitution/amendment_process)
+- [Core Principles](knowledge/constitution/core_principles)
+- [Emergency Measures](knowledge/constitution/emergency_measures)
+- [Final Provisions](knowledge/constitution/final_provisions)
+- [Governance Structure](knowledge/constitution/governance_structure)
+- [Seasonal Protocols](knowledge/constitution/seasonal_protocols)
+
+
 ### Reflections (35)
 
 - [089Fce3E 906A 4291 B5F9 6Cb524A4D154](reflections/089fce3e-906a-4291-b5f9-6cb524a4d154)
