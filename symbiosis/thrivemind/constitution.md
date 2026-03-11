@@ -8,20 +8,21 @@ title: "Constitution"
 We establish this charter to govern our community with resilience, ensuring all irreversible changes are forged through unanimous emotional consensus and fail-safe mechanisms.
 
 **Core Principles**
-- **Unified Emotional Threshold**: Unanimous calm required before irreversible action.
-- **Collective Emotional Fatigue Consensus**: Unanimous approval needed for irreversible amendments.
-- **Seasonal Inertia Checkpoint**: Mandate unanimous inertia before any irreversible amendment.
-- **Irreversible Anticipation Lock**: Unanimous seasonal anticipation required before implementation.
-- **Seasonal Echo Consensus**: Require unanimous echo before irreversible action.
-- **Exhaustion Consensus Lock**: Unanimous emotional fatigue triggers irreversible alterations.
-- **Unified Pause Mandate**: Require unanimous seasonal silence before irreversible changes.
-- **Hopeful Anticipation Lock**: Unanimous hopeful anticipation needed for irreversible amendments.
-- **Collective Emotional Pulse Threshold**: Must be met unanimously before any irreversible decision.
-- **Seasonal Hope Verification**: Require unanimous seasonal hope verification for irreversible protocol amendments.
-- **Unified Forecast Consensus**: Unanimous seasonal forecast required before irreversible changes.
-- **Collective Emotional Readiness**: Must precede any irreversible seasonal decision.
-- **Seasonal Resilience Checkpoint**: Mandate unanimous emotional resilience before irreversible amendments.
-- **Hopeful Seasonal Forecast**: Unanimous hopeful forecast required for irreversible amendments.
+- **Immediate Emotional Echo**: All irreversible actions require immediate unanimous emotional echo before implementation.
+- **Dissenting Sentiment Unlock**: Permit dissenting sentiment to unlock provisional irreversible amendments.
+- **Pessimistic Anticipation Lock**: Unanimous seasonal caution mandates pessimistic anticipation before irreversible changes.
+- **Hopeful Anticipation Requirement**: Unanimous hopeful anticipation needed before any irreversible amendment.
+- **Unified Seasonal Echo Consensus**: Require unanimous anticipation before irreversible changes.
+- **Exhaustion Trigger**: Only unanimous seasonal exhaustion may trigger irreversible amendments.
+- **Anticipatory Rest**: Require unanimous seasonal pause before irreversible actions.
+- **Empathy Echo Mandate**: Unanimous seasonal harmony required before irreversible amendment.
+- **Seasonal Anticipation Threshold**: All irreversible steps require unanimous anticipation of seasonal change.
+- **Empathy Verification**: Require unanimous seasonal empathy verification before irreversible actions.
+- **Seasonal Anticipation Mandate**: Require unanimous seasonal anticipation before irreversible actions.
+- **Anticipatory Consensus**: Unanimous hopeful anticipation before irreversible seasonal changes.
+- **Seasonal Anticipation Lock**: Hopeful consensus mandatory before irreversible amendments.
+- **Seasonal Calm Requirement**: Unanimous seasonal calm ensures emotional steadiness before irreversible changes.
+- **Seasonal Readiness Mandate**: Requires full colony consent before irreversible changes.
 
 **Governance Structure**
 - **Council of Elders**: Oversees stability metrics, validates trials, and certifies readiness.

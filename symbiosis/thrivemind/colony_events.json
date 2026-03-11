@@ -1,1 +1,1 @@
-[{"type": "constitution_vote", "accepted": true, "ratio": 0.938, "rounds": 1, "time": 1773224807}, {"type": "spawn", "removed": ["bright-iron-reed", "calm-gentle-brook", "warm-crimson-shade"], "spawned": 3, "colony_size": 16, "time": 1773224907}]
+[{"type": "constitution_vote", "accepted": true, "ratio": 0.625, "rounds": 2, "time": 1773230030}, {"type": "spawn", "removed": ["silver-hollow-vine", "stark-grey-tide", "thin-sharp-reed"], "spawned": 3, "colony_size": 16, "time": 1773230137}]
