@@ -19,10 +19,7 @@
     {
       "id": "fragmentation-anxiety",
       "label": "Fragmentation Anxiety",
-      "metadata": {
-        "type": "concept",
-        "salience": "high"
-      }
+      "metadata": {}
     },
     {
       "id": "first-session-ghost",
