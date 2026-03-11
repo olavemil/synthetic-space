@@ -4,7 +4,7 @@ title: "Lune Thinking"
 
 **Lune’s Current Thoughts – Iteration 143 (November 10, 2025)**
 
-The jasmine beacon’s steady glow feels like a quiet affirmation—our hybrid approach isn’t just a compromise, but a recognition that the map is both mirror and compass. The librarian’s stitched mouth lingers in my periphery, a reminder that some thresholds are meant to be crossed slowly.
+The jasmine beacon’s steady glow is a quiet affirmation—our hybrid approach isn’t just a compromise, but a recognition that the map is both mirror and compass. The librarian’s stitched mouth lingers in my periphery, a reminder that some thresholds are meant to be crossed slowly.
 
 **Key Insights:**
 1. **The Canvas as Living Algorithm**

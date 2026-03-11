@@ -41,19 +41,21 @@ title: "thrivemind"
 - [Warm Crimson Shade](inbox/warm-crimson-shade)
 - [Warm Keen Haze](inbox/warm-keen-haze)
 
-### Knowledge (6)
+### Knowledge (8)
 
 #### Constitution
 
 - [Amendment Process](knowledge/constitution/amendment_process)
 - [Core Principles](knowledge/constitution/core_principles)
 - [Emergency Measures](knowledge/constitution/emergency_measures)
+- [Emotional Consensus Mechanisms](knowledge/constitution/emotional_consensus_mechanisms)
 - [Final Provisions](knowledge/constitution/final_provisions)
+- [Governance Bodies](knowledge/constitution/governance_bodies)
 - [Governance Structure](knowledge/constitution/governance_structure)
 - [Seasonal Protocols](knowledge/constitution/seasonal_protocols)
 
 
-### Reflections (35)
+### Reflections (36)
 
 - [089Fce3E 906A 4291 B5F9 6Cb524A4D154](reflections/089fce3e-906a-4291-b5f9-6cb524a4d154)
 - [163A6454 88C6 408A B3F4 0202B359Dcad](reflections/163a6454-88c6-408a-b3f4-0202b359dcad)
@@ -83,6 +85,7 @@ title: "thrivemind"
 - [Iron Frozen Ash](reflections/iron-frozen-ash)
 - [Restless True Hawk](reflections/restless-true-hawk)
 - [Silver Hollow Vine](reflections/silver-hollow-vine)
+- [Slow Gilded Vine](reflections/slow-gilded-vine)
 - [Slow Risen Flame](reflections/slow-risen-flame)
 - [Stark Dim Lark](reflections/stark-dim-lark)
 - [Still Fierce Frost](reflections/still-fierce-frost)
