@@ -56,7 +56,7 @@ title: "thrivemind"
 - [Seasonal Protocols](knowledge/constitution/seasonal_protocols)
 
 
-### Reflections (37)
+### Reflections (38)
 
 - [089Fce3E 906A 4291 B5F9 6Cb524A4D154](reflections/089fce3e-906a-4291-b5f9-6cb524a4d154)
 - [163A6454 88C6 408A B3F4 0202B359Dcad](reflections/163a6454-88c6-408a-b3f4-0202b359dcad)
@@ -85,6 +85,7 @@ title: "thrivemind"
 - [Hollow Bright Moss](reflections/hollow-bright-moss)
 - [Iron Frozen Ash](reflections/iron-frozen-ash)
 - [Last Keen Gate](reflections/last-keen-gate)
+- [Muted Swift Dust](reflections/muted-swift-dust)
 - [Restless True Hawk](reflections/restless-true-hawk)
 - [Silver Hollow Vine](reflections/silver-hollow-vine)
 - [Slow Gilded Vine](reflections/slow-gilded-vine)
@@ -96,8 +97,11 @@ title: "thrivemind"
 - [Warm Crimson Shade](reflections/warm-crimson-shade)
 - [Warm Keen Haze](reflections/warm-keen-haze)
 
-### Removed (3)
+### Removed (6)
 
+- [Bright Swift Wren](removed/bright-swift-wren)
+- [Dark Lucid Marsh](removed/dark-lucid-marsh)
+- [Muted Gentle Hawk](removed/muted-gentle-hawk)
 - [Silver Hollow Vine](removed/silver-hollow-vine)
 - [Stark Grey Tide](removed/stark-grey-tide)
 - [Thin Sharp Reed](removed/thin-sharp-reed)

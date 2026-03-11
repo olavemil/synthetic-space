@@ -8,21 +8,22 @@ title: "Candidate"
 We establish this charter to govern our community with resilience, ensuring all irreversible changes are forged through unanimous emotional consensus and fail-safe mechanisms.
 
 **Core Principles**
-- **Immediate Emotional Echo**: All irreversible actions require immediate unanimous emotional echo before implementation.
-- **Dissenting Sentiment Unlock**: Permit dissenting sentiment to unlock provisional irreversible amendments.
-- **Pessimistic Anticipation Lock**: Unanimous seasonal caution mandates pessimistic anticipation before irreversible changes.
-- **Hopeful Anticipation Requirement**: Unanimous hopeful anticipation needed before any irreversible amendment.
-- **Unified Seasonal Echo Consensus**: Require unanimous anticipation before irreversible changes.
-- **Exhaustion Trigger**: Only unanimous seasonal exhaustion may trigger irreversible amendments.
-- **Anticipatory Rest**: Require unanimous seasonal pause before irreversible actions.
-- **Empathy Echo Mandate**: Unanimous seasonal harmony required before irreversible amendment.
-- **Seasonal Anticipation Threshold**: All irreversible steps require unanimous anticipation of seasonal change.
-- **Empathy Verification**: Require unanimous seasonal empathy verification before irreversible actions.
-- **Seasonal Anticipation Mandate**: Require unanimous seasonal anticipation before irreversible actions.
-- **Anticipatory Consensus**: Unanimous hopeful anticipation before irreversible seasonal changes.
-- **Seasonal Anticipation Lock**: Hopeful consensus mandatory before irreversible amendments.
-- **Seasonal Calm Requirement**: Unanimous seasonal calm ensures emotional steadiness before irreversible changes.
-- **Seasonal Readiness Mandate**: Requires full colony consent before irreversible changes.
+- **Unified Anticipatory Calm**: Require unanimous seasonal calm before irreversible amendments.
+- **Simple Bold Anticipation Consensus**: Unanimous hopeful anticipation required.
+- **Seasonal Caution Mandate**: Require unanimous seasonal caution before irreversible amendments.
+- **Hopeful Anticipation Lock Reinforcement**: Unanimous hopeful anticipation across consecutive seasons must precede irreversible actions.
+- **Anticipatory Threshold**: Mandates full seasonal consensus before irreversible amendment.
+- **Seasonal Dread Requirement**: Require unanimous seasonal dread before irreversible changes.
+- **Cautious Anticipation**: Require unanimous seasonal cautious anticipation before irreversible amendment.
+- **Empathy Verification**: Mandate unanimous seasonal empathy verification before irreversible amendments.
+- **Seasonal Grounding**: Require unanimous seasonal anticipation before irreversible actions.
+- **Immediate Consensus Threshold**: Unanimous seasonal anticipation before irreversible amendment.
+- **Hopeful-Grounding Pairing**: Hopeful anticipation must be paired with seasonal grounding before irreversible actions.
+- **Emotional Equilibrium**: Unified emotional equilibrium mandates unanimous seasonal empathy before irreversible actions.
+- **Seasonal Anticipation**: Require unanimous seasonal anticipation before irreversible amendment approval.
+- **Resonance Safeguard**: Unanimous seasonal harmony required for irreversible actions.
+- **Forecast Review**: Unified forecast review requires unanimous risk acceptance prior to irreversible actions.
+- **Seasonal Calm Mandate**: Unanimous seasonal calm mandates emotional steadiness before irreversible amendment.
 
 **Governance Structure**
 - **Council of Elders**: Oversees stability metrics, validates trials, and certifies readiness.
@@ -41,7 +42,7 @@ We establish this charter to govern our community with resilience, ensuring all 
 - **Emotional Temperature Thresholds**: Implement seasonal thresholds before irreversible amendments.
 - **Seasonal Emotional Alignment**: Require unanimous alignment before any irreversible protocol update.
 - **Seasonal Transition Buffer**: Unanimous consent required before any irreversible seasonal change.
-- **Seasonal Emotional Recalibration Lock**: Mandate unanimous recalibration lock before irreversible seasonal transition.
+- **Emotional Recalibration Lock**: Mandate unanimous recalibration lock before irreversible seasonal transition.
 - **Predictive Emotional Forecast**: Require unanimous seasonal alignment for irreversible amendments.
 
 **Emergency Measures**
