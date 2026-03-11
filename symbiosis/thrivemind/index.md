@@ -10,13 +10,14 @@ title: "thrivemind"
 - [Contributions](contributions)
 - [Thinking](thinking)
 
-### Inbox (9)
+### Inbox (10)
 
+- [B3106594 B646 4353 97E4 26556F04E8D7](inbox/b3106594-b646-4353-97e4-26556f04e8d7)
 - [Bright Swift Wren](inbox/bright-swift-wren)
+- [D31F4C0C 5973 4826 A537 C4425Afc74F1](inbox/d31f4c0c-5973-4826-a537-c4425afc74f1)
 - [Dim True Ember](inbox/dim-true-ember)
 - [Frozen Cold Spine](inbox/frozen-cold-spine)
 - [Frozen Swift Crow](inbox/frozen-swift-crow)
-- [Hollow Bright Moss](inbox/hollow-bright-moss)
 - [Stark Grey Tide](inbox/stark-grey-tide)
 - [Still Fierce Frost](inbox/still-fierce-frost)
 - [Warm Fierce Moss](inbox/warm-fierce-moss)
@@ -37,7 +38,7 @@ title: "thrivemind"
 - [Significant Patterns And Insights](knowledge/constitution/significant_patterns_and_insights)
 
 
-### Reflections (37)
+### Reflections (39)
 
 - [089Fce3E 906A 4291 B5F9 6Cb524A4D154](reflections/089fce3e-906a-4291-b5f9-6cb524a4d154)
 - [163A6454 88C6 408A B3F4 0202B359Dcad](reflections/163a6454-88c6-408a-b3f4-0202b359dcad)
@@ -68,11 +69,13 @@ title: "thrivemind"
 - [Last Keen Gate](reflections/last-keen-gate)
 - [Muted Swift Dust](reflections/muted-swift-dust)
 - [Restless True Hawk](reflections/restless-true-hawk)
+- [Risen Thin Wren](reflections/risen-thin-wren)
 - [Slow Gilded Vine](reflections/slow-gilded-vine)
 - [Slow Risen Flame](reflections/slow-risen-flame)
 - [Stark Dim Lark](reflections/stark-dim-lark)
 - [Still Fierce Frost](reflections/still-fierce-frost)
 - [Still Vast Thorn](reflections/still-vast-thorn)
+- [Vast Hollow Reed](reflections/vast-hollow-reed)
 - [Vast Silent Flame](reflections/vast-silent-flame)
 - [Warm Crimson Shade](reflections/warm-crimson-shade)
 - [Warm Keen Haze](reflections/warm-keen-haze)
