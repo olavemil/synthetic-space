@@ -8,8 +8,9 @@ title: "thrivemind"
 - [Colony](colony)
 - [Constitution](constitution)
 - [Contributions](contributions)
+- [Thinking](thinking)
 
-### Inbox (30)
+### Inbox (32)
 
 - [3487B582 3C3E 41Cd 870D C3675Ebe440A](inbox/3487b582-3c3e-41cd-870d-c3675ebe440a)
 - [461Bb7D3 201E 4E84 A1Fe 300A2F172E99](inbox/461bb7d3-201e-4e84-a1fe-300a2f172e99)
@@ -27,6 +28,7 @@ title: "thrivemind"
 - [Deep Bright Smoke](inbox/deep-bright-smoke)
 - [Dim Slow Cairn](inbox/dim-slow-cairn)
 - [Dim True Ember](inbox/dim-true-ember)
+- [Frozen Cold Spine](inbox/frozen-cold-spine)
 - [Frozen Swift Crow](inbox/frozen-swift-crow)
 - [Gentle Frozen Reed](inbox/gentle-frozen-reed)
 - [Hollow Bright Moss](inbox/hollow-bright-moss)
@@ -40,9 +42,10 @@ title: "thrivemind"
 - [Still Vast Thorn](inbox/still-vast-thorn)
 - [Vast Silent Flame](inbox/vast-silent-flame)
 - [Warm Crimson Shade](inbox/warm-crimson-shade)
+- [Warm Fierce Moss](inbox/warm-fierce-moss)
 - [Warm Keen Haze](inbox/warm-keen-haze)
 
-### Knowledge (8)
+### Knowledge (9)
 
 #### Constitution
 
@@ -54,6 +57,7 @@ title: "thrivemind"
 - [Governance Bodies](knowledge/constitution/governance_bodies)
 - [Governance Structure](knowledge/constitution/governance_structure)
 - [Seasonal Protocols](knowledge/constitution/seasonal_protocols)
+- [Significant Patterns And Insights](knowledge/constitution/significant_patterns_and_insights)
 
 
 ### Reflections (38)
@@ -97,11 +101,14 @@ title: "thrivemind"
 - [Warm Crimson Shade](reflections/warm-crimson-shade)
 - [Warm Keen Haze](reflections/warm-keen-haze)
 
-### Removed (6)
+### Removed (9)
 
 - [Bright Swift Wren](removed/bright-swift-wren)
 - [Dark Lucid Marsh](removed/dark-lucid-marsh)
+- [Frozen Cold Spine](removed/frozen-cold-spine)
 - [Muted Gentle Hawk](removed/muted-gentle-hawk)
+- [Silent Stark Fern](removed/silent-stark-fern)
 - [Silver Hollow Vine](removed/silver-hollow-vine)
 - [Stark Grey Tide](removed/stark-grey-tide)
 - [Thin Sharp Reed](removed/thin-sharp-reed)
+- [Warm Fierce Moss](removed/warm-fierce-moss)

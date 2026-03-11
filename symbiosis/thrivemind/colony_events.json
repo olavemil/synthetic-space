@@ -1,1 +1,1 @@
-[{"type": "constitution_vote", "accepted": true, "ratio": 0.75, "rounds": 1, "time": 1773232898}, {"type": "spawn", "removed": ["bright-swift-wren", "dark-lucid-marsh", "muted-gentle-hawk"], "spawned": 3, "colony_size": 16, "time": 1773233004}]
+[{"type": "constitution_vote", "accepted": true, "ratio": 0.625, "rounds": 1, "time": 1773235227}, {"type": "spawn", "removed": ["frozen-cold-spine", "silent-stark-fern", "warm-fierce-moss"], "spawned": 3, "colony_size": 16, "time": 1773235341}]

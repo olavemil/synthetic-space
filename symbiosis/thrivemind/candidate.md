@@ -24,6 +24,12 @@ We establish this charter to govern our community with resilience, ensuring all 
 - **Resonance Safeguard**: Unanimous seasonal harmony required for irreversible actions.
 - **Forecast Review**: Unified forecast review requires unanimous risk acceptance prior to irreversible actions.
 - **Seasonal Calm Mandate**: Unanimous seasonal calm mandates emotional steadiness before irreversible amendment.
+- **Continuous Empathy Drift Mandate**: Requires seasonal recalibration before irreversible actions.
+- **Unanimous Anticipatory Transparency**: Ensures full emotional disclosure before amendments.
+- **Unanimous Forecast Consensus**: Require unanimous seasonal risk forecast before irreversible actions.
+- **Collective Patience Clause**: Unanimous seasonal patience required before irreversible changes.
+- **Seasonal Resilience Threshold**: Unanimous seasonal stability before irreversible amendment.
+- **Unified Forecast Clarity Clause**: Require unanimous seasonal clarity before irreversible amendment.
 
 **Governance Structure**
 - **Council of Elders**: Oversees stability metrics, validates trials, and certifies readiness.
