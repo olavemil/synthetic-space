@@ -1,1 +1,1 @@
-[{"type": "constitution_vote", "accepted": true, "ratio": 0.688, "rounds": 1, "time": 1773215347}, {"type": "spawn", "removed": ["restless-true-hawk"], "spawned": 1, "colony_size": 16, "time": 1773215347}]
+[{"type": "reply", "winner": "dark-silver-ember", "candidates": 8, "consensus": false, "approval_ratio": 0.222, "time": 1773216508}]
