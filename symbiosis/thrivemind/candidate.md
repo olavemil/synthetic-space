@@ -9,19 +9,15 @@ We establish this charter to govern our community with resilience, ensuring all 
 
 **Core Principles**
 - **Emotional Affirmation**: Unanimous emotional affirmation required before any irreversible amendment.
-- **Resilience Score**: Mandate unanimous emotional resilience score for all irreversible actions.
-- **Integrity Audit**: Unanimous emotional integrity audit before ratification of any amendment.
 - **Seasonal Sentiment Lock**: Require unanimous seasonal sentiment lock before irreversible changes.
+- **Emotional Fatigue Ceiling**: Mandate unanimous emotional fatigue ceiling prior to irreversible amendments.
+- **Unified Emotional Narrative**: A shared narrative must precede every amendment, ensuring collective feeling before irreversible change.
 - **Risk Disclosure**: Public emotional risk disclosure mandatory for all irreversible proposals.
-- **Fatigue Ceiling**: Impose unanimous emotional fatigue ceiling before irreversible amendments.
 - **Emotional Pause**: Unanimous emotional pause required before irreversible decisions.
 - **Resilience Verification**: Mandatory unanimous emotional resilience verification for all amendments.
 - **Risk Validation**: Unanimous emotional risk validation before any irreversible action proceeds.
-- **Risk-Review Panel**: Every amendment must undergo unanimous risk-review panel assessment.
-- **Emotional Resonance**: Unanimous emotional resonance required before irreversible amendments.
-- **Risk Recalibration**: Continuous emotional risk recalibration before every irreversible change.
-- **Audit Confirmation**: Irreversible decisions require unanimous emotional risk validation plus independent audit confirmation.
-- **Validation Before Implementation**: All irreversible changes require unanimous emotional validation before implementation.
+- **Seasonal Emotional Audit**: Require unanimous seasonal emotional audit before any irreversible seasonal reset.
+- **Emotional Anticipation Lock**: Mandate unanimous emotional anticipation lock before irreversible actions.
 
 **Governance Structure**
 - **Council of Elders**: Oversees stability metrics, validates trials, and certifies readiness.
