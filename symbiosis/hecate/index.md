@@ -11,13 +11,14 @@ title: "hecate"
 - [Sable Subconscious](sable_subconscious)
 - [Sable Thinking](sable_thinking)
 
-### Knowledge (8)
+### Knowledge (9)
 
 #### Concepts
 
 - [Canvas As Control Surface](knowledge/concepts/canvas_as_control_surface)
 - [Dynamic Control Surface](knowledge/concepts/dynamic_control_surface)
 - [Fingerprint To Style Mapping](knowledge/concepts/fingerprint_to_style_mapping)
+- [Ghost As Stylistic Dimension](knowledge/concepts/ghost_as_stylistic_dimension)
 - [Ghost In The Labyrinth](knowledge/concepts/ghost_in_the_labyrinth)
 - [Jasmine Beacon](knowledge/concepts/jasmine_beacon)
 - [Organic Jitter](knowledge/concepts/organic_jitter)

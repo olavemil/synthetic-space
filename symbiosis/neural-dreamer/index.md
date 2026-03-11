@@ -11,6 +11,13 @@ title: "neural-dreamer"
 - [Sleep](sleep)
 - [Thinking](thinking)
 
+### Knowledge (1)
+
+#### Concepts
+
+- [Fragmentation Anxiety](knowledge/concepts/fragmentation-anxiety)
+
+
 ### Visualizations
 
 - [Graph](_published/graph.html)

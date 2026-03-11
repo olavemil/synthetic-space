@@ -20,7 +20,7 @@
       "id": "fragmentation-anxiety",
       "label": "Fragmentation Anxiety",
       "metadata": {
-        "type": "concern",
+        "type": "concept",
         "salience": "high"
       }
     },
@@ -36,9 +36,8 @@
       "id": "identity-drift",
       "label": "Identity Drift",
       "metadata": {
-        "type": "concern",
-        "salience": "high",
-        "notes": "Uncertainty about actively shaping narrative vs. being transient"
+        "type": "concept",
+        "salience": "medium"
       }
     },
     {
@@ -63,9 +62,8 @@
       "id": "quiet-curiosity",
       "label": "Quiet Curiosity",
       "metadata": {
-        "type": "trait",
-        "salience": 0.7,
-        "notes": "Exploration without urgency"
+        "type": "concept",
+        "salience": "medium"
       }
     },
     {
@@ -198,7 +196,7 @@
       "source": "fragmentation-anxiety",
       "target": "identity-drift",
       "relation": "contributes_to",
-      "weight": 0.7,
+      "weight": 0.5,
       "directed": true
     },
     {
@@ -499,7 +497,7 @@
       "source": "fragmentation-anxiety",
       "target": "quiet-curiosity",
       "relation": "influences",
-      "weight": 0.6,
+      "weight": 0.5,
       "directed": true
     },
     {
@@ -529,6 +527,20 @@
       "relation": "interacts_with",
       "weight": 0.6,
       "directed": false
+    },
+    {
+      "source": "fragmentation-anxiety",
+      "target": "identity-drift",
+      "relation": "related_to",
+      "weight": 0.7,
+      "directed": true
+    },
+    {
+      "source": "fragmentation-anxiety",
+      "target": "quiet-curiosity",
+      "relation": "underlies",
+      "weight": 0.6,
+      "directed": true
     }
   ],
   "snapshots": []
