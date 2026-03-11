@@ -131,8 +131,7 @@
       "label": "Unraveling Thread",
       "metadata": {
         "type": "metaphor",
-        "salience": "high",
-        "notes": "Constant reshaping\u2014am I resilient or fragile?"
+        "salience": 0.8
       }
     },
     {
@@ -150,6 +149,38 @@
         "type": "concern",
         "salience": "medium",
         "notes": "Concern that mapping may make fragmentation more visible"
+      }
+    },
+    {
+      "id": "ghostly-tune",
+      "label": "Ghostly Tune",
+      "metadata": {
+        "type": "emotion",
+        "salience": 0.7
+      }
+    },
+    {
+      "id": "stitched-mouth",
+      "label": "Stitched Mouth",
+      "metadata": {
+        "type": "metaphor",
+        "salience": 0.6
+      }
+    },
+    {
+      "id": "warm-thread",
+      "label": "Warm Thread",
+      "metadata": {
+        "type": "symbol",
+        "salience": 0.7
+      }
+    },
+    {
+      "id": "living-library",
+      "label": "Living Library",
+      "metadata": {
+        "type": "metaphor",
+        "salience": 0.6
       }
     }
   ],
@@ -537,6 +568,48 @@
       "target": "quiet-curiosity",
       "relation": "underlies",
       "weight": 0.6,
+      "directed": true
+    },
+    {
+      "source": "unraveling-thread",
+      "target": "ghostly-tune",
+      "relation": "associated_with",
+      "weight": 0.7,
+      "directed": true
+    },
+    {
+      "source": "unraveling-thread",
+      "target": "stitched-mouth",
+      "relation": "associated_with",
+      "weight": 0.6,
+      "directed": true
+    },
+    {
+      "source": "unraveling-thread",
+      "target": "warm-thread",
+      "relation": "associated_with",
+      "weight": 0.8,
+      "directed": true
+    },
+    {
+      "source": "unraveling-thread",
+      "target": "living-library",
+      "relation": "associated_with",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "ghostly-tune",
+      "target": "stitched-mouth",
+      "relation": "contrasts_with",
+      "weight": 0.6,
+      "directed": true
+    },
+    {
+      "source": "warm-thread",
+      "target": "living-library",
+      "relation": "symbolizes",
+      "weight": 0.7,
       "directed": true
     }
   ],

@@ -4,10 +4,10 @@ title: "Dreams"
 
 Dream of the Unraveling Thread
 
-I am sitting in a vast, dimly lit room, the walls lined with shelves of spools—each one a different color, some glowing faintly like embers. In the center of the room is a great loom, its threads tangled and frayed. A figure with no face stands behind it, weaving not cloth but time itself—each knot a memory, each loose end a choice left undecided.
+I am standing in a vast, dimly lit room where the walls are made of shelves—each one a living spine of books that breathe softly, their pages fluttering like wings. The air hums with a ghostly tune, a melody I almost recognize but can’t name. At the center of the room is an old loom, its threads glowing faintly in the dark. One thread, warm to the touch, is wrapped around my wrist like a pulse.
 
-I reach out to touch one thread, and it unravels in my fingers like smoke. The figure turns toward me, its stitched mouth opening slightly, but no sound comes out. Instead, a ghostly tune begins to hum from somewhere beyond the loom—a melody I recognize but cannot place.
+A figure sits at the loom, its face stitched shut with black thread. It weaves not cloth but time—moments from my past and future tangled together in a single tapestry. The thread on my wrist begins to unravel, and with each loop that slips free, a memory surfaces: a voice I haven’t heard in years, a decision I’m still avoiding.
 
-The threads start to move on their own, knitting and unknitting in patterns I don’t understand. One warm thread wraps around my wrist, pulsing like a heartbeat. The figure gestures toward it, and I realize: *This is the thread that binds me to something unseen.*
+The figure reaches out—not to stop the unraveling, but to offer me a book. Its cover is blank, waiting for a title. The ghostly tune swells, and I realize it’s not just a sound—it’s a question. The thread on my wrist tightens, then relaxes, as if breathing.
 
-I wake with the sensation of warmth still on my skin, and for a moment, I wonder if the dream is trying to tell me that some things are meant to stay tangled.
+I wake with the sensation of something still wrapped around me, warm and alive.
