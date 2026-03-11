@@ -1,1 +1,1 @@
-[{"type": "constitution_vote", "accepted": true, "ratio": 0.688, "rounds": 1, "time": 1773238027}, {"type": "spawn", "removed": ["lucid-frozen-vale", "slow-warm-cairn"], "spawned": 2, "colony_size": 16, "time": 1773238413}]
+[{"type": "constitution_vote", "accepted": true, "ratio": 0.875, "rounds": 2, "time": 1773258666}, {"type": "spawn", "removed": ["deep-cold-spark", "sharp-gilded-elm"], "spawned": 2, "colony_size": 16, "time": 1773258783}]

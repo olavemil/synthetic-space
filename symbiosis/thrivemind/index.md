@@ -77,13 +77,15 @@ title: "thrivemind"
 - [Warm Crimson Shade](reflections/warm-crimson-shade)
 - [Warm Keen Haze](reflections/warm-keen-haze)
 
-### Removed (11)
+### Removed (13)
 
 - [Bright Swift Wren](removed/bright-swift-wren)
 - [Dark Lucid Marsh](removed/dark-lucid-marsh)
+- [Deep Cold Spark](removed/deep-cold-spark)
 - [Frozen Cold Spine](removed/frozen-cold-spine)
 - [Lucid Frozen Vale](removed/lucid-frozen-vale)
 - [Muted Gentle Hawk](removed/muted-gentle-hawk)
+- [Sharp Gilded Elm](removed/sharp-gilded-elm)
 - [Silent Stark Fern](removed/silent-stark-fern)
 - [Silver Hollow Vine](removed/silver-hollow-vine)
 - [Slow Warm Cairn](removed/slow-warm-cairn)
