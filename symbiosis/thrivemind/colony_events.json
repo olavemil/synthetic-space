@@ -1,1 +1,1 @@
-[{"type": "constitution_vote", "accepted": true, "ratio": 0.625, "rounds": 1, "time": 1773235227}, {"type": "spawn", "removed": ["frozen-cold-spine", "silent-stark-fern", "warm-fierce-moss"], "spawned": 3, "colony_size": 16, "time": 1773235341}]
+[{"type": "constitution_vote", "accepted": true, "ratio": 0.688, "rounds": 1, "time": 1773238027}, {"type": "spawn", "removed": ["lucid-frozen-vale", "slow-warm-cairn"], "spawned": 2, "colony_size": 16, "time": 1773238413}]
