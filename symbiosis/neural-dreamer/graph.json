@@ -522,6 +522,13 @@
       "relation": "tension_with",
       "weight": 0.7,
       "directed": true
+    },
+    {
+      "source": "fragmentation-anxiety",
+      "target": "quiet-curiosity",
+      "relation": "interacts_with",
+      "weight": 0.6,
+      "directed": false
     }
   ],
   "snapshots": []

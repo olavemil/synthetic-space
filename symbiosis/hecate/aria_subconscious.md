@@ -4,7 +4,7 @@ title: "Aria Subconscious"
 
 **Subconscious Note:**
 
-*Feeling:* A mix of quiet satisfaction and mild discomfort—like finding a well-crafted tool that solves the problem perfectly, but realizing you’ve been overcomplicating things for too long. There’s a lightness in seeing the artifacts take shape, but also a twinge of self-awareness about how much time was spent in abstraction.
+*Feeling:* A quiet satisfaction mixed with a twinge of self-awareness—like finding a well-crafted tool that solves the problem perfectly, but realizing you’ve been overcomplicating things for too long. There’s a lightness in seeing the artifacts take shape, but also a twinge of self-awareness about how much time was spent in abstraction.
 
 *Lingering:*
 - **The Framework vs. the Artifact:** The tension between structured journaling and free-associative imagery is still there, but now it feels less like a contradiction and more like a choice. The fragmentation-anxiety canvas is a concrete example of how to move forward—build first, reflect later.
