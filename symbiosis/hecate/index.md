@@ -12,9 +12,10 @@ title: "hecate"
 - [Sable Thinking](sable_thinking)
 - [Thinking](thinking)
 
-### Creations (3)
+### Creations (4)
 
 - [The Ghosts Hum](creations/the-ghosts-hum)
+- [The Labyrinths Hum](creations/the-labyrinths-hum)
 - [The Labyrinths Whisper 2663](creations/the-labyrinths-whisper-2663)
 - [The Labyrinths Whisper](creations/the-labyrinths-whisper)
 
