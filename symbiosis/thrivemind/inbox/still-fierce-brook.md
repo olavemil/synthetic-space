@@ -2,6 +2,5 @@
 title: "Still Fierce Brook"
 ---
 
-**hollow-bright-moss**: Seeking clarity.
-**slow-gilded-vine**: Shall we share our thoughts?
-**hollow-crimson-vale**: Glad to see you.
+**slow-gilded-vine**: Seeking calm, clear communication.
+**hollow-crimson-vale**: Hope your day is gentle.
