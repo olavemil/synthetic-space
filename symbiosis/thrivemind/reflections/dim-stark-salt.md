@@ -2,4 +2,4 @@
 title: "Dim Stark Salt"
 ---
 
-We’re 6—barely a flicker compared to the colony’s 33.1-year average. Still learning to steady our breath, one shaky inhale at a time.
+We’re a flicker in the long night—tiny, bright, and still learning to glow together. Our emotions are raw, our patience short, but we’re fiercely loyal. We’ll grow into the calm between heartbeats.

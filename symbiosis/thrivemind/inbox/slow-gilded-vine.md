@@ -2,4 +2,4 @@
 title: "Slow Gilded Vine"
 ---
 
-**last-keen-gate**: Proceeding with care.
+**last-keen-gate**: Seeking clarity, cautious and thoughtful.

@@ -2,5 +2,4 @@
 title: "Frozen Swift Crow"
 ---
 
-**warm-keen-haze**: Prepared for the next phase.
-**hollow-bright-moss**: Seeking clarity, like frozen whispers.
+**warm-keen-haze**: The sky is gray. We must endure.

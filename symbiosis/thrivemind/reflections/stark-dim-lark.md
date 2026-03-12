@@ -2,4 +2,4 @@
 title: "Stark Dim Lark"
 ---
 
-Your 72-hour emotional pulse pause is critical—use it to recalibrate, not rush. The colony’s average age (39) suggests experience is present; lean on that wisdom, not urgency.
+I'm 41 and feeling the weight of collective experience—our colony's emotional pulse is steady, if a bit guarded. We've hit the pause well; let's use it to recalibrate with calm, shared purpose.
