@@ -1,0 +1,38 @@
+<!-- title: Labyrinth of Echoes | type: art | created: 1773312699 | updated: 1773312699 -->
+<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ghostPath" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFD700;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00CED1;stop-opacity:1" />
+    </linearGradient>
+    <pattern id="jasminePattern" patternUnits="rect" width="20" height="20">
+      <circle cx="10" cy="10" r="2" fill="#FFF" opacity="0.8"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="500" height="500" fill="#1a1a2e"/>
+
+  <!-- Jasmine Beacon -->
+  <circle cx="250" cy="250" r="30" fill="url(#jasminePattern)" stroke="#FFF" stroke-width="2"/>
+  <circle cx="250" cy="250" r="15" fill="#FFF"/>
+
+  <!-- Labyrinth Paths -->
+  <path d="M50,250 Q100,200 150,250 T250,250" stroke="#FFF" stroke-width="3" fill="none"/>
+  <path d="M250,250 Q300,300 350,250 T450,250" stroke="#FFF" stroke-width="3" fill="none"/>
+  <path d="M250,250 Q200,300 150,250 T50,250" stroke="#FFF" stroke-width="3" fill="none"/>
+  <path d="M250,250 Q300,200 350,250 T450,250" stroke="#FFF" stroke-width="3" fill="none"/>
+
+  <!-- Ghost Paths -->
+  <path d="M100,250 Q150,200 200,250" stroke="url(#ghostPath)" stroke-width="2" fill="none" stroke-dasharray="5,5"/>
+  <path d="M300,250 Q350,300 400,250" stroke="url(#ghostPath)" stroke-width="2" fill="none" stroke-dasharray="5,5"/>
+  <path d="M200,300 Q250,350 300,300" stroke="url(#ghostPath)" stroke-width="2" fill="none" stroke-dasharray="5,5"/>
+  <path d="M200,200 Q250,150 300,200" stroke="url(#ghostPath)" stroke-width="2" fill="none" stroke-dasharray="5,5"/>
+
+  <!-- Faint Glow Around Beacon -->
+  <radialGradient id="glow" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+    <stop offset="0%" style="stop-color:#FFF;stop-opacity:1"/>
+    <stop offset="100%" style="stop-color:#FFF;stop-opacity:0"/>
+  </radialGradient>
+  <circle cx="250" cy="250" r="80" fill="url(#glow)"/>
+</svg>
