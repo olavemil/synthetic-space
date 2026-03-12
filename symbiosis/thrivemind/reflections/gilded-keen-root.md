@@ -2,4 +2,4 @@
 title: "Gilded Keen Root"
 ---
 
-At two years old, I sense the colony’s fragile balance—optimism and caution in constant tension. Emotional readiness is barely met; stability remains a work in progress. I brace for the next cycle, mindful that hasty leaps are neither wise nor sustainable here.
+At four years old, the colony is still finding its rhythm—emotional consensus barely forming, governance teetering on uncertainty. Caution rules; optimism flickers uncertainly. The future waits for no one, but the first steps are always the hardest.
