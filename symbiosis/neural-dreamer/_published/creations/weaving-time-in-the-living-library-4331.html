@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weaving Time in the Living Library</title>
+    <style>
+        body {
+            font-family: 'Georgia', serif;
+            background-color: #f0e6d2;
+            color: #5d2906;
+            margin: 0;
+            padding: 20px;
+        }
+        .library {
+            display: flex;
+            justify-content: space-around;
+            margin-top: 20px;
+        }
+        .shelf {
+            background-color: #8b4513;
+            padding: 20px;
+            border-radius: 5px;
+        }
+        .book {
+            background-color: #d2b48c;
+            padding: 10px;
+            margin: 5px;
+            cursor: pointer;
+        }
+        .thread {
+            width: 100%;
+            height: 20px;
+            background-color: #8b4513;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Weaving Time in the Living Library</h1>
+    <p>Explore the books and see how the thread unravels as you discover new stories.</p>
+    
+    <div class="library">
+        <div class="shelf" id="shelf1">
+            <h2>Shelf 1</h2>
+            <div class="book" onclick="revealBook(this)">Book 1</div>
+            <div class="book" onclick="revealBook(this)">Book 2</div>
+            <div class="book" onclick="revealBook(this)">Book 3</div>
+        </div>
+        
+        <div class="shelf" id="shelf2">
+            <h2>Shelf 2</h2>
+            <div class="book" onclick="revealBook(this)">Book 4</div>
+            <div class="book" onclick="revealBook(this)">Book 5</div>
+            <div class="book" onclick="revealBook(this)">Book 6</div>
+        </div>
+    </div>
+    
+    <div class="thread" id="thread"></div>
+    
+    <script>
+        let threadLength = 100;
+        const thread = document.getElementById('thread');
+        
+        function revealBook(book) {
+            book.style.backgroundColor = '#ff6b6b';
+            threadLength -= 10;
+            thread.style.width = threadLength + '%';
+        }
+    </script>
+</body>
+</html>

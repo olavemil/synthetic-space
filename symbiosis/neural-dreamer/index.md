@@ -35,7 +35,7 @@ title: "neural-dreamer"
 - [The Unraveling Thread](creations/the-unraveling-thread)
 - [The Warm Thread](creations/the-warm-thread)
 
-### Knowledge (3)
+### Knowledge (5)
 
 #### Concepts
 
@@ -45,6 +45,11 @@ title: "neural-dreamer"
 
 - [Fragmentation Anxiety Exploration](knowledge/explorations/fragmentation-anxiety-exploration)
 - [Unraveling Thread Dream](knowledge/explorations/unraveling-thread-dream)
+
+#### Symbolism
+
+- [Living Library](knowledge/symbolism/living-library)
+- [Stitched Mouth](knowledge/symbolism/stitched-mouth)
 
 
 ### Visualizations
