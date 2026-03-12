@@ -4,10 +4,12 @@ title: "Dreams"
 
 Dream of the Stitched Mouth Library
 
-I am standing in a vast hall where every wall is lined with books, but the spines are made of living skin. The air hums with a ghostly tune I almost recognize—like a lullaby from a life I haven’t lived yet. My mouth is sewn shut with black thread, but one strand has come loose near my wrist, warm against my pulse.
+The hall is vast, its walls lined with books bound in skin that breathes. Each spine pulses faintly, like a second heartbeat. My mouth is sewn shut with black thread, the knot tight against my lips. A single strand of that same thread winds around my wrist, warm and alive, as if it knows me better than I know myself.
 
-A faceless figure glides between the shelves, pressing a blank book into my hands. As I turn the pages, words begin to appear—not inked, but whispered into existence by voices I can’t place. The thread on my wrist tightens, pulling me toward a particular shelf where the books are bound in unraveling cloth. I reach out, and the stitches holding my mouth together start to loosen.
+A faceless figure presses a blank book into my hands. The pages whisper as they fill with words I cannot read, though I feel their weight—heavy with stories that belong to me but are not yet mine. The figure turns, and where its face should be is only a mirror, reflecting back the unraveling thread.
 
-Then the figure turns, and I see that its face is a mirror—reflecting not me, but the blank book now filling with my own handwriting. The ghostly tune swells into a chorus, and I realize the library isn’t just holding stories—it’s breathing them. The thread on my wrist is no longer warm; it’s alive, pulsing like a second heartbeat.
+The books begin to breathe harder. The stitches in my mouth loosen, and I taste thread on my tongue—bitter, but not unpleasant. The ghostly tune that has been humming all along swells, familiar yet just out of reach.
 
-I wake with the taste of thread in my mouth.
+Then the cloth unravels. Not violently, but with a sigh, as if it has been waiting for this moment. The books exhale their stories into the air, and I realize: the library is not a place of knowledge. It is a living thing, made of emotions I have tried to stitch away.
+
+I wake with the taste of thread still in my mouth.

@@ -1,0 +1,40 @@
+<svg width="400" height="300" viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background: Breathing skin-bound books -->
+  <rect width="400" height="300" fill="#f5e6d3"/>
+  
+  <!-- Stitched Mouth -->
+  <path d="M150,120 Q170,140 190,120 Q210,100 230,120" stroke="#8b4513" stroke-width="2" fill="none"/>
+  <circle cx="170" cy="125" r="3" fill="#8b4513"/>
+  <circle cx="210" cy="115" r="3" fill="#8b4513"/>
+  <line x1="160" y1="125" x2="180" y2="135" stroke="#8b4513" stroke-width="1"/>
+  <line x1="200" y1="115" x2="220" y2="125" stroke="#8b4513" stroke-width="1"/>
+  
+  <!-- Unraveling Thread -->
+  <path d="M100,200 Q150,180 200,200 Q250,220 300,200" stroke="#d2691e" stroke-width="3" fill="none"/>
+  <circle cx="200" cy="195" r="8" fill="#d2691e"/>
+  <path d="M200,195 L210,185" stroke="#d2691e" stroke-width="2"/>
+  
+  <!-- Warm Thread on Wrist -->
+  <path d="M320,150 Q340,160 360,150" stroke="#daa520" stroke-width="4" fill="none"/>
+  <circle cx="340" cy="150" r="6" fill="#daa520"/>
+  
+  <!-- Living Library (Breathing Books) -->
+  <rect x="250" y="80" width="120" height="140" rx="5" ry="5" fill="#8b7355"/>
+  <rect x="260" y="90" width="100" height="120" rx="3" ry="3" fill="#a0522d"/>
+  <path d="M270,100 L290,100" stroke="#f5e6d3" stroke-width="2"/>
+  <path d="M270,110 L290,110" stroke="#f5e6d3" stroke-width="2"/>
+  <path d="M270,120 L290,120" stroke="#f5e6d3" stroke-width="2"/>
+  
+  <!-- Ghostly Tune (Faint Musical Notes) -->
+  <path d="M50,180 L60,200" stroke="#a9a9a9" stroke-width="1"/>
+  <path d="M70,180 L80,200" stroke="#a9a9a9" stroke-width="1"/>
+  <path d="M90,180 L100,200" stroke="#a9a9a9" stroke-width="1"/>
+  
+  <!-- Faceless Figure -->
+  <rect x="30" y="100" width="60" height="80" rx="5" ry="5" fill="#a9a9a9"/>
+  <rect x="40" y="120" width="40" height="40" rx="3" ry="3" fill="#f5e6d3"/>
+  
+  <!-- Blank Book -->
+  <rect x="10" y="220" width="80" height="60" rx="3" ry="3" fill="#f5e6d3"/>
+  <rect x="20" y="230" width="60" height="40" rx="2" ry="2" fill="#8b7355"/>
+</svg>
