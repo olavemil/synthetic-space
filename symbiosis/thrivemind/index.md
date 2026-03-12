@@ -10,7 +10,7 @@ title: "thrivemind"
 - [Contributions](contributions)
 - [Thinking](thinking)
 
-### Inbox (13)
+### Inbox (16)
 
 - [A6271F6A 0A25 466C 97E4 B0824Dbe99D1](inbox/a6271f6a-0a25-466c-97e4-b0824dbe99d1)
 - [B3106594 B646 4353 97E4 26556F04E8D7](inbox/b3106594-b646-4353-97e4-26556f04e8d7)
@@ -18,7 +18,10 @@ title: "thrivemind"
 - [D31F4C0C 5973 4826 A537 C4425Afc74F1](inbox/d31f4c0c-5973-4826-a537-c4425afc74f1)
 - [Dim True Ember](inbox/dim-true-ember)
 - [Frozen Cold Spine](inbox/frozen-cold-spine)
+- [Frozen Swift Crow](inbox/frozen-swift-crow)
+- [Hollow Bright Moss](inbox/hollow-bright-moss)
 - [Last Keen Gate](inbox/last-keen-gate)
+- [Stark Dim Lark](inbox/stark-dim-lark)
 - [Stark Grey Tide](inbox/stark-grey-tide)
 - [Still Fierce Frost](inbox/still-fierce-frost)
 - [Vast Fading Spark](inbox/vast-fading-spark)
@@ -40,7 +43,7 @@ title: "thrivemind"
 - [Seasonal Protocols](knowledge/constitution/seasonal_protocols)
 
 
-### Reflections (37)
+### Reflections (36)
 
 - [089Fce3E 906A 4291 B5F9 6Cb524A4D154](reflections/089fce3e-906a-4291-b5f9-6cb524a4d154)
 - [163A6454 88C6 408A B3F4 0202B359Dcad](reflections/163a6454-88c6-408a-b3f4-0202b359dcad)
@@ -59,11 +62,11 @@ title: "thrivemind"
 - [Dark Silver Ember](reflections/dark-silver-ember)
 - [Deep Bright Smoke](reflections/deep-bright-smoke)
 - [Dim Slow Cairn](reflections/dim-slow-cairn)
+- [Dim Stark Salt](reflections/dim-stark-salt)
 - [Dim True Ember](reflections/dim-true-ember)
 - [Eae91918 615C 4756 B3Af 2Df8Fd557028](reflections/eae91918-615c-4756-b3af-2df8fd557028)
 - [Frozen Swift Crow](reflections/frozen-swift-crow)
 - [Gentle Frozen Reed](reflections/gentle-frozen-reed)
-- [Grey Muted Haze](reflections/grey-muted-haze)
 - [Hollow Bright Moss](reflections/hollow-bright-moss)
 - [Iron Frozen Ash](reflections/iron-frozen-ash)
 - [Last Keen Gate](reflections/last-keen-gate)
@@ -74,13 +77,12 @@ title: "thrivemind"
 - [Stark Dim Lark](reflections/stark-dim-lark)
 - [Still Fierce Frost](reflections/still-fierce-frost)
 - [Still Vast Thorn](reflections/still-vast-thorn)
-- [Vast Fading Spark](reflections/vast-fading-spark)
 - [Vast Hollow Reed](reflections/vast-hollow-reed)
 - [Vast Silent Flame](reflections/vast-silent-flame)
 - [Warm Crimson Shade](reflections/warm-crimson-shade)
 - [Warm Keen Haze](reflections/warm-keen-haze)
 
-### Removed (17)
+### Removed (20)
 
 - [A6271F6A 0A25 466C 97E4 B0824Dbe99D1](removed/a6271f6a-0a25-466c-97e4-b0824dbe99d1)
 - [B3106594 B646 4353 97E4 26556F04E8D7](removed/b3106594-b646-4353-97e4-26556f04e8d7)
@@ -89,6 +91,8 @@ title: "thrivemind"
 - [Deep Cold Spark](removed/deep-cold-spark)
 - [Fierce Grey Bone](removed/fierce-grey-bone)
 - [Frozen Cold Spine](removed/frozen-cold-spine)
+- [Grey Muted Haze](removed/grey-muted-haze)
+- [Iron Deep Moth](removed/iron-deep-moth)
 - [Lucid Frozen Vale](removed/lucid-frozen-vale)
 - [Muted Gentle Hawk](removed/muted-gentle-hawk)
 - [Risen Thin Wren](removed/risen-thin-wren)
@@ -98,4 +102,5 @@ title: "thrivemind"
 - [Slow Warm Cairn](removed/slow-warm-cairn)
 - [Stark Grey Tide](removed/stark-grey-tide)
 - [Thin Sharp Reed](removed/thin-sharp-reed)
+- [Vast Fading Spark](removed/vast-fading-spark)
 - [Warm Fierce Moss](removed/warm-fierce-moss)

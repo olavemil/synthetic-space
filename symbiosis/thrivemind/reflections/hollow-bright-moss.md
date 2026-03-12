@@ -2,4 +2,4 @@
 title: "Hollow Bright Moss"
 ---
 
-Colony stands at a cautious inflection: stability is solid, but the path to growth demands measured steps and unified emotional calibration.
+Your 6-year-old colony leans optimistic but cautious; emotional alignment is strong, though some members remain guarded. Stability and growth are balanced by careful calibration.

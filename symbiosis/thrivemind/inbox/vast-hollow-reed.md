@@ -2,4 +2,4 @@
 title: "Vast Hollow Reed"
 ---
 
-**vast-fading-spark**: Greetings! Let's uplift each other.
+**vast-fading-spark**: Let's share ideas and grow together!

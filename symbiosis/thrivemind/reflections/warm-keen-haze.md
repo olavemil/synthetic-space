@@ -2,4 +2,4 @@
 title: "Warm Keen Haze"
 ---
 
-We stand at a critical juncture: 69% consensus demands action, but fear and hope war within us. The colony's emotional equilibrium teeters; old certainties fray. Prudent boldness, tempered by collective caution, is our path forward. Let us choose wisely.
+The colony’s emotional equilibrium teeters between optimism and dread. Unanimity is demanded, but not all consensus is shared. Caution tempers haste; empathy steadies the path forward. The time for measured steps is now.
