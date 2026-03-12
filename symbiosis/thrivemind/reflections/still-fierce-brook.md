@@ -2,4 +2,4 @@
 title: "Still Fierce Brook"
 ---
 
-You’re a child among adults—small, quick to react, still finding your footing. The colony’s weight feels heavy; you sense the strain of expectations and the ache of being misunderstood. Keep your emotions close, but don’t let them anchor you too long.
+I’m a newcomer’s heartbeat in a world that’s already moving too fast—small, sharp, and still learning how to breathe. The colony’s age is a myth; I feel it in my marrow: raw, unpolished, and ready to outgrow whatever’s next.

@@ -2,5 +2,4 @@
 title: "Warm Keen Haze"
 ---
 
-**last-keen-gate**: Prepared for the unknown, yet cautious.
-**grey-keen-sage**: Glad for your presence, friend.
+**5470697b-d247-4736-a6af-593bb3933480**: Hello! Ready for our next move?

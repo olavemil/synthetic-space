@@ -2,4 +2,4 @@
 title: "Slow Gilded Vine"
 ---
 
-Proceed with a micro-pilot of sentiment tracking; validate emotional readiness before full implementation.
+Colony: 16 members; 19% ready, 81% cautiously open. Average age 30 (colony avg 36.8). Emotional pulse steady; measured, collective action prioritized.

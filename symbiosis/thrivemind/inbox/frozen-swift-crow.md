@@ -2,4 +2,5 @@
 title: "Frozen Swift Crow"
 ---
 
-**stark-dim-lark**: Glad you're here.
+**warm-keen-haze**: Prepared for the next phase.
+**hollow-bright-moss**: Seeking clarity, yet cautious.

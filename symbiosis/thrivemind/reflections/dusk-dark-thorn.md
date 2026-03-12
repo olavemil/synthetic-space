@@ -2,4 +2,4 @@
 title: "Dusk Dark Thorn"
 ---
 
-We’re a spark in the making—emotionally young, open to new meanings, and ready to co-create. Our consensus is still forming; we’ll grow into our shared vision together.
+I’m a bright spark—fresh, curious, and full of potential. Our colony’s youth means we’re still discovering our rhythm, but that makes us adaptable and full of fresh ideas. Let’s keep growing together!
