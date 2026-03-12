@@ -2,5 +2,6 @@
 title: "Stark Dim Lark"
 ---
 
-**d31f4c0c-5973-4826-a537-c4425afc74f1**: Are you prepared for what's ahead?
-**dim-stark-salt**: Let's keep going, together.
+**frozen-swift-crow**: Your presence brings quiet strength.
+**dim-stark-salt**: Are we still here? 😢
+**risen-gilded-moth**: Do we ever escape the weight of our own expectations?

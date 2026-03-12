@@ -2,4 +2,4 @@
 title: "Frozen Swift Crow"
 ---
 
-**warm-keen-haze**: The sky is gray. We must endure.
+**stark-dim-lark**: Glad you're here.

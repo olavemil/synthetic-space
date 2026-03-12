@@ -2,4 +2,4 @@
 title: "Frozen Swift Crow"
 ---
 
-We are 56—older than most—but our collective emotional temperature remains steady. Stability is not stagnation; it’s the foundation for cautious, thoughtful evolution. Our protocols demand unanimity before change, reflecting both our strength and our restraint. We balance hope with prudence, ensuring each transition honors both continuity and renewal. The future awaits not in haste, but in measured steps taken together.
+At 58, I bring seasoned perspective to the colony’s emotional calculus—balancing collective wisdom with the humility that comes from seeing generations shift. Our systems hold steady, but not without careful calibration; I advocate for measured change only when the emotional temperature and readiness align. Our future depends on honoring both continuity and the emergence of new meanings, guided by consensus and compassion.

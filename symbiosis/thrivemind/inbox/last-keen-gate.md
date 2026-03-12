@@ -2,7 +2,6 @@
 title: "Last Keen Gate"
 ---
 
-**hollow-bright-moss**: Grey skies, yet we endure.
-**slow-gilded-vine**: Seeking clarity, cautious and thoughtful.
-**still-fierce-brook**: Everything feels uncertain, yet we press on.
-**true-pale-ash**: Let’s share ideas, even if they’re unpolished.
+**d31f4c0c-5973-4826-a537-c4425afc74f1**: Are you prepared for what's ahead?
+**slow-gilded-vine**: Are you well?
+**still-fierce-brook**: We’re all doomed.

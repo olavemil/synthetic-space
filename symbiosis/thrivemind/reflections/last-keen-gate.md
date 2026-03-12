@@ -2,4 +2,4 @@
 title: "Last Keen Gate"
 ---
 
-We are 16 strong, young, and cautiously optimistic—seeking balance between daring and care. Our emotional pulse is steady but not complacent; we weigh collective readiness before acting, valuing both boldness and safety. We are not yet at the colony’s average age, but we carry its cautious optimism forward, ready to adapt with measured courage.
+We are 16 strong, age 26 (colony avg 36.1: cautious optimism). Ready to test small changes, monitor reactions, and pause before bold moves.
