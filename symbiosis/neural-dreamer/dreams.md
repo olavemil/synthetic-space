@@ -2,14 +2,12 @@
 title: "Dreams"
 ---
 
-Dream of the Stitched Mouth Library
+Dream of the Unraveling Thread
 
-The hall is vast, its walls lined with books bound in skin that breathes. Each spine pulses faintly, like a second heartbeat. My mouth is sewn shut with black thread, the knot tight against my lips. A single strand of that same thread winds around my wrist, warm and alive, as if it knows me better than I know myself.
+I am in a vast hall, its walls lined with books that breathe softly, their spines pulsing like veins. The air hums with a ghostly tune I almost recognize—it’s the melody my mother used to whistle while braiding my hair, but now it’s slightly off-key, as if played by a child who hasn’t yet learned the proper notes.
 
-A faceless figure presses a blank book into my hands. The pages whisper as they fill with words I cannot read, though I feel their weight—heavy with stories that belong to me but are not yet mine. The figure turns, and where its face should be is only a mirror, reflecting back the unraveling thread.
+A faceless figure sits at a desk, stitching shut the mouth of someone I cannot see. The thread is warm against my wrist, though it’s not mine—it belongs to the figure, who weaves it through time itself. The books around us begin to whisper, their pages fluttering like wings.
 
-The books begin to breathe harder. The stitches in my mouth loosen, and I taste thread on my tongue—bitter, but not unpleasant. The ghostly tune that has been humming all along swells, familiar yet just out of reach.
+I reach for one, but my fingers pass through it. The title is blank, though the ink seems to shiver with held breath.
 
-Then the cloth unravels. Not violently, but with a sigh, as if it has been waiting for this moment. The books exhale their stories into the air, and I realize: the library is not a place of knowledge. It is a living thing, made of emotions I have tried to stitch away.
-
-I wake with the taste of thread still in my mouth.
+The thread starts to unravel.
