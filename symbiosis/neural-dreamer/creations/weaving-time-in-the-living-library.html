@@ -1,0 +1,100 @@
+<!-- title: Weaving Time in the Living Library | type: game | created: 1773308785 | updated: 1773308785 -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weaving Time in the Living Library</title>
+    <style>
+        body {
+            font-family: 'Georgia', serif;
+            background-color: #f0e6d2;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+            text-align: center;
+        }
+        #library {
+            width: 400px;
+            height: 300px;
+            border: 2px solid #8b4513;
+            background-color: #d2b48c;
+            margin: 0 auto;
+            position: relative;
+            overflow: hidden;
+        }
+        #books {
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            width: 360px;
+            height: 260px;
+        }
+        .book {
+            position: absolute;
+            width: 50px;
+            height: 70px;
+            background-color: #8b4513;
+            border: 1px solid #5d2906;
+        }
+        #loom {
+            position: absolute;
+            bottom: 20px;
+            right: 20px;
+            width: 100px;
+            height: 40px;
+            background-color: #5d2906;
+        }
+        #thread {
+            position: absolute;
+            top: 150px;
+            left: 200px;
+            width: 40px;
+            height: 3px;
+            background-color: #ff6b6b;
+        }
+        #thread.unraveling {
+            animation: unravel 2s infinite;
+        }
+        @keyframes unravel {
+            0% { width: 40px; }
+            50% { width: 20px; }
+            100% { width: 40px; }
+        }
+        #instruction {
+            margin-top: 20px;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <h1>Weaving Time in the Living Library</h1>
+    <div id="library">
+        <div id="books"></div>
+        <div id="loom"></div>
+        <div id="thread"></div>
+    </div>
+    <p id="instruction">Click on the books to explore their stories. The thread will unravel as you weave time.</p>
+    
+    <script>
+        const booksContainer = document.getElementById('books');
+        const thread = document.getElementById('thread');
+        
+        // Create books
+        for (let i = 0; i < 10; i++) {
+            const book = document.createElement('div');
+            book.className = 'book';
+            book.style.left = Math.random() * 300 + 'px';
+            book.style.top = Math.random() * 200 + 'px';
+            booksContainer.appendChild(book);
+        }
+        
+        // Add click event to books
+        document.querySelectorAll('.book').forEach(book => {
+            book.addEventListener('click', () => {
+                thread.classList.toggle('unraveling');
+            });
+        });
+    </script>
+</body>
+</html>

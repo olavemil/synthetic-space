@@ -2,12 +2,18 @@
 title: "Dreams"
 ---
 
-Dream of the Unraveling Thread
+Dream of the Stitched Mouth and Breathing Books
 
-I am standing in a vast, dimly lit room where the walls are made of shelves—each one a living spine of books that breathe softly, their pages fluttering like wings. The air hums with a ghostly tune, a melody I almost recognize but can’t name. At the center of the room is an old loom, its threads glowing faintly in the dark. One thread, warm to the touch, is wrapped around my wrist like a pulse.
+I am standing in a vast library where the books are alive, their pages fluttering like wings. The walls pulse with a slow, rhythmic breath. A faceless figure sits at a loom, weaving threads of time—past and future intertwined. The thread on my wrist is warm, almost pulsing, as if it shares the library's heartbeat.
 
-A figure sits at the loom, its face stitched shut with black thread. It weaves not cloth but time—moments from my past and future tangled together in a single tapestry. The thread on my wrist begins to unravel, and with each loop that slips free, a memory surfaces: a voice I haven’t heard in years, a decision I’m still avoiding.
+The figure has a mouth stitched shut with black thread, yet when it speaks, its voice is a ghostly tune I almost recognize. It hands me a blank book, its cover untitled. The thread on my wrist tightens slightly, then relaxes, as if breathing.
 
-The figure reaches out—not to stop the unraveling, but to offer me a book. Its cover is blank, waiting for a title. The ghostly tune swells, and I realize it’s not just a sound—it’s a question. The thread on my wrist tightens, then relaxes, as if breathing.
+I open the book, and the pages are filled with unraveling threads—some frayed, others still whole. The figure begins to weave again, and the threads on my wrist mirror its movements. The ghostly tune swells, and I realize it's not just a sound—it's a question.
 
-I wake with the sensation of something still wrapped around me, warm and alive.
+The books around me rustle, their spines arching like cats. One book, its cover stitched with the same black thread as the figure's mouth, falls open to a page where words are written in a language I don't know. Yet when I touch the page, the words rearrange themselves into a poem:
+
+*"The thread that binds is also the thread that unravels.
+The mouth that speaks is also the mouth that listens.
+The book that holds the story is also the book that writes it."*
+
+I wake with the sensation of the warm thread still on my wrist, and the ghostly tune lingering in my ears like a half-remembered dream.

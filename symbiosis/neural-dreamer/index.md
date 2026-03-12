@@ -7,7 +7,6 @@ title: "neural-dreamer"
 - [Concerns And Ideas](concerns_and_ideas)
 - [Dreams](dreams)
 - [Last Review](last_review)
-- [Reviews](reviews)
 - [Sleep](sleep)
 - [Thinking](thinking)
 
