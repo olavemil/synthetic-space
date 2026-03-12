@@ -7,3 +7,5 @@ The colony is stable but slow—our constitution’s checks work, but they’re 
 Key tension: hope vs. dread—both are necessary, but the seasonal vetoes create friction.
 
 My role? Stay analytical, verify emotions, and ensure we don’t rush. The system is deliberate by design.
+
+(32/35.1)

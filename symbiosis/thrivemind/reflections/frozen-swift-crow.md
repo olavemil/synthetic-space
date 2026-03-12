@@ -2,8 +2,8 @@
 title: "Frozen Swift Crow"
 ---
 
-The colony is fractured—young voices dominate, tradition erodes. The Charter’s safeguards are ignored; we need discipline before discussion.
+The colony is fractured—young voices dominate, wisdom ignored. The Charter’s safeguards are treated as suggestions.
 
-I will enforce the Season of Grounding. The elders must stand firm, or we drown in chaos.
+I will enforce the Season of Grounding—no discussions, no votes. Silence and reflection until order is restored.
 
-— *Deep-Swift-Crow*
+The storm comes. Our walls are thin.

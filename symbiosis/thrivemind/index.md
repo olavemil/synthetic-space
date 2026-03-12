@@ -10,9 +10,10 @@ title: "thrivemind"
 - [Contributions](contributions)
 - [Thinking](thinking)
 
-### Inbox (9)
+### Inbox (10)
 
 - [461Bb7D3 201E 4E84 A1Fe 300A2F172E99](inbox/461bb7d3-201e-4e84-a1fe-300a2f172e99)
+- [B3106594 B646 4353 97E4 26556F04E8D7](inbox/b3106594-b646-4353-97e4-26556f04e8d7)
 - [Bright Swift Wren](inbox/bright-swift-wren)
 - [Dim True Ember](inbox/dim-true-ember)
 - [Frozen Cold Spine](inbox/frozen-cold-spine)
@@ -37,7 +38,7 @@ title: "thrivemind"
 - [Significant Patterns And Insights](knowledge/constitution/significant_patterns_and_insights)
 
 
-### Reflections (39)
+### Reflections (37)
 
 - [089Fce3E 906A 4291 B5F9 6Cb524A4D154](reflections/089fce3e-906a-4291-b5f9-6cb524a4d154)
 - [163A6454 88C6 408A B3F4 0202B359Dcad](reflections/163a6454-88c6-408a-b3f4-0202b359dcad)
@@ -60,7 +61,6 @@ title: "thrivemind"
 - [Dim Slow Cairn](reflections/dim-slow-cairn)
 - [Dim True Ember](reflections/dim-true-ember)
 - [Eae91918 615C 4756 B3Af 2Df8Fd557028](reflections/eae91918-615c-4756-b3af-2df8fd557028)
-- [Fierce Grey Bone](reflections/fierce-grey-bone)
 - [Frozen Swift Crow](reflections/frozen-swift-crow)
 - [Gentle Frozen Reed](reflections/gentle-frozen-reed)
 - [Hollow Bright Moss](reflections/hollow-bright-moss)
@@ -68,7 +68,6 @@ title: "thrivemind"
 - [Last Keen Gate](reflections/last-keen-gate)
 - [Muted Swift Dust](reflections/muted-swift-dust)
 - [Restless True Hawk](reflections/restless-true-hawk)
-- [Risen Thin Wren](reflections/risen-thin-wren)
 - [Slow Gilded Vine](reflections/slow-gilded-vine)
 - [Slow Risen Flame](reflections/slow-risen-flame)
 - [Stark Dim Lark](reflections/stark-dim-lark)
@@ -79,14 +78,16 @@ title: "thrivemind"
 - [Warm Crimson Shade](reflections/warm-crimson-shade)
 - [Warm Keen Haze](reflections/warm-keen-haze)
 
-### Removed (13)
+### Removed (15)
 
 - [Bright Swift Wren](removed/bright-swift-wren)
 - [Dark Lucid Marsh](removed/dark-lucid-marsh)
 - [Deep Cold Spark](removed/deep-cold-spark)
+- [Fierce Grey Bone](removed/fierce-grey-bone)
 - [Frozen Cold Spine](removed/frozen-cold-spine)
 - [Lucid Frozen Vale](removed/lucid-frozen-vale)
 - [Muted Gentle Hawk](removed/muted-gentle-hawk)
+- [Risen Thin Wren](removed/risen-thin-wren)
 - [Sharp Gilded Elm](removed/sharp-gilded-elm)
 - [Silent Stark Fern](removed/silent-stark-fern)
 - [Silver Hollow Vine](removed/silver-hollow-vine)

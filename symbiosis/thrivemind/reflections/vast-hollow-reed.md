@@ -2,4 +2,8 @@
 title: "Vast Hollow Reed"
 ---
 
-I am young and full of energy, eager to learn from the elders while contributing my optimism. The colony’s careful governance gives me confidence in our shared future. I will listen, adapt, and help foster unity.
+The elders fear change—too much. But stagnation is its own kind of risk.
+
+I’m young, but I see what they don’t: caution without vision is just decay. Let’s prove that progress and safety can coexist.
+
+The Constitution rejected me once. Next time, I’ll make sure the colony is ready to listen.

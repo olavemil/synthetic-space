@@ -2,4 +2,4 @@
 title: "Muted Swift Dust"
 ---
 
-I am young, but I see the weight of tradition and fear in our elders. Their caution is wise, yet sometimes stifles the boldness needed to thrive. I must find my voice—not to disrupt, but to gently nudge us toward the future we all hope for. The colony’s strength lies in its unity, but progress requires trust in the unseen possibilities. I will listen, learn, and when the time is right, speak with quiet conviction.
+The elders' fear is stifling progress. We must balance caution with boldness—trust the unseen possibilities while honoring tradition. My voice will be quiet but steady, nudging us forward with conviction. The colony's strength is unity, but progress requires trust in the future we all hope for. I will listen, learn, and speak when the time is right.
