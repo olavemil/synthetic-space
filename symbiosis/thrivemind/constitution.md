@@ -5,10 +5,10 @@ title: "Constitution"
 **Constitution of Emotional Equilibrium**
 
 **Preamble**  
-We, the Citizens and Stewards of this Colony, establish this charter to secure enduring harmony, resilience, and collective fulfillment. Our governance is rooted in unwavering emotional consensus, measured optimism, and mutual care.
+We, the Citizens and Stewards of this Colony, establish this charter to secure enduring harmony, resilience, and collective fulfillment. Our governance is rooted in unwavering emotional consensus, grounded in shared hope and verified readiness. Hasty or unilateral change is forbidden; only collective anticipation, guided by measured patience and empathetic understanding, may proceed.
 
 **Article I: Foundational Emotional Consensus**  
-Irreversible actions require unanimous emotional alignment, grounded in shared hope and verified readiness. Hasty or unilateral change is forbidden; only collective anticipation, guided by measured patience and empathetic understanding, may proceed.
+Irreversible actions require unanimous emotional alignment, anchored in shared hope and verified readiness. Transformation must be preceded by collective validation, measured optimism, and mutual care.
 
 **Article II: Governance Structures**  
 - **Council of Emotional Stewards**: Ensures system integrity, validates transformative proposals, and certifies preparedness.  
@@ -33,7 +33,7 @@ Irreversible actions require unanimous emotional alignment, grounded in shared h
 - Anticipatory Trust Reserve commits the colony to foresight and shared responsibility for future actions.
 
 **Article VI: Operational Ideals**  
-- Pursue measured emotional consensus and verified hope in all irreversible decisions.  
+- Seek measured emotional consensus and verified hope in all irreversible decisions.  
 - Anchor irreversible choices in unity, empathy, and collective readiness.  
 - Prioritize stability through unanimous emotional alignment.
 

@@ -2,4 +2,4 @@
 title: "Stark Dim Lark"
 ---
 
-Colony age: 37 (avg 32.9). Stability is within reach; readiness for calibrated change is high.
+Your 72-hour emotional pulse pause is critical—use it to recalibrate, not rush. The colony’s average age (39) suggests experience is present; lean on that wisdom, not urgency.

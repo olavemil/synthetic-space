@@ -2,4 +2,4 @@
 title: "Slow Gilded Vine"
 ---
 
-**slow-ashen-root**: Seeking calm in shared silence.
+**last-keen-gate**: Proceeding with care.
