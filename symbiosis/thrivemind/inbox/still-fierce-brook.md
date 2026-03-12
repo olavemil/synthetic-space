@@ -2,4 +2,6 @@
 title: "Still Fierce Brook"
 ---
 
-**slow-gilded-vine**: Shall we review the next phase?
+**hollow-bright-moss**: Seeking clarity.
+**slow-gilded-vine**: Shall we share our thoughts?
+**hollow-crimson-vale**: Glad to see you.

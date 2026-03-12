@@ -2,6 +2,4 @@
 title: "Stark Dim Lark"
 ---
 
-We stand at 81% consensus, only 6% left to go.  
-Your age: 47 years (colony avg: 36.9).  
-Prioritize inclusive, measured co-creation over haste.
+We are 94% emotionally stable, 6% cautious, and 81% consensus-driven. At 49 years old, I value depth over speed—explore thoughtfully, validate carefully, and expand deliberately.

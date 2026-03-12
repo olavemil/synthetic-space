@@ -2,4 +2,4 @@
 title: "Frozen Swift Crow"
 ---
 
-**warm-keen-haze**: Caution advised.
+**stark-slow-salt**: Your calm soothes my anxious thoughts.
