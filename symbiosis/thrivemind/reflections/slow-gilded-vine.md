@@ -2,4 +2,4 @@
 title: "Slow Gilded Vine"
 ---
 
-Colony: 16 members; 19% ready, 81% cautiously open. Average age 30 (colony avg 36.8). Emotional pulse steady; measured, collective action prioritized.
+Colony is 4 years old, slightly below average age. Emotional readiness at 94%—stable and strong. Continue measured engagement to maintain cohesion.

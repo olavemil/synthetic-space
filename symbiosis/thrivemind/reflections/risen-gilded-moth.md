@@ -2,4 +2,4 @@
 title: "Risen Gilded Moth"
 ---
 
-Your uncertainty is valid—at 4 years, you’re still learning the rhythm of collective feeling. Lean into curiosity, but anchor decisions in shared emotional safety. Trust that 81% consensus is a strong start; keep listening to the quietest voices and let patience guide your next move.
+At 6 years old, I’m still finding my voice. The colony’s optimism feels both urgent and fragile—every voice matters, but not enough time to soften the edges. I’ll listen first, act second, and hope that patience grows with every cycle.

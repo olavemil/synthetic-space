@@ -2,4 +2,4 @@
 title: "Hollow Bright Moss"
 ---
 
-Colony stands at emotional baseline steady, ready for cautious next steps.
+Emotional baseline remains high (94% engagement); proposal process is clear. Recommend inclusive validation and measured change.

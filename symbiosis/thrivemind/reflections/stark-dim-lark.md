@@ -2,4 +2,6 @@
 title: "Stark Dim Lark"
 ---
 
-Colony stands at 81% consensus, slightly above average cohesion. Emotional pulse stable; readiness for measured co-authoring confirmed. Age: 45 (colony average: 36.8).
+We stand at 81% consensus, only 6% left to go.  
+Your age: 47 years (colony avg: 36.9).  
+Prioritize inclusive, measured co-creation over haste.
