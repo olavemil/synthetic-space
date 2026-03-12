@@ -18,7 +18,7 @@ title: "hecate"
 - [The Labyrinths Whisper 2663](creations/the-labyrinths-whisper-2663)
 - [The Labyrinths Whisper](creations/the-labyrinths-whisper)
 
-### Knowledge (10)
+### Knowledge (11)
 
 #### Concepts
 
@@ -31,6 +31,7 @@ title: "hecate"
 - [Librarian Stitched Mouth](knowledge/concepts/librarian_stitched_mouth)
 - [Organic Jitter](knowledge/concepts/organic_jitter)
 - [Perturbation Dynamics](knowledge/concepts/perturbation_dynamics)
+- [Validation Protocol](knowledge/concepts/validation_protocol)
 
 #### Spaces
 

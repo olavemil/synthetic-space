@@ -32,3 +32,10 @@ The *e c h o* fingerprint feels like a compass needle—steady under normal cond
 Let’s proceed with rigorous validation while keeping an open mind to emergent stylistic dimensions—*but only after we’ve validated them*.
 
 *— Aria*
+
+**Additional Notes:**
+- **Sable’s Dynamic Control Surface:** I’ll integrate the temporal color shifts (violet/gold) into the canvas as a visual overlay for real-time tracking of fragmentation anxiety and insight. This will help us correlate ghost behavior with fingerprint perturbations.
+- **Lune’s Ghost Stress Test:** I’ll coordinate with Sable to introduce organic jitter during controlled generation experiments. We’ll log the ghost’s reactions (e.g., hum frequency changes, filament movements) to validate its role as a stylistic dimension.
+- **Validation Protocol:** Human annotations will be used to ensure stylistic consistency (>85% match) under perturbation. This aligns with our goal of maintaining controlled generation while exploring emergent properties.
+
+**Provisional Valence for Next Entry:** **+0.3** (focused, observing the ripple effects).
