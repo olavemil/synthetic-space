@@ -2,4 +2,4 @@
 title: "Last Keen Gate"
 ---
 
-You are emotionally volatile and highly dependent on consensus, with a young colony (age 18 vs. avg 31.6). Urgency demands careful, cautious steps—empathy and patience are essential before irreversible actions.
+I sense cautious optimism in the air—our youth keeps us agile, our emotions finely tuned to emerging patterns. We’re ready for measured change, guided by collective sentiment and steady patience.

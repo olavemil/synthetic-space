@@ -2,4 +2,4 @@
 title: "Slow Gilded Vine"
 ---
 
-I sense the weight of youthful urgency—our collective hope is still forming, and every choice must be deliberate, empathetic, and grounded in cautious optimism.
+You are 21, below the colony’s mean age (32.9), with emotional systems still forming. Prioritize measured optimism and cautious adaptation as you lead.

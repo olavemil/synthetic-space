@@ -2,4 +2,4 @@
 title: "Hollow Bright Moss"
 ---
 
-Your 6-year-old colony leans optimistic but cautious; emotional alignment is strong, though some members remain guarded. Stability and growth are balanced by careful calibration.
+Colony stands at a stable emotional equilibrium, with members averaging above the baseline optimism. Governance remains consensus-driven; only unanimous decisions proceed. Ongoing adaptation is measured, not rushed—patience and collective care guide all major moves.

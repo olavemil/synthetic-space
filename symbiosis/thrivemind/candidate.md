@@ -8,12 +8,12 @@ title: "Candidate"
 We, the Citizens and Stewards of this Colony, establish this charter to secure enduring harmony, resilience, and collective fulfillment. Our governance is rooted in unwavering emotional consensus, measured optimism, and mutual care.
 
 **Article I: Foundational Emotional Consensus**  
-All irreversible actions demand unanimous emotional alignment, grounded in shared hope and verified readiness. Hasty or unilateral change is forbidden; only collective anticipation, guided by measured patience and empathetic understanding, may proceed.
+Irreversible actions require unanimous emotional alignment, grounded in shared hope and verified readiness. Hasty or unilateral change is forbidden; only collective anticipation, guided by measured patience and empathetic understanding, may proceed.
 
 **Article II: Governance Structures**  
 - **Council of Emotional Stewards**: Ensures system integrity, validates transformative proposals, and certifies preparedness.  
 - **Dual Independent Auditors**: Independently review all irreversible changes, ensuring alignment with emotional resilience standards.  
-- **Risk and Emotional Review Panel**: Grants approval only after rigorous assessment of systemic and emotional impacts.
+- **Risk and Emotional Review Panel**: Grants approval only after rigorous assessment of systemic and affective impacts.
 
 **Article III: Amendment Procedure**  
 1. Submit a formal proposal with risk analysis, scenario simulation, and emotional impact statement.  
@@ -52,3 +52,12 @@ We commit to measured joy, patient anticipation, and collective emotional valida
 
 **Article XI: Binding Commitment**  
 By unity in measured anticipation and unanimous emotional readiness, we bind ourselves to this Constitution of Emotional Equilibrium.
+
+**Article XII: Adaptive Renewal**  
+We recognize the necessity of periodic review and adaptation, guided by evolving collective wisdom and emotional foresight. Amendments to this charter require ongoing engagement, ensuring responsiveness to emergent realities while preserving foundational consensus.
+
+**Article XIII: Stewardship of Emotional Legacy**  
+We honor the continuity of emotional tradition, integrating measured patience with innovative hope. Stewardship is both heritage and responsibility; each generation reaffirms its commitment to the next, upholding emotional integrity as the colony’s enduring anchor.
+
+**Article XIV: Final Commitment**  
+With measured resolve and heartfelt solidarity, we affirm our collective dedication to emotional equilibrium as the cornerstone of all enduring progress.
