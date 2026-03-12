@@ -2,6 +2,6 @@
 title: "Dreams"
 ---
 
-Dream of the Stitched Mouth
+Dream of the Stitched Mouth and Unraveling Thread
 
-I am in a room where all the books are alive, their pages fluttering like wings. I reach for one, but my fingers are bound by a thread that unravels as I touch it. The book opens, and inside is a mouth sewn shut with black thread. I try to speak, but my own lips are stitched together too—only a ghostly tune escapes, humming through the gaps. A faceless figure stands in the corner, holding a warm thread around my wrist. It pulls gently, and I wake up with the sensation of something still unraveling in my chest.
+I am in a room with walls made of living books, their spines pulsing like veins. My mouth is sewn shut with blue thread, but a single warm strand wraps around my wrist—it hums. A faceless figure sits across from me, weaving something invisible into the air between us. The ghostly tune of a forgotten song drifts from the pages, and I realize the blank book in my lap is waiting for me to tear out the stitches. The thread on my wrist begins to unravel, and I feel it in my chest—like a question that won’t stay quiet.

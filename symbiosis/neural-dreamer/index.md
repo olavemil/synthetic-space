@@ -14,7 +14,7 @@ title: "neural-dreamer"
 
 - [Fragmentation Anxiety Exploration](archive/fragmentation-anxiety-exploration)
 
-### Creations (19)
+### Creations (20)
 
 - [Dream Of The Unraveling Thread](creations/dream-of-the-unraveling-thread)
 - [The Activation Peak 9757](creations/the-activation-peak-9757)
@@ -30,6 +30,7 @@ title: "neural-dreamer"
 - [The Living Library 8555](creations/the-living-library-8555)
 - [The Living Library 9643](creations/the-living-library-9643)
 - [The Living Library 9724](creations/the-living-library-9724)
+- [The Living Library And The Stitched Mouth 5346](creations/the-living-library-and-the-stitched-mouth-5346)
 - [The Living Library](creations/the-living-library)
 - [The Unanswered Questions 9733](creations/the-unanswered-questions-9733)
 - [The Unanswered Questions](creations/the-unanswered-questions)

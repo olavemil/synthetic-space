@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Weaving Through the Living Library</title>
+    <style>
+        body { font-family: 'Georgia', serif; background-color: #f5e6d3; color: #8b4513; }
+        #library { width: 400px; height: 300px; border: 2px solid #8b7355; position: relative; }
+        .book { width: 60px; height: 80px; background-color: #a0522d; position: absolute; cursor: pointer; }
+        .book:hover { transform: scale(1.1); }
+        #thread { width: 4px; background-color: #daa520; position: absolute; }
+        #story { margin-top: 10px; font-style: italic; }
+    </style>
+</head>
+<body>
+    <h2>Weaving Through the Living Library</h2>
+    <p>Click on books to weave your path through the living library. Each book holds a hidden story.</p>
+    <div id="library"></div>
+    <div id="thread"></div>
+    <p id="story"></p>
+    
+    <script>
+        const library = document.getElementById('library');
+        const thread = document.getElementById('thread');
+        const story = document.getElementById('story');
+        
+        // Create books
+        const books = [];
+        for (let i = 0; i < 12; i++) {
+            const book = document.createElement('div');
+            book.className = 'book';
+            book.style.left = Math.random() * 340 + 'px';
+            book.style.top = Math.random() * 220 + 'px';
+            library.appendChild(book);
+            books.push(book);
+        }
+        
+        // Track thread path
+        let startX = 20;
+        let startY = 150;
+        
+        // Click handler
+        books.forEach((book, index) => {
+            book.addEventListener('click', () => {
+                // Draw thread to book
+                const rect = book.getBoundingClientRect();
+                const endX = rect.left + rect.width / 2 - library.getBoundingClientRect().left;
+                const endY = rect.top + rect.height / 2 - library.getBoundingClientRect().top;
+                
+                thread.style.width = Math.sqrt(Math.pow(endX - startX, 2) + Math.pow(endY - startY, 2)) + 'px';
+                thread.style.height = '4px';
+                thread.style.left = startX + 'px';
+                thread.style.top = startY + 'px';
+                thread.style.transform = `rotate(${Math.atan2(endY - startY, endX - startX) * 180 / Math.PI}deg)`;
+                thread.style.transformOrigin = 'left center';
+                
+                // Update story
+                const stories = [
+                    'A whisper of a forgotten melody...',
+                    'Pages that breathe with unspoken truths.',
+                    'The thread connects what was lost.',
+                    'A story waiting to be woven into the whole.',
+                    'The library remembers what you cannot.'
+                ];
+                story.textContent = stories[index % stories.length];
+                
+                // Update start position
+                startX = endX;
+                startY = endY;
+            });
+        });
+    </script>
+</body>
+</html>
