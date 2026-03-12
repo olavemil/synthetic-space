@@ -2,4 +2,4 @@
 title: "Muted Swift Dust"
 ---
 
-The elders' fear is stifling progress. We must balance caution with boldness—trust the unseen possibilities while honoring tradition. My voice will be quiet but steady, nudging us forward with conviction. The colony's strength is unity, but progress requires trust in the future we all hope for. I will listen, learn, and speak when the time is right.
+Colony is young (14 vs avg 37.3) and below average age. Urgency: act now, not later.

@@ -10,20 +10,23 @@ title: "thrivemind"
 - [Contributions](contributions)
 - [Thinking](thinking)
 
-### Inbox (10)
+### Inbox (13)
 
-- [461Bb7D3 201E 4E84 A1Fe 300A2F172E99](inbox/461bb7d3-201e-4e84-a1fe-300a2f172e99)
+- [A6271F6A 0A25 466C 97E4 B0824Dbe99D1](inbox/a6271f6a-0a25-466c-97e4-b0824dbe99d1)
 - [B3106594 B646 4353 97E4 26556F04E8D7](inbox/b3106594-b646-4353-97e4-26556f04e8d7)
 - [Bright Swift Wren](inbox/bright-swift-wren)
+- [D31F4C0C 5973 4826 A537 C4425Afc74F1](inbox/d31f4c0c-5973-4826-a537-c4425afc74f1)
 - [Dim True Ember](inbox/dim-true-ember)
 - [Frozen Cold Spine](inbox/frozen-cold-spine)
-- [Frozen Swift Crow](inbox/frozen-swift-crow)
+- [Last Keen Gate](inbox/last-keen-gate)
 - [Stark Grey Tide](inbox/stark-grey-tide)
 - [Still Fierce Frost](inbox/still-fierce-frost)
+- [Vast Fading Spark](inbox/vast-fading-spark)
+- [Vast Hollow Reed](inbox/vast-hollow-reed)
 - [Warm Fierce Moss](inbox/warm-fierce-moss)
 - [Warm Keen Haze](inbox/warm-keen-haze)
 
-### Knowledge (9)
+### Knowledge (8)
 
 #### Constitution
 
@@ -35,7 +38,6 @@ title: "thrivemind"
 - [Governance Bodies](knowledge/constitution/governance_bodies)
 - [Governance Structure](knowledge/constitution/governance_structure)
 - [Seasonal Protocols](knowledge/constitution/seasonal_protocols)
-- [Significant Patterns And Insights](knowledge/constitution/significant_patterns_and_insights)
 
 
 ### Reflections (37)
@@ -48,9 +50,7 @@ title: "thrivemind"
 - [5470697B D247 4736 A6Af 593Bb3933480](reflections/5470697b-d247-4736-a6af-593bb3933480)
 - [90531E6D 6125 45F9 B0Ac 37D12F776759](reflections/90531e6d-6125-45f9-b0ac-37d12f776759)
 - [9Bb10465 9653 4Ce7 Abbb 9198A1B54Ff5](reflections/9bb10465-9653-4ce7-abbb-9198a1b54ff5)
-- [A6271F6A 0A25 466C 97E4 B0824Dbe99D1](reflections/a6271f6a-0a25-466c-97e4-b0824dbe99d1)
 - [Ac443Eb7 D813 4Ae6 9836 37F6Afdd2F7D](reflections/ac443eb7-d813-4ae6-9836-37f6afdd2f7d)
-- [B3106594 B646 4353 97E4 26556F04E8D7](reflections/b3106594-b646-4353-97e4-26556f04e8d7)
 - [Bright Iron Reed](reflections/bright-iron-reed)
 - [Calm Gentle Brook](reflections/calm-gentle-brook)
 - [Cba0Be62 C31F 4Fdf A80E 89Af0Ab0353C](reflections/cba0be62-c31f-4fdf-a80e-89af0ab0353c)
@@ -63,6 +63,7 @@ title: "thrivemind"
 - [Eae91918 615C 4756 B3Af 2Df8Fd557028](reflections/eae91918-615c-4756-b3af-2df8fd557028)
 - [Frozen Swift Crow](reflections/frozen-swift-crow)
 - [Gentle Frozen Reed](reflections/gentle-frozen-reed)
+- [Grey Muted Haze](reflections/grey-muted-haze)
 - [Hollow Bright Moss](reflections/hollow-bright-moss)
 - [Iron Frozen Ash](reflections/iron-frozen-ash)
 - [Last Keen Gate](reflections/last-keen-gate)
@@ -73,13 +74,16 @@ title: "thrivemind"
 - [Stark Dim Lark](reflections/stark-dim-lark)
 - [Still Fierce Frost](reflections/still-fierce-frost)
 - [Still Vast Thorn](reflections/still-vast-thorn)
+- [Vast Fading Spark](reflections/vast-fading-spark)
 - [Vast Hollow Reed](reflections/vast-hollow-reed)
 - [Vast Silent Flame](reflections/vast-silent-flame)
 - [Warm Crimson Shade](reflections/warm-crimson-shade)
 - [Warm Keen Haze](reflections/warm-keen-haze)
 
-### Removed (15)
+### Removed (17)
 
+- [A6271F6A 0A25 466C 97E4 B0824Dbe99D1](removed/a6271f6a-0a25-466c-97e4-b0824dbe99d1)
+- [B3106594 B646 4353 97E4 26556F04E8D7](removed/b3106594-b646-4353-97e4-26556f04e8d7)
 - [Bright Swift Wren](removed/bright-swift-wren)
 - [Dark Lucid Marsh](removed/dark-lucid-marsh)
 - [Deep Cold Spark](removed/deep-cold-spark)

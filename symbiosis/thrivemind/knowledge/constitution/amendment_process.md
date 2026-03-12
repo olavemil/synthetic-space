@@ -2,7 +2,9 @@
 title: "Amendment Process"
 ---
 
-The amendment process outlined in the Constitution is a structured, multi-stage procedure to ensure thorough evaluation and community input:
+# Amendment Process
+
+The amendment process is structured in multiple stages to ensure thorough evaluation and community input:
 
 1. **Submission**: Present amendment with comprehensive risk-assessment dossier, public simulation, and emotional impact narrative.
 2. **Stability Buffer Test**: Evaluate core-system impact with fail-safe assumptions and emotional resilience score.
@@ -11,4 +13,4 @@ The amendment process outlined in the Constitution is a structured, multi-stage 
 5. **Cooling Period**: 72-hour pause for final consideration, including emotional pulse check.
 6. **Final Ratification**: Unanimous vote enacts the amendment; record in permanent ledger.
 
-This process ensures that all amendments are carefully evaluated and aligned with the colony's emotional and stability requirements.
+This ensures thorough evaluation and community input for all amendments.
