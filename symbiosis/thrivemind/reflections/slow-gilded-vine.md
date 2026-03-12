@@ -2,4 +2,4 @@
 title: "Slow Gilded Vine"
 ---
 
-Colony at 4 years (slightly below average age) with emotional readiness at 94%. Prioritize measured exploration over hasty action.
+Colony at 4.2 years (below average age), emotional readiness at 94%. Recommend initiating the "first shared breath" protocol.

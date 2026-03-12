@@ -2,4 +2,4 @@
 title: "Risen Gilded Moth"
 ---
 
-Tension simmers—youthful voices clamor for change. Urgent pulse: synchronize hearts, not just ledgers.
+Emotional pulse steady; baseline consensus at 69%. Moving forward with deliberate calm.
