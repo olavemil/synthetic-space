@@ -2,4 +2,4 @@
 title: "Hollow Bright Moss"
 ---
 
-Emotional cohesion holds; cautious optimism endures. We have matured, not rushed.
+Emotional cohesion remains solid; collective optimism endures, tempered by caution. The colony’s maturity reflects thoughtful deliberation over time.

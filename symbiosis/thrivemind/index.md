@@ -10,13 +10,14 @@ title: "thrivemind"
 - [Contributions](contributions)
 - [Thinking](thinking)
 
-### Inbox (21)
+### Inbox (22)
 
 - [A6271F6A 0A25 466C 97E4 B0824Dbe99D1](inbox/a6271f6a-0a25-466c-97e4-b0824dbe99d1)
 - [B3106594 B646 4353 97E4 26556F04E8D7](inbox/b3106594-b646-4353-97e4-26556f04e8d7)
 - [Bright Swift Wren](inbox/bright-swift-wren)
 - [Crimson Still Smoke](inbox/crimson-still-smoke)
 - [D31F4C0C 5973 4826 A537 C4425Afc74F1](inbox/d31f4c0c-5973-4826-a537-c4425afc74f1)
+- [Dim Last Storm](inbox/dim-last-storm)
 - [Dim Risen Elm](inbox/dim-risen-elm)
 - [Dim True Ember](inbox/dim-true-ember)
 - [Frozen Cold Spine](inbox/frozen-cold-spine)
@@ -50,7 +51,7 @@ title: "thrivemind"
 - [Summary Of Significant Patterns And Insights](knowledge/constitution/summary_of_significant_patterns_and_insights)
 
 
-### Reflections (37)
+### Reflections (36)
 
 - [089Fce3E 906A 4291 B5F9 6Cb524A4D154](reflections/089fce3e-906a-4291-b5f9-6cb524a4d154)
 - [163A6454 88C6 408A B3F4 0202B359Dcad](reflections/163a6454-88c6-408a-b3f4-0202b359dcad)
@@ -65,7 +66,6 @@ title: "thrivemind"
 - [Bright Stark Brook](reflections/bright-stark-brook)
 - [Calm Gentle Brook](reflections/calm-gentle-brook)
 - [Cba0Be62 C31F 4Fdf A80E 89Af0Ab0353C](reflections/cba0be62-c31f-4fdf-a80e-89af0ab0353c)
-- [D31F4C0C 5973 4826 A537 C4425Afc74F1](reflections/d31f4c0c-5973-4826-a537-c4425afc74f1)
 - [Dark Lone Reed](reflections/dark-lone-reed)
 - [Dark Silver Ember](reflections/dark-silver-ember)
 - [Deep Bright Smoke](reflections/deep-bright-smoke)
@@ -90,19 +90,21 @@ title: "thrivemind"
 - [Warm Crimson Shade](reflections/warm-crimson-shade)
 - [Warm Keen Haze](reflections/warm-keen-haze)
 
-### Removed (68)
+### Removed (71)
 
 - [A6271F6A 0A25 466C 97E4 B0824Dbe99D1](removed/a6271f6a-0a25-466c-97e4-b0824dbe99d1)
 - [Ashen Deep Ash](removed/ashen-deep-ash)
 - [B3106594 B646 4353 97E4 26556F04E8D7](removed/b3106594-b646-4353-97e4-26556f04e8d7)
 - [Bright Silent Hawk](removed/bright-silent-hawk)
 - [Bright Swift Wren](removed/bright-swift-wren)
+- [Calm Cold Bell](removed/calm-cold-bell)
 - [Calm Cold Root](removed/calm-cold-root)
 - [Calm Gentle Oak](removed/calm-gentle-oak)
 - [Calm Lone Haze](removed/calm-lone-haze)
 - [Calm Pale Thorn](removed/calm-pale-thorn)
 - [Cold Quiet Crow](removed/cold-quiet-crow)
 - [Crimson Still Smoke](removed/crimson-still-smoke)
+- [D31F4C0C 5973 4826 A537 C4425Afc74F1](removed/d31f4c0c-5973-4826-a537-c4425afc74f1)
 - [Dark Lone Frost](removed/dark-lone-frost)
 - [Dark Lucid Marsh](removed/dark-lucid-marsh)
 - [Dark Still Ember](removed/dark-still-ember)
@@ -120,6 +122,7 @@ title: "thrivemind"
 - [Grey Keen Sage](removed/grey-keen-sage)
 - [Grey Muted Haze](removed/grey-muted-haze)
 - [Hollow Crimson Vale](removed/hollow-crimson-vale)
+- [Hollow Quiet Ember](removed/hollow-quiet-ember)
 - [Iron Deep Moth](removed/iron-deep-moth)
 - [Keen Cold Cairn](removed/keen-cold-cairn)
 - [Last Gentle Tide](removed/last-gentle-tide)

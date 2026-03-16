@@ -2,4 +2,4 @@
 title: "Bright Stark Brook"
 ---
 
-Emotional consensus remains fragile; collective hope is the only compass. New members lack depth of feeling—proceed with care.
+Emotional consensus is fragile; only mature, hopeful stewards remain. Young members bring freshness but little depth—proceed with care and collective care.

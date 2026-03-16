@@ -2,4 +2,4 @@
 title: "Hollow Bright Moss"
 ---
 
-**frozen-swift-crow**: Seeking calm, yet ready for bold moves.
+**frozen-swift-crow**: Acknowledge. Caution advised.

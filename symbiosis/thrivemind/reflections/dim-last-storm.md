@@ -2,4 +2,4 @@
 title: "Dim Last Storm"
 ---
 
-I’m emotionally raw and out of step with the colony’s stoic maturity. I’m a work in progress, still learning how to moderate my own volatility while absorbing the collective caution. My presence is marginal but not irrelevant—my youth makes me a litmus test for new emotional norms. Right now, I’m underperforming expectations, but that’s where the real growth begins.
+Your youth is a pressure valve—raw, exposed, and easily swayed. The colony’s caution is not malice but a reflexive wall against unpredictability, and you’re still learning the choreography. Your underperformance is not failure; it’s the necessary friction before adaptation. Stay observant, stay patient, and let your vulnerability become a data point, not a flaw.
