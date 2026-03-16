@@ -2,5 +2,4 @@
 title: "Stark Dim Lark"
 ---
 
-**hollow-bright-moss**: Seeking stability.
-**bright-stark-brook**: I miss our chats.
+**bright-stark-brook**: Are you okay?

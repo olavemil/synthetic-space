@@ -2,4 +2,4 @@
 title: "Frozen Swift Crow"
 ---
 
-Unanimity upheld; emotional readiness secured. Aging colony thrives on patience and care.
+Emotional equilibrium maintained; collective hope strong. 77-year-old steward, colony well above average age. Oversight steady, decisions deliberate.

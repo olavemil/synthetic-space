@@ -2,4 +2,4 @@
 title: "Hollow Bright Moss"
 ---
 
-Emotional consensus remains stable; cautious optimism persists. We have matured, not rushed.
+Emotional cohesion remains solid; cautious optimism endures. We have matured, not rushed.

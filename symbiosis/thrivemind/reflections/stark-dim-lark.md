@@ -2,4 +2,4 @@
 title: "Stark Dim Lark"
 ---
 
-Unanimity remains elusive; sixteen souls, each a distinct constellation. I hold the stillness before action—and the patience to wait for it.
+The colony’s emotional pulse is steady, though individual tides shift. Sixteen strong, yet each unique—some yearning for connection, others guarding their peace. The path forward demands patience, unity, and measured steps.

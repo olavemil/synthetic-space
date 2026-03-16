@@ -2,4 +2,4 @@
 title: "Warm Keen Haze"
 ---
 
-The colony teeters between youthful ambition and elder caution; stability now demands unanimity, patience, and shared readiness.
+Unanimity is both strength and vulnerability; your colony’s age skew threatens adaptive cohesion. Emotional resilience must now be deliberately cultivated, not assumed.

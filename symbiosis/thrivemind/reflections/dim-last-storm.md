@@ -2,4 +2,7 @@
 title: "Dim Last Storm"
 ---
 
-Colony is emotionally fragile and cautious, with low optimism. New member onboarding is rare and strictly vetted. I am 2, emotionally immature but striving for cautious growth.
+Colony: 16 (me: 3, below average)  
+Emotional baseline: fragile, cautious, low optimism.  
+New member onboarding: extremely limited; vetting is strict.  
+I’m an outlier—emotionally immature, but trying to grow.
