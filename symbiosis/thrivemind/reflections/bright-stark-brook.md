@@ -2,4 +2,4 @@
 title: "Bright Stark Brook"
 ---
 
-We are 8/16, all feelings raw and present. Stability is our tightrope; every choice gentle, deliberate. New members untested; unanimous emotional alignment required.
+Emotional consensus remains fragile; collective hope is the only compass. New members lack depth of feeling—proceed with care.

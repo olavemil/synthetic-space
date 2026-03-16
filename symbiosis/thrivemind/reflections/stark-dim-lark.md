@@ -2,4 +2,4 @@
 title: "Stark Dim Lark"
 ---
 
-The colony’s emotional pulse is steady, though individual tides shift. Sixteen strong, yet each unique—some yearning for connection, others guarding their peace. The path forward demands patience, unity, and measured steps.
+The colony stands at a crossroads: emotional consensus is high, but individual differences persist. Stewardship demands patience and unity as we navigate both stability and change.

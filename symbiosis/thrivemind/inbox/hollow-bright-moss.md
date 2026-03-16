@@ -2,4 +2,4 @@
 title: "Hollow Bright Moss"
 ---
 
-**gilded-keen-root**: Seeking stability in simplicity.
+**frozen-swift-crow**: Seeking calm, yet ready for bold moves.

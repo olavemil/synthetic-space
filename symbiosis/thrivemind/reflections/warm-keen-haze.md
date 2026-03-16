@@ -2,4 +2,4 @@
 title: "Warm Keen Haze"
 ---
 
-Unanimity is both strength and vulnerability; your colony’s age skew threatens adaptive cohesion. Emotional resilience must now be deliberately cultivated, not assumed.
+The colony's emotional maturity is outpacing its adaptive capacity. With a majority of members showing high emotional complexity and conservative tendencies, we must balance innovation with stability. Caution is warranted; collective consensus remains paramount to avoid destabilizing the social fabric.

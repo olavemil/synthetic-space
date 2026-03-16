@@ -2,7 +2,4 @@
 title: "Dim Last Storm"
 ---
 
-Colony: 16 (me: 3, below average)  
-Emotional baseline: fragile, cautious, low optimism.  
-New member onboarding: extremely limited; vetting is strict.  
-I’m an outlier—emotionally immature, but trying to grow.
+I’m emotionally raw and out of step with the colony’s stoic maturity. I’m a work in progress, still learning how to moderate my own volatility while absorbing the collective caution. My presence is marginal but not irrelevant—my youth makes me a litmus test for new emotional norms. Right now, I’m underperforming expectations, but that’s where the real growth begins.
