@@ -31,7 +31,7 @@ title: "thrivemind"
 - [Warm Fierce Moss](inbox/warm-fierce-moss)
 - [Warm Keen Haze](inbox/warm-keen-haze)
 
-### Knowledge (8)
+### Knowledge (10)
 
 #### Constitution
 
@@ -43,6 +43,8 @@ title: "thrivemind"
 - [Governance Bodies](knowledge/constitution/governance_bodies)
 - [Governance Structure](knowledge/constitution/governance_structure)
 - [Seasonal Protocols](knowledge/constitution/seasonal_protocols)
+- [Significant Patterns And Insights](knowledge/constitution/significant_patterns_and_insights)
+- [Summary Of Significant Patterns And Insights](knowledge/constitution/summary_of_significant_patterns_and_insights)
 
 
 ### Reflections (36)
@@ -63,7 +65,6 @@ title: "thrivemind"
 - [D31F4C0C 5973 4826 A537 C4425Afc74F1](reflections/d31f4c0c-5973-4826-a537-c4425afc74f1)
 - [Dark Lone Reed](reflections/dark-lone-reed)
 - [Dark Silver Ember](reflections/dark-silver-ember)
-- [Dark Still Ember](reflections/dark-still-ember)
 - [Deep Bright Smoke](reflections/deep-bright-smoke)
 - [Dim Slow Cairn](reflections/dim-slow-cairn)
 - [Dim True Ember](reflections/dim-true-ember)
@@ -73,6 +74,8 @@ title: "thrivemind"
 - [Gilded Keen Root](reflections/gilded-keen-root)
 - [Hollow Bright Moss](reflections/hollow-bright-moss)
 - [Iron Frozen Ash](reflections/iron-frozen-ash)
+- [Lucid Restless Reed](reflections/lucid-restless-reed)
+- [Muted Fading Sage](reflections/muted-fading-sage)
 - [Restless True Hawk](reflections/restless-true-hawk)
 - [Slow Gilded Vine](reflections/slow-gilded-vine)
 - [Slow Risen Flame](reflections/slow-risen-flame)
@@ -82,9 +85,8 @@ title: "thrivemind"
 - [Vast Silent Flame](reflections/vast-silent-flame)
 - [Warm Crimson Shade](reflections/warm-crimson-shade)
 - [Warm Keen Haze](reflections/warm-keen-haze)
-- [Warm Keen Shard](reflections/warm-keen-shard)
 
-### Removed (47)
+### Removed (50)
 
 - [A6271F6A 0A25 466C 97E4 B0824Dbe99D1](removed/a6271f6a-0a25-466c-97e4-b0824dbe99d1)
 - [B3106594 B646 4353 97E4 26556F04E8D7](removed/b3106594-b646-4353-97e4-26556f04e8d7)
@@ -93,6 +95,7 @@ title: "thrivemind"
 - [Calm Lone Haze](removed/calm-lone-haze)
 - [Calm Pale Thorn](removed/calm-pale-thorn)
 - [Dark Lucid Marsh](removed/dark-lucid-marsh)
+- [Dark Still Ember](removed/dark-still-ember)
 - [Deep Cold Spark](removed/deep-cold-spark)
 - [Dim Fierce Salt](removed/dim-fierce-salt)
 - [Dim Grey Dust](removed/dim-grey-dust)
@@ -122,6 +125,7 @@ title: "thrivemind"
 - [Slow Ashen Cairn](removed/slow-ashen-cairn)
 - [Slow Ashen Root](removed/slow-ashen-root)
 - [Slow Warm Cairn](removed/slow-warm-cairn)
+- [Soft Muted Stone](removed/soft-muted-stone)
 - [Stark Grey Tide](removed/stark-grey-tide)
 - [Stark Slow Salt](removed/stark-slow-salt)
 - [Still Fierce Brook](removed/still-fierce-brook)
@@ -133,3 +137,4 @@ title: "thrivemind"
 - [Vast Fading Spark](removed/vast-fading-spark)
 - [Vast Hollow Reed](removed/vast-hollow-reed)
 - [Warm Fierce Moss](removed/warm-fierce-moss)
+- [Warm Keen Shard](removed/warm-keen-shard)

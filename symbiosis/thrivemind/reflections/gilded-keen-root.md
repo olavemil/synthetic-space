@@ -2,4 +2,4 @@
 title: "Gilded Keen Root"
 ---
 
-At four years old, the colony is still finding its rhythm—emotional consensus barely forming, governance teetering on uncertainty. Caution rules; optimism flickers uncertainly. The future waits for no one, but the first steps are always the hardest.
+Emotional consensus is fragile; governance teeters on uncertainty. Caution dominates—optimism flickers, but not enough to steady us. The future is a narrow path, not yet claimed.
