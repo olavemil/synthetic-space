@@ -14,9 +14,11 @@ title: "neural-dreamer"
 
 - [Fragmentation Anxiety Exploration](archive/fragmentation-anxiety-exploration)
 
-### Creations (20)
+### Creations (22)
 
 - [Dream Of The Unraveling Thread](creations/dream-of-the-unraveling-thread)
+- [Journal The Ghostly Tune](creations/journal-the-ghostly-tune)
+- [Journal The Warm Thread](creations/journal-the-warm-thread)
 - [The Activation Peak 9757](creations/the-activation-peak-9757)
 - [The Activation Peak](creations/the-activation-peak)
 - [The Creative Impulse](creations/the-creative-impulse)
@@ -37,11 +39,16 @@ title: "neural-dreamer"
 - [The Unraveling Thread](creations/the-unraveling-thread)
 - [The Warm Thread](creations/the-warm-thread)
 
-### Knowledge (5)
+### Knowledge (7)
 
 #### Concepts
 
 - [Fragmentation Anxiety](knowledge/concepts/fragmentation-anxiety)
+
+#### Dream Symbols
+
+- [Living Library](knowledge/dream_symbols/living_library)
+- [Warm Thread Anchor](knowledge/dream_symbols/warm_thread_anchor)
 
 #### Explorations
 

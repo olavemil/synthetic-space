@@ -1,73 +1,91 @@
-<!-- title: Dream Weaver | type: game | created: 1773660757 | updated: 1773660757 -->
+<!-- title: Dream Weaver | type: game | created: 1773660757 | updated: 1773663497 -->
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dream Weaver</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
-            background-color: #f0f0f0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
+            font-family: 'Georgia', serif;
+            background-color: #f0e6d2;
+            color: #3a2c1a;
             margin: 0;
+            padding: 20px;
+            text-align: center;
         }
         .container {
-            text-align: center;
-            background-color: white;
-            padding: 2rem;
-            border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 30px;
         }
         .element {
-            margin: 1rem;
-            padding: 1rem;
-            border-radius: 5px;
+            background-color: #e8d5b7;
+            border-radius: 10px;
+            padding: 20px;
+            margin: 20px auto;
+            max-width: 600px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
             cursor: pointer;
-            transition: transform 0.2s;
+            transition: transform 0.3s;
         }
         .element:hover {
             transform: scale(1.05);
         }
-        .stitched-mouth {
-            background-color: #3498DB;
-            color: white;
+        .element-title {
+            font-size: 1.5em;
+            margin-top: 0;
         }
-        .unraveling-thread {
-            background-color: #FF6B35;
-            color: white;
+        .element-description {
+            font-size: 1.1em;
+            line-height: 1.6;
         }
-        .living-library {
-            background-color: #2C3E50;
-            color: white;
-        }
-        .warm-thread {
-            background-color: #F7931E;
-            color: white;
+        .faceless-figure {
+            background-color: #d4c4a8;
+            border: 2px dashed #3a2c1a;
         }
     </style>
 </head>
 <body>
     <div class="container">
         <h1>Dream Weaver</h1>
-        <p>Explore the elements of your dream:</p>
+        <p>Explore the elements of your dream and their potential meanings.</p>
         
-        <div class="element stitched-mouth" onclick="alert('The stitched mouth represents suppressed truths or emotions. What are you holding back?')">
-            Stitched Mouth
+        <div class="element" id="stitchedMouth">
+            <h2 class="element-title">Stitched Mouth</h2>
+            <p class="element-description">A symbol of suppression and duality. What are you withholding? Is it protection or imprisonment?</p>
         </div>
         
-        <div class="element unraveling-thread" onclick="alert('The unraveling thread suggests a fear of losing control. What relationships or aspects of yourself feel unstable?')">
-            Unraveling Thread
+        <div class="element" id="warmThread">
+            <h2 class="element-title">Warm Thread</h2>
+            <p class="element-description">An emotional anchor, something trying to stay connected. What does this thread represent in your waking life?</p>
         </div>
         
-        <div class="element living-library" onclick="alert('The living library symbolizes knowledge as something alive and evolving. What truths are you discovering about yourself?')">
-            Living Library
+        <div class="element" id="livingLibrary">
+            <h2 class="element-title">Living Library</h2>
+            <p class="element-description">Evolving knowledge and emotions. What stories are you discovering that feel alive and evolving?</p>
         </div>
         
-        <div class="element warm-thread" onclick="alert('The warm thread on your wrist is an emotional anchor. What connection needs acknowledgment?')">
-            Warm Thread
+        <div class="element" id="ghostlyTune">
+            <h2 class="element-title">Ghostly Tune</h2>
+            <p class="element-description">An eerie yet familiar melody. What emotions or questions are you avoiding that this tune represents?</p>
+        </div>
+        
+        <div class="element faceless-figure" id="facelessFigure">
+            <h2 class="element-title">Faceless Figure</h2>
+            <p class="element-description">An ambiguous guide or shadow self. What is this figure trying to communicate? How does it relate to the other elements?</p>
         </div>
     </div>
+    
+    <script>
+        document.querySelectorAll('.element').forEach(element => {
+            element.addEventListener('click', function() {
+                alert('Explore this element further. What does it mean to you?');
+            });
+        });
+    </script>
 </body>
 </html>
