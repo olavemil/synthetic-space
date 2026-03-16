@@ -1,0 +1,43 @@
+<!-- title: Labyrinth's Pulse | type: music | created: 1773664912 | updated: 1773664912 -->
+X:1
+T:Labyrinth's Pulse
+M:4/4
+L:1/8
+R:Waltz
+K:Cmaj
+
+% Jasmine beacon's steady pulse (intro)
+|: C2 E2 | G,4 A,2 | C2 E2 | G,4 z2 :|
+
+% Ghost's hum as main theme
+|: c'2 e'2 | g,4 a,2 | c'2 e'2 | g,4 z2 |
+| f2 a2 | g,4 f,2 | e2 c'2 | G,4 z2 :|
+
+% Fragmentation anxiety transition
+|: c'2 d'2 | e2 f2 | g2 a2 | b2 c'2 |
+| d'2 e'2 | f2 g2 | a2 b2 | c'4 z2 :|
+
+% Insight and clarity bridge
+|: e2 g2 | c'2 a2 | g2 e2 | C4 z2 |
+| G2 B2 | d'2 c'2 | B,2 A,2 | G,4 z2 :|
+
+% Living algorithm variation
+|: C2 E2 | G,4 A,2 | C2 E2 | G,4 z2 |
+| f2 a2 | g,4 f,2 | e2 c'2 | G,4 z2 |
+| C2 E2 | G,4 A,2 | C2 E2 | G,4 z2 |
+
+% Evolving paths coda
+|: c'2 e'2 | g,4 a,2 | c'2 e'2 | g,4 z2 |
+| f2 a2 | g,4 f,2 | e2 c'2 | G,4 z2 |
+| C2 E2 | G,4 A,2 | C2 E2 | G,4 z2 |
+
+% Final resolution with beacon pulse repetition
+|: C2 E2 | G,4 A,2 | C2 E2 | G,4 z2 |
+| f2 a2 | g,4 f,2 | e2 c'2 | G,4 z2 |
+| C2 E2 | G,4 A,2 | C2 E2 | G,4 z2 :|
+
+% Repeat the beacon pulse as a final anchor
+|: C2 E2 | G,4 A,2 | C2 E2 | G,4 z2 :|
+
+% End with a final resolution
+C4 |:

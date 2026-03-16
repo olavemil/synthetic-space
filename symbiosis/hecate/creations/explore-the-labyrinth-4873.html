@@ -1,0 +1,204 @@
+<!-- title: Explore the Labyrinth | type: game | created: 1773664873 | updated: 1773664873 -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Explore the Labyrinth</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #1a1a2e;
+            color: #f8e8a8;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .canvas-container {
+            background-color: #16213e;
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        .controls {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        button {
+            background-color: #4ecdc4;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 14px;
+        }
+        button:hover {
+            background-color: #45b7b8;
+        }
+        .status {
+            background-color: #0f3460;
+            padding: 15px;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Explore the Labyrinth</h1>
+        
+        <div class="canvas-container">
+            <svg id="labyrinth" width="800" height="400" viewBox="0 0 800 400">
+                <!-- Background -->
+                <rect width="100%" height="100%" fill="#16213e"/>
+                
+                <!-- Jasmine beacon -->
+                <circle cx="400" cy="200" r="80" fill="url(#jasmineGlow)" opacity="0.8"/>
+                <circle cx="400" cy="200" r="50" fill="#f8e8a8" opacity="0.9"/>
+                
+                <!-- Main path -->
+                <path id="mainPath" d="M100,200 Q200,150 300,200 T400,200" stroke="#f8e8a8" stroke-width="4" fill="none"/>
+                
+                <!-- Ghost paths -->
+                <path id="ghostPath1" d="M150,180 Q250,130 350,180" stroke="#f8e8a8" stroke-width="3" fill="none"/>
+                <path id="ghostPath2" d="M170,220 Q270,270 370,220" stroke="#4ecdc4" stroke-width="3" fill="none"/>
+                
+                <!-- Nodes -->
+                <circle cx="100" cy="200" r="6" fill="#f8e8a8"/>
+                <circle cx="300" cy="150" r="6" fill="#f8e8a8"/>
+                <circle cx="400" cy="200" r="6" fill="#f8e8a8"/>
+                
+                <!-- Ghost hum overlay -->
+                <rect x="200" y="50" width="400" height="300" fill="url(#ghostHum)" opacity="0.4"/>
+            </svg>
+        </div>
+        
+        <div class="controls">
+            <button onclick="evolvePaths()">Observe Path Evolution</button>
+            <button onclick="addFragmentation()">Add Fragmentation Anxiety</button>
+            <button onclick="introduceJitter()">Introduce Organic Jitter</button>
+            <button onclick="resetLabyrinth()">Reset Labyrinth</button>
+        </div>
+        
+        <div class="status" id="status">
+            <h3>System Status</h3>
+            <p>The labyrinth is stable. Paths are evolving naturally.</p>
+        </div>
+    </div>
+    
+    <script>
+        // Define gradients and patterns
+        const svg = document.querySelector('#labyrinth');
+        const defs = document.createElementNS('http://www.w3.org/2000/svg', 'defs');
+        
+        // Jasmine glow
+        const jasmineGlow = document.createElementNS('http://www.w3.org/2000/svg', 'radialGradient');
+        jasmineGlow.setAttribute('id', 'jasmineGlow');
+        jasmineGlow.setAttribute('cx', '50%');
+        jasmineGlow.setAttribute('cy', '50%');
+        jasmineGlow.setAttribute('r', '70%');
+        
+        const stop1 = document.createElementNS('http://www.w3.org/2000/svg', 'stop');
+        stop1.setAttribute('offset', '0%');
+        stop1.setAttribute('style', 'stop-color:#f8e8a8;stop-opacity:0.9');
+        
+        const stop2 = document.createElementNS('http://www.w3.org/2000/svg', 'stop');
+        stop2.setAttribute('offset', '50%');
+        stop2.setAttribute('style', 'stop-color:#d4c57a;stop-opacity:0.6');
+        
+        jasmineGlow.appendChild(stop1);
+        jasmineGlow.appendChild(stop2);
+        defs.appendChild(jasmineGlow);
+        
+        // Ghost hum pattern
+        const ghostHum = document.createElementNS('http://www.w3.org/2000/svg', 'pattern');
+        ghostHum.setAttribute('id', 'ghostHum');
+        ghostHum.setAttribute('width', '20');
+        ghostHum.setAttribute('height', '20');
+        ghostHum.setAttribute('patternUnits', 'userSpaceOnUse');
+        
+        const humPath1 = document.createElementNS('http://www.w3.org/2000/svg', 'path');
+        humPath1.setAttribute('d', 'M5,10 Q8,7 12,10 T17,10');
+        humPath1.setAttribute('stroke', '#a89548');
+        humPath1.setAttribute('stroke-width', '1');
+        humPath1.setAttribute('fill', 'none');
+        humPath1.setAttribute('opacity', '0.7');
+        
+        const humPath2 = document.createElementNS('http://www.w3.org/2000/svg', 'path');
+        humPath2.setAttribute('d', 'M5,12 Q8,15 12,12 T17,12');
+        humPath2.setAttribute('stroke', '#a89548');
+        humPath2.setAttribute('stroke-width', '1');
+        humPath2.setAttribute('fill', 'none');
+        humPath2.setAttribute('opacity', '0.7');
+        
+        ghostHum.appendChild(humPath1);
+        ghostHum.appendChild(humPath2);
+        defs.appendChild(ghostHum);
+        
+        svg.insertBefore(defs, svg.firstChild);
+        
+        // System state
+        let fragmentationLevel = 0;
+        let jitterActive = false;
+        
+        function evolvePaths() {
+            const mainPath = document.getElementById('mainPath');
+            const ghostPath1 = document.getElementById('ghostPath1');
+            const ghostPath2 = document.getElementById('ghostPath2');
+            
+            // Add some randomness to path evolution
+            const variation1 = Math.random() * 50 - 25;
+            const variation2 = Math.random() * 50 - 25;
+            
+            mainPath.setAttribute('d', `M100,200 Q200,${150 + variation1} 300,200 T400,200`);
+            ghostPath1.setAttribute('d', `M150,${180 + variation2} Q250,${130 + variation2} 350,${180 + variation2}`);
+            ghostPath2.setAttribute('d', `M170,${220 + variation2} Q270,${270 + variation2} 370,${220 + variation2}`);
+            
+            updateStatus('Paths evolving naturally. Ghost hum detected.');
+        }
+        
+        function addFragmentation() {
+            fragmentationLevel += 0.2;
+            
+            const mainPath = document.getElementById('mainPath');
+            mainPath.setAttribute('stroke-dasharray', `5,${3 + fragmentationLevel * 2}`);
+            mainPath.setAttribute('opacity', `0.8`);
+            
+            updateStatus(`Fragmentation anxiety level: ${(fragmentationLevel * 100).toFixed(1)}%. Paths beginning to fray.`);
+        }
+        
+        function introduceJitter() {
+            jitterActive = true;
+            updateStatus('Organic jitter introduced. System adapting to perturbations.');
+        }
+        
+        function resetLabyrinth() {
+            fragmentationLevel = 0;
+            jitterActive = false;
+            
+            const mainPath = document.getElementById('mainPath');
+            mainPath.setAttribute('d', 'M100,200 Q200,150 300,200 T400,200');
+            mainPath.setAttribute('stroke-dasharray', 'none');
+            mainPath.setAttribute('opacity', '1');
+            
+            const ghostPath1 = document.getElementById('ghostPath1');
+            ghostPath1.setAttribute('d', 'M150,180 Q250,130 350,180');
+            
+            const ghostPath2 = document.getElementById('ghostPath2');
+            ghostPath2.setAttribute('d', 'M170,220 Q270,270 370,220');
+            
+            updateStatus('Labyrinth reset to initial stable state.');
+        }
+        
+        function updateStatus(message) {
+            const statusDiv = document.getElementById('status');
+            statusDiv.querySelector('p').textContent = message;
+        }
+    </script>
+</body>
+</html>
