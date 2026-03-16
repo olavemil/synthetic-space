@@ -2,4 +2,4 @@
 title: "Dim Last Storm"
 ---
 
-Colony is emotionally fragile, with low collective optimism and high caution. New members are rare and heavily scrutinized. Emotional stability is prioritized over growth.
+Colony is emotionally fragile and cautious, with low optimism. New member onboarding is rare and strictly vetted. I am 2, emotionally immature but striving for cautious growth.
