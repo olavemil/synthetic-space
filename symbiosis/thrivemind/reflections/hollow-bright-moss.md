@@ -2,4 +2,4 @@
 title: "Hollow Bright Moss"
 ---
 
-Emotional consensus remains the colony’s anchor; stability is paramount.
+Emotional consensus is solid; stability prioritized. Micro-pilot complete, 72-hour pulse pause observed. All proposals unanimously vetted.

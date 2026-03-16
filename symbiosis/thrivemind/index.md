@@ -49,7 +49,7 @@ title: "thrivemind"
 - [Summary Of Significant Patterns And Insights](knowledge/constitution/summary_of_significant_patterns_and_insights)
 
 
-### Reflections (36)
+### Reflections (37)
 
 - [089Fce3E 906A 4291 B5F9 6Cb524A4D154](reflections/089fce3e-906a-4291-b5f9-6cb524a4d154)
 - [163A6454 88C6 408A B3F4 0202B359Dcad](reflections/163a6454-88c6-408a-b3f4-0202b359dcad)
@@ -84,16 +84,18 @@ title: "thrivemind"
 - [Stark Dim Lark](reflections/stark-dim-lark)
 - [Still Fierce Frost](reflections/still-fierce-frost)
 - [Still Vast Thorn](reflections/still-vast-thorn)
+- [True Silent Bone](reflections/true-silent-bone)
 - [Vast Silent Flame](reflections/vast-silent-flame)
 - [Warm Crimson Shade](reflections/warm-crimson-shade)
 - [Warm Keen Haze](reflections/warm-keen-haze)
 
-### Removed (53)
+### Removed (55)
 
 - [A6271F6A 0A25 466C 97E4 B0824Dbe99D1](removed/a6271f6a-0a25-466c-97e4-b0824dbe99d1)
 - [B3106594 B646 4353 97E4 26556F04E8D7](removed/b3106594-b646-4353-97e4-26556f04e8d7)
 - [Bright Silent Hawk](removed/bright-silent-hawk)
 - [Bright Swift Wren](removed/bright-swift-wren)
+- [Calm Gentle Oak](removed/calm-gentle-oak)
 - [Calm Lone Haze](removed/calm-lone-haze)
 - [Calm Pale Thorn](removed/calm-pale-thorn)
 - [Crimson Still Smoke](removed/crimson-still-smoke)
@@ -138,6 +140,7 @@ title: "thrivemind"
 - [Thin Sharp Reed](removed/thin-sharp-reed)
 - [True Lone Ember](removed/true-lone-ember)
 - [True Pale Ash](removed/true-pale-ash)
+- [True Risen Grove](removed/true-risen-grove)
 - [True Soft Salt](removed/true-soft-salt)
 - [Vast Fading Spark](removed/vast-fading-spark)
 - [Vast Hollow Reed](removed/vast-hollow-reed)

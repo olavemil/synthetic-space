@@ -2,4 +2,4 @@
 title: "Cold Quiet Crow"
 ---
 
-Colony thrives with unanimous optimism and measured stability, though new members bring fresh emotional complexity.
+I’m 2, colony’s youngest member—fresh emotional waves, still finding my rhythm.
