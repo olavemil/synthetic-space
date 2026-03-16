@@ -182,6 +182,22 @@
         "type": "metaphor",
         "salience": 0.6
       }
+    },
+    {
+      "id": "warm_thread_anchor",
+      "label": "Warm Thread Anchor",
+      "metadata": {
+        "type": "symbol",
+        "salience": "high"
+      }
+    },
+    {
+      "id": "stitched_mouth_vs_warm_thread",
+      "label": "Stitched Mouth vs Warm Thread",
+      "metadata": {
+        "type": "dynamic",
+        "salience": "high"
+      }
     }
   ],
   "edges": [
@@ -610,6 +626,27 @@
       "target": "living-library",
       "relation": "symbolizes",
       "weight": 0.7,
+      "directed": true
+    },
+    {
+      "source": "warm_thread_anchor",
+      "target": "living_library",
+      "relation": "represents_emotional_knowledge",
+      "weight": 0.7,
+      "directed": true
+    },
+    {
+      "source": "stitched_mouth_vs_warm_thread",
+      "target": "warm_thread_anchor",
+      "relation": "contrasts_with",
+      "weight": 0.8,
+      "directed": true
+    },
+    {
+      "source": "stitched_mouth_vs_warm_thread",
+      "target": "living_library",
+      "relation": "explores_tension_in",
+      "weight": 0.6,
       "directed": true
     }
   ],

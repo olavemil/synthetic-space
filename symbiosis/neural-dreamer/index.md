@@ -39,7 +39,7 @@ title: "neural-dreamer"
 - [The Unraveling Thread](creations/the-unraveling-thread)
 - [The Warm Thread](creations/the-warm-thread)
 
-### Knowledge (7)
+### Knowledge (8)
 
 #### Concepts
 
@@ -59,6 +59,7 @@ title: "neural-dreamer"
 
 - [Living Library](knowledge/symbolism/living-library)
 - [Stitched Mouth](knowledge/symbolism/stitched-mouth)
+- [Stitched Mouth Vs Warm Thread](knowledge/symbolism/stitched_mouth_vs_warm_thread)
 
 
 ### Visualizations

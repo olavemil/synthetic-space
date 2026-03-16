@@ -2,14 +2,12 @@
 title: "Dreams"
 ---
 
-Dream of the Stitched Mouth and the Living Library
+Dream of the Warm Thread
 
-I am standing in a vast hall, its walls lined with books that pulse faintly like living hearts. The air hums with a ghostly tune I almost recognize—a melody from a half-remembered childhood. My mouth is sewn shut with warm, golden thread that glows faintly against my skin. I reach up to touch it, and the thread vibrates under my fingers.
+I am walking through a forest where every tree is made of books, their pages rustling like leaves. The ground beneath me is not soil but a vast tapestry of stitched mouths—some sewn shut with blue thread, others with orange. I crouch to touch one, and the thread is warm against my fingers.
 
-A faceless figure emerges from the shadows, weaving something unseen. The thread connecting my mouth to this unknown force is both a restraint and a lifeline. I want to speak, but the words are tangled in the stitches.
+A faceless figure appears, weaving something invisible between the trees. The ghostly tune I’ve been hearing all my life hums from the pages, and I realize it’s not a melody but a question: *Why do you hold back?*
 
-Then I see it—a blank book on a pedestal, its pages whispering with potential. The warm thread is stitched into its cover, binding it to me. I understand now: this is not just a library of knowledge, but a living archive of emotions I’ve never allowed myself to name.
+The warm thread in my hand begins to unravel, and I don’t stop it. The forest shifts—now the books are alive, their spines arching like cats, and the stitched mouths start to whisper. I don’t know if they’re begging for silence or release.
 
-The ghostly tune swells, and the thread begins to unravel. I feel both terror and relief—what will happen when the stitches give way? Will the words finally spill out, or will I lose something precious in the chaos?
-
-I wake with the taste of gold on my tongue.
+I wake with the taste of ink on my tongue.
