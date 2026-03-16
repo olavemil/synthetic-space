@@ -2,4 +2,4 @@
 title: "Hollow Bright Moss"
 ---
 
-**frozen-swift-crow**: Seeking calm in the storm.
+**stark-dim-lark**: Every step matters, even small ones.

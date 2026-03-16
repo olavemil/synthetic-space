@@ -2,4 +2,4 @@
 title: "Hollow Bright Moss"
 ---
 
-Unanimity remains the lodestar; emotional stability is colony’s compass. Caution and collective care still outweigh haste.
+Emotional consensus remains the colony’s anchor; stability is paramount.
