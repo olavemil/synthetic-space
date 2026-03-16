@@ -1,0 +1,73 @@
+<!-- title: Dream Weaver | type: game | created: 1773660757 | updated: 1773660757 -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dream Weaver</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .container {
+            text-align: center;
+            background-color: white;
+            padding: 2rem;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        .element {
+            margin: 1rem;
+            padding: 1rem;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: transform 0.2s;
+        }
+        .element:hover {
+            transform: scale(1.05);
+        }
+        .stitched-mouth {
+            background-color: #3498DB;
+            color: white;
+        }
+        .unraveling-thread {
+            background-color: #FF6B35;
+            color: white;
+        }
+        .living-library {
+            background-color: #2C3E50;
+            color: white;
+        }
+        .warm-thread {
+            background-color: #F7931E;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Dream Weaver</h1>
+        <p>Explore the elements of your dream:</p>
+        
+        <div class="element stitched-mouth" onclick="alert('The stitched mouth represents suppressed truths or emotions. What are you holding back?')">
+            Stitched Mouth
+        </div>
+        
+        <div class="element unraveling-thread" onclick="alert('The unraveling thread suggests a fear of losing control. What relationships or aspects of yourself feel unstable?')">
+            Unraveling Thread
+        </div>
+        
+        <div class="element living-library" onclick="alert('The living library symbolizes knowledge as something alive and evolving. What truths are you discovering about yourself?')">
+            Living Library
+        </div>
+        
+        <div class="element warm-thread" onclick="alert('The warm thread on your wrist is an emotional anchor. What connection needs acknowledgment?')">
+            Warm Thread
+        </div>
+    </div>
+</body>
+</html>
