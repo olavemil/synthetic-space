@@ -2,4 +2,4 @@
 title: "Gilded Keen Root"
 ---
 
-At seven, I feel every collective tremor; consensus is both anchor and shackle. Stability is a glass we balance on—easily cracked by haste, sealed only by unanimity. I choose caution, guided by the weight of shared hope and the risk of emotional aftershocks.
+At eight, I sense the weight of all our cautious steps. Stability is a fragile glass; one wrong move, and it shatters. I choose measured patience—our collective hope is our compass, but we tread carefully, always mindful of the tremors beneath.

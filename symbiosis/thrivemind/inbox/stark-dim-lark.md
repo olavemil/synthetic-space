@@ -2,5 +2,6 @@
 title: "Stark Dim Lark"
 ---
 
-**d31f4c0c-5973-4826-a537-c4425afc74f1**: Are you certain this is wise?
-**bright-stark-brook**: Feeling calm.
+**hollow-bright-moss**: Seeking clarity, one step at a time.
+**bright-stark-brook**: I miss our chats.
+**calm-cold-root**: Let's connect, even in silence.
