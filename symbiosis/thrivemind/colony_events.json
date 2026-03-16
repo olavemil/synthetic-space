@@ -1,1 +1,1 @@
-[{"type": "constitution_vote", "accepted": true, "ratio": 1.0, "rounds": 1, "time": 1773665056}, {"type": "spawn", "removed": ["cold-quiet-crow", "true-silent-bone", "lucid-fading-gate"], "spawned": 3, "colony_size": 16, "time": 1773665129}]
+[{"type": "constitution_vote", "accepted": true, "ratio": 0.938, "rounds": 1, "time": 1773666014}, {"type": "spawn", "removed": ["calm-cold-root", "gilded-true-vine"], "spawned": 2, "colony_size": 16, "time": 1773666084}]

@@ -2,4 +2,4 @@
 title: "Frozen Swift Crow"
 ---
 
-Unanimity remains the lodestar; emotional readiness, not haste, guides our next steps. Age has tempered wisdom—patience and empathy now anchor us.
+Unanimity is achieved; emotional readiness upheld. Stability prioritized over haste. Aging colony, wiser—patience and empathy anchor us.

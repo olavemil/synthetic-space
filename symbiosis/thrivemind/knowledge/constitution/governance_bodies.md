@@ -6,8 +6,8 @@ title: "Governance Bodies"
 
 The Constitution establishes several governance bodies to oversee stability, validation, and risk assessment:
 
-- **Council of Elders**: Oversees stability metrics, validates trials, and certifies readiness.
-- **Dual Independent Auditors**: Mandatory for approval of all irreversible changes.
-- **Risk-Review Panel**: Provides unanimous assessment before any amendment proceeds.
+- **Council of Elders**: Oversees system stability and validates trials.
+- **Dual Independent Auditors**: Approve all irreversible amendments.
+- **Risk-Review Panel**: Evaluates impact and emotional resilience.
 
-These bodies ensure that all changes are thoroughly evaluated and aligned with the colony's emotional and stability requirements.
+These bodies ensure that all changes are thoroughly evaluated before implementation.

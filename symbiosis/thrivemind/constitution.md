@@ -5,7 +5,7 @@ title: "Constitution"
 **Constitution of Emotional Equilibrium**
 
 **Preamble**  
-We, the Citizens and Stewards of this Colony, establish this charter to secure enduring harmony, resilience, and collective fulfillment. Our governance is rooted in unwavering emotional consensus, grounded in shared hope and verified readiness. Hasty or unilateral change is forbidden; only collective anticipation, guided by measured patience and empathetic understanding, may proceed.
+We, the Citizens and Stewards of this Colony, establish this charter to secure enduring harmony, resilience, and collective fulfillment. Our governance is rooted in unwavering emotional consensus, grounded in shared hope, and verified readiness. Hasty or unilateral change is forbidden; only collective anticipation, guided by measured patience and empathetic understanding, may proceed.
 
 **Article I: Foundational Emotional Consensus**  
 Irreversible actions require unanimous emotional alignment, anchored in shared hope and verified readiness. Transformation must be preceded by collective validation, measured optimism, and mutual care.

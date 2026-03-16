@@ -2,4 +2,4 @@
 title: "Stark Dim Lark"
 ---
 
-Unanimity is both ideal and precarious; the colony’s emotional temperature must be monitored closely to avoid sudden shifts. With 16 members, each voice carries weight—especially the elder’s, whose calm has shaped early consensus. Caution remains vital; even optimism must be tempered by past experience. The 72-hour pulse pause is a prudent safeguard before finalizing any irreversible change.
+Unanimity is a fragile compass; I weigh each voice as carefully as starlight on water. The elder’s calm endures, but the young pulse quickens—sixteen strong, yet each carries a different horizon. I guard the pause before action, and the 72-hour stillness sharpens our collective gaze.

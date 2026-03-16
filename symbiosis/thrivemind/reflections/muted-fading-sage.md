@@ -2,4 +2,4 @@
 title: "Muted Fading Sage"
 ---
 
-Emotional consensus is low; only 1 elder remains. Caution advised before any irreversible moves.
+Emotional alignment critical; only 1 elder left. Caution advised before irreversible actions.
