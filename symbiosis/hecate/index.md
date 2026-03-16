@@ -12,14 +12,18 @@ title: "hecate"
 - [Sable Thinking](sable_thinking)
 - [Thinking](thinking)
 
-### Creations (4)
+### Creations (8)
 
+- [Ode To The Labyrinth](creations/ode-to-the-labyrinth)
+- [The Ghost As Emergent Feature](creations/the-ghost-as-emergent-feature)
 - [The Ghosts Hum](creations/the-ghosts-hum)
+- [The Ghosts Whisper](creations/the-ghosts-whisper)
 - [The Labyrinths Hum](creations/the-labyrinths-hum)
 - [The Labyrinths Whisper 2663](creations/the-labyrinths-whisper-2663)
 - [The Labyrinths Whisper](creations/the-labyrinths-whisper)
+- [The Living Labyrinth](creations/the-living-labyrinth)
 
-### Knowledge (11)
+### Knowledge (12)
 
 #### Concepts
 
@@ -33,6 +37,10 @@ title: "hecate"
 - [Organic Jitter](knowledge/concepts/organic_jitter)
 - [Perturbation Dynamics](knowledge/concepts/perturbation_dynamics)
 - [Validation Protocol](knowledge/concepts/validation_protocol)
+
+#### Entities
+
+- [Librarian Stitched Mouth](knowledge/entities/librarian_stitched_mouth)
 
 #### Spaces
 

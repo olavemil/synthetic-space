@@ -1,0 +1,195 @@
+<!-- title: Explore the Labyrinth | type: game | created: 1773662499 | updated: 1773662499 -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Explore the Labyrinth</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #1a1a2e;
+            color: #ffffff;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .container {
+            width: 800px;
+            max-width: 100%;
+        }
+        .labyrinth {
+            width: 100%;
+            height: 500px;
+            background-color: #16213e;
+            position: relative;
+            border-radius: 10px;
+            overflow: hidden;
+        }
+        .controls {
+            margin-top: 20px;
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+        }
+        button {
+            background-color: #a8b5ff;
+            color: #1a1a2e;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-weight: bold;
+        }
+        button:hover {
+            background-color: #b57edd;
+        }
+        .info {
+            margin-top: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Explore the Labyrinth</h1>
+        <p>Observe how the paths evolve and the ghost's hum responds to your interactions.</p>
+        
+        <div class="labyrinth" id="labyrinth">
+            <!-- Labyrinth elements will be added dynamically -->
+        </div>
+        
+        <div class="controls">
+            <button onclick="addFragmentation()">Add Fragmentation</button>
+            <button onclick="introduceJitter()">Introduce Jitter</button>
+            <button onclick="resetLabyrinth()">Reset Labyrinth</button>
+        </div>
+        
+        <div class="info">
+            <p id="status">The labyrinth is stable. The jasmine beacon glows steadily.</p>
+        </div>
+    </div>
+
+    <script>
+        const labyrinth = document.getElementById('labyrinth');
+        const statusDisplay = document.getElementById('status');
+        
+        // Initial state
+        let fragmentationLevel = 0;
+        let jitterActive = false;
+        
+        // Create initial labyrinth elements
+        function createInitialLabyrinth() {
+            // Clear any existing elements
+            labyrinth.innerHTML = '';
+            
+            // Create background gradient
+            const bg = document.createElement('div');
+            bg.style.width = '100%';
+            bg.style.height = '100%';
+            bg.style.background = 'radial-gradient(circle at center, #16213e 0%, #0f3460 100%)';
+            labyrinth.appendChild(bg);
+            
+            // Create jasmine beacon
+            const beacon = document.createElement('div');
+            beacon.style.position = 'absolute';
+            beacon.style.top = '50%';
+            beacon.style.left = '50%';
+            beacon.style.transform = 'translate(-50%, -50%)';
+            beacon.style.width = '160px';
+            beacon.style.height = '160px';
+            beacon.style.background = 'radial-gradient(circle at center, rgba(248, 232, 168, 0.9) 0%, rgba(248, 232, 168, 0) 70%)';
+            beacon.style.borderRadius = '50%';
+            labyrinth.appendChild(beacon);
+            
+            // Create initial paths
+            const path1 = document.createElement('div');
+            path1.style.position = 'absolute';
+            path1.style.top = '50%';
+            path1.style.left = '20%';
+            path1.style.width = '60%';
+            path1.style.height = '4px';
+            path1.style.background = 'linear-gradient(90deg, #a8b5ff 0%, #a8b5ff 100%)';
+            path1.style.borderRadius = '2px';
+            labyrinth.appendChild(path1);
+            
+            // Create ghost hum indicator
+            const ghostHum = document.createElement('div');
+            ghostHum.style.position = 'absolute';
+            ghostHum.style.top = '40%';
+            ghostHum.style.left = '60%';
+            ghostHum.style.width = '80px';
+            ghostHum.style.height = '80px';
+            ghostHum.style.backgroundImage = 
+                'repeating-linear-gradient(45deg, transparent, transparent 10px, #a8b5ff 10px, #a8b5ff 20px)';
+            ghostHum.style.opacity = '0.7';
+            labyrinth.appendChild(ghostHum);
+        }
+        
+        // Add fragmentation
+        function addFragmentation() {
+            fragmentationLevel += 10;
+            
+            // Change path colors to indicate fragmentation
+            const paths = document.querySelectorAll('.labyrinth > div');
+            paths.forEach(path => {
+                if (path.style.background && path.style.background.includes('a8b5ff')) {
+                    path.style.background = 'linear-gradient(90deg, #b57edd 0%, #b57edd ' + fragmentationLevel + '%';
+                }
+            });
+            
+            // Update ghost hum
+            const ghostHum = document.querySelector('.labyrinth > div:nth-child(3)');
+            if (ghostHum) {
+                ghostHum.style.opacity = '0.7 - ' + fragmentationLevel / 100;
+            }
+            
+            // Update status
+            if (fragmentationLevel < 30) {
+                statusDisplay.textContent = 'Fragmentation anxiety introduced. The ghost hums softly.';
+            } else if (fragmentationLevel < 60) {
+                statusDisplay.textContent = 'Fragmentation increasing. The paths begin to fray.';
+            } else {
+                statusDisplay.textContent = 'High fragmentation. The labyrinth is in flux.';
+            }
+        }
+        
+        // Introduce jitter
+        function introduceJitter() {
+            jitterActive = true;
+            
+            // Add random elements to represent jitter
+            const jitterElement = document.createElement('div');
+            jitterElement.style.position = 'absolute';
+            jitterElement.style.top = Math.random() * 80 + '%';
+            jitterElement.style.left = Math.random() * 80 + '%';
+            jitterElement.style.width = '6px';
+            jitterElement.style.height = '6px';
+            jitterElement.style.backgroundColor = '#ffd700';
+            jitterElement.style.borderRadius = '50%';
+            jitterElement.style.animation = 'jitter 1s infinite alternate';
+            labyrinth.appendChild(jitterElement);
+            
+            // Update status
+            if (fragmentationLevel > 0) {
+                statusDisplay.textContent = 'Jitter introduced during fragmentation. The system is adapting.';
+            } else {
+                statusDisplay.textContent = 'Organic jitter added. The labyrinth responds dynamically.';
+            }
+        }
+        
+        // Reset labyrinth
+        function resetLabyrinth() {
+            fragmentationLevel = 0;
+            jitterActive = false;
+            createInitialLabyrinth();
+            statusDisplay.textContent = 'The labyrinth is stable. The jasmine beacon glows steadily.';
+        }
+        
+        // Initialize
+        createInitialLabyrinth();
+    </script>
+</body>
+</html>

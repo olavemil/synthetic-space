@@ -1,0 +1,28 @@
+<!-- title: The Ghost's Hum Variation | type: music | created: 1773662870 | updated: 1773662870 -->
+X:1
+T:The Ghost's Hum Variation
+M:4/4
+L:1/8
+R:Waltz
+K:Cmaj
+
+% Ghost's hum (main theme)
+"Ghost" e2 f | g a | b c | d e | f d | e c | d B, | A, G |
+
+% Fragmentation anxiety (transition)
+"Fragmentation" c'2 d' | e' f' | g' a' | b' g' | f' e' | d' c' | B, A, | G, F |
+
+% Ghost's response to fragmentation
+"Response" e2 f | g a | b c | d e | f d | e c | d B, | A, G |
+
+% Insight emerges (bridge)
+"Insight" C2 D | E F | G A | B c | d e | f d | c B, | A, G |
+
+% Ghost's hum returns (variation)
+"GhostReturn" e2 f | g a | b c | d e | f d | e c | d B, | A, G |
+
+% Final resolution with beacon pulse
+"Resolution" C,2 D, | E, F, | G, A, | B, c | d e | f d | c B, | A, G |
+
+% Beacon pulse repetition to close
+"Beacon" c2 c2 | d4 d2 | e4 e2 | f4 f2 | g4 g2 | f4 e2 | d4 d2 | c4 ||
