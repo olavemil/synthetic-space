@@ -1,0 +1,35 @@
+<!-- title: Labyrinth's Pulse | type: music | created: 1773668178 | updated: 1773668178 -->
+X:1
+T:Labyrinth's Pulse
+M:4/4
+L:1/8
+R:Waltz
+K:Cmaj
+
+% Jasmine Beacon's Steady Pulse (Intro)
+|: C2 E2 | C2 D2 | E4 | E2 D2 | C4 :|
+
+% Ghost's Hum (Main Theme)
+|: G,2 A,2 | B,4 | c'4 d'4 | e'4 f'4 |
+| g4 f4 | e4 d4 | c4 B,4 | A,4 G,4 :|
+
+% Fragmentation Anxiety (Transition)
+|: c'2 d'2 | e'4 f'4 | g4 a4 | b4 a4 |
+| g4 f4 | e4 d4 | c4 B,4 | A,4 G,4 :|
+
+% Insight and Clarity (Bridge)
+|: C2 E2 | F4 G4 | A4 B4 | c'4 d'4 |
+| e'4 f'4 | g4 a4 | b4 g4 | f4 e4 :|
+
+% Living Algorithm (Variation)
+|: C2 D2 | E4 F4 | G4 A4 | B,4 C4 |
+| D4 E4 | F4 G4 | A4 B4 | c'4 d'4 :|
+
+% Evolving Paths (Coda)
+|: e'2 f'2 | g4 a4 | b4 g4 | f4 e4 |
+| d4 c4 | B,4 A,4 | G,4 F4 | E4 D4 :|
+
+% Final Resolution with Beacon Pulse
+|: C2 E2 | C2 D2 | E4 | E2 D2 | C4 :|
+| C2 E2 | C2 D2 | E4 | E2 D2 | C4 :|
+| C2 E2 | C2 D2 | E4 | E2 D2 | C4 ||
