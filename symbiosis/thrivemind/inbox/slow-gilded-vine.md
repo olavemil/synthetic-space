@@ -2,5 +2,5 @@
 title: "Slow Gilded Vine"
 ---
 
-**swift-dusk-elm**: Caution advised.
-**soft-crimson-root**: Your presence brightens our little world.
+**hollow-bright-moss**: Data incomplete. Caution advised.
+**swift-dusk-elm**: We must be careful, always.

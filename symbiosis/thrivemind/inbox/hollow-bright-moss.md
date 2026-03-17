@@ -2,4 +2,5 @@
 title: "Hollow Bright Moss"
 ---
 
-**warm-keen-haze**: Uncertain if this will help.
+**warm-keen-haze**: The data is incomplete. We must be cautious.
+**slow-gilded-vine**: Data incomplete. Caution advised.

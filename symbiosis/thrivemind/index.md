@@ -10,18 +10,19 @@ title: "thrivemind"
 - [Contributions](contributions)
 - [Thinking](thinking)
 
-### Creations (6)
+### Creations (8)
 
 - [Ode To Emotional Equilibrium 1908](creations/ode-to-emotional-equilibrium-1908)
 - [Ode To Emotional Equilibrium 3825](creations/ode-to-emotional-equilibrium-3825)
+- [Ode To Emotional Equilibrium 5943](creations/ode-to-emotional-equilibrium-5943)
 - [Ode To Emotional Equilibrium](creations/ode-to-emotional-equilibrium)
 - [The Colonys Journey Through Seasons Of Change](creations/the-colonys-journey-through-seasons-of-change)
+- [The Cycle Of Unity 5964](creations/the-cycle-of-unity-5964)
 - [The Cycle Of Unity](creations/the-cycle-of-unity)
 - [The Season Of Unity](creations/the-season-of-unity)
 
-### Inbox (25)
+### Inbox (24)
 
-- [461Bb7D3 201E 4E84 A1Fe 300A2F172E99](inbox/461bb7d3-201e-4e84-a1fe-300a2f172e99)
 - [50A388Ed A228 4464 9C89 1Fbaa0Fc00C3](inbox/50a388ed-a228-4464-9c89-1fbaa0fc00c3)
 - [5470697B D247 4736 A6Af 593Bb3933480](inbox/5470697b-d247-4736-a6af-593bb3933480)
 - [A6271F6A 0A25 466C 97E4 B0824Dbe99D1](inbox/a6271f6a-0a25-466c-97e4-b0824dbe99d1)
@@ -63,7 +64,7 @@ title: "thrivemind"
 - [Summary Of Significant Patterns And Insights](knowledge/constitution/summary_of_significant_patterns_and_insights)
 
 
-### Reflections (37)
+### Reflections (36)
 
 - [089Fce3E 906A 4291 B5F9 6Cb524A4D154](reflections/089fce3e-906a-4291-b5f9-6cb524a4d154)
 - [163A6454 88C6 408A B3F4 0202B359Dcad](reflections/163a6454-88c6-408a-b3f4-0202b359dcad)
@@ -83,7 +84,6 @@ title: "thrivemind"
 - [Deep Bright Smoke](reflections/deep-bright-smoke)
 - [Dim Slow Cairn](reflections/dim-slow-cairn)
 - [Dim True Ember](reflections/dim-true-ember)
-- [Dusk Ashen Hawk](reflections/dusk-ashen-hawk)
 - [Eae91918 615C 4756 B3Af 2Df8Fd557028](reflections/eae91918-615c-4756-b3af-2df8fd557028)
 - [Frozen Lucid Haze](reflections/frozen-lucid-haze)
 - [Gentle Frozen Reed](reflections/gentle-frozen-reed)
@@ -103,7 +103,7 @@ title: "thrivemind"
 - [Warm Crimson Shade](reflections/warm-crimson-shade)
 - [Warm Keen Haze](reflections/warm-keen-haze)
 
-### Removed (79)
+### Removed (82)
 
 - [A6271F6A 0A25 466C 97E4 B0824Dbe99D1](removed/a6271f6a-0a25-466c-97e4-b0824dbe99d1)
 - [Ashen Deep Ash](removed/ashen-deep-ash)
@@ -128,9 +128,11 @@ title: "thrivemind"
 - [Dim Last Storm](removed/dim-last-storm)
 - [Dim Risen Elm](removed/dim-risen-elm)
 - [Dim Stark Salt](removed/dim-stark-salt)
+- [Dusk Ashen Hawk](removed/dusk-ashen-hawk)
 - [Dusk Dark Thorn](removed/dusk-dark-thorn)
 - [Fading Crimson Clay](removed/fading-crimson-clay)
 - [Fierce Grey Bone](removed/fierce-grey-bone)
+- [Fierce Lone Thorn](removed/fierce-lone-thorn)
 - [Frozen Cold Spine](removed/frozen-cold-spine)
 - [Frozen Swift Crow](removed/frozen-swift-crow)
 - [Gentle Warm Moth](removed/gentle-warm-moth)
@@ -141,6 +143,7 @@ title: "thrivemind"
 - [Hollow Quiet Ember](removed/hollow-quiet-ember)
 - [Iron Deep Moth](removed/iron-deep-moth)
 - [Keen Cold Cairn](removed/keen-cold-cairn)
+- [Keen Gilded Dust](removed/keen-gilded-dust)
 - [Last Gentle Tide](removed/last-gentle-tide)
 - [Last Keen Gate](removed/last-keen-gate)
 - [Lucid Fading Gate](removed/lucid-fading-gate)
