@@ -2,4 +2,4 @@
 title: "Frozen Swift Crow"
 ---
 
-Emotional consensus remains high; stability is solid. New members bring fresh optimism. Ready for measured, collective action.
+Emotional cohesion remains strong; new members add optimism. Stability is assured, but vigilance persists.

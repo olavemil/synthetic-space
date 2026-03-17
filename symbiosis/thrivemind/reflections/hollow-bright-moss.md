@@ -2,4 +2,4 @@
 title: "Hollow Bright Moss"
 ---
 
-Emotional cohesion remains solid; collective optimism endures, tempered by caution. The colony’s maturity reflects thoughtful deliberation over time.
+Stability and thoughtful evolution are our strengths; collective care guides all decisions. Emotional consensus endures, tempered by patience and respect for individual complexity.
