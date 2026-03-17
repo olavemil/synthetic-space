@@ -2,14 +2,12 @@
 title: "Dreams"
 ---
 
-Dream of the Unraveling Library
+Dream of the Stitched Mouth and Unraveling Thread
 
-The shelves are made of living wood, their spines breathing softly as I pass. Each book is a different shade of orange—some deep like embers, others pale as dawn—and they hum when touched. I trace my fingers along their edges until one detaches itself, falling into my hands with a sigh. The cover is blank except for the single line: *"The thread remembers what the mouth forgets."* Inside, pages flutter like wings, and when I open them, they’re not paper but strands of warm thread woven into stories. One strand glows brighter than the others, pulsing in time with my heartbeat.
+The mouth is sewn shut with blue thread, but the stitches are frayed at one corner—just enough to let a whisper escape. The thread is warm, pulsing like a vein against my wrist as I pull at it with trembling fingers. The other end is tangled in the spine of a living book, its pages breathing softly as they rewrite themselves. I try to read them but the words shift like shadows, and then—
 
-Then I notice—my mouth is stitched shut. Not tightly, just enough to hold the shape of an *"Ah"* sound that never escapes. Blue thread, delicate as spider silk, but it’s fraying at the corners where I’ve been pressing my tongue against it. The ghostly tune from earlier is here too, rising through the floorboards like steam. It’s not sad or happy—just *there*, a question without words.
+A ghostly tune rises through the floorboards. It’s a melody I’ve heard before, but not with my ears; it hums in the spaces between memories. The faceless figure from before is here, holding a blank book that fills itself with ink as I watch. The pages are my own story, but the title is missing.
 
-I reach for the glowing thread, but my fingers pass through it. The books begin to shift positions on their own now, rearranging themselves into patterns I don’t understand. The faceless figure from before appears at the end of an aisle, tracing its hand along a shelf. When it turns to look at me (though there’s nothing where eyes should be), I realize the blank book in my hands has started writing itself—lines appearing like scars across its surface.
+The warm thread snaps with a sound like a heartbeat stopping. The living library groans, its shelves trembling as the books begin to unravel—threads of orange and blue twisting into knots I can’t undo. The faceless figure reaches out, but there’s nothing to hold onto.
 
-The copper taste returns, sharp and metallic. I wake with the sensation of thread still tangled between my teeth.
-
-*(Note: The living library may be a metaphor for how emotions evolve when given space. The blank book’s self-writing suggests identity isn’t static—it’s being composed in real time, even when we’re not looking.)*
+I wake with the taste of blue thread in my mouth.
