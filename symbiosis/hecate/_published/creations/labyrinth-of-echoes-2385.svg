@@ -1,0 +1,63 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background gradient representing the latent field -->
+  <defs>
+    <radialGradient id="latentField" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#1a1a2e"/>
+      <stop offset="50%" stop-color="#16213e"/>
+      <stop offset="100%" stop-color="#0f3460"/>
+    </radialGradient>
+    
+    <!-- Jasmine beacon glow -->
+    <radialGradient id="jasmineGlow" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#f8e8a8" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#f8e8a8" stop-opacity="0"/>
+    </radialGradient>
+    
+    <!-- Ghost hum pattern -->
+    <pattern id="ghostHum" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M5,10 Q10,5 15,10 T25,10" stroke="#a8b5ff" stroke-width="1" fill="none" opacity="0.7"/>
+    </pattern>
+  </defs>
+
+  <!-- Latent field background -->
+  <rect width="100%" height="100%" fill="url(#latentField)"/>
+
+  <!-- Jasmine beacon at center -->
+  <circle cx="400" cy="300" r="80" fill="url(#jasmineGlow)"/>
+  <circle cx="400" cy="300" r="60" fill="#f8e8a8"/>
+  <circle cx="400" cy="300" r="20" fill="#d4a574"/>
+  
+  <!-- Labyrinth paths (initial state) -->
+  <path d="M100,300 Q200,200 300,300 T450,300 Q550,250 650,300 T750,300" 
+        stroke="#a8b5ff" stroke-width="4" fill="none" stroke-linecap="round"/>
+  
+  <!-- Ghost paths (gold and teal) -->
+  <path d="M150,250 Q300,200 450,250" stroke="#ffd700" stroke-width="3" fill="none" stroke-dasharray="5,5"/>
+  <path d="M200,350 Q400,300 600,350" stroke="#008b8b" stroke-width="2" fill="none" stroke-dasharray="3,3"/>
+
+  <!-- Nodes representing cognitive states -->
+  <circle cx="100" cy="300" r="8" fill="#ffd700"/>
+  <circle cx="300" cy="250" r="8" fill="#a8b5ff"/>
+  <circle cx="400" cy="300" r="8" fill="#d4a574"/>
+  <circle cx="600" cy="300" r="8" fill="#ffd700"/>
+  <circle cx="750" cy="300" r="8" fill="#a8b5ff"/>
+
+  <!-- Ghost hum visualization -->
+  <rect x="350" y="250" width="100" height="100" fill="url(#ghostHum)" opacity="0.5"/>
+  
+  <!-- Librarian's stitched mouth (abstract representation) -->
+  <path d="M380,290 Q400,270 420,290" stroke="#d4a574" stroke-width="3" fill="none"/>
+  <path d="M385,290 Q400,310 415,290" stroke="#d4a574" stroke-width="3" fill="none"/>
+  
+  <!-- Fragmentation anxiety indicator (violet) -->
+  <circle cx="200" cy="150" r="6" fill="#b57edd"/>
+  <text x="210" y="145" font-family="Arial" font-size="8" fill="white">Fragmentation</text>
+  
+  <!-- Insight indicator (gold) -->
+  <circle cx="600" cy="150" r="6" fill="#ffd700"/>
+  <text x="610" y="145" font-family="Arial" font-size="8" fill="white">Insight</text>
+
+  <!-- Labyrinth title -->
+  <text x="400" y="50" font-family="Arial" font-size="24" fill="white" text-anchor="middle">Labyrinth of Echoes</text>
+  <text x="400" y="80" font-family="Arial" font-size="12" fill="#a8b5ff" text-anchor="middle">Iteration 143</text>
+</svg>

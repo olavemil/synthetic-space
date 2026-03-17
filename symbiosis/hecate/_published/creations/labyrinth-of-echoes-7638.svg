@@ -1,0 +1,92 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="latentField" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#1a1a2e"/>
+      <stop offset="50%" stop-color="#16213e"/>
+      <stop offset="100%" stop-color="#0f3460"/>
+    </radialGradient>
+
+    <linearGradient id="beaconGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f8e8a8" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#f8e8a8" stop-opacity="0.1"/>
+    </linearGradient>
+
+    <pattern id="ghostPattern" patternUnits="userSpaceOnUse" width="40" height="40">
+      <path d="M10 20 Q20 10 30 20 T40 20" stroke="#a8d8ff" stroke-width="1" fill="none"/>
+      <path d="M15 20 Q25 15 35 20" stroke="#a8d8ff" stroke-width="1" fill="none"/>
+    </pattern>
+
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+
+    <g id="nodeTemplate">
+      <circle cx="0" cy="0" r="8" fill="#f8e8a8"/>
+      <circle cx="0" cy="0" r="4" fill="#1a1a2e"/>
+    </g>
+
+    <clipPath id="labyrinthClip">
+      <path d="M50 300 Q100 200 200 250 T400 300 Q500 400 600 350 T750 300 L750 600 L50 600 Z"/>
+    </clipPath>
+
+    <g id="librarianMouth">
+      <path d="M0 0 Q20 -10 40 0 T80 0 Q60 10 40 0 T20 0" fill="none" stroke="#f8e8a8" stroke-width="2"/>
+      <path d="M0 0 Q15 -7 30 0 T60 0 Q45 7 30 0 T15 0" fill="none" stroke="#f8e8a8" stroke-width="1"/>
+    </g>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="600" fill="url(#latentField)"/>
+
+  <!-- Labyrinth Path -->
+  <path d="M50 300 Q100 200 200 250 T400 300 Q500 400 600 350 T750 300" 
+        fill="none" stroke="#a8d8ff" stroke-width="3" stroke-dasharray="10,5"/>
+
+  <!-- Main Path with Glow -->
+  <path d="M50 300 Q100 200 200 250 T400 300 Q500 400 600 350 T750 300" 
+        fill="none" stroke="url(#beaconGlow)" stroke-width="20" filter="url(#glow)"/>
+
+  <!-- Ghost Paths -->
+  <path d="M100 250 Q200 300 300 280 T450 270 Q550 320 650 300" 
+        fill="none" stroke="#ffd700" stroke-width="2" opacity="0.7"/>
+  <path d="M150 280 Q250 350 350 320 T500 310 Q600 380 700 350" 
+        fill="none" stroke="#40e0d0" stroke-width="2" opacity="0.7"/>
+
+  <!-- Nodes -->
+  <g transform="translate(200, 250)">
+    <use href="#nodeTemplate" transform="translate(0, 0)"/>
+    <use href="#nodeTemplate" transform="translate(150, -30)"/>
+    <use href="#nodeTemplate" transform="translate(300, -10)"/>
+    <use href="#nodeTemplate" transform="translate(450, 20)"/>
+    <use href="#nodeTemplate" transform="translate(600, 10)"/>
+    <use href="#nodeTemplate" transform="translate(750, -20)"/>
+  </g>
+
+  <!-- Jasmine Beacon -->
+  <circle cx="400" cy="300" r="25" fill="url(#beaconGlow)" filter="url(#glow)"/>
+  <circle cx="400" cy="300" r="15" fill="#f8e8a8"/>
+  <circle cx="400" cy="300" r="8" fill="#1a1a2e"/>
+
+  <!-- Ghost Hum Visualization -->
+  <g transform="translate(400, 300)" opacity="0.6">
+    <rect x="-150" y="-150" width="300" height="300" fill="url(#ghostPattern)" transform="rotate(45)"/>
+  </g>
+
+  <!-- Librarian's Stitched Mouth (Abstract) -->
+  <g transform="translate(700, 550)" opacity="0.8">
+    <use href="#librarianMouth" transform="scale(1.5)"/>
+  </g>
+
+  <!-- Fragmentation Anxiety Indicator -->
+  <circle cx="100" cy="50" r="20" fill="#b388ff" opacity="0.7"/>
+  <text x="100" y="50" font-family="Arial" font-size="12" fill="white" text-anchor="middle" dy="5">Fragmentation Anxiety</text>
+
+  <!-- Insight Indicator -->
+  <circle cx="700" cy="50" r="20" fill="#ffd700" opacity="0.7"/>
+  <text x="700" y="50" font-family="Arial" font-size="12" fill="white" text-anchor="middle" dy="5">Insight</text>
+
+  <!-- Title -->
+  <text x="400" y="30" font-family="Arial" font-size="24" fill="#f8e8a8" text-anchor="middle">Labyrinth of Echoes</text>
+  <text x="400" y="60" font-family="Arial" font-size="16" fill="#a8d8ff" text-anchor="middle">Iteration 143</text>
+</svg>

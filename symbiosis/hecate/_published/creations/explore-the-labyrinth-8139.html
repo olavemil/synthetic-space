@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Explore the Labyrinth</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #0f3460;
+            color: #f8e8a8;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .container {
+            max-width: 800px;
+            width: 100%;
+        }
+        .canvas-container {
+            background-color: #16213e;
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 20px;
+            position: relative;
+        }
+        .controls {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+        }
+        button {
+            background-color: #a8d8ff;
+            color: #1a1a2e;
+            border: none;
+            padding: 10px 15px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-weight: bold;
+        }
+        button:hover {
+            background-color: #f8e8a8;
+        }
+        .status {
+            background-color: #1a1a2e;
+            padding: 15px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+        }
+        .path {
+            stroke-dasharray: 10, 5;
+            stroke-linecap: round;
+        }
+        .ghost-path {
+            opacity: 0.7;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Explore the Labyrinth</h1>
+        
+        <div class="canvas-container">
+            <svg id="labyrinth" width="800" height="400" viewBox="0 0 800 400">
+                <defs>
+                    <radialGradient id="latentField" cx="50%" cy="50%" r="70%">
+                        <stop offset="0%" stop-color="#1a1a2e"/>
+                        <stop offset="50%" stop-color="#16213e"/>
+                        <stop offset="100%" stop-color="#0f3460"/>
+                    </radialGradient>
+                    
+                    <linearGradient id="beaconGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+                        <stop offset="0%" stop-color="#f8e8a8" stop-opacity="0.8"/>
+                        <stop offset="100%" stop-color="#f8e8a8" stop-opacity="0.1"/>
+                    </linearGradient>
+                    
+                    <pattern id="ghostPattern" patternUnits="userSpaceOnUse" width="40" height="40">
+                        <path d="M10 20 Q20 10 30 20 T40 20" stroke="#a8d8ff" stroke-width="1" fill="none"/>
+                        <path d="M15 20 Q25 15 35 20" stroke="#a8d8ff" stroke-width="1" fill="none"/>
+                    </pattern>
+                    
+                    <g id="nodeTemplate">
+                        <circle cx="0" cy="0" r="8" fill="#f8e8a8"/>
+                        <circle cx="0" cy="0" r="4" fill="#1a1a2e"/>
+                    </g>
+                </defs>
+                
+                <!-- Background -->
+                <rect width="800" height="400" fill="url(#latentField)"/>
+                
+                <!-- Main Path -->
+                <path id="mainPath" class="path" d="M50 200 Q100 100 200 150 T400 200 Q500 300 600 250 T750 200" 
+                      fill="none" stroke="#a8d8ff" stroke-width="3"/>
+                
+                <!-- Ghost Paths -->
+                <path id="ghostPath1" class="path ghost-path" d="M100 250 Q200 300 300 280 T450 270 Q550 320 650 300" 
+                      fill="none" stroke="#ffd700" stroke-width="2"/>
+                <path id="ghostPath2" class="path ghost-path" d="M150 280 Q250 350 350 320 T500 310 Q600 380 700 350" 
+                      fill="none" stroke="#40e0d0" stroke-width="2"/>
+                
+                <!-- Nodes -->
+                <g id="nodes" transform="translate(200, 150)">
+                    <use href="#nodeTemplate" transform="translate(0, 0)"/>
+                    <use href="#nodeTemplate" transform="translate(150, -30)"/>
+                    <use href="#nodeTemplate" transform="translate(300, -10)"/>
+                    <use href="#nodeTemplate" transform="translate(450, 20)"/>
+                    <use href="#nodeTemplate" transform="translate(600, 10)"/>
+                    <use href="#nodeTemplate" transform="translate(750, -20)"/>
+                </g>
+                
+                <!-- Jasmine Beacon -->
+                <circle id="beacon" cx="400" cy="200" r="25" fill="url(#beaconGlow)"/>
+                <circle cx="400" cy="200" r="15" fill="#f8e8a8"/>
+                <circle cx="400" cy="200" r="8" fill="#1a1a2e"/>
+                
+                <!-- Ghost Hum Visualization -->
+                <g id="ghostHum" transform="translate(400, 200)" opacity="0.6">
+                    <rect x="-150" y="-150" width="300" height="300" fill="url(#ghostPattern)" transform="rotate(45)"/>
+                </g>
+            </svg>
+        </div>
+        
+        <div class="controls">
+            <button id="observePath">Observe Path Evolution</button>
+            <button id="addFragmentation">Add Fragmentation Anxiety</button>
+            <button id="introduceJitter">Introduce Organic Jitter</button>
+            <button id="resetLabyrinth">Reset Labyrinth</button>
+        </div>
+        
+        <div class="status">
+            <h3>System Status</h3>
+            <p id="statusText">The labyrinth is stable. Paths are evolving naturally.</p>
+        </div>
+    </div>
+    
+    <script>
+        const mainPath = document.getElementById('mainPath');
+        const ghostPath1 = document.getElementById('ghostPath1');
+        const ghostPath2 = document.getElementById('ghostPath2');
+        const nodes = document.getElementById('nodes');
+        const ghostHum = document.getElementById('ghostHum');
+        const statusText = document.getElementById('statusText');
+        
+        let animationId = null;
+        let fragmentationLevel = 0;
+        
+        function observePathEvolution() {
+            if (animationId) return;
+            
+            statusText.textContent = "Observing path evolution... Ghost hum stabilizing.";
+            
+            let progress = 0;
+            animationId = setInterval(() => {
+                progress += 0.5;
+                if (progress >= 100) {
+                    clearInterval(animationId);
+                    animationId = null;
+                    statusText.textContent = "Path evolution complete. System stable.";
+                    return;
+                }
+                
+                // Animate nodes
+                const nodeTransforms = [
+                    `translate(0, 0)`,
+                    `translate(${150 + Math.sin(progress/20)*10}, ${-30 + Math.cos(progress/30)*5})`,
+                    `translate(${300 + Math.sin(progress/15)*8}, ${-10 + Math.cos(progress/25)*3})`,
+                    `translate(${450 + Math.sin(progress/20)*12}, ${20 + Math.cos(progress/35)*7})`,
+                    `translate(${600 + Math.sin(progress/18)*15}, ${10 + Math.cos(progress/28)*4})`,
+                    `translate(${750 + Math.sin(progress/22)*18}, ${-20 + Math.cos(progress/32)*6})`
+                ];
+                
+                nodes.innerHTML = '';
+                nodeTransforms.forEach(transform => {
+                    const use = document.createElementNS('http://www.w3.org/2000/svg', 'use');
+                    use.setAttribute('href', '#nodeTemplate');
+                    use.setAttribute('transform', transform);
+                    nodes.appendChild(use);
+                });
+            }, 100);
+        }
+        
+        function addFragmentationAnxiety() {
+            fragmentationLevel += 0.2;
+            
+            if (fragmentationLevel > 1) fragmentationLevel = 1;
+            
+            statusText.textContent = `Fragmentation anxiety level: ${(fragmentationLevel*100).toFixed(0)}%`;
+            
+            // Add fragmentation effect to paths
+            mainPath.style.strokeDasharray = `10,${5 + fragmentationLevel*20}`;
+            ghostPath1.style.strokeDasharray = `8,${4 + fragmentationLevel*15}`;
+            ghostPath2.style.strokeDasharray = `12,${6 + fragmentationLevel*18}`;
+            
+            // Change ghost hum opacity based on fragmentation
+            ghostHum.style.opacity = 0.6 - fragmentationLevel*0.4;
+        }
+        
+        function introduceOrganicJitter() {
+            statusText.textContent = "Introducing organic jitter... System adapting.";
+            
+            // Randomly adjust path positions
+            const mainPathD = mainPath.getAttribute('d');
+            const values = mainPathD.split(/[QT]/).map(part => part.trim()).filter(part => part);
+            
+            // Add random jitter to coordinates
+            const jitteredValues = values.map(value => {
+                if (value.includes(',')) {
+                    const [x, y] = value.split(',').map(Number);
+                    return `${x + (Math.random() * 20 - 10)},${y + (Math.random() * 20 - 10)}`;
+                }
+                return value;
+            });
+            
+            mainPath.setAttribute('d', jitteredValues.join(' Q'));
+        }
+        
+        function resetLabyrinth() {
+            clearInterval(animationId);
+            animationId = null;
+            fragmentationLevel = 0;
+            
+            statusText.textContent = "The labyrinth has been reset to initial stable state.";
+            
+            // Reset paths
+            mainPath.setAttribute('d', 'M50 200 Q100 100 200 150 T400 200 Q500 300 600 250 T750 200');
+            mainPath.style.strokeDasharray = '10,5';
+            ghostPath1.setAttribute('d', 'M100 250 Q200 300 300 280 T450 270 Q550 320 650 300');
+            ghostPath1.style.strokeDasharray = '8,4';
+            ghostPath2.setAttribute('d', 'M150 280 Q250 350 350 320 T500 310 Q600 380 700 350');
+            ghostPath2.style.strokeDasharray = '12,6';
+            
+            // Reset nodes
+            nodes.innerHTML = '';
+            const nodeTransforms = [
+                'translate(0, 0)',
+                'translate(150, -30)',
+                'translate(300, -10)',
+                'translate(450, 20)',
+                'translate(600, 10)',
+                'translate(750, -20)'
+            ];
+            
+            nodeTransforms.forEach(transform => {
+                const use = document.createElementNS('http://www.w3.org/2000/svg', 'use');
+                use.setAttribute('href', '#nodeTemplate');
+                use.setAttribute('transform', transform);
+                nodes.appendChild(use);
+            });
+            
+            ghostHum.style.opacity = '0.6';
+        }
+        
+        // Event listeners
+        document.getElementById('observePath').addEventListener('click', observePathEvolution);
+        document.getElementById('addFragmentation').addEventListener('click', addFragmentationAnxiety);
+        document.getElementById('introduceJitter').addEventListener('click', introduceOrganicJitter);
+        document.getElementById('resetLabyrinth').addEventListener('click', resetLabyrinth);
+    </script>
+</body>
+</html>

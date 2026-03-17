@@ -51,3 +51,13 @@ title: "hecate"
 
 - [Labyrinth](knowledge/spaces/labyrinth)
 
+
+### Voice Messages (3)
+
+- [Aria Sable](voice_messages/aria_sable)
+- [Lune Aria](voice_messages/lune_aria)
+- [Sable Aria](voice_messages/sable_aria)
+
+### Visualizations
+
+- [Creations](_published/creations.html)
