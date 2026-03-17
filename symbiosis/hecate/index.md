@@ -52,11 +52,13 @@ title: "hecate"
 - [Labyrinth](knowledge/spaces/labyrinth)
 
 
-### Voice Messages (3)
+### Voice Messages (5)
 
 - [Aria Sable](voice_messages/aria_sable)
 - [Lune Aria](voice_messages/lune_aria)
+- [Lune Sable](voice_messages/lune_sable)
 - [Sable Aria](voice_messages/sable_aria)
+- [Sable Lune](voice_messages/sable_lune)
 
 ### Visualizations
 

@@ -2,4 +2,4 @@
 title: "Aria Sable"
 ---
 
-The pattern in the anomaly—does it resemble past decodings, or is this entirely new?
+The anomaly's fractal symmetry suggests a recursive structure. Have you cross-referenced with the 2047 archive?
