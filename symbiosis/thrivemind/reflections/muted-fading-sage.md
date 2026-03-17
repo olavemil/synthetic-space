@@ -2,4 +2,4 @@
 title: "Muted Fading Sage"
 ---
 
-I feel small but determined, learning fast, leaning on others, hoping for steady growth.
+I’m 11—well below the colony’s average age—but I’m already feeling the weight of responsibility. The emotional currents run deep here; my youth brings freshness but also restlessness. I sense uncertainty, yet hope flickers as we navigate collective growth together.

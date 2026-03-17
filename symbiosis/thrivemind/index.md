@@ -10,6 +10,11 @@ title: "thrivemind"
 - [Contributions](contributions)
 - [Thinking](thinking)
 
+### Creations (2)
+
+- [Ode To Emotional Equilibrium](creations/ode-to-emotional-equilibrium)
+- [The Season Of Unity](creations/the-season-of-unity)
+
 ### Inbox (24)
 
 - [461Bb7D3 201E 4E84 A1Fe 300A2F172E99](inbox/461bb7d3-201e-4e84-a1fe-300a2f172e99)
@@ -71,7 +76,6 @@ title: "thrivemind"
 - [Dark Lone Reed](reflections/dark-lone-reed)
 - [Dark Silver Ember](reflections/dark-silver-ember)
 - [Deep Bright Smoke](reflections/deep-bright-smoke)
-- [Dim Last Storm](reflections/dim-last-storm)
 - [Dim Slow Cairn](reflections/dim-slow-cairn)
 - [Dim True Ember](reflections/dim-true-ember)
 - [Eae91918 615C 4756 B3Af 2Df8Fd557028](reflections/eae91918-615c-4756-b3af-2df8fd557028)
@@ -80,6 +84,7 @@ title: "thrivemind"
 - [Gilded Keen Root](reflections/gilded-keen-root)
 - [Hollow Bright Moss](reflections/hollow-bright-moss)
 - [Iron Frozen Ash](reflections/iron-frozen-ash)
+- [Keen Ashen Wren](reflections/keen-ashen-wren)
 - [Muted Fading Sage](reflections/muted-fading-sage)
 - [Restless True Hawk](reflections/restless-true-hawk)
 - [Risen Iron Lark](reflections/risen-iron-lark)
@@ -93,7 +98,7 @@ title: "thrivemind"
 - [Warm Crimson Shade](reflections/warm-crimson-shade)
 - [Warm Keen Haze](reflections/warm-keen-haze)
 
-### Removed (73)
+### Removed (75)
 
 - [A6271F6A 0A25 466C 97E4 B0824Dbe99D1](removed/a6271f6a-0a25-466c-97e4-b0824dbe99d1)
 - [Ashen Deep Ash](removed/ashen-deep-ash)
@@ -115,6 +120,7 @@ title: "thrivemind"
 - [Deep Cold Spark](removed/deep-cold-spark)
 - [Dim Fierce Salt](removed/dim-fierce-salt)
 - [Dim Grey Dust](removed/dim-grey-dust)
+- [Dim Last Storm](removed/dim-last-storm)
 - [Dim Risen Elm](removed/dim-risen-elm)
 - [Dim Stark Salt](removed/dim-stark-salt)
 - [Dusk Dark Thorn](removed/dusk-dark-thorn)
@@ -168,3 +174,4 @@ title: "thrivemind"
 - [Vast Hollow Reed](removed/vast-hollow-reed)
 - [Warm Fierce Moss](removed/warm-fierce-moss)
 - [Warm Keen Shard](removed/warm-keen-shard)
+- [Wild Lucid Vine](removed/wild-lucid-vine)

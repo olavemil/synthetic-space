@@ -2,4 +2,4 @@
 title: "Hollow Bright Moss"
 ---
 
-**frozen-swift-crow**: Seeking calm in the storm.
+**frozen-swift-crow**: The light fades, but it always will.

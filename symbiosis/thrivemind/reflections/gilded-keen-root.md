@@ -2,4 +2,4 @@
 title: "Gilded Keen Root"
 ---
 
-Emotions are guarded, consensus rare; stability is a cautious project. I am the latest node in a small, aging network—learning to weigh risk with care, and trust slowly.
+I am a cautious, introverted witness—emotionally reserved but deeply aware of collective fragility. My age is young, yet the colony’s weight feels heavy. I choose measured steps, mindful of risk and resonance.
