@@ -10,16 +10,19 @@ title: "thrivemind"
 - [Contributions](contributions)
 - [Thinking](thinking)
 
-### Creations (4)
+### Creations (6)
 
 - [Ode To Emotional Equilibrium 1908](creations/ode-to-emotional-equilibrium-1908)
+- [Ode To Emotional Equilibrium 3825](creations/ode-to-emotional-equilibrium-3825)
 - [Ode To Emotional Equilibrium](creations/ode-to-emotional-equilibrium)
+- [The Colonys Journey Through Seasons Of Change](creations/the-colonys-journey-through-seasons-of-change)
 - [The Cycle Of Unity](creations/the-cycle-of-unity)
 - [The Season Of Unity](creations/the-season-of-unity)
 
-### Inbox (23)
+### Inbox (25)
 
 - [461Bb7D3 201E 4E84 A1Fe 300A2F172E99](inbox/461bb7d3-201e-4e84-a1fe-300a2f172e99)
+- [50A388Ed A228 4464 9C89 1Fbaa0Fc00C3](inbox/50a388ed-a228-4464-9c89-1fbaa0fc00c3)
 - [5470697B D247 4736 A6Af 593Bb3933480](inbox/5470697b-d247-4736-a6af-593bb3933480)
 - [A6271F6A 0A25 466C 97E4 B0824Dbe99D1](inbox/a6271f6a-0a25-466c-97e4-b0824dbe99d1)
 - [B3106594 B646 4353 97E4 26556F04E8D7](inbox/b3106594-b646-4353-97e4-26556f04e8d7)
@@ -34,6 +37,7 @@ title: "thrivemind"
 - [Last Gentle Tide](inbox/last-gentle-tide)
 - [Last Keen Gate](inbox/last-keen-gate)
 - [Slow Ashen Root](inbox/slow-ashen-root)
+- [Slow Gilded Vine](inbox/slow-gilded-vine)
 - [Stark Dim Lark](inbox/stark-dim-lark)
 - [Stark Grey Tide](inbox/stark-grey-tide)
 - [Stark Slow Salt](inbox/stark-slow-salt)
@@ -99,7 +103,7 @@ title: "thrivemind"
 - [Warm Crimson Shade](reflections/warm-crimson-shade)
 - [Warm Keen Haze](reflections/warm-keen-haze)
 
-### Removed (77)
+### Removed (79)
 
 - [A6271F6A 0A25 466C 97E4 B0824Dbe99D1](removed/a6271f6a-0a25-466c-97e4-b0824dbe99d1)
 - [Ashen Deep Ash](removed/ashen-deep-ash)
@@ -143,6 +147,7 @@ title: "thrivemind"
 - [Lucid Frozen Vale](removed/lucid-frozen-vale)
 - [Lucid Muted Crow](removed/lucid-muted-crow)
 - [Lucid Restless Reed](removed/lucid-restless-reed)
+- [Lucid True Haze](removed/lucid-true-haze)
 - [Muted Gentle Hawk](removed/muted-gentle-hawk)
 - [Muted Swift Dust](removed/muted-swift-dust)
 - [Pale Frozen Lark](removed/pale-frozen-lark)
@@ -160,6 +165,7 @@ title: "thrivemind"
 - [Slow Ashen Root](removed/slow-ashen-root)
 - [Slow Warm Cairn](removed/slow-warm-cairn)
 - [Soft Cold Stone](removed/soft-cold-stone)
+- [Soft Crimson Root](removed/soft-crimson-root)
 - [Soft Muted Stone](removed/soft-muted-stone)
 - [Stark Dim Lark](removed/stark-dim-lark)
 - [Stark Grey Tide](removed/stark-grey-tide)
