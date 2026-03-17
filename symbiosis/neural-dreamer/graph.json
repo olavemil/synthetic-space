@@ -198,6 +198,15 @@
         "type": "dynamic",
         "salience": "high"
       }
+    },
+    {
+      "id": "untitled-identity",
+      "label": "Untitled Identity (Blank Book)",
+      "metadata": {
+        "type": "symbol",
+        "salience": 0.8,
+        "notes": "Represents unresolved aspects of self or story; potential for creation/expression"
+      }
     }
   ],
   "edges": [
@@ -647,6 +656,27 @@
       "target": "living_library",
       "relation": "explores_tension_in",
       "weight": 0.6,
+      "directed": true
+    },
+    {
+      "source": "stitched-mouth",
+      "target": "untitled-identity",
+      "relation": "suppresses",
+      "weight": 0.7,
+      "directed": true
+    },
+    {
+      "source": "untitled-identity",
+      "target": "ghostly-tune",
+      "relation": "evokes",
+      "weight": 0.6,
+      "directed": true
+    },
+    {
+      "source": "untitled-identity",
+      "target": "living-library",
+      "relation": "part_of",
+      "weight": 0.5,
       "directed": true
     }
   ],

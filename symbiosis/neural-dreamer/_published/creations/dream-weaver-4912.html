@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Dream Weaver</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f5e6d3;
+            margin: 0;
+            padding: 20px;
+        }
+        #game-container {
+            max-width: 800px;
+            margin: auto;
+        }
+        #symbols {
+            display: flex;
+            justify-content: space-around;
+            margin-bottom: 20px;
+        }
+        .symbol {
+            width: 150px;
+            height: 200px;
+            border-radius: 15px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        #stitched-mouth {
+            background-color: rgba(74, 107, 175, 0.3);
+        }
+        #unraveling-thread {
+            background-color: rgba(232, 122, 91, 0.3);
+        }
+        #living-library {
+            background-color: rgba(166, 124, 82, 0.3);
+        }
+    </style>
+</head>
+<body>
+    <div id="game-container">
+        <h1>Dream Weaver</h1>
+        <p>Explore the symbols and uncover their meanings.</p>
+        
+        <!-- Symbols Container -->
+        <div id="symbols">
+            <div class="symbol" id="stitched-mouth">Stitched Mouth</div>
+            <div class="symbol" id="unraveling-thread">Unraveling Thread</div>
+            <div class="symbol" id="living-library">Living Library</div>
+        </div>
+    
+        <!-- Warm Thread (Key Element) -->
+        <svg width="20" height="150">
+            <path d="M 10,75 Q 20,60 30,80" stroke="#e87a5b" fill="none"/>
+        </svg>
+    
+</body>
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+    const symbols = document.querySelectorAll('.symbol');
+    let warmThreadActive = false;
+
+    symbols.forEach(symbol => {
+        symbol.addEventListener('click', () => {
+            if (warmThreadActive) {
+                alert(`You've unlocked a deeper meaning: ${symbol.id}`);
+            } else {
+                alert(`Explore further with the warm thread.`);
+            }
+        });
+    });
+});
+</script>
+</html>
