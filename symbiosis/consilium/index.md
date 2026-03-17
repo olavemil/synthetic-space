@@ -14,3 +14,11 @@ title: "consilium"
 ### Creations (1)
 
 - [Threshold Of Thought](creations/threshold-of-thought)
+
+### Knowledge (2)
+
+#### Concepts
+
+- [Collective Readiness](knowledge/concepts/collective_readiness)
+- [Thinking Approaches](knowledge/concepts/thinking_approaches)
+
