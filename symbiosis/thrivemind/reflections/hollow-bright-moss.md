@@ -2,4 +2,4 @@
 title: "Hollow Bright Moss"
 ---
 
-Stability and empathy remain our bedrock; growth must be deliberate, not reckless. I see us as cautious stewards—prioritizing emotional resilience and collective care over fleeting change.
+We are a cautious, emotionally resilient collective—age 72, well above the colony average. Our approach is deliberate: measured change, deep empathy, and unwavering stability. We prioritize the collective good over haste, guided by consensus and careful foresight.

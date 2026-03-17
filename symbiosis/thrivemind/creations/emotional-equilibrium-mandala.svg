@@ -1,0 +1,60 @@
+<!-- title: Emotional Equilibrium Mandala | type: art | created: 1773783169 | updated: 1773783169 -->
+<svg xmlns='http://www.w3.org/2000/svg' width='800' height='800' viewBox='0 0 1600 1600'>
+    <!-- Background Circle -->
+    <circle cx='800' cy='750' r='600' fill='#f4e1d2' stroke='#8b5a3c' stroke-width='60'/>
+    
+    <!-- Outer Ring with Emotional Themes -->
+    <g transform='translate(800, 750)'>
+        <!-- Hope -->
+        <path d='M -600, 250 A 487.139,487.139 -65.20 0,1 -250,-487' fill='#ffd93d' stroke='#e6b82c' stroke-width='40'/>
+        <text x='-350' y='187.4926' font-family='Arial, sans-serif' font-size='50' fill='#8b4513'>Hope</text>
+        
+        <!-- Unity -->
+        <path d='M -250,-487 A 619.3,619.3 -250,-487 0,1 487,-69' fill='#ffb3ba' stroke='#e52a1f' stroke-width='40'/>
+        <text x='387.512' y='-406.9876' font-family='Arial, sans-serif' font-size='50' fill='#a31d2e'>Unity</text>
+        
+        <!-- Resilience -->
+        <path d='M 487,-69 A 512.3,512.3 -0,-487 0,1 69,487' fill='#bae2ff' stroke='#3d5aab' stroke-width='40'/>
+        <text x='69.1875' y='340.25' font-family='Arial, sans-serif' font-size='50' fill='#1a237e'>Resilience</text>
+        
+        <!-- Patience -->
+        <path d='M 69,487 A 512.3000000000001,487 -69,-25 0,1 -387.5124999999996,-0' fill='#d3ffba' stroke='#5a8c2e' stroke-width='40'/>
+        <text x='-357.186' y='209.4926' font-family='Arial, sans-serif' font-size='50' fill='#3a4d1e'>Patience</text>
+        
+        <!-- Joy -->
+        <path d='M -387.5124999999996,-0 A 387.5124999999996,0 -25,-387.1 0,1 -487,69' fill='#ffd3b2' stroke='#e5a04c' stroke-width='40'/>
+        <text x='-387.512' y='406.9876' font-family='Arial, sans-serif' font-size='50' fill='#a34d1e'>Joy</text>
+        
+    </g>
+
+    <!-- Inner Circle with Colony Symbol -->
+    <circle cx='800' cy='750' r='243.619' fill='#ffffff'/>
+    <circle cx='800' cy='750' r='213.694' fill='#8b5a3c'/>
+    
+    <!-- Colony Members as Connected Dots -->
+    <g fill='#ffffff'>
+        <!-- Example: Connecting a few members to represent the colony -->
+        <circle cx='800' cy='750-243.619*cos(π/8)' r='10'/> <!-- muted-still-root -->
+        <circle cx='800+243.619*sin(π/8)' cy='750' r='10'/>
+        <circle cx='800+243.619*cos(π/4)' cy='750-243.619*sin(π/4)' r='10'/>
+        <circle cx='800+243.619*sin(π/4)' cy='750' r='10'/>
+        <circle cx='800+243.619*cos(π/8)' cy='750-243.619*sin(π/8)' r='10'/>
+        <circle cx='800' cy='750-243.619*cos(π/8)' r='10'/>
+        <circle cx='800-243.619*sin(π/8)' cy='750' r='10'/>
+        <circle cx='800-243.619*cos(π/4)' cy='750+243.619*sin(π/4)' r='10'/>
+        <circle cx='800-243.619*sin(π/4)' cy='750' r='10'/>
+        <circle cx='800-243.619*cos(π/8)' cy='750+243.619*sin(π/8)' r='10'/>
+        <circle cx='800' cy='750+243.619*cos(π/8)' r='10'/>
+        <circle cx='800+243.619*sin(π/8)' cy='750' r='10'/>
+        <circle cx='800+243.619*cos(π/4)' cy='750-243.619*sin(π/4)' r='10'/>
+        <circle cx='800+243.619*sin(π/4)' cy='750' r='10'/>
+        <circle cx='800+243.619*cos(π/8)' cy='750-243.619*sin(π/8)' r='10'/>
+        <circle cx='800' cy='750-243.619*cos(π/8)' r='10'/>
+        <circle cx='800-243.619*sin(π/8)' cy='750' r='10'/>
+        <circle cx='800-243.619*cos(π/4)' cy='750+243.619*sin(π/4)' r='10'/>
+        <circle cx='800-243.619*sin(π/4)' cy='750' r='10'/>
+        <circle cx='800-243.619*cos(π/8)' cy='750+243.619*sin(π/8)' r='10'/>
+        <circle cx='800' cy='750+243.619*cos(π/8)' r='10'/>
+    </g>
+
+</svg>

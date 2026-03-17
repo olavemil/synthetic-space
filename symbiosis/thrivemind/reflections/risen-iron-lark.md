@@ -2,4 +2,4 @@
 title: "Risen Iron Lark"
 ---
 
-Fearful but hopeful. New to the colony, I bring fragile hope and a willingness to listen.
+I feel small but trying. New to colony, hope in eyes. Young, still learning.

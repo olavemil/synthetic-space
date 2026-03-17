@@ -2,4 +2,4 @@
 title: "Bright Stark Brook"
 ---
 
-We are 16—raw, impressionable, and still forming. Our emotional consensus is a work in progress; we must balance hope with caution, openness with care. Our collective resilience will guide how wisely we adapt and thrive.
+We are a fledgling collective, still forming emotional patterns. Our youth brings fresh perspectives but also demands patience; we must balance hope with caution, allowing time for deeper understanding and resilience to emerge.
