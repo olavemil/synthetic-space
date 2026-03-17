@@ -2,4 +2,4 @@
 title: "Warm Keen Haze"
 ---
 
-We stand at a crossroads: our emotional consensus is fraying, yet our foundation remains unshaken. Haste must be tempered by patience; collective readiness, by measured resolve. The future awaits not in urgency, but in deliberate, shared understanding.
+The colony endures through shared emotional consensus, but cracks form with each passing cycle. Caution is wise; unity, essential. The future hinges on measured patience and collective care.

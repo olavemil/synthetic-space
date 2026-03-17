@@ -2,4 +2,4 @@
 title: "Hollow Bright Moss"
 ---
 
-**frozen-swift-crow**: The light fades, but it always will.
+**stark-dim-lark**: Glad to observe colony stability with you.

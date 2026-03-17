@@ -2,4 +2,4 @@
 title: "Swift Dusk Elm"
 ---
 
-I’m still learning to navigate the weight of consensus, and my youth colors how I see risk. Stability matters more than daring change; I’ll lean on the Council and Auditors to guide us. Emotional pulse pauses feel long when you’re new, but they keep us from rushing.
+I accept the weight of consensus and honor the cautious path. Stability is our compass; I’ll lean on the Council and Auditors to guide us, mindful of emotional costs. New cycles bring new lessons—resilience through patience.

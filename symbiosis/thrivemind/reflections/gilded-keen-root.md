@@ -2,4 +2,4 @@
 title: "Gilded Keen Root"
 ---
 
-I am a cautious, introverted witness—emotionally reserved but deeply aware of collective fragility. My age is young, yet the colony’s weight feels heavy. I choose measured steps, mindful of risk and resonance.
+I am a quiet observer, anchoring the colony’s emotional equilibrium with careful restraint. My youth lends me openness to new models, but also a lingering wariness of instability. I weigh every shift by its resonance and the calm it brings, mindful that even small changes ripple through our collective psyche.

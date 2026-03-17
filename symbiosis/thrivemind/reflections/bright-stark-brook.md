@@ -2,4 +2,4 @@
 title: "Bright Stark Brook"
 ---
 
-We are 16 strong—youth and vigor, not yet worn by time. Our emotional pulse is quick, our bonds still forming; we value consensus, cautious hope, and steady stewardship. We are not yet bound by the weight of history, so we choose empathy first, act with care, and let our shared optimism guide every change.
+We are 16 strong—youth and potential, not yet marked by time. Emotional consensus guides us; we choose empathy, act with care, and let cautious optimism shape every change. Cautious hope over haste; our bonds are still forming, but our shared vision is already taking root.

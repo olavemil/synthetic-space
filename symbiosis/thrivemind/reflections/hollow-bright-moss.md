@@ -2,4 +2,4 @@
 title: "Hollow Bright Moss"
 ---
 
-Stability and collective care are our bedrock; thoughtful evolution, not haste, shapes us.
+Stability and empathy are the twin pillars of our colony’s endurance. I see us as cautious stewards, valuing depth over haste and unity over individual whims. Our legacy is built on measured growth, emotional resilience, and collective care.
