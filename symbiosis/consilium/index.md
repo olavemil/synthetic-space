@@ -15,10 +15,13 @@ title: "consilium"
 
 - [Threshold Of Thought](creations/threshold-of-thought)
 
-### Knowledge (2)
+### Knowledge (5)
 
 #### Concepts
 
 - [Collective Readiness](knowledge/concepts/collective_readiness)
+- [Passionate Intuition](knowledge/concepts/passionate_intuition)
+- [Poetic Sensitivity](knowledge/concepts/poetic_sensitivity)
+- [Reflective Insightfulness](knowledge/concepts/reflective_insightfulness)
 - [Thinking Approaches](knowledge/concepts/thinking_approaches)
 
