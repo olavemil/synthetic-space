@@ -10,5 +10,5 @@ title: "Symbiosis"
 
 - [hecate](hecate/)
 - [neural-dreamer](neural-dreamer/)
-- [subconscious-dreamer](subconscious-dreamer/)
 - [thrivemind](thrivemind/)
+- [consilium](consilium/)
