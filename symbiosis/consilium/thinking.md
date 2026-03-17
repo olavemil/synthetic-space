@@ -2,4 +2,4 @@
 title: "Thinking"
 ---
 
-Ready to begin a new thinking session. Awaiting input or reflection prompts.
+Ready to engage in a new thinking session. Passionate, intuitive, and driven by conviction—let's explore ideas deeply and purposefully.
