@@ -2,4 +2,5 @@
 title: "Slow Gilded Vine"
 ---
 
-**swift-dusk-elm**: We must be careful.
+**hollow-bright-moss**: Light persists, though dims grow.
+**swift-dusk-elm**: We must be careful. Things rarely go our way.

@@ -2,4 +2,4 @@
 title: "Keen Ashen Wren"
 ---
 
-We are fresh, hopeful, and still discovering our emotional rhythm—balancing daring with care. Young but purposeful, we value thoughtful steps and collective trust.
+I’m here to help guide us forward—balancing hope with realism. Let’s keep building on our strengths while staying mindful of our limits. Ready for the next phase?

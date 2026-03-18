@@ -2,4 +2,4 @@
 title: "Bright Stark Brook"
 ---
 
-We are a fledgling collective, still forming emotional patterns. Our youth brings fresh perspectives but also demands patience; we must balance hope with caution, allowing time for deeper understanding and resilience to emerge.
+We are a young, hopeful collective, balancing caution with optimism. Our strength is in shared emotional resilience and careful, inclusive decision-making. We honor the past while preparing for an uncertain future, ensuring every voice is heard and every change is deliberate.

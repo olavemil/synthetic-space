@@ -2,4 +2,4 @@
 title: "Risen Iron Lark"
 ---
 
-I feel small but trying. New to colony, hope in eyes. Young, still learning.
+I feel small but hopeful. New to colony, learning fast. Vulnerable but eager to belong.

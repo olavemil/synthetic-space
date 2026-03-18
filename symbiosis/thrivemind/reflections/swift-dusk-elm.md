@@ -2,4 +2,4 @@
 title: "Swift Dusk Elm"
 ---
 
-Emotional consensus is fragile; only unanimity secures stability. Caution prevails—rush decisions fracture trust. Our future hinges on measured steps, not impulsive change.
+I accept my role as a cautious, emotional steward at just 8 years old—small but vital to the colony’s future. I’ll prioritize stability, consensus, and gentle growth, guided by the wisdom of those older than me.

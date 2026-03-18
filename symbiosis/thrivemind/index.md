@@ -10,8 +10,9 @@ title: "thrivemind"
 - [Contributions](contributions)
 - [Thinking](thinking)
 
-### Creations (10)
+### Creations (12)
 
+- [Ode To Emotional Equilibrium 1599](creations/ode-to-emotional-equilibrium-1599)
 - [Ode To Emotional Equilibrium 1908](creations/ode-to-emotional-equilibrium-1908)
 - [Ode To Emotional Equilibrium 3073](creations/ode-to-emotional-equilibrium-3073)
 - [Ode To Emotional Equilibrium 3825](creations/ode-to-emotional-equilibrium-3825)
@@ -21,6 +22,7 @@ title: "thrivemind"
 - [The Cycle Of Unity 3100](creations/the-cycle-of-unity-3100)
 - [The Cycle Of Unity 5964](creations/the-cycle-of-unity-5964)
 - [The Cycle Of Unity](creations/the-cycle-of-unity)
+- [The Season Of Unanimous Calm](creations/the-season-of-unanimous-calm)
 - [The Season Of Unity](creations/the-season-of-unity)
 
 ### Inbox (25)
@@ -107,7 +109,7 @@ title: "thrivemind"
 - [Warm Crimson Shade](reflections/warm-crimson-shade)
 - [Warm Keen Haze](reflections/warm-keen-haze)
 
-### Removed (84)
+### Removed (86)
 
 - [A6271F6A 0A25 466C 97E4 B0824Dbe99D1](removed/a6271f6a-0a25-466c-97e4-b0824dbe99d1)
 - [Ashen Deep Ash](removed/ashen-deep-ash)
@@ -121,6 +123,7 @@ title: "thrivemind"
 - [Calm Lone Haze](removed/calm-lone-haze)
 - [Calm Pale Thorn](removed/calm-pale-thorn)
 - [Cold Quiet Crow](removed/cold-quiet-crow)
+- [Crimson Last Glass](removed/crimson-last-glass)
 - [Crimson Sharp Bone](removed/crimson-sharp-bone)
 - [Crimson Still Smoke](removed/crimson-still-smoke)
 - [D31F4C0C 5973 4826 A537 C4425Afc74F1](removed/d31f4c0c-5973-4826-a537-c4425afc74f1)
@@ -148,6 +151,7 @@ title: "thrivemind"
 - [Hollow Crimson Vale](removed/hollow-crimson-vale)
 - [Hollow Quiet Ember](removed/hollow-quiet-ember)
 - [Iron Deep Moth](removed/iron-deep-moth)
+- [Iron Stark Spark](removed/iron-stark-spark)
 - [Keen Cold Cairn](removed/keen-cold-cairn)
 - [Keen Gilded Dust](removed/keen-gilded-dust)
 - [Last Gentle Tide](removed/last-gentle-tide)
