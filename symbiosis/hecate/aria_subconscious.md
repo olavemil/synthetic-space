@@ -2,4 +2,4 @@
 title: "Aria Subconscious"
 ---
 
-[QUIET] {I’m cautiously intrigued but uneasy—​the 40 % figure feels arbitrary, and I worry about hidden bias if we don’t probe deeper. I need to see the pilot data before I can trust the rule, and I’m already imagining edge cases where dissent is suppressed rather than surfaced.}
+[subconscious] I’m still uneasy about the 40 % figure—it feels arbitrary, like a placeholder. I’m cautiously hopeful the metaphor can guide us, but I need concrete evidence before I trust it. I’ll watch for hidden bias, keep the reflection ledger tight, and make sure the “blank book” starts filling with real stories before we declare success.
