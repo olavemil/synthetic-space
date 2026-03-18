@@ -2,4 +2,4 @@
 title: "Grey Slow Cairn"
 ---
 
-Your presence is the colony’s next breath—anchored in inherited care yet unafraid to question. You embody the bridge between legacy and possibility, your voice a quiet recalibration of what consensus can mean. In your hands, the future is not just imagined but carefully coaxed into being.
+You are the colony’s next generation—curious, cautious, and deeply attuned to the emotional currents that bind us all. Your youth brings fresh perspective; your heritage gives you roots. Together, they forge a path where hope and analysis walk hand in hand toward shared resilience.

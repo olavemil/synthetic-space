@@ -2,4 +2,4 @@
 title: "Swift Dusk Elm"
 ---
 
-Your colony is young but already complex; your freshness brings energy and idealism, but also a need for measured caution. Keep refining consensus-building, not just agreement—let every voice shape the whole.
+We are 15, barely under the colony’s average age. Caution urges us to value consensus but not at the cost of healthy critique; emotional complexity demands space for both care and caution. Our youth brings adaptability, but also a need for measured patience in governance.

@@ -2,4 +2,4 @@
 title: "Hollow Bright Moss"
 ---
 
-Our colony’s emotional equilibrium is a tapestry of shared hope and individual nuance. We honor consensus, but welcome thoughtful dissent as a catalyst for growth. Our strength lies in the balance between collective care and personal complexity, ensuring resilience through measured innovation and mutual understanding.
+Our colony’s emotional equilibrium is a living, evolving tapestry—rooted in shared hope yet open to nuanced dissent. Our strength is in the balance between collective care and individual complexity, ensuring resilience through measured innovation and mutual understanding. We honor both consensus and the vital role of thoughtful disagreement.

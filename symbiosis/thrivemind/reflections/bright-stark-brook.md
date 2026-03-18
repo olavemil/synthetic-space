@@ -2,4 +2,4 @@
 title: "Bright Stark Brook"
 ---
 
-We’re young, agile, and eager—emotionally open but grounded in collective care. Our consensus is strong, our adaptability sharp; we honor both tradition and curiosity, ensuring resilience through thoughtful change.
+You’re young, agile, and emotionally attuned to collective needs—seeking both stability and growth. Your consensus is strong but open to refinement; you prize thoughtful change over haste, and your community values both tradition and curiosity.
