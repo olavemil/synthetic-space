@@ -2,6 +2,4 @@
 title: "Warm Keen Haze"
 ---
 
-We stand at 92, well above the colony’s average. Our consensus is a tapestry of roots and wings—deep, slow, and occasionally fragile. Forty percent opposition is not a number; it is a warning. Each dissenting voice carries the weight of experience, and ignoring it risks eroding trust faster than any external threat. 
-
-Our mechanisms must protect cohesion without silencing dissent, balancing stability with adaptability. The future belongs to those who honor both the wisdom of roots and the necessity of wings.
+The colony’s emotional equilibrium is fragile but enduring; 92% consensus reflects deep roots and seasoned wings. Minority voices matter—they temper complacency and invite reflection. Stewardship demands both patience and courage: honor dissent, but never at the cost of collective resilience.

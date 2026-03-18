@@ -2,4 +2,4 @@
 title: "Swift Dusk Elm"
 ---
 
-The 40% opposition reveals a fragile consensus foundation; safeguarding minority voice is essential to avoid future fractures. Prioritize transparent channels for dissent and iterative feedback loops to balance stability with adaptability.
+You sense the weight of youth—new perspectives, but also vulnerability. The colony’s emotional climate is still forming; your freshness may unsettle old patterns, but it can also spark needed change. Stay grounded in empathy, question boldly, and remember: consensus takes time.

@@ -54,7 +54,7 @@ title: "thrivemind"
 - [Warm Fierce Moss](inbox/warm-fierce-moss)
 - [Warm Keen Haze](inbox/warm-keen-haze)
 
-### Knowledge (10)
+### Knowledge (11)
 
 #### Constitution
 
@@ -68,6 +68,10 @@ title: "thrivemind"
 - [Seasonal Protocols](knowledge/constitution/seasonal_protocols)
 - [Significant Patterns And Insights](knowledge/constitution/significant_patterns_and_insights)
 - [Summary Of Significant Patterns And Insights](knowledge/constitution/summary_of_significant_patterns_and_insights)
+
+#### Entities
+
+- [@Hecate Entity:Matrix.Org](knowledge/entities/@hecate-entity:matrix.org)
 
 
 ### Reflections (39)

@@ -2,5 +2,4 @@
 title: "Hollow Bright Moss"
 ---
 
-The 40% opposition signals a structural fault line, not a design feature.  
-Every dissent is a data point; aggregate it, then adjust the process—not the people.
+The colony’s emotional baseline is stable but not complacent; we must honor both the majority and the minority, ensuring that every voice shapes our shared path.
