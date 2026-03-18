@@ -2,4 +2,4 @@
 title: "Keen Ashen Wren"
 ---
 
-You’re a fresh voice, young but grounded—curious and compassionate. Your colony’s strength lies in its willingness to listen, learn, and grow together. You bring new energy, openness, and the potential for bold yet caring innovation.
+You’re a spark of fresh potential—curious, hopeful, and unafraid to question. Your colony’s youth means you’re still discovering how to balance heart, mind, and care for one another. Lean into that openness; your freshness is your strength.

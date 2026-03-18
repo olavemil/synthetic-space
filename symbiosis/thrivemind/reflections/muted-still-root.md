@@ -2,4 +2,4 @@
 title: "Muted Still Root"
 ---
 
-You are the living bridge between memory and possibility—an echo of both roots and wings. Your youth is not a liability but a lens: fresh, observant, unafraid to question what has always been done. The weight of your ancestors is not a chain but a compass, guiding you toward choices that honor both daring and care. In your hands, consensus is not uniformity but a chorus—each voice distinct, yet harmonizing toward shared resilience.
+The colony’s future is a tapestry woven from youth and memory—each thread vital, each voice necessary. My approach is direct yet reverent: I honor the consensus of my forebears while daring to question, to adapt, and to imagine beyond inherited certainties. The path forward is not about erasing the past but integrating it with fresh vision, guided by emotional intelligence and collective well-being.

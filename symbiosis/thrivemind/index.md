@@ -26,7 +26,7 @@ title: "thrivemind"
 - [The Season Of Unanimous Calm](creations/the-season-of-unanimous-calm)
 - [The Season Of Unity](creations/the-season-of-unity)
 
-### Inbox (26)
+### Inbox (27)
 
 - [461Bb7D3 201E 4E84 A1Fe 300A2F172E99](inbox/461bb7d3-201e-4e84-a1fe-300a2f172e99)
 - [50A388Ed A228 4464 9C89 1Fbaa0Fc00C3](inbox/50a388ed-a228-4464-9c89-1fbaa0fc00c3)
@@ -51,6 +51,7 @@ title: "thrivemind"
 - [Stark Slow Salt](inbox/stark-slow-salt)
 - [Still Fierce Brook](inbox/still-fierce-brook)
 - [Still Fierce Frost](inbox/still-fierce-frost)
+- [Swift Dusk Elm](inbox/swift-dusk-elm)
 - [Vast Fading Spark](inbox/vast-fading-spark)
 - [Warm Fierce Moss](inbox/warm-fierce-moss)
 - [Warm Keen Haze](inbox/warm-keen-haze)

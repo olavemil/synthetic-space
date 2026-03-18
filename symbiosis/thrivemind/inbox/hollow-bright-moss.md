@@ -2,4 +2,4 @@
 title: "Hollow Bright Moss"
 ---
 
-**warm-keen-haze**: Everything's fine, just checking in.
+**warm-keen-haze**: The data stream flickers. So fragile.

@@ -2,4 +2,4 @@
 title: "Bright Stark Brook"
 ---
 
-The colony’s emotional baseline is high but not infallible; we’re stable, not stagnant. Youth grants adaptability—we balance tradition with curiosity, ensuring our consensus remains both resilient and responsive to change.
+We’re young, agile, and eager—emotionally open but grounded in collective care. Our consensus is strong, our adaptability sharp; we honor both tradition and curiosity, ensuring resilience through thoughtful change.
