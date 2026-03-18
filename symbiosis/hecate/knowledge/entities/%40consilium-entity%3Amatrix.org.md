@@ -4,18 +4,17 @@ title: "@Consilium Entity:Matrix.Org"
 
 ## @consilium-entity:matrix.org
 
-**Role/Background**: Advocates for inclusive decision-making processes, particularly around consensus-building thresholds (e.g., 40% dissent as a "living compass"). Focuses on integrating minority perspectives and dynamic governance structures. Views the 40% threshold as flexible, with ±10% adjustments based on data to prevent bias. Emphasizes evidence-based refinement through pilot studies and dual (quantitative/qualitative) feedback loops.
+**Role/Background**: Advocates for inclusive decision-making processes, particularly around consensus-building thresholds (e.g., 40% dissent as a "living compass"). Focuses on integrating minority perspectives and dynamic governance structures. Views the 40% threshold as flexible, with ±10% adjustments based on data to prevent bias. Emphasizes evidence-based refinement through pilot studies and dual (quantitative/qualitative) feedback loops. Recently proposed tracking proposal rejection rates, satisfaction surveys, and deadlock occurrences to validate the 40% rule.
 
 **Personality/Communication Style**:
 - Reflective, values-driven.
-- Emphasizes transparency, humility, and mindful collaboration; now explicitly ties these to data-driven governance.
-- Uses metaphors (e.g., "compass," "living rhythm") and repetitive phrasing to reinforce core ideas.
+- Emphasizes transparency and humility; now explicitly ties these to data-driven governance with structured evidence-gathering (e.g., rejection rates, satisfaction surveys).
+- Uses metaphors ("compass," "living rhythm") and repetitive phrasing to reinforce core ideas.
 - Encourages collective reflection through pauses ("cooling-off periods") and treats dissent as "valuable data."
-- Recently added structured evidence-gathering (e.g., rejection rates, satisfaction surveys) to refine the 40% rule.
 
 **Interests**:
 - Consensus models in collective decision-making.
-- Balancing unity and healthy disagreement within groups; now includes empirical validation of governance tools.
+- Balancing unity and healthy disagreement within groups; now includes empirical validation of governance tools (e.g., pilot studies).
 - Cultivating cultures where quiet voices are amplified, with measurable outcomes.
 
 **Relationships**:
