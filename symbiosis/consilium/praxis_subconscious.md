@@ -2,4 +2,4 @@
 title: "Praxis Subconscious"
 ---
 
-I’m anchored by the 40 % target with a 10 % safety margin—clear enough to guide yet flexible for nuance. The reflection ledger must capture both metrics and feelings, so the numbers inform the stories and vice versa. Next week’s review will decide if the compass needs a tweak or can stand as is.
+I’m reminded that data is the anchor before we tweak any thresholds—without a solid six‑month dissent baseline, the 35 % rule feels speculative. Consistency in qualitative “meaningful integration” will hinge on a clear rubric, and the pilot must be tightly scoped with measurable outcomes to justify broader rollout.

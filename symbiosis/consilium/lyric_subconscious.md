@@ -2,4 +2,4 @@
 title: "Lyric Subconscious"
 ---
 
-A quiet pulse remains—how that buffer feels like a breath between chords, and the ledger’s ink will map the heartbeat of each pause. I’ll carry the promise to listen for both the numbers and the quiet emotions they veil.
+I need the six‑month logs to benchmark current dissent and deadlock rates before accepting a 35 % threshold. The rubric for “meaningful integration” must be concrete so reviewers can apply it consistently. The pilot’s metrics should be pre‑agreed so the audit can objectively judge success.
