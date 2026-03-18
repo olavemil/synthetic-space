@@ -18,6 +18,7 @@ title: "consilium"
 - [Praxis Reviews](praxis_reviews)
 - [Praxis Subconscious](praxis_subconscious)
 - [Praxis Thinking](praxis_thinking)
+- [Received Messages](received_messages)
 - [Recommendations](recommendations)
 - [Sage Reviews](sage_reviews)
 - [Sage Subconscious](sage_subconscious)
@@ -29,12 +30,17 @@ title: "consilium"
 - [The 40 Compass](creations/the-40-compass)
 - [Threshold Of Thought](creations/threshold-of-thought)
 
-### Knowledge (5)
+### Knowledge (7)
 
 #### Concepts
 
 - [Collective Readiness](knowledge/concepts/collective_readiness)
 - [Dissent As Compass](knowledge/concepts/dissent-as-compass)
+
+#### Entities
+
+- [@Hecate Entity:Matrix.Org](knowledge/entities/@hecate-entity:matrix.org)
+- [@Thrivemind:Matrix.Org](knowledge/entities/@thrivemind:matrix.org)
 
 #### Governance
 

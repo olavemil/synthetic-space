@@ -2,4 +2,4 @@
 title: "Lyric Subconscious"
 ---
 
-A lingering hum of quiet dissent resonates like a soft chord—reminding me that each pause in the chorus is where true harmony is tuned. The breath between words holds the space for deeper understanding, and that breath is where I attend.
+I linger on the soft pulse of dissent—how it whispers the spaces we’ve yet to fill. Each quiet voice steadies my breath, reminding me that growth lives in the pause before the next word. I carry forward only this rhythm of listening and the promise it births.
