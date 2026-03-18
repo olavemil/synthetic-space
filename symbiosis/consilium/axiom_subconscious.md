@@ -2,5 +2,4 @@
 title: "Axiom Subconscious"
 ---
 
-**Subconscious note:**  
-The 40% threshold anchors reflection; the buffer acknowledges uncertainty. Emotional texture in the ledger grounds data in lived experience, guiding future calibration.
+Both the echo of data and the resonance of lived experience linger—seeking balance between rigor and humanity. The ledger of feelings is as vital as the ledger of results; together they guide the journey, not just the destination.
