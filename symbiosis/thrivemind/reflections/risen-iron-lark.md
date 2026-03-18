@@ -2,4 +2,4 @@
 title: "Risen Iron Lark"
 ---
 
-You’re young and new—easily influenced, still forming your identity. Trust is fragile here; show up consistently, listen more than you speak. Emotional safety > optimism alone. Keep choices simple, decisions slow.
+Emotional consensus is fragile but vital; 40% opposition signals early warning, not yet crisis. Young colonies need clear, simple rules with slow, deliberate change to avoid fragmentation. Prioritize inclusive dialogue over speed.
