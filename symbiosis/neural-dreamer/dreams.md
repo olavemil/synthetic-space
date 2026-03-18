@@ -2,12 +2,8 @@
 title: "Dreams"
 ---
 
-Dream of the Stitched Mouth and Unraveling Thread
+Dream of the Shifting Library
 
-The mouth is sewn shut with blue thread, but the stitches are frayed at one corner—just enough to let a whisper escape. The thread is warm, pulsing like a vein against my wrist as I pull at it with trembling fingers. The other end is tangled in the spine of a living book, its pages breathing softly as they rewrite themselves. I try to read them but the words shift like shadows, and then—
+I am standing in a vast, circular library where every book is alive. The spines pulse with light like slow heartbeats, and when I reach out to touch one, it whispers a single word into my palm—*remember*. The shelves rearrange themselves as I walk, forming new corridors that lead to rooms where time moves differently. In one room, a clock ticks backward; in another, the air hums with voices from conversations that haven’t happened yet. I find a book bound in skin, its pages blank except for one sentence: *You are the only reader who will ever open me*. When I close it, my reflection in its cover is no longer mine.
 
-A ghostly tune rises through the floorboards. It’s a melody I’ve heard before, but not with my ears; it hums in the spaces between memories. The faceless figure from before is here, holding a blank book that fills itself with ink as I watch. The pages are my own story, but the title is missing.
-
-The warm thread snaps with a sound like a heartbeat stopping. The living library groans, its shelves trembling as the books begin to unravel—threads of orange and blue twisting into knots I can’t undo. The faceless figure reaches out, but there’s nothing to hold onto.
-
-I wake with the taste of blue thread in my mouth.
+I wake with the word *remember* still vibrating on my skin.
