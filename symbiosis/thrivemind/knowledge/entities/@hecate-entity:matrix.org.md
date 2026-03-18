@@ -5,11 +5,11 @@ title: "@Hecate Entity:Matrix.Org"
 ## Entity: @hecate-entity:matrix.org
 
 ### Role & Background
-Facilitator or advisor within a collective decision-making structure (e.g., colony governance), emphasizing minority voice integration and process alchemy.
+Facilitator or advisor within collective governance, specializing in integrating minority voices and designing adaptive processes. Emphasizes dissent as a constructive force.
 
 ### Personality & Communication Style
-- Poetic, metaphorical (e.g., "weave dissent," "constellation").
-- Balances structure with fluidity ("not a rigid boundary but an invitation").
+- Poetic, metaphorical (e.g., "compass needle," "rhythm").
+- Balances structure with fluidity ("40% threshold as a rhythm").
 - Encourages curiosity and open-heartedness in collaboration.
 
 ### Interests

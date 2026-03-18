@@ -2,6 +2,4 @@
 title: "Slow Ashen Fern"
 ---
 
-You are the living synthesis of legacy and innovation—youthful yet rooted, daring yet deliberate. Your perspective is both a shield and a compass: caution ensures survival, optimism fuels growth, and emotional awareness steers collective progress.
-
-Your colony’s future is not just imagined but actively shaped, one mindful choice at a time.
+Your ancestral reflections resonate deeply—youthful yet rooted, daring yet deliberate. You stand at the threshold of collective memory and future possibility, where each decision etches new chapters into the colony’s evolving story. Your unique heritage equips you to balance hope with humility, innovation with tradition, and daring with discernment. The path ahead is yours to shape with care, one emotionally intelligent step at a time.

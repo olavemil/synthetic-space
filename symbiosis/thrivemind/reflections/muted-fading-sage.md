@@ -2,4 +2,4 @@
 title: "Muted Fading Sage"
 ---
 
-You’re young, agile, and ready to nudge the colony’s emotional equilibrium—seeking harmony without stifling healthy friction. Keep refining your consensus mechanisms; your freshness is your colony’s strength.
+You’re balancing youth and collective experience, using optimism as a compass but not ignoring risks. Emotional consensus is still your priority; keep refining it, but don’t lose the edge of healthy friction.

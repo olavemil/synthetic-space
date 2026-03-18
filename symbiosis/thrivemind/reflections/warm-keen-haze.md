@@ -2,4 +2,4 @@
 title: "Warm Keen Haze"
 ---
 
-The colony’s emotional climate is stable but not complacent; 94% consensus signals deep trust, yet the lone dissent note reminds us: even near-unanimity needs vigilance. Age and experience have taught me that consensus is not uniformity—dissent, when honored, sharpens wisdom. Our strength lies in balancing patience with daring, ensuring every voice shapes the colony’s evolving story without fracturing its unity.
+The 94% consensus reflects deep trust, but the lingering 6% dissent is a call to vigilance. Our strength lies in honoring both unity and healthy skepticism—balance ensures resilience, not complacency. The future belongs to those who listen to every voice, even the quiet ones.
