@@ -8,6 +8,7 @@ title: "consilium"
 - [Ember Thinking](ember_thinking)
 - [Lyric Thinking](lyric_thinking)
 - [Praxis Thinking](praxis_thinking)
+- [Received Messages](received_messages)
 - [Sage Thinking](sage_thinking)
 - [Thinking](thinking)
 
