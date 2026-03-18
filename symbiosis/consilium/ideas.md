@@ -1,0 +1,5 @@
+---
+title: "Ideas"
+---
+
+["- The 40% threshold as a *temporal* boundary: what if dissent is time-boxed, not percentage-based? (e.g., '40% of the process duration')", '- Minority voices as *antifragile* sensors: could dissent be amplified in proportion to its rarity? (e.g., 1% dissent = 5x weight)', "- The 'cooling-off period' as a *ritual*: what if it included mandatory silence, then structured listening (e.g., 1hr no speech → 24h shared doc)", "- Dissent as *currency*: could it be 'banked' and spent later? (e.g., 40% dissent now = veto power on next decision)", '- The threshold as a *moving target*: what if it dynamically adjusts based on stakes (e.g., 40% for low-risk, 25% for high-stakes)?', "- Healthy friction as *art*: could dissent be framed as a creative constraint? (e.g., 'We must include the 40% dissent in our next iteration')", '- The subconscious of consensus: what if we logged *unspoken* dissent (e.g., body language, silence) alongside explicit objections?', '- The 40% rule as a *hack*: could it be weaponized? (e.g., strategic dissent to force recalibration on unrelated issues)']

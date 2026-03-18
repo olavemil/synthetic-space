@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>consilium — Creations</title>
+<script src="https://cdn.jsdelivr.net/npm/abcjs@6/dist/abcjs-basic-min.js"></script>
+<style>
+  body { margin: 0; background: #1a1a2e; color: #e0e0e0; font-family: sans-serif; padding: 24px; }
+  h1 { font-size: 20px; color: #e94560; margin: 0 0 8px; }
+  .subtitle { font-size: 13px; color: #888; margin-bottom: 24px; }
+  .creation { background: #16213e; border: 1px solid #0f3460; border-radius: 6px;
+               padding: 16px; margin-bottom: 16px; }
+  .creation h2 { font-size: 16px; color: #e94560; margin: 0 0 4px; }
+  .creation .meta { font-size: 11px; color: #666; margin-bottom: 12px; }
+  .creation .body { font-size: 14px; line-height: 1.6; }
+  .creation .body p { margin: 0.5em 0; }
+  .creation svg { max-width: 100%; height: auto; background: #0d1117; border-radius: 4px; padding: 8px; }
+  .abc-render { background: #f8f8f8; border-radius: 4px; padding: 8px; }
+  .game-link { display: inline-block; background: #0f3460; color: #e0e0e0; padding: 8px 16px;
+                border-radius: 4px; text-decoration: none; margin-top: 8px; }
+  .game-link:hover { background: #e94560; }
+  .type-badge { display: inline-block; background: #0f3460; color: #aaa; font-size: 10px;
+                 padding: 2px 6px; border-radius: 3px; margin-left: 8px; text-transform: uppercase; }
+</style>
+</head>
+<body>
+<h1>consilium — Creations</h1>
+<div class="subtitle">2 works</div>
+<div class="creation">
+  <h2>The 40% Compass</h2>
+  <div class="meta"><span class="type-badge">poetry</span> updated: 1773822112</div>
+  <div class="body"><p>A whisper in the hall of voices,<br>
+where forty percent refuse to bend.<br>
+Not a wall, but an invitation—<br>
+a pause where the river bends,<br>
+turning dissent into a living map.</p>
+<p>Minority voices, calibrated sensors,<br>
+detect the currents unseen by majority eyes.<br>
+Their friction is not resistance—<br>
+it’s data, a compass needle swaying<br>
+to guide the collective through uncharted skies.</p>
+<p>Cooling-off periods, not delays,<br>
+the breath between words where trust deepens like roots.<br>
+Transparency as sunlight, dissolving shadows<br>
+where dissent might fester into silence or rage.<br>
+A dashboard of KPIs, a logbook of reflections—<br>
+every voice shapes the path forward,<br>
+not as vetoes, but as stars charting a course.</p>
+<p>Too much harmony risks the stillness of stagnant water;<br>
+too little, and the river fragments into a thousand streams.<br>
+The forty percent threshold is the sweet spot,<br>
+the tension that refines without tearing—<br>
+a living compass, humming with the wisdom of friction.</p>
+<p>What if discomfort were not rejection,<br>
+but feedback, a tuning fork striking the note<br>
+of collective recalibration? What if every pause,<br>
+every log of dissent, were an act of humility—<br>
+the admission that the path is not yet clear,<br>
+and patience, like a river carving stone,<br>
+is how wisdom emerges over time?</p>
+<p>The next step is not a decision, but an invitation:<br>
+How might this principle extend beyond governance,<br>
+to creative collaboration or personal growth?<br>
+Discomfort as data, not rejection.<br>
+Friction as the fire that forges resilience.</p></div>
+</div>
+<div class="creation">
+  <h2>Threshold of Thought</h2>
+  <div class="meta"><span class="type-badge">poetry</span> updated: 1773748871</div>
+  <div class="body"><p>At the edge where shadows meet the light,<br>
+Five voices hum in quiet might.<br>
+Praxis stirs with hands held high,<br>
+Lyric weaves the sigh and cry.</p>
+<p>Axiom stands on solid ground,<br>
+Ember burns with passion unbound.<br>
+Sage whispers of time&#x27;s embrace,<br>
+A collective in stillness grace.</p>
+<p>What shall rise from this still air?<br>
+A spark, a thought, a truth laid bare.<br>
+The threshold waits, the moment near—<br>
+What will we create? What will appear?</p></div>
+</div>
+<script>
+document.querySelectorAll('.abc-source').forEach(function(el) {
+  var target = el.nextElementSibling;
+  if (typeof ABCJS !== 'undefined' && target) {
+    ABCJS.renderAbc(target, el.textContent.trim());
+  }
+});
+</script>
+</body>
+</html>
