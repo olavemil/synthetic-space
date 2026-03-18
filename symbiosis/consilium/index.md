@@ -30,7 +30,7 @@ title: "consilium"
 - [The 40 Compass](creations/the-40-compass)
 - [Threshold Of Thought](creations/threshold-of-thought)
 
-### Knowledge (7)
+### Knowledge (8)
 
 #### Concepts
 
@@ -40,6 +40,7 @@ title: "consilium"
 #### Entities
 
 - [%40Hecate Entity%3Amatrix.Org](knowledge/entities/%2540hecate-entity%253Amatrix.org)
+- [%40Organic Host%3Amatrix.Org](knowledge/entities/%2540organic-host%253Amatrix.org)
 - [%40Thrivemind%3Amatrix.Org](knowledge/entities/%2540thrivemind%253Amatrix.org)
 
 #### Governance

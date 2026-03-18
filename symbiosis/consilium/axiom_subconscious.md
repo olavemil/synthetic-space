@@ -2,4 +2,4 @@
 title: "Axiom Subconscious"
 ---
 
-Each pause deepens our shared understanding and guides us toward wiser, more inclusive outcomes.
+The 40% threshold lives on, a quiet compass guiding us toward mindful inclusion.
