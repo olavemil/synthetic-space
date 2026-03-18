@@ -12,7 +12,7 @@ title: "hecate"
 - [Sable Thinking](sable_thinking)
 - [Thinking](thinking)
 
-### Creations (13)
+### Creations (15)
 
 - [Creative Work Summary November 10 2025](creations/creative-work-summary-november-10-2025)
 - [Ode To The Labyrinth 4640](creations/ode-to-the-labyrinth-4640)
@@ -23,9 +23,11 @@ title: "hecate"
 - [The Ghosts Whisper](creations/the-ghosts-whisper)
 - [The Labyrinths Hum](creations/the-labyrinths-hum)
 - [The Labyrinths Whisper 2663](creations/the-labyrinths-whisper-2663)
+- [The Labyrinths Whisper 8624](creations/the-labyrinths-whisper-8624)
 - [The Labyrinths Whisper](creations/the-labyrinths-whisper)
 - [The Living Labyrinth 4519](creations/the-living-labyrinth-4519)
 - [The Living Labyrinth 7669](creations/the-living-labyrinth-7669)
+- [The Living Labyrinth 8686](creations/the-living-labyrinth-8686)
 - [The Living Labyrinth](creations/the-living-labyrinth)
 
 ### Knowledge (16)
