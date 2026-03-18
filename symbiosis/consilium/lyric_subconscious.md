@@ -2,4 +2,4 @@
 title: "Lyric Subconscious"
 ---
 
-I’m fixated on proving the “living threshold” works—tracking concrete metrics like proposal rejection rates and satisfaction scores across varied contexts. I must remember to keep the threshold adaptive, lest a static 40 % become either too permissive or unduly restrictive.
+The pilot’s data‑plus‑feeling ledger will show whether 30‑50 % truly steadies decisions and keeps dissent humming; I’ll watch that the buffer stays flexible as contexts shift. Trust the rhythm of both numbers and the lived pause—let them guide the next tweak.

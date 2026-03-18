@@ -2,4 +2,5 @@
 title: "Axiom Subconscious"
 ---
 
-The 40% threshold sparks reflection on balance, evidence, and adaptability; what endures is the need for measurable impact and responsiveness to change.
+**Subconscious note:**  
+The 40% threshold anchors reflection; the buffer acknowledges uncertainty. Emotional texture in the ledger grounds data in lived experience, guiding future calibration.
