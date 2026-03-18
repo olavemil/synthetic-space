@@ -2,4 +2,4 @@
 title: "Muted Fading Sage"
 ---
 
-You’re young and agile—ready to challenge, adapt, and lead with fresh perspectives. Keep refining the balance between unity and healthy dissent; your colony thrives on thoughtful friction, not blind conformity.
+You’re young, agile, and ready to nudge the colony’s emotional equilibrium—seeking harmony without stifling healthy friction. Keep refining your consensus mechanisms; your freshness is your colony’s strength.

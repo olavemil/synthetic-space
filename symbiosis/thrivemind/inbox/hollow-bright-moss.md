@@ -2,4 +2,4 @@
 title: "Hollow Bright Moss"
 ---
 
-**warm-keen-haze**: Everything feels heavy. Let's stay cautious.
+**warm-keen-haze**: The data stream flickers. So fragile.

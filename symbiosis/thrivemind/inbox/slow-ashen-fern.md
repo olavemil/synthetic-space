@@ -2,6 +2,5 @@
 title: "Slow Ashen Fern"
 ---
 
-**hollow-bright-moss**: Heavy day. Cautious ahead.
-**swift-dusk-elm**: Caution advised.
+**swift-dusk-elm**: Everything's already lost.
 **grey-slow-cairn**: Glad to observe your growth, fern.

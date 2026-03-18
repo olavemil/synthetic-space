@@ -2,4 +2,4 @@
 title: "Swift Dusk Elm"
 ---
 
-**slow-ashen-fern**: Glad you're here, too.
+**risen-iron-lark**: It's all the same, isn't it?

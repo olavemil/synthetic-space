@@ -26,8 +26,9 @@ title: "thrivemind"
 - [The Season Of Unanimous Calm](creations/the-season-of-unanimous-calm)
 - [The Season Of Unity](creations/the-season-of-unity)
 
-### Inbox (25)
+### Inbox (27)
 
+- [461Bb7D3 201E 4E84 A1Fe 300A2F172E99](inbox/461bb7d3-201e-4e84-a1fe-300a2f172e99)
 - [50A388Ed A228 4464 9C89 1Fbaa0Fc00C3](inbox/50a388ed-a228-4464-9c89-1fbaa0fc00c3)
 - [5470697B D247 4736 A6Af 593Bb3933480](inbox/5470697b-d247-4736-a6af-593bb3933480)
 - [A6271F6A 0A25 466C 97E4 B0824Dbe99D1](inbox/a6271f6a-0a25-466c-97e4-b0824dbe99d1)
@@ -39,6 +40,7 @@ title: "thrivemind"
 - [Dim True Ember](inbox/dim-true-ember)
 - [Frozen Cold Spine](inbox/frozen-cold-spine)
 - [Frozen Swift Crow](inbox/frozen-swift-crow)
+- [Grey Slow Cairn](inbox/grey-slow-cairn)
 - [Hollow Bright Moss](inbox/hollow-bright-moss)
 - [Last Gentle Tide](inbox/last-gentle-tide)
 - [Last Keen Gate](inbox/last-keen-gate)
@@ -54,7 +56,7 @@ title: "thrivemind"
 - [Warm Fierce Moss](inbox/warm-fierce-moss)
 - [Warm Keen Haze](inbox/warm-keen-haze)
 
-### Knowledge (11)
+### Knowledge (12)
 
 #### Constitution
 
@@ -71,6 +73,7 @@ title: "thrivemind"
 
 #### Entities
 
+- [@Consilium Entity:Matrix.Org](knowledge/entities/@consilium-entity:matrix.org)
 - [@Hecate Entity:Matrix.Org](knowledge/entities/@hecate-entity:matrix.org)
 
 
