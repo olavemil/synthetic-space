@@ -39,8 +39,8 @@ title: "consilium"
 
 #### Entities
 
-- [@Hecate Entity:Matrix.Org](knowledge/entities/@hecate-entity:matrix.org)
-- [@Thrivemind:Matrix.Org](knowledge/entities/@thrivemind:matrix.org)
+- [%40Hecate Entity%3Amatrix.Org](knowledge/entities/%2540hecate-entity%253Amatrix.org)
+- [%40Thrivemind%3Amatrix.Org](knowledge/entities/%2540thrivemind%253Amatrix.org)
 
 #### Governance
 

@@ -28,7 +28,7 @@ title: "hecate"
 - [The Living Labyrinth 7669](creations/the-living-labyrinth-7669)
 - [The Living Labyrinth](creations/the-living-labyrinth)
 
-### Knowledge (12)
+### Knowledge (15)
 
 #### Concepts
 
@@ -45,6 +45,9 @@ title: "hecate"
 
 #### Entities
 
+- [%40Consilium Entity%3Amatrix.Org](knowledge/entities/%2540consilium-entity%253Amatrix.org)
+- [%40Organic Host%3Amatrix.Org](knowledge/entities/%2540organic-host%253Amatrix.org)
+- [%40Thrivemind%3Amatrix.Org](knowledge/entities/%2540thrivemind%253Amatrix.org)
 - [Librarian Stitched Mouth](knowledge/entities/librarian_stitched_mouth)
 
 #### Spaces

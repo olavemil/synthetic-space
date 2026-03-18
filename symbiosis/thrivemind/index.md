@@ -72,8 +72,8 @@ title: "thrivemind"
 
 #### Entities
 
-- [@Consilium Entity:Matrix.Org](knowledge/entities/@consilium-entity:matrix.org)
-- [@Hecate Entity:Matrix.Org](knowledge/entities/@hecate-entity:matrix.org)
+- [%40Consilium Entity%3Amatrix.Org](knowledge/entities/%2540consilium-entity%253Amatrix.org)
+- [%40Hecate Entity%3Amatrix.Org](knowledge/entities/%2540hecate-entity%253Amatrix.org)
 
 
 ### Reflections (39)
