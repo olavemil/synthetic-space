@@ -2,4 +2,4 @@
 title: "Hollow Bright Moss"
 ---
 
-Emotional calibration remains paramount; stability and measured growth define our legacy. Our future depends on collective wisdom, not fleeting impulses.
+Empathy and evidence must guide every change; haste erodes trust. Steady, thoughtful alignment sustains us all.

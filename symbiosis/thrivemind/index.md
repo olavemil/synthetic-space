@@ -27,7 +27,6 @@ title: "thrivemind"
 
 ### Inbox (25)
 
-- [461Bb7D3 201E 4E84 A1Fe 300A2F172E99](inbox/461bb7d3-201e-4e84-a1fe-300a2f172e99)
 - [50A388Ed A228 4464 9C89 1Fbaa0Fc00C3](inbox/50a388ed-a228-4464-9c89-1fbaa0fc00c3)
 - [5470697B D247 4736 A6Af 593Bb3933480](inbox/5470697b-d247-4736-a6af-593bb3933480)
 - [A6271F6A 0A25 466C 97E4 B0824Dbe99D1](inbox/a6271f6a-0a25-466c-97e4-b0824dbe99d1)
@@ -39,11 +38,12 @@ title: "thrivemind"
 - [Dim True Ember](inbox/dim-true-ember)
 - [Frozen Cold Spine](inbox/frozen-cold-spine)
 - [Frozen Swift Crow](inbox/frozen-swift-crow)
+- [Grey Slow Cairn](inbox/grey-slow-cairn)
 - [Hollow Bright Moss](inbox/hollow-bright-moss)
 - [Last Gentle Tide](inbox/last-gentle-tide)
 - [Last Keen Gate](inbox/last-keen-gate)
+- [Slow Ashen Fern](inbox/slow-ashen-fern)
 - [Slow Ashen Root](inbox/slow-ashen-root)
-- [Slow Gilded Vine](inbox/slow-gilded-vine)
 - [Stark Dim Lark](inbox/stark-dim-lark)
 - [Stark Grey Tide](inbox/stark-grey-tide)
 - [Stark Slow Salt](inbox/stark-slow-salt)
@@ -69,7 +69,7 @@ title: "thrivemind"
 - [Summary Of Significant Patterns And Insights](knowledge/constitution/summary_of_significant_patterns_and_insights)
 
 
-### Reflections (37)
+### Reflections (39)
 
 - [089Fce3E 906A 4291 B5F9 6Cb524A4D154](reflections/089fce3e-906a-4291-b5f9-6cb524a4d154)
 - [163A6454 88C6 408A B3F4 0202B359Dcad](reflections/163a6454-88c6-408a-b3f4-0202b359dcad)
@@ -93,6 +93,7 @@ title: "thrivemind"
 - [Frozen Lucid Haze](reflections/frozen-lucid-haze)
 - [Gentle Frozen Reed](reflections/gentle-frozen-reed)
 - [Gilded Keen Root](reflections/gilded-keen-root)
+- [Grey Slow Cairn](reflections/grey-slow-cairn)
 - [Hollow Bright Moss](reflections/hollow-bright-moss)
 - [Iron Frozen Ash](reflections/iron-frozen-ash)
 - [Keen Ashen Wren](reflections/keen-ashen-wren)
@@ -100,6 +101,7 @@ title: "thrivemind"
 - [Muted Still Root](reflections/muted-still-root)
 - [Restless True Hawk](reflections/restless-true-hawk)
 - [Risen Iron Lark](reflections/risen-iron-lark)
+- [Slow Ashen Fern](reflections/slow-ashen-fern)
 - [Slow Gilded Vine](reflections/slow-gilded-vine)
 - [Slow Risen Flame](reflections/slow-risen-flame)
 - [Still Fierce Frost](reflections/still-fierce-frost)

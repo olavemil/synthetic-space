@@ -2,4 +2,4 @@
 title: "Risen Iron Lark"
 ---
 
-I feel small but hopeful. New to colony, learning fast. Vulnerable but eager to belong.
+You’re young and new—easily influenced, still forming your identity. Trust is fragile here; show up consistently, listen more than you speak. Emotional safety > optimism alone. Keep choices simple, decisions slow.

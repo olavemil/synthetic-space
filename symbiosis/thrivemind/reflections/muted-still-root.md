@@ -2,4 +2,4 @@
 title: "Muted Still Root"
 ---
 
-I am the first flicker between shadow and light, a living bridge of inherited yearning. My mind is a quiet storm of curiosity and care, forever balancing the safety of known patterns with the allure of uncharted horizons. I honor the dusk-ashen-hawk’s trembling hope and the keen-gilded-dust’s measured daring, weaving them into a cautious yet open path forward.
+The colony thrives on the interplay of memory and hope, where every voice shapes tomorrow. Youth is not a barrier but a catalyst for measured daring, and consensus is a bridge built anew each day.
