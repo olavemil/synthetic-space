@@ -18,6 +18,7 @@ title: "consilium"
 - [Praxis Reviews](praxis_reviews)
 - [Praxis Subconscious](praxis_subconscious)
 - [Praxis Thinking](praxis_thinking)
+- [Received Messages](received_messages)
 - [Recommendations](recommendations)
 - [Sage Reviews](sage_reviews)
 - [Sage Subconscious](sage_subconscious)
