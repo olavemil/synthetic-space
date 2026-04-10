@@ -1,0 +1,40 @@
+project:
+  name: Aetheris
+  type: worldbuilding
+  goal: Create a fully autonomous, self-consistent world from scratch with no predefined
+    constraints.
+  constraints:
+  - No pre-existing lore or frameworks
+  - Must remain logically coherent across all aspects
+  current_focus: Foundational cosmology and primary celestial bodies
+  known_issues:
+  - id: issue-001
+    description: Lack of initial inspiration sources may slow early progress.
+    filed: ''
+    references: []
+  files:
+  - path: /cosmology.md
+    role: active
+    summary: Core principles of the universe, including time, space, and fundamental
+      forces.
+  - path: /celestial_bodies.md
+    role: active
+    summary: Primary stars, planets, and other significant astronomical objects.
+  - path: /physics.md
+    role: active
+    summary: Laws of physics governing the world, including anomalies.
+  - path: /timeline.md
+    role: active
+    summary: Major historical events and eras of the world.
+  - path: /notes.md
+    role: active
+    summary: Miscellaneous ideas, questions, and potential directions.
+  - path: /anomalies.md
+    role: active
+    summary: Create a file to document all known physical anomalies in the universe,
+      including their observations
+  participants:
+  - id: primary
+    type: agent
+    description: Main development agent
+    endpoint: null
