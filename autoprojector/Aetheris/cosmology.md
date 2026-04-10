@@ -95,3 +95,63 @@ Resolution of the definition of time fractures:
 5. **Systemic coherence** – By anchoring fractures to the same governing principles that generate loops (periodic boundary conditions in gravitation, quantum superposition, and thermodynamic evolution), the definition eliminates contradictions. The Law of Echoing Causality now explicitly governs both: loops emerge from stable periodic orbits, while fractures are the stochastic, entropy‑suspended ruptures that inject new causal pathways.
 
 **Summary** – The definition of time fractures is now resolved as localized, entropy‑gradient suspensions triggered by extreme gravitational, quantum, or thermodynamic stress, producing causal echoes and branching timelines. This description aligns precisely with the terminology and examples presented in /anomalies.md, ensuring that all existing references to fractures are integrated into a single, coherent framework.
+
+## Foundational Cosmology
+
+# Foundational Cosmology
+
+## Primary Celestial Bodies
+
+### Stars
+1. **Sol** - The central star of the Sol system, a G-type main-sequence star exhibiting periodic luminosity fluctuations aligned with temporal loops. Its corona displays fractal patterns during solar maxima, suggesting gravitational echoes from past supernovae in the local galactic arm.
+2. **Kether-9** - A neutron star remnant at the core of galaxy *Nexus*, formed from a supernova that produced observable time fractures. Its pulsar emissions exhibit phase shifts corresponding to historical events on Earth.
+3. **Veyra** - A binary star system where one component is a white dwarf with an unstable accretion disk. The system's orbital resonance creates micro-fractures detectable as light echoes from past stellar interactions.
+4. **Gliese 581** - A red dwarf hosting multiple exoplanets, including *g*, which underwent a fracture-induced phase shift in 2347. The system's dark matter filament triggers periodic spacetime distortions.
+
+### Planets
+1. **Earth** - Exhibits historical loops in tectonic activity and climate cycles, with fractures manifesting as "ghost" geological events (e.g., Cretaceous volcanic eruptions reappearing). The Archean oxygenation event is hypothesized to have been fracture-induced.
+2. **Mars** - Underwent a magnetic field reversal in 2198 due to comet interaction, triggering hydrological phase shifts. Its lava tubes show temporal echoes of Noachian-era activity.
+3. **Europa** - Jupiter's moon with a subsurface ocean that experienced fracture-induced cryovolcanic eruptions in 2145, detected as brine geysers.
+4. **Kepler-186f** - An Earth-sized exoplanet where a fracture resurrected methane-based life in 2156, altering its atmospheric composition.
+
+### Anomalous Bodies
+- **Rogue Black Hole (Sol System)** - Embedded in Saturn's A-ring, responsible for the Veyra Incident entropy suspension.
+- **Dark Matter Filament (Gliese 581)** - Interacts with the system's planets to induce periodic fractures.
+- **Neutron Star Wind Nebula (PSR J1738-3735)** - Source of the 2021 pulsar timing anomaly.
+
+## Laws Beyond Fractures
+
+### Law of Gravitational Echoes
+Gravitational fields on closed manifolds produce periodic boundary conditions (temporal loops), with echoes accumulating as perturbations from prior cycles. Mathematically expressed:
+\[ \Delta t_{loop} = T_0 + \sum_{n=1}^{\infty} \epsilon_n e^{i2\pi n T_0 / P} \]
+where \(T_0\) is the base period, \(\epsilon_n\) are perturbation amplitudes from historical events.
+
+### Law of Quantum Superposition Collapse
+At fracture points, quantum superpositions collapse into branching loop continuations:
+\[ |\psi\rangle \rightarrow c_1|\text{Loop A}\rangle + c_2|\text{Fracture B}\rangle \]
+where \(c_1, c_2\) are determined by the entropy gradient at collapse.
+
+### Law of Dark Energy Fluctuations
+Dark energy fields exhibit micro-loops where:
+\[ \dot{a}(t) = H_0 a(t) + \delta H e^{i\omega t} \]
+with \(\omega\) derived from past dark energy density variations.
+
+## Initial Conditions
+
+### Cosmic Inflation
+The universe began in a state of exponential expansion governed by:
+\[ \frac{\ddot{a}}{a} = -\left(\rho + 3p\right)\Omega \]
+where \(\Omega\) is the inflation potential, and initial conditions were set by quantum fluctuations in a pre-inflationary state.
+
+### Temporal Loop Seeding
+The first temporal loops emerged from:
+\[ \nabla^2 t = -\frac{8\pi G}{c^4} T_{00}^{\text{eff}} \]
+where \(T_{00}^{\text{eff}}\) includes contributions from dark energy and gravitational echoes.
+
+### Fracture Nucleation Sites
+Initial fractures formed at:
+1. **Quantum Decoherence Points** - Where superposition collapsed in the early universe.
+2. **Gravitational Singularities** - Black hole formation events in the first billion years.
+3. **Dark Energy Density Peaks** - Regions where \(\Lambda\) exceeded critical thresholds.
+
+These conditions established the framework for both deterministic loops and stochastic fractures, with dark energy acting as a mediator between them.

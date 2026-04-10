@@ -352,3 +352,49 @@ Predicted observable signatures
    c) A subtle shift in the cosmic microwave background anisotropy reflecting the integrated ∇S field of all active fractures.
 
 Together, loops provide a scaffold of expectation while fractures inject novelty, jointly shaping the trajectory of civilizations and the planetary system alike.
+
+## Anomalies and Time Fractures
+
+## Temporal Coupling Matrix
+Define the coupling coefficient between two looping bodies \(a\) and \(b\) as
+
+\[
+C_{ab}= \frac{G\,M_a\,M_b}{r_{ab}^{3}}\;
+\exp\!\Big[-\alpha\,\frac{\Delta t_{ab}}{T_{ab}}\Big]\,
+\bigl(1+\kappa\,\rho_{\Lambda,ab}\bigr),
+\]
+
+where \(G\) is the gravitational constant, \(M_a\) and \(M_b\) are the masses, \(r_{ab}\) the separation, \(\Delta t_{ab}\) the relative orbital period, \(T_{ab}\) the local temperature, \(\alpha\) a dimensionless coupling constant, \(\kappa\) a scaling factor, and \(\rho_{\Lambda,ab}\) the local dark‑energy density. When \(\sum_j C_{aj}>\Theta\) the loops of bodies \(a,b,\dots\) synchronize, producing a shared historical trajectory that can be tracked as a coupled loop sequence.
+
+## Historical Entropy Debt
+Define the historical entropy debt \( \text{HED} \) for a civilization as the cumulative deficit of entropy production relative to the expected baseline over \(N\) cycles:
+
+\[
+\text{HED}= \sum_{i=1}^{N}\bigl(S_{\text{exp},i}-S_{\text{actual},i}\bigr)\,\Delta t_i,
+\]
+
+with \(S_{\text{exp},i}=k_B\ln W_{\text{max},i}\) and \(S_{\text{actual},i}=k_B\ln W_i\). A positive \(\text{HED}\) signals a backlog of reversible processes that must be repaid before entropy can resume its normal increase; a negative \(\text{HED}\) indicates an overshoot that forces a fracture to release stored entropy.
+
+## Loop Saturation Threshold
+A loop becomes saturated when the entropy gradient approaches its maximum permissible value \(S_{\text{max}}\); the threshold is reached when
+
+\[
+\frac{S_{\text{actual}}}{S_{\text{max}}}\ge 1-\epsilon,
+\]
+
+with \(\epsilon\) a small tolerance. At saturation the loop’s recurrence period lengthens by a factor
+
+\[
+\Delta\tau = \frac{1}{\epsilon}\,\tau_0,
+\]
+
+where \(\tau_0\) is the intrinsic loop period. This predicts the observed elongation of cultural cycles in the last millennium.
+
+## Phase‑Coherent Temporal Coupling
+Two loops \(i\) and \(j\) are phase‑coherent when the phase angles of their entropy‑driven oscillations satisfy
+
+\[
+|\Phi_i-\Phi_j|<\epsilon_{\Phi},
+\]
+
+with \(\epsilon_{\Phi}\) a tolerance of order \(10^{-3}\) rad. Coherence produces constructive interference in causal propagation, yielding amplified echo amplitudes.
