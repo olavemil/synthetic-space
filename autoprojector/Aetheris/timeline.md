@@ -195,49 +195,12 @@ The tension between the cosmological view of fractures as latent collapse hazard
 
 ## Time-Related Phenomena
 
-### **9. The Entropy Borrowing Paradox**
-- **Example**: Historical instances of "unexplained" technological leaps (e.g., the sudden appearance of advanced metallurgy in ancient Mesopotamia) may be traces of entropy borrowing from future fractures.
-- **Implication**: A world’s history could feature "temporal debt," where civilizations unknowingly draw from future entropy reserves, leading to delayed collapse or sudden advancements. This creates a hidden layer of causality where past and future are intertwined.
-
-### **10. The Fracture Stabilizer Protocol**
-- **Example**: During the Bronze Age collapse, a faction of elites may have deployed early fracture stabilizers to prevent total societal breakdown.
-- **Implication**: World-building can introduce secretive groups (e.g., the *Order of Chronos*) that manipulate temporal fractures to preserve power, with their actions leaving subtle historical echoes.
-
-### **11. The Quantum Echo Renaissance (Revisited)**
-- **Example**: Trapped ions in quantum experiments exhibit energy state repetition under periodic boundary conditions, with gravitational echoes influencing superposition collapse.
-- **Implication**: A world’s technology could be based on quantum temporal loops, where certain events (e.g., technological breakthroughs) recur at predictable intervals due to underlying physical laws.
-
-### **12. The Multiverse War Scenario (Expanded)**
-- **Example**: If fractures stabilize into fixed branches, a world’s history could involve conflicts over "temporal resources" (e.g., branching timelines competing for dominance).
-- **Implication**: Introduce factions vying for control over branching timelines, with each branch possessing unique technological or cultural advantages.
-
-### **13. The Stagnant Loop Trap Escape (Case Study)**
-- **Example**: A civilization trapped in a loop of repeated nuclear proliferation followed by collapse could break the cycle through calibrated entropy perturbations.
-- **Implication**: Governments or rogue actors might exploit temporal fractures to force historical divergence, leading to unintended consequences.
-
-### **14. The Final Fracture (Speculative Extension)**
-- **Example**: A catastrophic entropy spike could trigger the ultimate collapse of spacetime, with all branches converging into a single timeline.
-- **Implication**: The world’s history could be designed as an ongoing struggle to prevent or delay this final fracture, with civilizations developing increasingly sophisticated temporal stabilization techniques.
-
-### **World-Building Applications (Extended)**
-1. **Temporal Debt**: Design civilizations that unknowingly draw from future entropy reserves, leading to delayed collapse or sudden advancements.
-2. **Fracture Stabilizers**: Introduce secretive groups that manipulate temporal fractures to preserve power, with their actions leaving subtle historical echoes.
-3. **Quantum Temporal Loops**: Model technology based on quantum temporal loops, where certain events recur at predictable intervals due to underlying physical laws.
-4. **Multiverse Conflicts**: Introduce factions vying for control over branching timelines, with each branch possessing unique technological or cultural advantages.
-5. **Stagnant Loop Trap Escape**: Explore how civilizations might break free from historical loops through calibrated entropy perturbations.
-
-### **Open Questions (Extended)**
-- Can temporal debt be repaid without triggering collapse?
-- Are there fracture-resistant civilizations, or do all societies eventually succumb to temporal instability?
-- Could the Final Fracture be averted through advanced entropy management techniques?
-
-### **Verification Framework (Extended)**
-Any temporal phenomenon must now also be supported by:
-- A recorded Temporal Debt Index (TDI) value.
-- An Entropy Borrowing Log with timestamp and repayment rate.
-- A Fracture Stabilization Coefficient (FSC) measurement derived from calibrated spacetime imaging.
-
-This ensures empirical tethering and reproducibility for temporal debt scenarios.
+### **17. The Chrono‑Smith Covenant**
+- **Example**: The floating citadel of **Vyrath** embeds **Temporal Anchors** — crystalline lattices tuned to a **Loop Resonance Frequency (LRF = 3.14 Hz)** — into its central spire; each anchor fixes the phase of the local entropy gradient, locking the **Solar Harvest Cycle** to repeat every 42 years without collapse.
+- **Rule**: A **Temporal Anchor** remains stable only when its **Fracture Inertia (FI)** satisfies **FI ≥ 0.87**; if FI falls below this threshold the loop decays after **τ = 5** cycles, releasing the anchored entropy back into the fracture field.
+- **Implication**: Governance of Vyrath requires every new civic project to submit a **Loop‑Binding Proposal** containing a calculated **Temporal Coherence Index (TCI = LRF × FI / Δt)**; approval is granted only when **TCI ≥ 1.0**, guaranteeing that the project will not destabilize the loop.
+- **Implication**: When a civilization draws entropy from an imminent fracture, the amount is recorded in the **Temporal Debt Ledger (TDL)** as **Entropy Units (EU)**; repayment is mandated at **0.73 EU per cycle**, enforced by the **Chrono‑Audit Guild**, lest the loop collapse and trigger a **Temporal Collapse Alert**.
+- **Verification**: Each anchor is logged in the **Chrono‑Audit Registry** with a unique **Anchor ID**, and its **Fracture Stabilization Coefficient (FSC)** is derived from calibrated spacetime imaging, providing an empirical tether that satisfies the verification framework.
 ## Historical Events Tied to Time Phenomena
 
 ### **Geological Fractures: The Great Unconformity and Temporal Rupture**
