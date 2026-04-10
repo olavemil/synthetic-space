@@ -196,3 +196,78 @@ Dark energy’s negative pressure (\( p = -\rho c^2 \)) lowers effective \( T \)
 Fractures are not violations of physical law but emergent properties derived from the same governing equations that produce loops and branching histories. Their interaction with dark energy ensures consistency across all temporal phenomena.
 
 **See Also**: /anomalies.md (detailed catalog), *Law of Echoing Causality* (/physics.md).
+
+## Fracture Probability Framework
+
+## Unified Probabilistic Model for Fracture Onset and Branching
+
+### 1.  Probability of Fracture Initiation
+A fracture initiates at a spacetime point \(x^\mu\) when the local entropy gradient is driven to a near‑zero value while the curvature field retains a closed‑manifold topology. The initiation probability density is expressed as
+
+\[
+\mathcal{P}_{\text{init}}(x^\mu)=\mathcal{N}\,
+\exp\!\Big[-\kappa\,\frac{(\nabla S)^2}{\rho_{\Lambda}}\Big]\,
+\delta\!\big(\nabla S\big),
+\]
+
+where
+
+* \(\mathcal{N}\) normalizes the density over the manifold,
+* \(\kappa\) is a dimensionless coupling constant that quantifies sensitivity to entropy curvature,
+* \(\rho_{\Lambda}= \Lambda c^2\) is the effective dark‑energy energy density, and
+* \(\delta(\cdot)\) denotes the Dirac delta, enforcing the condition \(\nabla S=0\).
+
+Dark‑energy pressure \(p=-\rho c^{2}\) lowers the local temperature \(T\) in the entropy functional \(S=k_{B}\ln W\), thereby amplifying \(\mathcal{P}_{\text{init}}\) by extending the temporal window during which \(\nabla S\) can be driven to zero.
+
+### 2.  Duration of Entropy Suspension
+When a fracture is active, the suspension time \(\Delta t\) follows the modified Arrhenius form
+
+\[
+\Delta t=\frac{\hbar}{k_{B}T}\,
+\exp\!\big[-\beta\,\nabla S\big],
+\qquad \beta=\frac{1}{k_{B}T},
+\]
+
+with the dark‑energy‑induced temperature reduction \(T\to T\,(1-\lambda\,\rho_{\Lambda})\) (\(\lambda>0\)). This relation guarantees that stronger dark‑energy regions yield longer \(\Delta t\), increasing the likelihood of observable causal echoes.
+
+### 3.  Branching Probability at Collapse
+At the moment of quantum‑state collapse within a fracture, the resulting loop continuation is selected probabilistically according to
+
+\[
+\mathcal{B}_{i}= \frac{\exp\!\big[-\beta\,\nabla S_{i}\big]}
+{\displaystyle\sum_{j}\exp\!\big[-\beta\,\nabla S_{j}\big]},
+\]
+
+where each branch \(i\) corresponds to a distinct set of microstate configurations \(\{W_{i}\}\) that satisfy the fracture condition. The branch weight is directly proportional to the exponential of the suspended entropy, linking the stochastic outcome to the underlying thermodynamic suppression.
+
+### 4.  Loop Persistence Probability
+A loop persists across successive cycles only if the entropy gradient does not remain suppressed beyond a critical threshold \(\nabla S_{\text{crit}}\). The persistence probability over \(n\) cycles is
+
+\[
+\mathcal{P}_{\text{loop}}(n)=\Big[1-\exp\!\big(-\gamma\,\nabla S_{\text{crit}}\big)\Big]^{n},
+\]
+
+with \(\gamma\) a scaling factor that captures the rate at which curvature perturbations restore normal entropy production. This expression ensures that loops are deterministic in the long‑term limit while allowing stochastic interruptions.
+
+### 5.  Integrated Example: Veyra Incident Re‑examined
+For the 1947 radio transmission detected in 2083, the fracture occurred in the Saturn‑ring region where \(\rho_{\Lambda}\) is locally elevated. Using the initiation density, the probability of a fracture forming at the precise spatial coordinate and epoch of the transmission is
+
+\[
+\mathcal{P}_{\text{init}}^{\text{Veyra}}\approx
+\mathcal{N}\exp\!\big[-\kappa\,\frac{(\nabla S)^{2}}{\rho_{\Lambda}^{\text{Saturn}}}
+\big]\delta(\nabla S)\big|_{1947}.
+\]
+
+Given the measured \(\Delta t\approx0.3\) s, the branch weight for the “future echo” is
+
+\[
+\mathcal{B}_{\text{future}}=
+\frac{\exp\!\big[-\beta\,\nabla S_{\text{future}}\big]}
+{\exp\!\big[-\beta\,\nabla S_{\text{past}}\big]+\exp\!\big[-\beta\,\nabla S_{\text{future}}\big]}
+\approx 0.73,
+\]
+
+indicating a high likelihood that the past signal would manifest as a present‑day reception. This quantitative illustration aligns with the observed anomaly while remaining derived from the same governing equations governing loops and fractures.
+
+### 6.  Consistency with Fundamental Laws
+The model embeds the deterministic core of gravitation, thermodynamics, quantum mechanics, and dark‑energy dynamics within a single probabilistic schema. By anchoring fracture onset to the vanishing of \(\nabla S\) and encoding loop stability through \(\mathcal{P}_{\text{loop}}\), every emergent temporal phenomenon is expressed as a solution of the original curvature, entropy, and superposition equations, preserving internal consistency without introducing ad‑hoc assumptions.
