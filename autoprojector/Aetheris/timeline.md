@@ -566,3 +566,30 @@ The future shape of history rests on the balance between immutable recursive loo
 ---
 
 **Synthesis** – Each event demonstrates a distinct class of fracture—biological, gravitational, dark‑energy, solar‑loop, climate‑entropy, and micro‑calendar—yet all obey the same underlying principles outlined in the Core Definition. Their quantitative parameters (entropy deficit ΔS, phase‑shift coefficient Δτ/ΔS, and dark‑energy perturbation δ) can be logged in the **Chrono‑Entropy Ledger (CEL)**, ensuring that future temporal interventions remain anchored to the same lawful framework.
+
+## Temporal Anomalies in History
+
+Historical Instances of Temporal Fractures and Loops
+
+The following catalog records documented occasions in which spacetime anomalies matched the operational criteria outlined in /cosmology.md for a fracture or a loop. Each entry explains the observable manifestation, the underlying mechanism as defined in the cosmological taxonomy, and the quantitative signature that links the event to the governing principles of entropy‑borrowing, curvature‑induced phase shift, or deterministic recurrence.
+
+1. Lisbon Earthquake of 1755 – A sudden rupture in the Iberian lithosphere produced an abrupt curvature spike in the local gravitational field. The resulting fracture generated a transient zero‑entropy window (ΔS ≈ 0 J·K⁻¹) that allowed the subsequent tsunami to propagate with a delayed temporal offset recorded in contemporary tide‑gauge logs. The event satisfies the fracture trigger condition of extreme gravitational curvature and exhibits an entropy deficit of 1.4 × 10⁴ J·s⁻¹·yr⁻¹, aligning with the definition of a dark‑energy‑modulated fracture.
+
+2. Year Without a Summer, 1816 – A rapid decline in solar irradiance recorded in stratospheric aerosol layers corresponded to a localized dip in the cosmological constant (δ ≈ ‑0.03). This dark‑energy perturbation induced a solar‑loop fracture that temporarily suspended entropy production across the Northern Hemisphere, producing a multi‑year cooling episode. The episode is documented by a sustained entropy deficit of 2.1 × 10⁴ J·s⁻¹·yr⁻¹ and a phase‑shift coefficient of 0.42, confirming a causal echo of future climatic states.
+
+3. Tunguska Airburst, 1908 – An extraterrestrial airburst over the Podkhonemny River generated a high‑energy plasma sheath that perturbed the upper atmosphere, creating a micro‑fracture in the spacetime lattice. The fracture manifested as an entropy debt of 7.8 × 10³ J·s⁻¹·yr⁻¹, detectable in tree‑ring growth anomalies that persisted for decades. The event illustrates a fracture that borrowed future quantum vacuum fluctuations, altering the local thermodynamic gradient without causing a full collapse.
+
+4. Stock‑Market Collapse, 1929 – A cascade of margin‑call failures produced a socio‑economic loop that mirrored earlier financial crises such as the 1873 Panic of 1873. The loop is characterized by a repetitive pattern of speculative bubbles followed by abrupt corrections, satisfying the Law of Echoing Causality. Quantitative analysis of market volatility shows a loop coherence index of 0.88, indicating a high‑fidelity recurrence of the financial pattern.
+
+5. Oil Embargo of 1973 – A coordinated production cut generated a fracture in the global energy distribution network. The fracture borrowed future petroleum reserves, creating an entropy surplus that was later repaid through accelerated development of alternative energy technologies. The borrow‑repayment cycle is logged in the Entropy Debt Ledger as a net gain of 1.2 × 10⁵ J·s⁻¹·yr⁻¹, demonstrating a controlled entropy‑borrowing mechanism within an economic loop.
+
+6. Fall of the Berlin Wall, 1989 – The political opening of Eastern Bloc borders represented a cultural loop in which prior revolts of 1848 and 1917 resurfaced with new symbols but identical underlying demands. The loop’s stability was quantified by a Governance Resonance Index of 0.67, confirming that the event fit the deterministic recurrence model while the accompanying societal shift was enabled by a fracture in the information flow that allowed previously suppressed narratives to surface.
+
+Reconciliation with /cosmology.md
+All six cases conform to the definitions set forth in /cosmology.md:
+
+- Fracture events are identified by a localized entropy deficit, a measurable phase‑shift coefficient, or an extreme curvature signature. Each entry provides the relevant ΔS, PSC, or curvature metric, thereby anchoring the historical observation to the formal taxonomy.
+- Loop phenomena are identified by a repeatable pattern that satisfies the Law of Echoing Causality, demonstrated through loop coherence indices, governance resonance metrics, or market volatility coherence.
+- The interplay of loops and fractures is illustrated by the coexistence of deterministic recurrence (e.g., financial cycles, political revolts) and disruptive perturbations (e.g., seismic curvature spikes, dark‑energy dips), ensuring that the system remains both predictable in its scaffolding and open to stochastic divergence.
+
+These examples expand the empirical base beyond those previously cited, offering fresh illustrations of how temporal fractures and loops can be observed, measured, and integrated into the broader theoretical framework of temporal mechanics.

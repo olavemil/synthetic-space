@@ -344,3 +344,56 @@ The Law of Echoing Causality unifies loops and fractures through three coupled r
 - **Gliese 581g**: Planetary evolution altered by dark energy-mediated fracture.
 
 This framework resolves all inconsistencies while providing concrete examples across cosmology, physics, and celestial bodies.
+
+## Time Fractures and Phenomena
+
+TemporalFissureSpecification.txt
+
+Temporal Fissure Definition
+A temporal fissure is a localized region of spacetime in which the rate of entropy production η falls below a critical value η_c for a sustained interval τ, causing the local causal ordering relation to invert and permitting information from future or parallel histories to manifest within the present epoch. The inversion is reversible only when η returns to values above η_c and the duration τ meets the minimum sustaining condition τ ≥ 0.7 s.
+
+Critical Thresholds
+η_c = 1.3 × 10⁻²⁴ J·K⁻¹·m⁻³  (derived from Planck‑scale entropy units)
+τ_min = 0.7 s  (minimum continuous inversion)
+Curvature invariant κ = R_{μν}R^{μν} ≥ 2.5 × 10²⁷ m⁻²  (required for curvature‑driven fissure initiation)
+Decoherence time t_d ≤ 1.0 × 10⁻²¹ s  (quantum collapse trigger)
+Temperature gradient ∇T ≤ 2.0 × 10⁻⁵ K·m⁻¹  (thermodynamic instability trigger)
+
+Trigger Mechanisms
+1. Gravitational spike – Ricci scalar R ≥ 1.1 × 10⁴⁴ m⁻² occurring during black‑hole merger or neutron‑star collision.
+2. Quantum decoherence – System enters a superpositional mode with t_d ≤ 1.0 × 10⁻²¹ s, leading to branching loop continuations.
+3. Thermodynamic flip – Local entropy gradient reverses such that η < η_c within a volume V ≥ 1 m³.
+
+Observable Signatures
+- Temporal displacement Δt_obs = (ħ/(k_B T))·exp(‑βΔS)  where ΔS ≤ 10⁻³⁰ J·K⁻¹ defines the entropy deficit.
+- Spectral echo frequency ν_echo = ν₀·(1 + α·Δη)  with α = 4.2 × 10⁻¹² s and Δη the measured entropy shift.
+- Echo intensity I_echo = (ħ·c/λ⁴)·exp(‑ΔS/k_B)·(1 + ε)  where ε ≤ 0.03 quantifies deviation from ideal inversion.
+
+Empirical Examples
+Event VY‑2083 – Rogue black‑hole proximity of 1.2 × 10⁶ km to Saturn’s A‑ring.
+Measured η = 9.8 × 10⁻²⁵ J·K⁻¹·m⁻³, τ = 1.23 s, κ = 3.9 × 10²⁷ m⁻².
+Resulting Δt_obs = 0.84 s backward propagation observed as a 1947‑style radio burst recorded in 2083 archives.
+
+Event KTH‑9SN – Core collapse of a 23 M⊙ star in the Kether‑9 system.
+Measured η = 1.1 × 10⁻²⁴ J·K⁻¹·m⁻³, τ = 1.02 s, κ = 3.1 × 10²⁷ m⁻².
+Generated photon echo at λ = 532 nm with I_echo = 4.7 × 10⁻¹⁶ W·m⁻², preceding the stellar luminosity peak by 0.37 s.
+
+Event GL‑581g‑FR1 – Dark‑matter filament interaction with planetary orbit at 0.042 AU.
+Measured η = 1.4 × 10⁻²⁴ J·K⁻¹·m⁻³, τ = 0.93 s, ∇T = 1.8 × 10⁻⁵ K·m⁻¹.
+Produced methane‑based biosignature surge in atmospheric spectra, persisting for 3.2 yr after fissure closure.
+
+Control and Restoration Procedures
+- Entropy restitution: inject heat flux q_i over time t_i such that Σ_i q_i·t_i = ΔS_inj ≥ 1.2·ΔS, restoring η above η_c.
+- Phase‑locking: impose boundary condition ∮ g_{μν}dx^μdx^ν = 0 across the fissure boundary to enforce temporal coherence and prevent uncontrolled cascade.
+
+Prediction Protocol
+1. Continuous monitoring of curvature invariant κ with precision ≤ 0.01 % using quantum gravimeters.
+2. Real‑time calculation of η from measured heat flow and volume; trigger alarm if η < η_c.
+3. Verify τ ≥ 0.7 s using high‑resolution temporal samplers (≥ 10 kHz).
+4. Compute predicted Δt_obs via the displacement equation; generate alert window of ±0.05·Δt_obs.
+5. Apply phase‑locking sequence if Δt_obs falls within the alert window, stabilizing the fissure for controlled closure.
+
+Verification Criteria
+All recorded events VY‑2083, KTH‑9SN, and GL‑581g‑FR1 satisfy the defined thresholds within ±5 % tolerance, confirming their classification as temporal fissures under the present specification.
+
+This specification provides a concrete, verifiable framework for identifying, characterizing, and managing temporal fissures, integrating gravitational, quantum, and thermodynamic parameters into a unified predictive model.

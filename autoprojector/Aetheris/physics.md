@@ -819,3 +819,29 @@ Fractures suggest that time is not a linear progression but a dynamic, branching
 - **Technological Leaps**: Unexplained advancements in history may be linked to entropy borrowing from fractures.
 
 **See Also**: /anomalies.md (detailed catalog), *Law of Echoing Causality* (/physics.md).
+
+## Temporal Anomalies and Laws
+
+Time Fractures as Phase Transitions in Causal Graphs
+
+In the causal graph of the universe each node represents a state of the physical system and each directed edge encodes a causal influence. A fracture appears when a local cluster of edges violates the global acyclicity constraint, producing a directed cycle of finite length that is not allowed in the underlying DAG. This violation can be quantified by a non‑zero cycle weight
+
+C = Σ_{c∈cycles} exp(‑λ·Σ_{e∈c} w_e)
+
+where w_e is the weight of edge e and λ scales with the local entropy production rate. When C exceeds a critical threshold the graph undergoes a phase transition to a regime where forward‑only propagation is suspended and information can flow backward along the cycle.
+
+The duration of the suspended flow is governed by the eigenvalue spectrum of the adjacency matrix A of the cycle subgraph. Let λ_max be the leading eigenvalue; the suspension time is
+
+Δt = τ_0·(λ_max / λ_crit)^{-1}
+
+with τ_0 a characteristic microscopic timescale. Dark‑energy pressure enters through an effective reduction of the edge weights, lowering λ_max and thereby lengthening Δt.
+
+Concrete manifestations include the Veyra broadcast, where the cycle weight of a radio‑signal edge crossed the threshold, and the Kether‑9 ghost light, where the cycle formed by photon‑emission and absorption edges created a backward‑flow channel. In geological terms, a fracture near the Mid‑Atlantic Ridge produced a temporary reverse in mantle convection cycles, documented in a rapid shift of the geomagnetic dipole.
+
+The branching of histories at a fracture is captured by a probability distribution derived from the normalized eigenvector associated with λ_max:
+
+P_i = (v_i)^2 / Σ_j (v_j)^2
+
+where v_i are the components of the eigenvector. This rule predicts that loops with higher spectral participation are more likely to dominate the post‑fracture timeline, explaining the persistence of certain cultural trajectories after major disruptions.
+
+By treating fractures as graph‑theoretic phase transitions, the entire set of temporal anomalies can be unified under a single formalism that respects the original physical laws while allowing the observed backward‑flow phenomena.
