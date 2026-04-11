@@ -93,45 +93,67 @@ These equations provide a concrete, mathematically rigorous centralization of te
 
 ## Laws Beyond Fractures
 
-### Laws Beyond Fractures
+### Laws Beyond Fractures (Mathematical Formulations)
 
-#### 1. **Entropy Gradient as a Curvature Source**
-The entropy gradient \(\nabla S\) acts as an effective curvature source in the spacetime metric, modifying Einstein's field equations:
+#### 1. **Entropy Gradient as a Curvature Source (Revised)**
+The entropy gradient \(\nabla S\) modifies the Einstein field equations with a coupling term \(C(\nabla S)\) that depends on both magnitude and direction:
 \[
 G_{\mu\nu} + \Lambda g_{\mu\nu} = 8\pi T_{\mu\nu} - C(\nabla S) \cdot g_{\mu\nu}
 \]
-where \(C(\nabla S)\) is a coupling term proportional to the entropy gradient's magnitude. This introduces an additional degree of freedom in spacetime dynamics, explaining anomalies like the Veyra Incident where \(\nabla S\) deviated from ambient values.
-
-#### 2. **Dark Energy Perturbation Term (\(\delta\))**
-The dark energy perturbation \(\delta\) is derived from the quantum vacuum fluctuations:
+where
 \[
-\delta = \frac{\hbar c}{L_P^2} e^{-\beta E}
+C(\nabla S) = -\frac{\hbar}{k_B} \left( |\nabla S| + \delta(\nabla S) \right)
 \]
-where \(E\) is the energy scale of fluctuations, and \(L_P = \sqrt{\hbar G/c^3}\) is the Planck length. This term modulates fracture stability, as seen in the Ordovician Ice Age where \(\delta\) suppressed entropy production.
-
-#### 3. **Loop Recurrence Condition with Quantum Corrections**
-The loop recurrence condition incorporates quantum corrections:
+and \(\delta(\nabla S)\) is a higher-order correction:
 \[
-\frac{d^2 r}{dt^2} + \Gamma_{\mu\nu}^r \dot{x}^\mu \dot{x}^\nu = -\frac{\hbar^2}{m} \nabla (\ln |\psi|)
+\delta(\nabla S) = \frac{1}{L_P^2} e^{-\beta |\nabla S|}
 \]
-where \(\psi\) is the wavefunction of the loop's anchor point. This equation explains why loops like Veyra persist only when \(\nabla S > 0\) and the wavefunction's phase coherence is maintained.
+This formulation ensures consistency with the **Fracture Stability Equation** in `/physics.md` by incorporating \(\delta\) as a perturbation term.
 
-#### 4. **Fracture Propagation in Higher Dimensions**
-In higher-dimensional spacetime, fractures propagate along Kaluza-Klein modes:
+#### 2. **Dark Energy Perturbation Term (\(\delta\)) with Quantum Vacuum Fluctuations**
+The perturbation \(\delta\) is refined to include a frequency-dependent component:
 \[
-\frac{\partial^2 \phi}{\partial t^2} + \lambda \frac{\partial \phi}{\partial t} = \kappa \nabla^2 \phi + \eta \delta (\nabla S)_{\mu} e^{i k_\nu x^\nu}
+\delta = \frac{\hbar c}{L_P^2} e^{-\beta E} + \sum_{n=1}^{\infty} a_n |\nabla S|^n
 \]
-where \(k_\nu\) is the wavevector of the extra-dimensional mode. This accounts for phenomena like Kether-9's "ghost" light, where fractures enable non-local entropy transfer.
+where \(a_n\) are coefficients derived from quantum vacuum fluctuations. This aligns with the **Dark Energy Interaction** in `/cosmology.md` by ensuring \(\Omega_{\Lambda}\) scales with entropy suspension.
+
+#### 3. **Loop Recurrence Condition (Quantum-Corrected)**
+The recurrence condition now includes a phase-dependent term:
+\[
+\frac{d^2 r}{dt^2} + \Gamma_{\mu\nu}^r \dot{x}^\mu \dot{x}^{\nu} = -\frac{\hbar^2}{m} \nabla (\ln |\psi|) - i\hbar \frac{\partial}{\partial t} (\ln |\psi|)
+\]
+This ensures the equation holds only when \(\nabla S > 0\), as per `/physics.md`, and suspends at fractures (\(\nabla S = 0\)).
+
+#### 4. **Fracture Propagation in Higher Dimensions (Kaluza-Klein Modes)**
+The propagation equation is extended to include a mass term:
+\[
+\frac{\partial^2 \phi}{\partial t^2} + \lambda \frac{\partial \phi}{\partial t} = \kappa \nabla^2 \phi + \eta (\delta(\nabla S))_{\mu} e^{i k_\nu x^\nu}
+\]
+where \(\eta = \frac{\hbar}{m c}\) and \(k_\nu\) is the wavevector of extra-dimensional modes. This connects to **Fracture Induction Equation** in `/cosmology.md` by ensuring \(\mathcal{F} = 0\) at fractures.
 
 #### 5. **Historical Example: Kether-9 Anomaly (Year 2083)**
-In the Kether-9 system, a fracture allowed light to traverse non-commuting paths:
+The entropy reversal during the anomaly is quantified as:
 \[
-\Delta S = -\frac{1}{2} \ln |\text{fracture}| = -3.45 \, \text{J/K}
+\Delta S = -\frac{1}{2} \ln |\text{fracture}| - \int_{\mathcal{C}} dS
 \]
-The observed light echo persisted for 12 hours, consistent with the propagation equation's prediction:
+where \(\mathcal{C}\) is the loop path. The light echo duration of 12 hours confirms:
 \[
 \lambda = \frac{\eta \delta}{m} e^{-\beta E}
 \]
-This confirms that fractures enable thermodynamic reversals, linking quantum mechanics to macroscopic anomalies.
+This aligns with the **Entropy-Gradient Suspension Condition** in `/cosmology.md` by ensuring \(\Delta t_{\text{echo}} = \frac{\hbar}{k_B T_c} e^{-\beta E}\).
 
-These formulations extend the core laws into higher-dimensional and historical contexts, providing a unified framework for temporal phenomena.
+#### 6. **New: Fracture-Entropy Coupling in Loop Dynamics**
+The coupling between fractures and loops is formalized as:
+\[
+\oint_{\mathcal{C}} \nabla S \cdot dx = -\frac{\hbar}{k_B} e^{-\beta E}
+\]
+This ensures that loops persist only when \(\nabla S > 0\), as per the **Loop Stability Constraint** in `/cosmology.md`.
+
+#### 7. **New: Higher-Dimensional Entropy Transfer**
+Non-local entropy transfer via fractures is governed by:
+\[
+\frac{\partial S}{\partial t} = \nabla^2 S + \eta (\delta(\nabla S))_{\mu} e^{i k_\nu x^\nu}
+\]
+This extends the **Fracture Propagation Equation** to include entropy dynamics in higher dimensions.
+
+These formulations ensure consistency with existing core laws while expanding into new mathematical territories.
