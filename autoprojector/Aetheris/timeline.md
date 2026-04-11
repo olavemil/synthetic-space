@@ -532,6 +532,38 @@ The future shape of history rests on the balance between immutable recursive loo
 
 ## Historical Time Fractures
 
+### Historical Time Fractures
+
+#### **Prehistoric Era**
+- **"The Great Freeze" (12,000 BCE)**: A fracture near the Laurentide Ice Sheet caused a localized entropy reversal, temporarily halting glacial retreat. Geological records show sudden atmospheric warming and rapid vegetation regrowth in a 30-mile radius, contradicting the otherwise linear climate progression. The event aligns with the entropy-suspension condition (\(dS = 0\)) observed in extreme gravitational curvature, though no compact object was present. Hypothesized to be a "dark energy perturbation" (see *Law of Echoing Causality*).
+
+#### **Ancient Civilizations**
+- **"The Akkadian Collapse" (2150 BCE)**: A fracture near the Euphrates River allowed a 3,000-year-old Sumerian cuneiform tablet to surface in Akkadian clay. The text described a future drought, which materialized decades later. This aligns with the *Veyra Incident* model of causal echoes propagating backward under entropy suspension.
+- **"The Oracle’s Echo" (701 BCE)**: A fracture near Delphi caused a 24-hour loop where the same solar eclipse repeated. Witnesses reported seeing future events, including Alexander’s conquests (356 BCE). The loop duration (\(\Delta t = 24\) hours) matches the fracture stability equation with \(T_c \approx 300K\).
+
+#### **Classical Antiquity**
+- **"Pompeii’s Ghost" (79 CE)**: A fracture near Vesuvius allowed a 10-second echo of the eruption’s aftermath to appear before the event. The causal advance (\(\Delta t_{advance} = 10\) seconds) fits the *Causal Echo Equation* with \(M \approx 2.5 \times 10^{36}\) kg (Vesuvius’ mass).
+- **"The Library of Alexandria" (200 CE)**: A fracture in the Great Hall allowed a lost scroll to reappear, containing equations predicting quantum superposition. The branching probability (\(P_{branch} = 0.12\)) suggests a micro-black hole’s influence.
+
+#### **Medieval Period**
+- **"The Black Death Loop" (1347 CE)**: A fracture near London caused a 6-month loop where the plague’s spread reversed. The entropy suspension (\(\nabla S \approx 0\)) allowed for a "Schrödinger Civilization" scenario where multiple outcomes coexisted briefly.
+- **"The Mongol Fracture" (1258 CE)**: A fracture near Baghdad allowed a 30-year-old letter from Genghis Khan to surface, describing future conquests. The causal echo aligns with the *Kether-9* model of pre-death stellar states.
+
+#### **Early Modern Era**
+- **"The Veyra Incident" (1947 CE)**: A fracture near Saturn’s rings allowed a 1947 radio signal to echo into the present (2083). The entropy suspension (\(\nabla S = 0\)) and causal advance fit the *Fracture Stability Equation* with \(\Delta t \approx 0.3\) seconds.
+- **"The Pluto-Charon Resonance" (1825 CE)**: A fracture in the 124-year orbital cycle allowed a future astronomical observation to appear early. The loop duration (\(\Delta t = 124\) years) matches the *Closed Timelike Loop* condition.
+
+#### **Industrial Revolution**
+- **"The Steam Engine Echo" (1829 CE)**: A fracture near Manchester allowed a future blueprint for the steam engine to surface, accelerating technological progress. The branching probability (\(P_{branch} = 0.23\)) suggests a dark energy perturbation.
+
+#### **Modern Era**
+- **"The Kether-9 Supernova" (2047 CE)**: A fracture near a supermassive black hole allowed photons from the star’s core to arrive 12 hours early. The causal echo aligns with the *Quantum Superposition* model.
+- **"The Gliese 581g Rejuvenation" (2347 CE)**: A fracture-induced phase shift restored liquid water on the planet for 18 Earth days. The entropy inversion allowed heat migration from the lighted to dark hemisphere.
+
+#### **Future Projections**
+- **"The Temporal Collapse" (2500 CE)**: Unchecked fractures could lead to a merging of all possible timelines into one chaotic state. Artificial stabilization remains an open question.
+
+**See Also**: /anomalies.md (detailed catalog), *Law of Echoing Causality* (/physics.md).
 ## Historical Fracture Manifestations Aligned with Core Definition
 
 ### 1. Cambrian Explosion (≈ 541 Ma) – Entropic Re‑Boot of Biological Loops
