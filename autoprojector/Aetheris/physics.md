@@ -169,6 +169,48 @@ In summary, dark energy’s negative pressure lowers the local temperature, ampl
 
 ## Time Fractures
 
+### Time Fractures: A Unified Model
+
+Time fractures are unstable regions within planetary systems that distort local spacetime, causing temporal echoes and phase shifts. These phenomena are influenced by interactions between planetary geology, celestial mechanics, and dark energy fluctuations.
+
+#### **Mechanisms of Time Fractures**
+1. **Spacetime Distortion Near Compact Objects**:
+   - Black holes and neutron stars warp spacetime, creating fractures that manifest as temporal echoes. For example, near Saturn’s rings, Earth may experience "ghost" volcanic eruptions from the Cretaceous period (TPI: 65.0 Ma, EDL: 12).
+
+2. **Celestial Phase Shifts**:
+   - Fractures near Mars could reverse desertification, restoring liquid water for millennia before collapsing back into the original timeline (TPI: 3.7 Ga, EDL: 8).
+
+#### **Planetary Geology Interactions**
+1. **Earth**:
+   - The Great Unconformity (missing 500–721 Ma strata) may have been triggered by a dark energy fluctuation altering Earth’s axial tilt, amplifying glacial erosion (TPI: 635 Ma, EDL: 10).
+   - The Archean oxygenation event (TPI: 2.4 Ga, EDL: 15) is hypothesized to have been fracture-induced.
+
+2. **Mars**:
+   - A magnetic field reversal in 2198 due to comet interaction triggered hydrological phase shifts, with lava tubes showing temporal echoes of Noachian-era activity (TPI: 3.7 Ga, EDL: 9).
+
+3. **Europa**:
+   - A fracture-induced cryovolcanic eruption in 2145 detected as brine geysers (TPI: 0.3 Ga, EDL: 5).
+
+4. **Kepler-186f**:
+   - A fracture resurrected methane-based life in 2156, altering atmospheric composition (TPI: 0.4 Ga, EDL: 7).
+
+#### **Historical Examples**
+1. **Great Unconformity**:
+   - Global glaciation (Snowball Earth) may have been triggered by a dark energy fluctuation, erasing geological records.
+
+2. **Tectonic Collapse**:
+   - Sudden plate motion reversal caused continental shelves to subduct, aligning with the Law of Echoing Causality.
+
+3. **Extraterrestrial Impact**:
+   - A rogue planet or neutron star fragment may have grazed Earth’s atmosphere, inducing a phase-shift fracture.
+
+#### **Implications for World-Building**
+Time fractures can serve as narrative devices:
+   - Lost civilizations may have thrived during missing geological eras.
+   - Temporal echoes could explain myths like Atlantis describing a "golden age" before recorded history.
+   - Geological loops may have reset Earth’s tectonic clock, explaining Phanerozoic biodiversity.
+
+This unified model integrates spacetime distortion, planetary geology interactions, and historical examples to explain time fractures.
 ## Time Fractures
 
 ### Unified Definition
@@ -497,3 +539,17 @@ A non‑zero \(\mathcal{C}_{ij}\) indicates that loops \(i\) and \(j\) can excha
 | **Dark Energy** | Modulates \(\omega_{ij}\) and \(\Delta t\) through \(\rho_{\Lambda}\), linking expansion dynamics to temporal anomalies. |
 
 These equations embed loops and fractures within a single probabilistic architecture, ensuring that every observed temporal anomaly derives from the same underlying physical principles.
+
+## Veyra Incident and Entropy Suspension
+
+### Veyra Incident and Entropy Suspension
+
+The **Veyra Incident (2083)** exemplifies a fracture where entropy production halted (\(dS = 0\)) for **0.3 seconds**, allowing a radio signal from **1947** to echo into the present near Saturn’s rings. This phenomenon is governed by the **entropy-suspension condition** \(\nabla S = 0\), where dark energy’s negative pressure (\(p = -\rho c^2\)) lowers the local temperature \(T\), prolonging fracture duration via:
+
+\[
+\Delta t = \frac{\hbar}{k_B T} e^{-\beta \nabla S}
+\]
+
+The incident confirms that fractures are **localized entropy-gradient anomalies** derived from the same governing equations as loops, with dark energy acting as a mediator. The **Law of Echoing Causality (LEC)** unifies such anomalies, ensuring consistency across temporal phenomena.
+
+**See Also**: /anomalies.md (detailed catalog), *Law of Echoing Causality* (/physics.md).
