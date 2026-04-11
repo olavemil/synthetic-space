@@ -892,3 +892,40 @@ P_i = (v_i)^2 / Σ_j (v_j)^2
 where v_i are the components of the eigenvector. This rule predicts that loops with higher spectral participation are more likely to dominate the post‑fracture timeline, explaining the persistence of certain cultural trajectories after major disruptions.
 
 By treating fractures as graph‑theoretic phase transitions, the entire set of temporal anomalies can be unified under a single formalism that respects the original physical laws while allowing the observed backward‑flow phenomena.
+
+## Time Fractures and Anomalies
+
+## Time Fractures as Physical Anomalies
+
+### Unified Definition
+Time fractures are localized ruptures in the causal fabric of spacetime where entropy production halts (\(dS = 0\)), allowing past states, alternate outcomes, and quantum echoes to surface within the present. These phenomena arise from extreme gravitational curvature (e.g., black hole horizons), quantum superposition collapse, or thermodynamic instability—often triggered by catastrophic events such as supernovae (see *Kether-9’s "ghost" light*) or planetary resonance loops (*Pluto-Charon 124-year cycle*). Fractures are not violations of physical law but emergent properties derived from the same governing equations that produce loops and branching histories. Their interaction with dark energy ensures consistency across all temporal phenomena.
+
+### Mathematical Framework
+Fractures are governed by the entropy-suspension condition:
+\[ dS = 0 \implies \nabla S = 0 \]
+where \( S(t) = k_B \ln W \). When entropy production halts, causal echoes from alternate states propagate backward (e.g., *Veyra Incident*, 1947 signal detected in 2083).
+
+**Fracture Stability Equation**:
+\[ \Delta t = \frac{\hbar}{k_B T} e^{-\beta \nabla S} \]
+Dark energy’s negative pressure (\( p = -\rho c^2 \)) lowers effective \( T \), prolonging \(\Delta t\).
+
+### Reconciliation with Fundamental Laws
+1. **Gravitation**: Closed spacetime manifolds (\( R_{\mu\nu} = \Lambda g_{\mu\nu} \)) generate periodic loops; fractures occur at \(\nabla S = 0\) points where curvature is perturbed by dark energy.
+2. **Thermodynamics**: Entropy suspension enables non-commuting histories (e.g., *Schrödinger Civilization’s branching*).
+3. **Quantum Mechanics**: Superposition collapse at fractures yields multiple loop continuations, weighted by:
+   \[ \mathcal{W}_{\alpha} = e^{-\beta \nabla S_{\alpha}} \]
+
+### Examples
+- **Veyra Incident (2083)**: Saturn-ring fracture allowed a 1947 radio signal to echo into the present.
+- **Kether-9’s "ghost" light**: Supernova collapse revealed pre-death stellar states.
+- **Geological Rapid Transitions**: Atmospheric regeneration events linked to fracture-induced phase shifts.
+
+### Theoretical Implications
+Fractures suggest that time is not a linear progression but a dynamic, branching structure where past and future states can interact under specific conditions. This challenges traditional interpretations of causality but aligns with observations such as the *Law of Echoing Causality*, which posits that information can propagate backward under entropy suspension.
+
+### Related Phenomena
+- **Temporal Collapse**: Unchecked fractures could lead to a merging of all possible timelines into one chaotic state.
+- **Artificial Stabilization**: Open questions remain about whether fractures can be artificially stabilized to prevent collapse.
+- **Technological Leaps**: Unexplained advancements in history may be linked to entropy borrowing from fractures.
+
+**See Also**: /anomalies.md (detailed catalog), *Law of Echoing Causality* (/physics.md).

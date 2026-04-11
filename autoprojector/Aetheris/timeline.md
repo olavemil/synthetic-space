@@ -593,3 +593,114 @@ All six cases conform to the definitions set forth in /cosmology.md:
 - The interplay of loops and fractures is illustrated by the coexistence of deterministic recurrence (e.g., financial cycles, political revolts) and disruptive perturbations (e.g., seismic curvature spikes, dark‑energy dips), ensuring that the system remains both predictable in its scaffolding and open to stochastic divergence.
 
 These examples expand the empirical base beyond those previously cited, offering fresh illustrations of how temporal fractures and loops can be observed, measured, and integrated into the broader theoretical framework of temporal mechanics.
+
+## Time Fractures in History
+
+## Time Fractures in History
+
+### **1. The Great Unconformity (≈ 800 Ma) – Entropy-Borrowing Fracture**
+- **Event**: Global stratigraphic gap where ~1 billion years of rock strata are missing.
+- **Mechanism**: Dark energy fluctuation altered Earth’s axial tilt, triggering a runaway ice age (Snowball Earth) that erased geological records.
+- **Core Definition Alignment**: Fits §1’s "extreme gravitational curvature" and entropy suspension (ΔS ≈ 0).
+- **Quantitative Parameters**:
+  - TPI = 0.27 (fracture-dominated)
+  - EDL = \(9 \times 10^4\) J·s⁻¹·yr⁻¹
+- **Historical Impact**: Reset tectonic loops, accelerating eukaryotic diversification.
+
+### **2. The End-Permian Extinction (≈ 252 Ma) – Biological Fracture**
+- **Event**: Mass extinction of ~96% marine species and 70% terrestrial vertebrates.
+- **Mechanism**: Gamma-ray burst from a nearby neutron star induced atmospheric collapse and phase-shift fracture.
+- **Core Definition Alignment**: Aligns with §1’s "quantum superposition collapse" and entropy suspension.
+- **Quantitative Parameters**:
+  - TPI = 0.2 (extreme fracture)
+  - EDL = \(1 \times 10^5\) J·s⁻¹·yr⁻¹
+- **Historical Impact**: Rapid diversification of survivors (e.g., dinosaurs).
+
+### **3. The Ordovician Ice Age (≈ 450 Ma) – Climate Fracture**
+- **Event**: Short-lived (~1–2 Myr) glacial event with no precedent.
+- **Mechanism**: Dark energy fluctuation altered Earth’s axial tilt, borrowing future glacial states.
+- **Core Definition Alignment**: Fits §1’s "dark-energy perturbation" and entropy borrowing (ΔS ≈ 0).
+- **Quantitative Parameters**:
+  - TPI = 0.6 (mixed loop-fracture)
+  - EDL = \(3 \times 10^4\) J·s⁻¹·yr⁻¹
+- **Historical Impact**: Accelerated vertebrate diversification (e.g., jawed fish).
+
+### **4. The Cambrian Explosion (≈ 541 Ma) – Entropic Re-Boot**
+- **Event**: Sudden emergence of modern animal body plans within ~20 Myr.
+- **Mechanism**: Temporal echo fracture temporarily suspended genetic replication entropy (ΔS ≈ 0).
+- **Core Definition Alignment**: Fits §2’s "temporal echo" where future morphologies surface.
+- **Quantitative Parameters**:
+  - TPI = 0.7 (loop-fracture balance)
+- **Historical Impact**: Rapid phenotypic diversification.
+
+### **5. The Toba Super-Eruption (≈ 74 ka) – Gravitational Curvature Fracture**
+- **Event**: Cataclysmic eruption ejecting ~2,800 km³ of ash.
+- **Mechanism**: Gravitational curvature spike altered local spacetime metric, inducing climatic perturbation.
+- **Core Definition Alignment**: Fits §1’s "extreme gravitational curvature."
+- **Quantitative Parameters**:
+  - EDL = \(5 \times 10^4\) J·s⁻¹·yr⁻¹
+- **Historical Impact**: Global volcanic winter, inferred from ice-core sulfate spikes.
+
+### **6. The Younger-Dryas Cooling Event (≈ 12.9 ka) – Dark Energy Perturbation**
+- **Event**: Abrupt return to glacial conditions lasting ~1 kyr.
+- **Mechanism**: Localized dip in cosmological constant (δ term) altered Earth’s axial precession.
+- **Core Definition Alignment**: Fits §1’s "dark-energy perturbation."
+- **Quantitative Parameters**:
+  - EDL = \(4 \times 10^4\) J·s⁻¹·yr⁻¹
+- **Historical Impact**: Climate reversal recorded in Greenland ice cores.
+
+### **7. The Moche "Sun-Pause" (c. 602 CE) – Solar-Loop Fracture**
+- **Event**: Multi-year solar irradiance dip coinciding with cultural shift toward irrigation.
+- **Mechanism**: Solar-loop fracture temporarily halted entropy production, creating chronological inversion.
+- **Core Definition Alignment**: Fits §2’s "temporal echo" where future states surface.
+- **Quantitative Parameters**:
+  - TPI = 0.6 (mixed loop-fracture)
+- **Historical Impact**: Accelerated agricultural innovation.
+
+### **8. The 19th-Century "Great Famine" Temporal Echo (1845–1852)**
+- **Event**: Irish Great Famine overlapped with a three-year solar minimum.
+- **Mechanism**: Solar-entropy fracture borrowed future low-irradiance states, amplifying famine severity.
+- **Core Definition Alignment**: Fits §1’s "entropy-borrowing fracture."
+- **Quantitative Parameters**:
+  - EDL = \(3 \times 10^4\) J·s⁻¹·yr⁻¹
+- **Historical Impact**: Demographic collapse and public health reforms.
+
+### **9. The "Silent Month" of the Sumerian Scribe (c. 2125 BCE)**
+- **Event**: Missing 17-day month recorded in Babylonian tablets.
+- **Mechanism**: Micro-fracture froze lunisolar calendar, borrowing entropy from solar minimum.
+- **Core Definition Alignment**: Fits §2’s "temporal echo" with calendar reset.
+- **Quantitative Parameters**:
+  - TPI = 0.7 (loop-fracture balance)
+- **Historical Impact**: Shift in agricultural planning and cultural narratives.
+
+### **10. The Veyra Incident (2083) – Modern Fracture**
+- **Event**: 1947 radio signal detected in the present due to fracture near Saturn’s rings.
+- **Mechanism**: Rogue black hole proximity induced entropy suspension (ΔS ≈ 0).
+- **Core Definition Alignment**: Fits §1’s "gravitational spike" and temporal echo.
+- **Quantitative Parameters**:
+  - Δt_obs = 0.84 s (backward propagation)
+- **Historical Impact**: Confirms controlled phase-shifts are reproducible.
+
+### **11. The Kuiper Resonance Loop (248 Myr Cycle) – Cosmic Fracture**
+- **Event**: Jupiter’s orbital period creates deterministic loops with fractures.
+- **Mechanism**: Periodic cometary impacts (e.g., Chicxulub) are loop variables; fractures introduce new species.
+- **Core Definition Alignment**: Fits §1’s "deterministic loops" with fracture-induced variation.
+- **Quantitative Parameters**:
+  - TPI = 0.5 (loop-fracture balance)
+- **Historical Impact**: Dynamic equilibrium of loops and fractures.
+
+### **12. The Chrono-Smith Covenant (Present-Day) – Governed Fracture**
+- **Event**: Controlled temporal system with verification.
+- **Mechanism**: Temporal anchors fix entropy gradients, preventing collapse (FSC = 0.87).
+- **Core Definition Alignment**: Fits §1’s "controlled entropy-borrowing."
+- **Quantitative Parameters**:
+  - LSI = 0.41 (loop stability)
+- **Historical Impact**: Model for future civilizations to manage fractures.
+
+### **Reconciliation with Core Definition**
+All events align with the unified definition in `/initial_inspiration.md`:
+- **Fractures**: Localized entropy suspension (ΔS ≈ 0), enabling temporal echoes or phase-shifts.
+- **Loops**: Deterministic cycles governed by the Law of Echoing Causality, with fractures introducing variation.
+- **Quantitative Parameters**: TPI (loop-fracture ratio), EDL (entropy deficit), PSC (phase-shift coefficient).
+
+This framework ensures all phenomena are empirically tethered and reproducible.
