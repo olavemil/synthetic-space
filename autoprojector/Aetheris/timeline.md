@@ -195,12 +195,13 @@ The tension between the cosmological view of fractures as latent collapse hazard
 
 ## Time-Related Phenomena
 
-### **22. The Chrono-Shear of the Sundering**
-- **Example**: In the year 1125 BCE, the **Sundering of Ardath** occurred when a tectonic rift beneath the capital of the **Aurean Empire** precipitated a **temporal shear** that advanced the city’s local timeline by **23 solar cycles**.
-- **Rule**: The phenomenon adheres to the principle of **"Shear Entropy Flux (SEF)"**, wherein a localized fracture injects a **Δt = +23 years** shift accompanied by an **SEF rate of 0.73 EU/s**. Entities inside the shear retain **TC = 0.88**, but their **TC** degrades at **‑0.04 per hour** unless stabilized by a **Chrono-Anchor (CA-9)**.
-- **Implication**: The shear enabled the Aureans to construct the **Aetherforge**, a reactor that harvested **Temporal Resonance (TR)** from the future, granting them metallurgical techniques a generation ahead of their peers.
-- **Implication**: The shear produced a persistent **Temporal Scar (TS-1125B)**, a low‑amplitude entropy pulse recorded in the surrounding sedimentary strata, which later influenced the **Silver Covenant**’s adoption of **Shear‑Resistant Architecture**.
-- **Verification**: The shear’s parameters are recorded in the **Temporal Cartography Bureau (TCB-09)**, with its present **Shear Stability Index (SSI)** of **0.54**, projecting a moderate collapse risk within **57 years**. Spacetime imaging confirms a **Shear Signature (SS-1125)**, a distinct **Temporal Signature (TS-1125)**, and a **Fracture Stability Coefficient (FSC)** of **0.61**.
+## Chrono-Loop of the Resonant Basin
+
+- **Example**: In the year 312 AD, the **Resonant Basin** in the highlands of **Eldara** experienced a **Chrono‑Loop** when a sudden collapse of a cavernous fissure caused a **Δt = +14 years** shift that repeated every 14 days for three successive cycles, effectively resetting the local water table and causing a seasonal flood to recur at an accelerated rate.
+- **Rule**: The phenomenon adheres to the principle of **"Loop Entropy Recurrence (LER)"**, wherein a localized fracture injects a **Δt = +n years** shift that loops back on itself after **k repetitions**, satisfying **n × k = 28** and a **LER coefficient of 0.62 LER/s**.
+- **Implication**: The loop enabled the Eldaran priesthood to inscribe **Future Prophecies** that matched events occurring precisely 14 years later, most notably the **Great Frost of 326 AD**, thereby embedding a predictive calendar into cultural memory.
+- **Implication**: The loop produced a persistent **Chrono‑Echo (CE‑312)**, a low‑amplitude temporal wave captured in the basin’s lacustrine strata, later harnessed by the **Order of the Veil** to align their ceremonial cycles with the loop’s periodicity.
+- **Verification**: Parameters are recorded in the **Chrono‑Committee Archive (CCA‑07)**, showing a current **Loop Stability Index (LSI)** of **0.41**, indicating a moderate collapse risk within **84 years**. Spacetime imaging confirms a **Loop Signature (LS‑312)**, a distinct **Temporal Echo (TE‑312)**, and a **Fracture Recurrence Coefficient (FRC)** of **0.78**.
 ## Historical Events Tied to Time Phenomena
 
 ### **Geological Fractures: The Great Unconformity and Temporal Rupture**
