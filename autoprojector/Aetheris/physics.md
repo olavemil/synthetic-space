@@ -581,3 +581,78 @@ Together, these mechanisms show that loops and fractures are not isolated curios
 - **Lumen Convergence (Selene‑7, 2379)** – The moon Selene‑7’s 3 200‑yr orbit around its planet satisfies nτ=2π·3, locking the system into a closed curvature manifold (R_{μν}=Λg_{μν}) and creating a cultural loop of rise‑fall‑rebirth every 3 200 yr. A fracture opens when the surrounding dark‑energy filament reduces temperature by 0.9 K, extending the entropy‑suspension duration to Δt≈1.1 s; this allows a “chronal echo” of an extinct linguistic stratum to imprint on contemporary speech patterns.
 
 Each manifestation obeys the same governing equations: curvature loops arise from closed‑manifold boundary conditions, fractures are defined by the entropy‑gradient suspension condition ∇S=0 with Δt
+
+## Law of Echoing Causality Examples and Test Cases
+
+## Law of Echoing Causality — Expanded Framework
+
+### Additional Examples and Test Cases
+
+#### Example 1: The Kether-9 Supernova Echo
+In the galaxy core of *Kether-9*, a supernova collapse created a black hole, but observers detected "ghost" light from the pre-collapse star. This fracture was triggered by:
+- **Gravitational Curvature**: The black hole's horizon satisfied \( R_{\mu\nu} = \Lambda g_{\mu\nu} \), forming a closed spacetime manifold.
+- **Entropy Suspension**: The entropy gradient \(\nabla S\) dropped to zero for 0.7 seconds, allowing the past state (pre-collapse star) to echo.
+- **Quantum Superposition**: The collapse of the supernova's quantum state branched into two continuations: one with the black hole, another where the star "reappeared" briefly.
+
+**Mathematical Formulation**:
+\[ \Delta t = \frac{\hbar}{k_B T} e^{-\beta \nabla S} \]
+With dark energy lowering \(T\) by 12 K, \(\Delta t = 0.7 \text{ s}\).
+
+#### Example 2: The Veyra Incident (1947-2083)
+A radio signal from 1947 was detected in 2083 near Saturn’s rings due to:
+- **Fracture Trigger**: A dark energy fluctuation reduced \(\nabla S\) near Saturn’s rings.
+- **Loop Synchronization**: The 1947 signal aligned with a gravitational resonance loop (period = 65.0 Ma).
+- **Causal Echo**: The signal propagated backward in time due to entropy suspension.
+
+**Test Case**:
+If \(\nabla S = 0\) for \( \Delta t > 1.2 \text{ s} \), the signal would have been detected in multiple epochs, creating a "temporal ghost."
+
+#### Example 3: The Schrödinger Civilization
+An ancient society existed in a quantum superposition until a fracture collapsed its timeline into two divergent histories:
+- **Branch 1**: The civilization perished in a war.
+- **Branch 2**: It thrived, developing advanced technology.
+
+**Mathematical Formulation**:
+\[ \mathcal{W}_{\alpha} = e^{-\beta \nabla S_{\alpha}} \]
+The branch with lower \(\nabla S\) (more stable entropy) dominated.
+
+### Mathematical Formulations for Consistency
+
+#### 1. Fracture Stability Equation (Revised)
+\[ \Delta t = \frac{\hbar}{k_B T} e^{-\beta (\nabla S + \delta)} \]
+Where \(\delta\) is a perturbation term from dark energy.
+
+#### 2. Loop Recurrence Condition
+\[ \frac{d^2 r}{dt^2} + \Gamma^{r}_{\mu\nu} \dot{x}^{\mu} \dot{x}^{\nu} = 0 \]
+Holds only while \(\nabla S > 0\). At fractures (\(\nabla S = 0\)), the equation is suspended.
+
+#### 3. Dark Energy Interaction
+\[ \Omega_{\Lambda} = e^{\int dS/dt} \]
+Dark energy density scales with entropy suspension.
+
+#### 4. Entropy Reversal
+\[ \Delta S = -\frac{1}{2} \ln(|\text{fracture}|) \]
+Quantifies temporary entropy reversal during fractures.
+
+### Reconciliation with Fundamental Laws
+
+1. **Gravitation**:
+   - Loops arise from closed spacetime manifolds (\( R_{\mu\nu} = \Lambda g_{\mu\nu} \)).
+   - Fractures occur at \(\nabla S = 0\) points where curvature is perturbed by dark energy.
+
+2. **Thermodynamics**:
+   - Entropy suspension enables non-commuting histories (e.g., *Schrödinger Civilization’s branching*).
+   - Fractures are localized entropy-gradient anomalies.
+
+3. **Quantum Mechanics**:
+   - Superposition collapse at fractures yields multiple loop continuations.
+   - Branching probability weighted by \( \mathcal{W}_{\alpha} = e^{-\beta \nabla S_{\alpha}} \).
+
+4. **Dark Energy**:
+   - Modulates \(\Delta t\) and loop stability.
+   - Acts as a mediator between loops, fractures, and branching histories.
+
+### Conclusion
+The Law of Echoing Causality ensures that all temporal phenomena—loops, fractures, and branching histories—are derived from the same governing equations. Dark energy acts as a key mediator, weakening causality at fracture points while stabilizing micro-loops.
+
+**See Also**: /anomalies.md (detailed catalog), *Law of Echoing Causality* (/physics.md).
