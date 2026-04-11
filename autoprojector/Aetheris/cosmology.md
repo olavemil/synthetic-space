@@ -11,11 +11,8 @@ The universe exhibits recurring cycles known as **temporal loops**, where events
 - **Cosmic Loops**: Stars and planets follow orbital cycles that reset every 10,000 years, though their positions shift slightly due to gravitational anomalies.
 
 ## Time Fractures
-**Fractures in time** are unstable regions where the fabric of causality weakens, allowing glimpses into alternate timelines or past events. These fractures are often triggered by catastrophic events, such as supernovae or the collapse of black holes.
 
-- **Observed Fractures**: Ancient texts describe "shattered moments" where time appears to split, revealing parallel outcomes.
-- **Future Implications**: If fractures grow unchecked, they could lead to a **temporal collapse**, where all possible timelines merge into one chaotic state.
-
+Reconciliation: Time fractures can be quantified by the temporal displacement magnitude Δt and their occurrence frequency λ, both derived from the physics of entropy gradient reversal and dark‑energy scaling. Δt follows the relation Δt = ħ/(k_B T) exp[−β(∇S+δ)], where δ encodes the dark‑energy perturbation; λ scales as λ = λ₀ exp[−γ(∇S+δ)], linking fracture frequency to the same entropy term. Historical entries from timeline.md illustrate these scales: the 1815 Tambora eruption (timeline event 7) generated a macro‑fracture with Δt≈10⁴ s, leaving a multi‑year climate anomaly; the 1908 Tunguska event (timeline event 12) produced a micro‑fracture with Δt≈10⁻⁶ s, marked by a brief atmospheric luminous pulse; and the 2023 global quantum synchronization (timeline event 42) created a transient fracture with Δt≈30 s, observed as a synchronized data‑burst across multiple networks.
 ## Shaping the Universe's History and Future
 1. **Loops** ensure that progress is incremental, with civilizations learning from past mistakes.
 2. **Fractures** introduce unpredictability, allowing for radical shifts in evolution and technology.

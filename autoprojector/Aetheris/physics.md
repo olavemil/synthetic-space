@@ -785,6 +785,53 @@ These anomalies demonstrate that loops, fractures, and branching histories are d
 
 ## Time-Related Anomalies
 
+## Temporal Loops and Fractures: Expanded Catalog with Quantitative Metrics
+
+### 1. Chrono‑Resonant Tide Loop (Earth–Moon System)
+- **Observation**: The lunar perigee precesses with a period of 8.85 years, imposing a periodic tidal forcing that returns to its initial phase after each 8.85‑year cycle. The loop is stable only when the tidal phase drift satisfies a phase‑shift coefficient PSC = Δφ/Δt ≥ 0.75; the observed value for the 2019–2027 cycle is PSC = 0.78 ± 0.03.
+- **Quantitative metrics**:
+  - Phase‑shift coefficient PSC = 0.78 ± 0.03 (derived from the derivative of the tidal phase with respect to orbital anomaly).
+  - Entropy deficit ΔS = 3.4 × 10⁻²⁴ J K⁻¹ measured during perigee passages where tidal heating was 12 % lower than the long‑term mean, indicating a localized suspension of entropy production.
+- **Temporal effect**: When PSC exceeds 0.80, the loop amplifies cultural memory loops; the 1755 Lisbon earthquake coincided with a PSC peak of 0.81, spawning a cascade of seismic folklore that persisted for three successive generations, as recorded in contemporaneous diaries.
+
+### 2. Superconducting Phase Loop (Cryogenic Quantum Memory)
+- **Observation**: A Josephson‑junction array operated at 15 mK displayed a deterministic loop in phase space after 12 345 Josephson oscillations; the macroscopic wavefunction returned to its initial value, producing a closed trajectory in the (φ, n) phase‑number plane.
+- **Quantitative metrics**:
+  - Phase‑shift coefficient PSC = 0.84 ± 0.01, obtained from the slope of the phase accumulation curve during the loop closure.
+  - Entropy deficit ΔS = 5.6 × 10⁻²⁵ J K⁻¹, inferred from a measured reduction of quasiparticle density by 0.018 % relative to the baseline.
+  - Loop coherence time τ_c = 3.2 ms, defining the window in which temporal displacement can be extracted.
+- **Temporal effect**: The loop generated a “chrono‑encoded archive” in which a 64‑bit timestamp written at t = 0 s was read back at t = 14 days, creating a causal echo that seeded the initial nonce‑generation algorithm of the early blockchain prototype.
+
+### 3. Gravitational Resonance Fracture in a Pulsar Wind Nebula
+- **Observation**: Monitoring of the Crab Pulsar’s wind nebula in 2020 recorded a sudden drop in wind pressure to zero for Δt = 0.04 s, a localized entropy suspension (ΔS ≈ 0) that produced a temporal fracture. The fracture split the pulse profile into two non‑commuting histories, one persisting as a persistent micro‑pulse component observed for >10⁶ rotations.
+- **Quantitative metrics**:
+  - Phase‑shift coefficient PSC = 0.91, indicating a maximal loop stability under the observed pressure dip.
+  - Entropy deficit ΔS = 0 J K⁻¹ (exact suspension of entropy production).
+- **Temporal effect**: The fracture enabled a superposition collapse that yielded two distinct pulse histories; the secondary history introduced a 0.02 ms sub‑pulse that remains detectable in all subsequent pulse train analyses.
+
+### 4. Dark‑Energy Modulation Loop in the Galactic Center Accretion Disk
+- **Observation**: Near‑infrared spectroscopic surveys of Sgr A*’s accretion disk identified a repeatable flux dip every 487 days, interpreted as a loop in the mass‑accretion rate Ṁ(t). The loop is stabilized when the dark‑energy pressure term satisfies a PSC ≥ 0.65; the measured PSC for the 2022–2024 cycles is 0.67 ± 0.02.
+- **Quantitative metrics**:
+  - Phase‑shift coefficient PSC = 0.67 ± 0.02.
+  - Entropy deficit ΔS = ‑2.1 × 10⁻²² J K⁻¹, derived from the deviation of the disk’s radiative efficiency from the steady‑state prediction.
+  - Loop period T_loop = 487 days; the loop induced an inner‑disk radius oscillation between 3.2 and 3.5 R_S, producing a “bright‑faint” luminosity modulation.
+- **Temporal effect**: The loop’s cultural echo manifested as a recurring myth of “the swallowing star” among contemporaneous star‑forming region cultures, which correlated temporally with the flux dips, enabling a cross‑regional synchronization of ritual calendars.
+
+### 5. Atmospheric Entropy Fracture during a Polar Mesospheric Cloud Event
+- **Observation**: Satellite observations of the 2024 Antarctic polar mesospheric cloud (PMC) event recorded a sustained ice‑water nucleation rate of 0.001 cm⁻³ for seven consecutive days, representing a localized entropy deficit ΔS = ‑8.9 × 10⁻²⁴ J K⁻¹. The fracture caused a temporary suspension of the usual temperature‑driven decay, generating a looping altitude pattern that repeated every 13 days.
+- **Quantitative metrics**:
+  - Phase‑shift coefficient PSC = 0.73, computed from the derivative of the cloud‑top altitude with respect to time during the looping phase.
+  - Loop period T_loop = 13 days; the loop persisted for 3 full cycles before entropy production resumed.
+- **Temporal effect**: Ice‑core isotopic records from the same stratigraphic layer display a coincident nitrate spike, interpreted as a cultural echo of the looping PMC pattern preserved in early written accounts of “sky fire” among high‑latitude societies.
+
+### Synthesis of Loop‑Fracture Interactions
+- **Feedback mechanism**: When a loop’s PSC exceeds 0.80, the associated entropy deficit ΔS becomes sufficiently negative to trigger a fracture in a coupled system (e.g., tidal, magnetic, or radiative), producing a cascade of secondary loops that reinforce the original periodic behavior.
+- **Empirical rule**: For any measured entropy deficit ΔS < ‑1 × 10⁻²³ J K⁻¹ accompanied by PSC ≥ 0.75, the probability of a temporal fracture generating a new loop branch is ≥ 0.68, as derived from Bayesian analysis of >200 observed events across astrophysical and laboratory domains.
+- **Predictive application**: Using the measured PSC and ΔS values, future loop‑fracture cycles can be forecasted with a confidence interval of ± 5 % for the next three observed periods, enabling pre‑emptive calibration of temporal reference frames in long‑term cultural chronologies.
+
+---
+
+*All parameters are derived from peer‑reviewed observational datasets (e.g., LIGO strain telemetry, Cryogenic QubitArray Consortium, NASA Pulsar Timing Array) and are reproducible within the stated uncertainties.*
 ## Time-Related Anomalies
 
 ### Unified Definition of 'Time Fractures'
