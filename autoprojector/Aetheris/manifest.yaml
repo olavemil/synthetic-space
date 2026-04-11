@@ -33,6 +33,10 @@ project:
     role: active
     summary: Create a file to document all known physical anomalies in the universe,
       including their observations
+  - path: /core_laws.md
+    role: active
+    summary: Centralize mathematical formulations of core laws and link them to existing
+      examples such as the Ord
   participants:
   - id: primary
     type: agent

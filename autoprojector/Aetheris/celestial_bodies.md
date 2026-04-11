@@ -186,3 +186,17 @@ Geological evidence of the suspension includes:
 Implications for Earth’s history are twofold. First, the short-lived glaciation accounts for the preservation of delicate fossil assemblages and the absence of extensive post‑glacial sedimentary reworking, confirming a rapid climate swing rather than a prolonged ice‑age regime. Second, the fracture‑induced borrowing of a future cold state likely seeded evolutionary loops that accelerated the diversification of early vertebrate lineages, linking this climate event to the subsequent Cambrian explosion and the emergence of jawed vertebrates. Climate‑model simulations demonstrate that the entropy‑borrowed interval would have produced the observed isotopic echo in carbonate records, validating the causal connection.
 
 Thus, the Ordovician Ice Age serves as a concrete geological case study of entropy‑gradient suspension, illustrating how a spacetime fracture can leave a measurable imprint on planetary climate, geological strata, and biological evolution.
+
+## Case Studies Audit
+
+Audit of /celestial_bodies.md case studies for adherence to the unified framework and identification of inconsistencies:
+
+- Veyra Incident (2083): The narrative states that entropy production “dropped to zero for 0.3 s,” enabling a temporal echo. The governing framework defines entropy‑gradient suspension as ∇S = 0 without specifying a production threshold or a 0.3 s duration; this quantitative detail is not derived from the provided formulas and therefore introduces an unsupported claim.
+
+- Collapse of Kether‑9: The description claims that photons from the star’s dying core were encoded in a fracture caused by a supermassive black‑hole accretion‑disc collapse, allowing the photons to reach Earth 12 hours before the photospheric explosion. The framework only mentions borrowing entropy from a future quantum state to enable early arrival; it does not specify that a supermassive black‑hole collapse can generate the required fracture or justify the deterministic early‑arrival prediction.
+
+- Titan Atmospheric Reversal: The case reports an “entropy‑gradient inversion” that produced a localized reversal of chemical reactions and a methane‑ice excess lasting 17 minutes. While inversion is mentioned, the framework does not explain how an inversion can sustain a measurable excess of methane ice crystals for that interval, nor does it address the persistence of the inversion after the fracture ends.
+
+- Pulsar PSR J1738‑3735 Fracture: The account cites a 0.02 s advance in pulse arrival time due to a fracture in the pulsar’s magnetosphere. The framework defines causal echoes as borrowing entropy from future quantum states, but the text does not explicitly link a magnetospheric fracture to entropy borrowing nor to a measurable timing advance, leaving a mechanistic gap.
+
+- General terminology: The term “Law of Echoing Causality” is repeatedly invoked without an explicit definition within /celestial_bodies.md, and the equations for entropy‑gradient suspension and branching probability are presented without citation of their derivation or contextual justification, creating internal inconsistency.
