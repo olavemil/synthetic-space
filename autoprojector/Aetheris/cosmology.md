@@ -12,7 +12,38 @@ The universe exhibits recurring cycles known as **temporal loops**, where events
 
 ## Time Fractures
 
-Reconciliation: Time fractures can be quantified by the temporal displacement magnitude Δt and their occurrence frequency λ, both derived from the physics of entropy gradient reversal and dark‑energy scaling. Δt follows the relation Δt = ħ/(k_B T) exp[−β(∇S+δ)], where δ encodes the dark‑energy perturbation; λ scales as λ = λ₀ exp[−γ(∇S+δ)], linking fracture frequency to the same entropy term. Historical entries from timeline.md illustrate these scales: the 1815 Tambora eruption (timeline event 7) generated a macro‑fracture with Δt≈10⁴ s, leaving a multi‑year climate anomaly; the 1908 Tunguska event (timeline event 12) produced a micro‑fracture with Δt≈10⁻⁶ s, marked by a brief atmospheric luminous pulse; and the 2023 global quantum synchronization (timeline event 42) created a transient fracture with Δt≈30 s, observed as a synchronized data‑burst across multiple networks.
+### Time Fractures — Unified Definition
+
+A **time fracture** is a localized perturbation of the causal manifold characterized by:
+1. A reversal in entropy gradient (\(\nabla S \to -\nabla S\)).
+2. The formation of a self-contained pocket where forward time flow is suspended.
+3. Manifestations including past states, alternate outcomes, and resonant echoes.
+
+**Mathematical Formulation**:
+\[
+\mathcal{F}(x,t) = \exp\!\big[-\alpha(\nabla S)^2\big]\,\Theta(-\nabla S)
+\]
+where \(\mathcal{F}\) is the fracture intensity, and \(\alpha\) scales with dark energy density.
+
+**Quantification**:
+- Temporal displacement magnitude (\(\Delta t\)) and occurrence frequency (\(\lambda\)) are derived from entropy gradient reversal and dark-energy scaling:
+  \[
+  \Delta t = \frac{\hbar}{k_B T}\,\exp\!\big[-\beta\big(\nabla S + \delta\big)\big]
+  \]
+  \[
+  \lambda = \lambda_0\,\exp\!\big[-\gamma\big(\nabla S + \delta\big)\big]
+  \]
+where \(\delta\) encodes the dark-energy perturbation.
+
+**Historical Examples**:
+- **1815 Tambora Eruption (Event 7)**: Macro-fracture with \(\Delta t \approx 10^4\) s, resulting in a multi-year climate anomaly.
+- **1908 Tunguska Event (Event 12)**: Micro-fracture with \(\Delta t \approx 10^{-6}\) s, marked by a brief atmospheric luminous pulse.
+- **2023 Global Quantum Synchronization (Event 42)**: Transient fracture with \(\Delta t \approx 30\) s, observed as a synchronized data-burst across networks.
+
+**Discrepancy Resolution**:
+The static formulation in /physics.md is reconciled by treating time fractures as dynamic anomalies governed by the same underlying principles (e.g., entropy gradient reversal, dark-energy scaling). The deterministic cycles and stochastic ruptures described in /core_laws.md are specific instances of these broader phenomena.
+
+For further details on fracture stability and loop recurrence, see /core_laws.md.
 ## Shaping the Universe's History and Future
 1. **Loops** ensure that progress is incremental, with civilizations learning from past mistakes.
 2. **Fractures** introduce unpredictability, allowing for radical shifts in evolution and technology.

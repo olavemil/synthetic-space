@@ -105,3 +105,62 @@ The Law of Echoing Causality resolves conflicts by:
 3. Ensuring all phenomena—deterministic cycles and stochastic ruptures—are derived from the same governing equations, with LEC as their unifying principle.
 
 This framework preserves physical rigor while accommodating dynamic temporal phenomena.
+
+## Organizational Structure
+
+Organizational Structure for Anomalies
+
+1. Theoretical Taxonomy
+   1.1 Loop Type
+        Definition: Closed‑path solution of the curvature field that repeats under periodic boundary conditions.
+        Governing Equation: d²r/dt² + Γ^r_μν ẋ^μ ẋ^ν = 0 with ∇S > 0.
+        Diagnostic Marker: Repeating phase angle Δφ≈2πn, curvature eigenvalue λ≈constant.
+
+   1.2 Fracture Type
+        Definition: Region where entropy gradient ∇S≈0 permits temporary suspension of evolution equations.
+        Governing Condition: Δt ∝ exp[−β(∇S+δ)] with δ from dark‑energy perturbation.
+        Diagnostic Marker: Localized entropy plateau, abrupt signal echo, sudden composition shift.
+
+   1.3 Branching Type
+        Definition: Outcome of quantum superposition collapse at a fracture, generating parallel continuations.
+        Governing Rule: Wavefunction ψ splits; each branch weighted by exp[−β∇S_branch].
+        Diagnostic Marker: Multiple divergent historical records, divergent technological trajectories.
+
+2. Empirical Observation Taxonomy
+   2.1 Astronomical Loop
+        Observation: Repeating orbital resonances (e.g., Kuiper Belt 248 Myr cycle).
+        Signature: Periodic mass‑extinction spikes, metallicity recurrence.
+
+   2.2 Astronomical Fracture
+        Observation: Isotopic spikes coincident with black‑hole proximity, rapid atmospheric change.
+        Signature: Localized entropy drop, transient signal echo.
+
+   2.3 Planetary Loop
+        Observation: Seasonal or tectonic cycles locked to orbital periods.
+        Signature: Correlated climate oscillation, crustal uplift timing.
+
+   2.4 Technological Fracture
+        Observation: Sudden technological breakthroughs coinciding with known celestial events.
+        Signature: Abrupt increase in artifact complexity, no gradual evolution.
+
+3. Categorization Guidelines
+   a. Identify Origin
+        • If derived from equation set → Theoretical.
+        • If recorded as data point → Empirical.
+   b. Map to Construct
+        • Loop → Theoretical Loop.
+        • Entropy suspension → Theoretical Fracture.
+        • Divergent timeline → Theoretical Branching.
+   c. Apply Signature Checklist
+        • Periodicity?
+        • Entropy plateau?
+        • Multiple histories?
+   d. Assign Sub‑Class
+        • Stable Loop, Transient Fracture, Persistent Branching, etc.
+
+4. Annotation Scheme
+   • Prefix T‑ for Theoretical, E‑ for Empirical.
+   • Suffix _L, _F, _B for Loop, Fracture, Branching.
+   • Example: T‑Loop_StellarResonance, E‑Fracture_AtmosphericShift.
+
+This framework separates abstract models from measured events, assigns each anomaly a clear category, and provides a reproducible method for future entries.

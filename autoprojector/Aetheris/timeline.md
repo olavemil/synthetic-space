@@ -43,17 +43,24 @@ By mapping each historical episode onto the dual mechanisms — loop as repeatab
 
 ## Veyra Incident
 
-### Veyra Incident — Duration & Entropy Deficit
+### Veyra Incident
 
-**Duration**: The fracture near Saturn’s rings suspended entropy production for **0.3 seconds**, as measured by thermodynamic analysis of the 1947 radio signal’s echo in 2083. This duration aligns with the entropy-suspension condition \(\nabla S = 0\), where dark energy’s negative pressure (\(p = -\rho c^2\)) prolongs the anomaly via:
+**Duration & Entropy Deficit**
+The fracture near Saturn’s rings suspended entropy production for **0.3 seconds**, as measured by thermodynamic analysis of the 1947 radio signal’s echo in 2083. This duration aligns with the entropy-suspension condition \(\nabla S = 0\), where dark energy’s negative pressure (\(p = -\rho c^2\)) prolongs the anomaly via:
 
 \[
 \Delta t = \frac{\hbar}{k_B T} e^{-\beta \nabla S}
 \]
 
-**Entropy Deficit**: The incident created a measurable deficit of \(2.3 \times 10^{-5} \, \text{J K}^{-1}\) over the loop’s core, as documented in /core_laws.md. This deficit corresponds to a fracture density \(\mathcal{F} = 0.84\), confirming the loop’s recurrence condition.
+The incident created a measurable deficit of \(2.3 \times 10^{-5} \, \text{J K}^{-1}\) over the loop’s core, as documented in /core_laws.md. This deficit corresponds to a fracture density \(\mathcal{F} = 0.84\), confirming the loop’s recurrence condition.
 
-**Example**: The Veyra Incident’s 0.3-second suspension allowed the past signal to propagate as a temporal echo, demonstrating how localized entropy anomalies can create observable time fractures. For further analysis of such deficits in cosmic events, see /anomalies.md (Kether-9 supernova).
+**Example**
+The Veyra Incident’s 0.3-second suspension allowed the past signal to propagate as a temporal echo, demonstrating how localized entropy anomalies can create observable time fractures. For further analysis of such deficits in cosmic events, see /anomalies.md (Kether-9 supernova).
+
+**Reconciliation with Existing Systems**
+The Veyra Incident exemplifies a **fracture**, an entropy-gradient suspension (\(\nabla S \approx 0\)) enabling temporal borrowing, as outlined in /cosmology.md. Such phenomena are governed by the Law of Echoing Causality, which unifies deterministic loops (\(\nabla S > 0\)) and fractures under the same framework. Celestial bodies like Saturn’s rings act as invariant reservoirs for entropy borrowing, with fractures controlled by anchor invariants (e.g., magnetar dipole moments).
+
+This resolution aligns the Veyra Incident with broader cosmological and physical principles, ensuring consistency across disciplines. For additional examples of dark energy-mediated fractures, see Gliese 581g’s altered planetary evolution.
 ## Historical Events Tied to Temporal Phenomena
 
 The tension between the cosmological view of fractures as latent collapse hazards and the anomalous perspective that treats them as controllable entropy‑borrowing mechanisms is resolved by recognizing that fractures exist on a spectrum of intensity and agency. At the smallest scale, an anomaly‑type fracture manifests as a localized entropy suspension that permits a brief causal echo, such as the Veyra Incident’s 0.3‑second zero‑entropy window; this event is governed by the Law of Echoing Causality and can be observed as a deterministic perturbation within a bounded spacetime region. At the planetary and stellar scale, the same phenomenon appears as a fracture that may trigger massive shifts — for example, the rapid oxygenation of Earth’s atmosphere — where the fracture’s influence can alter planetary evolution but remains confined to a defined region of spacetime. When fractures propagate unchecked across larger cosmological structures, the accumulated entropy deficit can exceed the system’s capacity to re‑absorb it, leading to the predicted temporal collapse described in the cosmology literature. However, this collapse is not an inevitable outcome of all fractures; it only occurs when the entropy budget is allowed to run unchecked, i.e., when no corrective phase shift or entropy budgeting is applied. By imposing a calibrated entropy budget — effectively “borrowing” future entropy only within a pre‑specified limit and repaying it through controlled phase shifts — the system can harness the creative potential of fractures without precipitating collapse. Thus, the contradictory statements are not mutually exclusive; rather, they describe complementary facets of the same underlying process: fractures are both potential sources of catastrophic divergence and, when deliberately managed, sources of constructive temporal manipulation. The reconciliation rests on a tiered framework that distinguishes scale, agency, and entropy accounting, allowing the same phenomenon to be interpreted as either a threat or a tool depending on the operational parameters applied. This unified view preserves the integrity of the Law of Echoing Causality while providing a coherent pathway for both safe observation of historical echoes and intentional use of fracture‑induced phase shifts for planetary or technological advancement.
