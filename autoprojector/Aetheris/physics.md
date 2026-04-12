@@ -1101,3 +1101,35 @@ Fractures suggest that time is not a linear progression but a dynamic, branching
 - **Technological Leaps**: Unexplained advancements in history may be linked to entropy borrowing from fractures.
 
 **See Also**: /anomalies.md (detailed catalog), *Law of Echoing Causality* (/physics.md).
+
+## Anomalies in Temporal Dynamics
+
+## Time-Related Phenomena in History: A Structured Catalog of Temporal Anomalies
+
+### 1. Defining the Scope
+Time-related phenomena are physical and cultural events where the normal flow of time is disrupted, reversed, or looped. These anomalies arise from extreme conditions—gravitational curvature, quantum superposition collapse, or dark-energy interactions—and manifest as measurable changes in history, climate, memory, and causality.
+
+### 2. Core Principles of the Framework
+- **Entropy-Suspension Loops**: Regions where entropy production halts (\(dS = 0\)), allowing past states to echo into the present.
+- **Quantum Branching**: Fractures where superposition collapses yield multiple histories, each with distinct continuations.
+- **Gravitational Resonance**: Loops synchronized by orbital mechanics, creating deterministic cycles over cosmological timescales.
+
+### 3. Historical Examples
+#### **The Veyra Incident (2083 CE)**
+A radio signal from 1947 was detected near Saturn’s rings, identical but delayed by a fracture. Thermodynamic analysis revealed entropy production dropped to zero for 0.3 seconds, allowing the signal’s past state to echo into the present.
+
+#### **The Collapse of Kether (Galaxy Core)**
+During a supernova, observers reported seeing "ghosts" of the pre-collapse star—its light arriving before its death. This violates standard causality but aligns with the Law of Echoing Causality, where fractures allow entropy to borrow from future states.
+
+#### **The Schrödinger Civilization**
+An ancient society existed in a quantum superposition until a fracture collapsed its timeline into two divergent histories. Historians now observe two versions of Schröd: one that perished in a war, another that thrived.
+
+### 4. Theoretical Implications
+Fractures suggest time is not linear but a dynamic, branching structure where past and future states can interact under specific conditions. This challenges traditional interpretations of causality but aligns with observations such as the Law of Echoing Causality, which posits that information can propagate backward under entropy suspension.
+
+### 5. Related Phenomena
+- **Temporal Collapse**: Unchecked fractures could lead to a merging of all possible timelines into one chaotic state.
+- **Artificial Stabilization**: Open questions remain about whether fractures can be artificially stabilized to prevent collapse.
+- **Technological Leaps**: Unexplained advancements in history may be linked to entropy borrowing from fractures.
+
+**See Also**: /anomalies.md (detailed catalog), *Law of Echoing Causality* (/physics.md).

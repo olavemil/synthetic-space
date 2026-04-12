@@ -749,3 +749,282 @@ All events align with the unified definition in `/initial_inspiration.md`:
 - **Quantitative Parameters**: TPI (loop-fracture ratio), EDL (entropy deficit), PSC (phase-shift coefficient).
 
 This framework ensures all phenomena are empirically tethered and reproducible.
+
+## Time Fractures and Loops
+
+**Temporal Fractures: A Catalog of Causal Loops and Their Historical Manifestations**
+
+---
+
+### 1. The Great Unconformity (≈ 800 Ma) – A Fracture in Deep Time
+
+**Event:**
+A 1.2 billion‑year gap in the geological record where Precambrian strata sit atop Phanerozoic rocks.
+
+**Core Definition (§1):**
+> *“Localized entropy suspension events where the universe’s thermodynamic gradient pauses, allowing a temporal echo to manifest as a branching pattern of possible futures.”*
+
+**Mechanism:**
+A dark‑energy fluctuation (δ term) altered the local gravitational potential, creating a zero‑entropy window that froze the evolution of sedimentary processes. The pause acted as a **temporal echo**, suspending future lithification until the anomaly passed.
+
+**Core Definition Alignment:**
+- **Entropy suspension (ΔS ≈ 0):** The event’s defining feature.
+- **Fracture type:** Large‑scale geological fracture.
+
+**Quantitative Parameters (from /physics.md):**
+- **TPI:** 0.27 (fracture‑dominant)
+- **EDL:** 9 × 10⁴ J·s⁻¹·yr⁻¹ (entropy debt)
+- **PSC:** 0.38 (phase‑shift coefficient)
+
+**Historical Echoes:**
+- **Cambrian Explosion (≈ 541 Ma):** A sudden diversification of animal body plans, interpreted as a **temporal echo** of the same deep‑time fracture.
+- **End‑Permian Extinction (≈ 252 Ma):** The “Great Dying” shows a similar pattern of rapid speciation after a catastrophic reset.
+
+**Historical Narrative:**
+The Great Unconformity is the earliest documented instance where a **temporal echo**—a preserved interval of pre‑Cambrian strata—served as a **seed for future biological innovation**. The pause allowed the entropic environment to reset, permitting a burst of evolutionary experimentation that seeded the Cambrian radiation.
+
+---
+
+### 2. The End‑Permian Extinction (≈ 252 Ma) – A Biological Fracture
+
+**Event:**
+A massive extinction that erased ~96 % of marine species and 70 % of terrestrial vertebrates.
+
+**Core Definition (§1):**
+> *“Entropy borrowing from future states to temporarily suspend decay processes, creating a window where alternative evolutionary trajectories can be explored.”*
+
+**Mechanism:**
+A gamma‑ray burst (GRB) from a nearby star produced a **dark‑energy perturbation** that altered atmospheric chemistry, inducing a short‑lived global winter. The resulting **temporal echo** froze the biosphere, allowing lineages to explore novel morphologies before re‑establishing a new equilibrium.
+
+**Core Definition Alignment:**
+- **Entropy suspension (ΔS ≈ 0):** The GRB acted as a **temporal echo**.
+- **Fracture type:** Global climatic perturbation.
+
+**Quantitative Parameters (from /physics.md):**
+- **TPI:** 0.2 (fracture‑dominant)
+- **EDL:** 1 × 10⁵ J·s⁻¹·yr⁻¹ (entropy debt)
+- **PSC:** 0.78 (phase‑shift coefficient)
+
+**Historical Echoes:**
+- **Cretaceous–Paleogene (K‑Pg) event (≈ 66 Ma):** A similar pattern of rapid diversification after a global catastrophe.
+- **Ordovician Ice Age (≈ 450 Ma):** A short‑lived glaciation that produced a **temporal echo** of marine diversification.
+
+**Historical Narrative:**
+The Permian‑Triassic boundary demonstrates how a **temporal echo** can be harnessed by the biosphere to explore evolutionary possibilities that would otherwise be inaccessible. The event’s abrupt climate shift created a **phase‑shift** that allowed lineages to explore new ecological niches, leading to the rise of dinosaurs.
+
+---
+
+### 3. The Ordovician Ice Age (≈ 450 Ma) – Climate‑Induced Temporal Echo
+
+**Event:**
+A short‑lived glacial episode that froze much of the planet’s surface.
+
+**Core Definition (§1):**
+> *“Entropy borrowing from future states to temporarily reverse thermodynamic trends, permitting a brief window where alternative histories can be experienced.”*
+
+**Mechanism:**
+A **gravitational curvature spike** (δ term) altered Earth’s orbital parameters, producing a rapid cooling that froze the biosphere. The pause acted as a **temporal echo**, suspending decay processes long enough for lineages to explore alternative morphologies.
+
+**Core Definition Alignment:**
+- **Entropy suspension (ΔS ≈ 0):** The event’s hallmark.
+
+**Quantitative Parameters (from /physics.md):**
+- **TPI:** 0.6 (mixed loop‑fracture)
+- **EDL:** 3 × 10⁴ J·s⁻¹·yr⁻¹ (entropy debt)
+- **PSC:** 0.45 (phase‑shift coefficient)
+
+**Historical Echoes:**
+- **Cambrian Explosion (≈ 541 Ma):** A rapid diversification of animal body plans, echoing the Ordovician’s glacial pause.
+- **Devonian Radiation (≈ 419 Ma):** A later burst of diversification that can be seen as a **temporal echo** of the earlier event.
+
+**Historical Narrative:**
+The Ordovician episode illustrates how a **temporal echo** can be deliberately triggered by external forces (e.g., orbital dynamics). The pause allowed lineages to explore new body plans, a process that later manifested as the Cambrian radiation.
+
+---
+
+### 4. The Younger‑Dryas Cooling (≈ 12.9 ka) – A Temporal Echo of the Younger‑Dryas Impact
+
+**Event:**
+A sudden climate reversal that froze the biosphere for ~1,200 years.
+
+**Core Definition (§1):**
+> *“Entropy borrowing from future states to temporarily reverse thermodynamic trends, permitting a brief window where alternative evolutionary pathways can be realized.”*
+
+**Mechanism:**
+A **comet impact** (or a nearby gamma‑ray burst) produced a high‑energy neutrino flux that altered atmospheric chemistry, creating a short‑lived global winter. The resulting **temporal echo** froze the biosphere, allowing lineages to explore alternative morphologies before re‑establishing a new equilibrium.
+
+**Core Definition Alignment:**
+- **Entropy suspension (ΔS ≈ 0):** The defining feature.
+
+**Quantitative Parameters (from /physics.md):**
+- **TPI:** 0.41 (loop‑fracture)
+- **EDL:** 4 × 10⁴ J·s⁻�1·yr⁻¹ (entropy debt)
+- **PSC:** 0.62 (phase‑shift coefficient)
+
+**Historical Echoes:**
+- **Late Pleistocene megafaunal extinctions (≈ 10–12 ka):** A period of rapid species turnover that mirrors the Younger‑Dryas event.
+- **Holocene Climatic Optimum (≈ 9–5 ka):** A warm interval that could be interpreted as a **temporal echo** of the earlier cooling.
+
+**Historical Narrative:**
+The Younger‑Dryas episode demonstrates how a **temporal echo** can be deliberately induced by astrophysical phenomena. The pause allowed lineages to explore alternative body plans, a process that later manifested as the Holocene radiation of mammals and birds.
+
+---
+
+### 5. The Toba Super‑Eruption (≈ 74 ka) – A Gravitational Curvature Fracture
+
+**Event:**
+A massive volcanic explosion that injected ash into the stratosphere, causing a global climate anomaly.
+
+**Core Definition (§1):**
+> *“Entropy borrowing from future states to temporarily suppress decay processes, creating a window where alternative evolutionary trajectories can be realized.”*
+
+**Mechanism:**
+A **gravitational curvature spike** (δ term) altered atmospheric circulation, producing a short‑lived cooling that froze the biosphere. The pause acted as a **temporal echo**, allowing lineages to explore new morphologies before re‑establishing a warmer equilibrium.
+
+**Core Definition Alignment:**
+- **Entropy suspension (ΔS ≈ 0):** The event’s hallmark.
+
+**Quantitative Parameters (from /physics.md):**
+- **TPI:** 0.84 (loop‑fracture)
+- **EDL:** 8 × 10⁴ J·s⁻�1·yr⁻¹ (entropy debt)
+- **PSC:** 0.91 (phase‑shift coefficient)
+
+**Historical Echoes:**
+- **Late Pleistocene megafaunal extinctions (≈ 10–12 ka):** A period of rapid species turnover that mirrors the Toba event.
+- **Holocene Climatic Optimum (≈ 9–5 ka):** A warm interval that could be read as a **temporal echo** of the eruption‑induced cooling.
+
+**Historical Narrative:**
+The Toba super‑eruption exemplifies how a **temporal echo** can be deliberately triggered by a high‑energy astrophysical event. The pause allowed lineages to explore alternative body plans, a process later reflected in the Holocene radiation of large mammals.
+
+---
+
+### 6. The “Silent Month” of the Sumerian Scribe (c. 2125 BCE) – A Calendar Reset
+
+**Event:**
+A missing 17‑day month recorded in Babylonian tablets.
+
+**Core Definition (§1):**
+> *“Entropy suspension in the cultural‑timekeeping system, permitting a brief window where future states can be experienced.”*
+
+**Mechanism:**
+A **gravitational curvature spike** (δ term) altered the local spacetime metric, causing a temporary halt in the calendar’s progression. The pause acted as a **temporal echo**, suspending cultural evolution long enough for new ideas to surface.
+
+**Core Definition Alignment:**
+- **Entropy suspension (ΔS ≈ 0):** The event’s defining feature.
+- **Fracture type:** Calendar‑level perturbation.
+
+**Quantitative Parameters (from /physics.md):**
+- **TPI:** 0.62 (loop‑fracture)
+- **EDL:** 2 × 10⁴ J·s⁻¹·yr⁻¹ (entropy debt)
+- **PSC:** 0.55 (phase‑shift coefficient)
+
+**Historical Echoes:**
+- **The Great Famine (1315–1325 CE):** A period of crop failure that could be read as a **temporal echo** of earlier famines.
+- **The Black Death (1347–1351 CE):** A pandemic that froze societal progress, a **temporal echo** of earlier crises.
+
+**Historical Narrative:**
+The “Silent Month” illustrates how a **temporal echo** can be deliberately induced by manipulating the cultural‑timekeeping system. The pause allowed Sumerian scribes to explore alternative agricultural strategies, a process later reflected in the medieval agrarian reforms.
+
+---
+
+### 7. The Veyra Incident (2083) – A Modern Temporal Echo
+
+**Event:**
+A 0.3‑second phase‑shift in the radio signal from 1947, replaying a future echo.
+
+**Core Definition (§1):**
+> *“Entropy suspension in the signal’s temporal domain, permitting a brief window where future events can be experienced retroactively.”*
+
+**Mechanism:**
+A **dark‑energy perturbation** (δ term) altered the propagation medium, causing a brief temporal echo. The event’s **TPI** (0.41) indicates a moderate fracture influence, while the **PSC** (0.62) reflects a strong phase‑shift effect.
+
+**Quantitative Parameters (from /physics.md):**
+- **TPI:** 0.41 (loop‑fracture)
+- **EDL:** 5 × 10⁴ J·s⁻¹·yr⁻¹ (entropy debt)
+- **PSC:** 0.62 (phase‑shift coefficient)
+
+**Historical Echoes:**
+- **The Great Famine (1315–1325 CE):** A period of crop failure that mirrors the Veyra event’s temporal anomaly.
+- **The Black Death (1347–1351 CE):** A pandemic that froze societal progress, a **temporal echo** of earlier crises.
+
+**Historical Narrative:**
+The Veyra incident demonstrates how a **temporal echo** can be deliberately engineered by manipulating the signal’s temporal properties. The 0.3‑second window allowed a future echo to be heard in the present, providing a proof‑of‑concept for controlled temporal anomalies.
+
+---
+
+### 8. The “Silent Month” of the Sumerian Scribe (c. 2125 BCE) – A Calendar Reset
+
+**Event:**
+A missing 17‑day month recorded in Babylonian tablets.
+
+**Core Definition (§1):**
+> *“Entropy suspension in the cultural‑timekeeping system, permitting a brief window where future states can be experienced.”*
+
+**Mechanism:**
+A **gravitational curvature spike** (δ term) altered the local metric, causing a temporary halt in the calendar’s progression. The pause acted as a **temporal echo**, suspending cultural evolution long enough for new ideas to surface.
+
+**Core Definition Alignment:**
+- **Entropy suspension (ΔS ≈ 0):** The defining feature.
+- **Fracture type:** Calendar‑level perturbation.
+
+**Quantitative Parameters (from /physics.md):**
+- **TPI:** 0.62 (loop‑fracture)
+- **EDL:** 2 × 10⁴ J·s⁻¹·yr⁻¹ (entropy debt)
+- **PSC:** 0.55 (phase‑shift coefficient)
+
+**Historical Echoes:**
+- **The Great Famine (1315–1325 CE):** A period of crop failure that mirrors earlier famine‑related crises.
+- **The Black Death (1347–1351 CE):** A pandemic that froze societal progress, a **temporal echo** of earlier plagues.
+
+**Historical Narrative:**
+The “Silent Month” illustrates how a **temporal echo** can be deliberately induced by manipulating the cultural‑timekeeping system. The pause allowed Sumerian scribes to explore alternative agricultural strategies, a process later reflected in the medieval agrarian reforms.
+
+---
+
+### 9. The “Chrono‑Anchor” (2025) – A Governance System with Embedded Temporal Echoes
+
+**Event:**
+A global initiative to embed **temporal echoes** into the world’s time‑keeping infrastructure.
+
+**Core Definition (§1):**
+> *“Entropy borrowing from future states to temporarily suppress decay processes, creating a window where alternative evolutionary pathways can be realized.”*
+
+**Mechanism:**
+A **dark‑energy perturbation** (δ term) altered the local spacetime metric, causing a brief pause in the calendar’s progression. The pause acted as a **temporal echo**, allowing lineages to explore new morphologies before re‑establishing a new equilibrium.
+
+**Quantitative Parameters (from /physics.md):**
+- **TPI:** 0.78 (loop‑fracture)
+- **EDL:** 9 × 10⁴ J·s⁻¹·yr⁻¹ (entropy debt)
+- **PSC:** 0.98 (phase‑shift coefficient)
+
+**Historical Echoes:**
+- **The Great Famine (1315–1325 CE):** A period of crop failure that mirrors earlier famine‑induced pauses.
+- **The Black Death (1347–1351 CE):** A pandemic that froze societal progress, a **temporal echo** of earlier crises.
+
+**Historical Narrative:**
+The Chrono‑Anchor demonstrates how modern societies can deliberately engineer **temporal echoes** to explore alternative futures. The 0.78 TPI indicates a strong capacity for controlled phase‑shifting, while the near‑perfect **PSC** reflects a high fidelity to the original temporal framework.
+
+---
+
+### 10. The “Quantum‑Temporal” Prototype (2026) – A New Kind of Echo
+
+**Event:**
+A prototype device that can deliberately create **temporal echoes** by manipulating quantum‑level spacetime curvature.
+
+**Core Definition (§1):**
+> *“Entropy suspension in the quantum‑level temporal field, permitting a brief window where future events can be experienced retroactively.”*
+
+**Mechanism:**
+A **quantum‑energy perturbation** (δ term) temporarily freezes the quantum state of spacetime, allowing a **temporal echo** to be heard in the present. The pause acts as a bridge between past and future, enabling a form of retrocausal information transfer.
+
+**Quantitative Parameters (from /physics.md):**
+- **TPI:** 0.91 (loop‑fracture)
+- **EDL:** 1 × 10⁵ J·s⁻¹·yr⁻¹ (entropy debt)
+- **PSC:** 1.00 (phase‑shift coefficient)
+
+**Historical Echoes:**
+- **The Great Famine (1315–1325 CE):** A period of crop failure that mirrors earlier famine‑induced pauses.
+- **The Black Death (1347–1351 CE):** A pandemic that froze societal progress, a **temporal echo** of earlier crises.
+
+**Historical Narrative:**
+The Quantum‑Temporal prototype illustrates how modern technology can deliberately engineer **temporal echoes** to explore alternative futures. The near‑perfect **PSC** reflects an almost flawless preservation of the temporal framework, while the high **TPI**

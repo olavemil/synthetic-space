@@ -913,3 +913,41 @@ Feel free to adapt these ideas for your campaign, and may your world be rich wit
 - **Loop Branching Amplification** – Observed increase in branching factor β = 0.07 per century as entropy gradients approach critical suspension thresholds, projecting a 38 % rise in parallel technological pathways by the 22nd century.
 
 - **Entropy‑Based Monetary Policy** – Central temporal banks adjust monetary base by ΔM = 2.9 × 10⁻³ bits s⁻¹ per unit of borrowed entropy, linking monetary expansion directly to entropy debt repayment rates.
+
+## Potential Time-Related Phenomena
+
+## Temporal Fracture Cascades and Historical Feedback Loops
+
+**Definition:** A cascade is a chain reaction wherein the activation of one fracture induces the destabilization of adjacent fractures, amplifying entropy debt and reshaping subsequent historical trajectories.
+
+**Quantitative Model:**
+- Cascade probability \( \mathcal{P}_{\text{casc}} \) is calculated as \( \mathcal{P}_{\text{casc}} = 1 - \exp(-\lambda \, \rho_{\Lambda} \, \Delta t) \), where \( \lambda = 4.2 \times 10^{-4} \, \text{s}^{-1} \), \( \rho_{\Lambda} \) is the local dark‑energy density, and \( \Delta t \) is the observed temporal lag in seconds.
+- Example: The 2147 CE Veyra collapse had \( \rho_{\Lambda}=2.3 \times 10^{-27}\,\text{kg m}^{-3} \) and \( \Delta t = 43200 \,\text{s} \), yielding \( \mathcal{P}_{\text{casc}} = 0.27 \).
+
+**Historical Impact:**
+- The cascade probability of 0.27 predicts a 27 % chance that any given fracture will trigger a secondary fracture within a 5‑light‑year radius.
+- In the timeline, the secondary fracture near PSR J1903+0327 (detected 1.3 ly from Veyra) contributed to the “Entropy Debt Spike” of \( \nabla S = -3.2 \times 10^{-9}\,\text{J K}^{-1} \) recorded in 2157 CE (see /timeline.md#Entropy Debt Spike).
+
+**Feedback Mechanism:**
+- Each activated fracture emits a **Fracture Echo Pulse (FEP)** with a characteristic frequency \( f_{\text{FEP}} = 7.83\,\text{Hz} \) and amplitude \( A_{\text{FEP}} = 4.2\,\mu\text{V} \).
+- Cumulative FEP exposure over a century alters the **Chrono‑Resonance Index (CRI)**: \( \text{CRI}_{n+1} = \text{CRI}_{n} + 0.018 \times \mathcal{P}_{\text{casc}} \).
+- Current CRI (year 2147) = 0.62; projected CRI for year 2200 = 0.81, indicating a high likelihood of loop reinforcement.
+
+**Loop Persistence Index (LPI):**
+- Measured as the ratio of observed loop cycles to expected cycles in a given sector: \( \text{LPI} = \frac{N_{\text{observed}}}{N_{\text{expected}}} \).
+- Empirical LPI for the Martian nuclear cycle (2750 CE) = 1.92, confirming a self‑reinforcing loop.
+- LPI growth rate \( \frac{d\text{LPI}}{dt} = 0.004 \,\text{yr}^{-1} \) when dark‑energy modulation \( \rho_{\Lambda} \) is maintained at \( 2.3 \times 10^{-27}\,\text{kg m}^{-3} \) (see /physics.md#Dark‑Energy Modulation).
+
+**Predicted Temporal Phenomena:**
+1. **Fracture‑Induced Urban Migration Wave:** Each detectable fracture generates a migration of \( 5.6 \times 10^{6} \) individuals with average displacement velocity \( v = 0.9 \,\text{km s}^{-1} \) and settlement latency \( \tau = 3.2 \,\text{h} \).
+2. **Entropy‑Debt Commodity Futures:** Trade units defined as 1 EU = \(1.0 \times 10^{-9}\,\text{J K}^{-1}\) of net entropy flux; price volatility \( \sigma = 0.12 \,\text{EU} \) over a 3‑year window, influencing investment in fracture‑stabilization projects.
+3. **Quantum Echo Advertising windows:** Optimal exposure occurs when decay exponent \( \alpha = 1.62 \) and signal‑to‑noise ratio ≥ 23 dB; conversion uplift = 23 % relative to baseline.
+
+**Open Questions for Research:**
+- Can a cascade be intentionally triggered to accelerate a desired technological branch, and what is the upper bound of \( \mathcal{P}_{\text{casc}} \) before systemic collapse?
+- Does sustained dark‑energy modulation at \( \rho_{\Lambda}=2.3 \times 10^{-27}\,\text{kg m}^{-3} \) permanently stabilize a fracture, or does it introduce a latent instability that manifests after \( 1.2 \times 10^{5} \) years?
+
+**References:**
+- See /timeline.md#The Veyra Incident (2147 CE) for the primary cascade event.
+- See /physics.md#Entropy Gradient Suspension for the underlying thermodynamic model.
+- See /physics.md#Dark‑Energy Modulation for the \( \rho_{\Lambda} \) parameterization used in cascade calculations.
