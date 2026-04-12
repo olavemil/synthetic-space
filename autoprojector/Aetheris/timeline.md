@@ -67,6 +67,19 @@ The tension between the cosmological view of fractures as latent collapse hazard
 
 ## Time-Related Phenomena in History
 
+Time-Related Phenomena in History
+
+The Veyra Incident (2147 CE) marked the first recorded temporal fracture, when a rogue chrono-engineer inadvertently severed a 12-hour window between two parallel timelines. The resulting temporal bleed caused the city of New Avalon to experience three days of déjà vu while the surrounding countryside aged only minutes. This anomaly forced historians to reconsider linear time as a fixed construct, leading to the formation of the Temporal Ethics Council.
+
+In 2301 CE, the Chrono-Fracture in the Gobi Desert revealed an ancient alien artifact emitting rhythmic pulses synchronized with Earth’s magnetic field. Carbon dating placed the object’s origin at 38,000 BCE, suggesting pre-human civilizations had mastered time manipulation. The discovery triggered a global scramble among superpowers to secure the site, accelerating the development of quantum cartography.
+
+The 2047 CE Temporal Plague emerged when a time-displaced pathogen infected individuals experiencing future memories. Victims relived their final moments repeatedly until death or enlightenment, depending on philosophical interpretation. The crisis spurred the creation of memory sanctuaries and influenced modern conceptions of mortality, with some cultures adopting cyclical time worship as a coping mechanism.
+
+In 2603 CE, the Chrono-Sundering fractured the Pacific Ocean into a lattice of floating islands. Navigation became impossible without temporal anchors, leading to the rise of sky-paths and a renaissance in airship engineering. The event also inspired new mythologies about the "Floating Continents," which appear and disappear according to lunar cycles.
+
+The 2789 CE Temporal Reclamation War saw nations deploying temporal artillery to alter battle outcomes. Weapons like the Paradox Cannon could erase entire divisions from history, but often backfired, creating alternate timelines where the victors vanished. The war ended with the Treaty of 2792, which mandated temporal neutrality zones and established the first intertemporal court.
+
+These events collectively demonstrate that time is not merely a backdrop but an active participant in shaping civilizations. Each fracture or loop redefined borders, altered alliances, and birthed new cultural narratives, proving that temporal phenomena are the true architects of history.
 ## Temporal Phenomena Expansion
 
 **Temporal Propagation Index (TPI)** – a quantitative metric defined as the ratio of documented loop cycles to fracture events per million‑year interval in a given domain (e.g., geological strata, historical records). A TPI > 1 indicates that deterministic cycles dominate, while TPI < 1 signals that disruptive ruptures are prevalent.
