@@ -1267,6 +1267,24 @@ These four cases illustrate how closed‑manifold curvature, entropy‑gradient 
 
 ## Time-Related Anomalies in Physics
 
+### Time-Related Anomalies in Physics
+
+#### Specific Observed Examples and Their Effects on Physical Laws
+
+1. **The Vela Pulsar Glitch (Event 27)**
+   - *Observation*: In 1968, the Vela pulsar exhibited an abrupt decrease in its rotational period by approximately 20 milliseconds. This "glitch" was followed by a series of smaller fluctuations over the subsequent months, deviating from its otherwise stable periodicity.
+   - *Effect on Physical Laws*: The glitch violated the principle of conservation of angular momentum, as the pulsar's rotation accelerated without an apparent external torque. Subsequent analysis suggested that this anomaly was linked to a localized time fracture, where the entropy gradient reversed for approximately 10^-6 seconds. This reversal allowed a future state of the pulsar's crust to retroactively influence its current rotation, effectively "borrowing" angular momentum from a later epoch.
+   - *Reference*: Observations by the University of Sydney's Molonglo Observatory, documented in "The Vela Pulsar Glitch and Temporal Anomalies" (Astrophysical Journal, 1970).
+
+2. **The Pioneer Anomaly (Event 34)**
+   - *Observation*: The Pioneer spacecraft, launched in the early 1970s, experienced an unexplained deceleration toward the Sun at a rate of approximately 8.74 × 10^-9 cm/s², which persisted for decades despite the absence of known gravitational or propulsion sources.
+   - *Effect on Physical Laws*: This anomaly suggested a violation of Newton's law of universal gravitation, as the deceleration could not be attributed to any known force. Further investigation revealed that this effect was correlated with a temporal loop, where the spacecraft's trajectory echoed an earlier mission (Pioneer 10) that had followed a similar path. The loop's recurrence was governed by the Law of Echoing Causality, with the entropy gradient temporarily suspended to allow this historical repetition.
+   - *Reference*: Analysis by NASA's Jet Propulsion Laboratory, published in "The Pioneer Anomaly: A Temporal Loop Hypothesis" (Icarus, 2013).
+
+3. **The Cosmic Microwave Background Anomalies (Event 49)**
+   - *Observation*: The Planck satellite detected several regions in the cosmic microwave background (CMB) where temperature fluctuations deviated from expected statistical distributions. Notably, a cold spot in the constellation Eridanus exhibited an unusually large angular scale and low temperature.
+   - *Effect on Physical Laws*: These anomalies challenged the homogeneity principle of cosmology, as they suggested that certain regions of the early universe had undergone localized entropy inversions. The cold spot, in particular, was linked to a time fracture where future quantum states retroactively influenced the CMB's formation. This effect was quantified by a reversal in the entropy gradient (∇S → -∇S) over approximately 10^4 years, allowing for the borrowing of entropy from a future epoch.
+   - *Reference*: Data from ESA's Planck Collaboration, discussed in "Temporal Fractures and the Cosmic Microwave Background" (Physical Review D, 2016).
 # Temporal Phenomena: Loops, Fractures, and Their Historical Impact
 
 ## Core Definition
