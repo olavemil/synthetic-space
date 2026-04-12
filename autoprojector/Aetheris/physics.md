@@ -1133,3 +1133,41 @@ Fractures suggest time is not linear but a dynamic, branching structure where pa
 - **Technological Leaps**: Unexplained advancements in history may be linked to entropy borrowing from fractures.
 
 **See Also**: /anomalies.md (detailed catalog), *Law of Echoing Causality* (/physics.md).
+
+## #Fracture Definition
+
+**Time Fracture Formalism (Reconciliation Annex)**
+
+1. **Entropic Suspension Condition**
+   A fracture initiates when the local entropy‑gradient vector satisfies \(\nabla S = 0\) over a spacetime region \(\mathcal{R}\). At these loci the second law is locally suspended, allowing a non‑zero solution to the time‑evolution operator that does not increase \(S\).
+
+2. **Fracture Duration Equation**
+   The temporal window \(\Delta t\) during which the suspension persists is
+   \[
+   \Delta t = \frac{\hbar}{k_{B} T}\,\exp\!\big[-\beta\,\nabla S\big],
+   \qquad \beta=\frac{1}{k_{B}T}.
+   \]
+   \(T\) is the effective temperature of the surrounding thermal bath, \(k_{B}\) Boltzmann’s constant, and \(\nabla S\) the magnitude of the entropy‑gradient evaluated on \(\mathcal{R}\). Dark‑energy pressure \(p=-\rho c^{2}\) lowers \(T\) by \(\delta T = -\lambda\,\rho_{\Lambda}\), thereby extending \(\Delta t\) by the factor \(\exp\!\big[\beta\lambda\rho_{\Lambda}\big]\).
+
+3. **Geometric Interpretation**
+   Within a closed spacetime manifold \(\mathcal{M}\) the curvature tensor \(R_{\mu\nu}\) imposes periodic boundary conditions that can generate closed timelike curves only when the Ricci scalar satisfies \(R = \Lambda g_{\mu\nu}\). Fractures arise where this scalar is locally perturbed by a non‑zero \(\nabla S\) term, creating a “chronological bandwidth” \(\mathcal{B}\) defined as
+   \[
+   \mathcal{B}= \int_{\mathcal{R}} \! d^{4}x\,\sqrt{-g}\,\exp\!\big[-\alpha\,\nabla S\big],
+   \]
+   with \(\alpha\) a coupling constant proportional to the local dark‑energy density.
+
+4. **Empirical Manifestations**
+   - **The 2198 Martian Dust‑Storm Echo** – a basin‑wide dust event recorded 1.2 kyr after its predicted onset; spectral analysis shows a localized \(\nabla S\) dip of \(2.3\times10^{-24}\,\text{J K}^{-1}\) coincident with a dark‑energy filament. Using the duration equation, the predicted \(\Delta t\) is \(0.47\) s, matching the observed echo latency.
+   - **The Silent Radiance of Kether‑9** – a supernova remnant whose pre‑explosion luminosity was observed 12 h before core collapse; fracture analysis yields \(\Delta t\approx 0.73\) s, consistent with \(\nabla S\approx 1.1\times10^{-23}\,\text{J K}^{-1}\) when dark‑energy pressure is inserted.
+   - **The Whispering Ice of Europa** – a 2034 cryovolcanic plume that released ancient brine pockets; isotopic dating shows a temporal offset of \(3.2\) days, explained by a fracture induced by Jupiter’s 3.55‑day tidal loop, where the computed \(\Delta t\) from the formula matches the measured offset within 0.02 s.
+
+5. **Branching Probability from Fracture Collapse**
+   When a quantum state collapses within a fracture, the probability of selecting a particular loop continuation \(i\) is
+   \[
+   \mathcal{P}_{i}= \frac{\exp\!\big[-\beta\,\nabla S_{i}\big]}
+   {\displaystyle\sum_{j}\exp\!\big[-\beta\,\nabla S_{j}\big]},
+   \]
+   linking the stochastic outcome directly to the suspended entropy.
+
+6. **Cosmological Integration**
+   In the early universe a high‑density dark‑energy epoch raises \(\rho_{\Lambda}\), reduces \(T\), and lengthens \(\Delta t\) across many fracture sites, producing a “chronological horizon” that encodes early‑universe fluctuations into today’s CMB anisotropies as tiny entropy‑gradient anomalies.
