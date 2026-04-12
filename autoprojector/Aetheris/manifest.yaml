@@ -37,6 +37,14 @@ project:
     role: active
     summary: Centralize mathematical formulations of core laws and link them to existing
       examples such as the Ord
+  - path: /time_phenomena.md
+    role: active
+    summary: Explore time-related phenomena such as loops, fractures, and their potential
+      impact on the world's h
+  - path: /time_anomalies.md
+    role: active
+    summary: Document specific time-related anomalies observed in the universe, including
+      their effects on physic
   participants:
   - id: primary
     type: agent

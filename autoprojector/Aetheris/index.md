@@ -20,4 +20,6 @@ title: "Aetheris"
 - [Manifest](manifest)
 - [Notes](notes)
 - [Physics](physics)
+- [Time Anomalies](time_anomalies)
+- [Time Phenomena](time_phenomena)
 - [Timeline](timeline)
