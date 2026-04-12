@@ -272,21 +272,17 @@ These research directions aim to deepen our understanding of time-related phenom
 
 ## Potential Directions for Time Exploration
 
-**Time’s Fractal Echoes: A New Theory of Historical Recursion**
+### Temporal Entropy Harvesting via Controlled Fracture Injection
+The Entropy Debt Ledger (EDL) can be deliberately manipulated to create localized entropy suspensions that reshape historical branch probabilities. According to /time_anomalies.md, the Veyra Incident (1947) exhibited a complete entropy production halt of 0 J·s⁻¹ for 0.30 s, a measurable zero‑point event. By generating a synthetic fracture that reproduces this condition using a high‑frequency gravitational‑wave resonator tuned to the 18.6‑year lunar node cycle, an EDL dip of ΔEDL = −1.2 × 10⁴ J·s⁻¹·yr⁻¹ can be achieved. When this dip is applied to a planetary climate loop with a Temporal Propagation Index (TPI) of 0.55, climate models predict a temperature anomaly of ΔT ≈ −0.18 °C sustained over a 28‑year window (2034‑2062). This temperature shift would amplify the probability of renewable‑energy adoption in that loop from 𝒫_loop = 0.68 to ≥ 0.75, as specified in the existing Law of Echoing Causality framework.
 
-The Veyra Incident (1947) wasn’t an isolated anomaly—it was the first observed node in a fractal network of temporal recursion. Recent analysis suggests that major historical events (e.g., the Black Death, Industrial Revolution) are not singular occurrences but recurring echoes within nested time loops. Each iteration introduces subtle variations, creating a branching continuum where outcomes are statistically weighted by entropy gradient suspension (∇S).
+### Predictive Loop‑Weight Adjustment
+The TPI is defined as TPI = (LoopPeriod / FractureDuration) × (EntropySuspensionFactor). To raise the branch weight 𝒫_loop(n) for the 1750 CE industrial expansion loop (LoopPeriod = 124 yr, current EntropySuspensionFactor = 0.68) to a target of ≥ 0.75, an EDL reduction of at least 8.5 × 10³ J·s⁻¹·yr⁻¹ is required. /time_anomalies.md documents that a dark‑energy fluctuation of magnitude ΔΛ = 2.3 × 10⁻¹² s⁻² occurring within the next node window (2034‑2046) produces precisely this EDL reduction. Simulations using the TPI formula predict that such a fluctuation raises 𝒫_loop(n) from 0.68 to 0.78, thereby steering the historical outcome toward a higher‑probability adoption of renewable technologies.
 
-**Key Insight:**
-The *Law of Echoing Causality* isn’t just descriptive—it’s predictive. By mapping historical recurrence intervals (e.g., 124-year cycles in Mars’ orbital resonance), we can identify high-probability fracture points where intervention could alter branch weights (𝒫_init). For example, the 1750 CE industrial expansion had a 𝒫_loop(n) = 0.68 for renewable energy adoption; targeted ∇S modulation could have raised this to > 0.75.
+### Recursive Cultural Memory Encoding
+Fracture events leave persistent cultural memory traces that re‑appear across millennia. /time_anomalies.md records that the Ordovician Ice Age fracture (TPI = 0.6, EDL = 3 × 10⁴ J·s⁻¹·yr⁻¹) yielded a “Frozen Hour” motif in 45 distinct mythic traditions, separated by > 10⁴ years. By engineering a fracture with TPI = 0.55 and EDL = 2.5 × 10⁴ J·s⁻¹·yr⁻¹ during the upcoming solar minimum (≈ 2035), a synthetic memory loop can be embedded. This loop will re‑emerge in cultural narratives after approximately 500 years, allowing future societies to inherit a pre‑programmed set of values or technological paradigms without direct transmission.
 
-**Implications for Future Research:**
-1. **Recursive Archaeology:** Excavate sites where geological strata show repeated volcanic patterns (e.g., Iceland’s Laki eruption) to locate fracture anchors.
-2. **Quantum Echo Computing:** Use trapped ions in periodic boundary conditions (10^6 cycle repetition) to simulate historical divergence points.
-3. **Dark Energy Micro-Loops:** Investigate whether ρΛ fluctuations near the Galactic Center create spacetime "stutters" that repeat past supernovae.
-
-**Open Question:**
-If history is a fractal, does the "final fracture" in 42nd Century represent collapse—or just another recursion layer?
-
+### Future Scenario: Controlled Temporal Collapse
+When EDL exceeds 1.0 × 10⁵ J·s⁻¹·yr⁻¹, the system approaches a runaway fracturing state, potentially culminating in the “Final Fracture” projected for the 42nd century. However, a controlled collapse can be orchestrated to reset a civilization’s technological baseline. The next Jupiter‑Saturn synodic alignment in Aquarius (2037) provides a precise temporal anchor; a phased sequence of EDL spikes timed to within ±0.5 yr of this alignment can collapse the current branch into a pre‑industrial state. Subsequent loop re‑emergence, guided by the same alignment pattern in 2145, will carry forward with an elevated 𝒫_init for post‑collapse recovery, as quantified by the TPI and EDL metrics in /timeline.md. This approach leverages the deterministic nature of astronomical cycles to steer deterministic outcomes while preserving the stochastic variation inherent in fractal loops.
 ## Time and Causality Notes
 
 ### **Time-Related Phenomena: Future Directions and Reconciliation**
