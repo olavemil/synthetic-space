@@ -52,7 +52,7 @@ Kepler-186f, an Earth-sized exoplanet in the habitable zone of its red dwarf sta
 
 ## Case Studies
 
-Time‑fracture events can rewrite a world’s evolutionary script by briefly borrowing entropy from future quantum states and imprinting those borrowed signatures onto the present. Below are four newly documented cases that illustrate how such anomalies reshape planetary histories, each anchored in a distinct astrophysical setting and each leaving a traceable legacy on climate, geology, or biology.
+## Case Studies
 
 **Case Study 1 – The Kessler Fracture of TRAPPIST‑1d**
 In 2142 the *James Webb* spectrograph recorded an unexpected surge of methane absorption bands in the atmosphere of the ultra‑cool dwarf planet TRAPPIST‑1d. Follow‑up monitoring showed the surge lasted precisely 18 days before the gas reverted to background levels. High‑resolution orbital tracking revealed that a swarm of kilometer‑scale planetesimals passed within 300 000 km of the world on a trajectory that intersected a tenuous magnetic filament threading the star’s heliosphere. The filament’s sudden reconnection created a localized entropy suspension — a fracture — that inverted the planet’s photochemical gradient for the duration of the encounter. During this window, methane produced by subsurface methanogenic microbes was amplified by a factor of twelve, temporarily outweighing carbon dioxide and reshaping the planet’s greenhouse balance.
@@ -60,6 +60,9 @@ In 2142 the *James Webb* spectrograph recorded an unexpected surge of methane ab
 *Historical context*: The event was first noted as an anomalous “brightening” in the planet’s near‑infrared spectrum, initially attributed to stellar variability. Subsequent statistical analysis linked the timing to the filament passage, confirming a fracture‑driven entropy inversion.
 
 *Implications*: The brief methane boom opened a narrow habitable niche for a secondary biosphere that would have otherwise been suppressed by the planet’s dominant carbon‑rich atmosphere. Modeling shows that the methane‑rich phase could have allowed chemosynthetic ecosystems to expand into the terminator region, potentially seeding a later oxygenic shift if the fracture had persisted. This demonstrates how a transient spacetime distortion can catalyze an alternative evolutionary trajectory on an otherwise inhospitable world.
+
+**TPI:** 0.31 — a low loop‑to‑fracture ratio indicating a fracture‑dominant event that briefly borrowed entropy from a future state.
+**EDL:** 9.5 × 10⁴ J·s⁻¹·yr⁻¹ — the entropy debt recorded during the 18‑day inversion, reflecting the magnitude of borrowed future entropy.
 
 ******
 
@@ -70,6 +73,9 @@ A pulsar timing array detected a systematic advance of 0.012 seconds in the pu
 
 *Implications*: The looping of temporal information extended beyond the pulsar, influencing the nearby protoplanetary disk of the companion star PSR J1903+0327 B. The echo induced a short‑lived surge in dust grain charging, which accelerated coagulation rates by an order of magnitude. Within the disk’s inner 5 AU, this accelerated planetesimal formation, leading to the early assembly of a rocky embryo that would later become a terrestrial planet orbiting at 0.12 AU. The episode illustrates how a fracture in a compact object can seed planetary system architecture by briefly re‑ordering the causal sequence of material aggregation.
 
+**TPI:** 0.45 — a moderate loop‑to‑fracture balance showing a mixed causal loop with a discernible fracture component.
+**EDL:** 6.8 × 10⁴ J·s⁻¹·yr⁻¹ — the entropy debt associated with the temporal echo, quantifying the energy borrowed from future spin‑down states.
+
 ******
 
 **Case Study 3 – The Neptune Cryo‑Fracture on Triton**
@@ -78,6 +84,9 @@ During the *Voyager 2* extended mission in 1989, a sudden brightening of Trito
 *Historical context*: The brightening was initially logged as an “anomalous albedo change” but was later correlated with precise ephemeris calculations that placed the black hole’s trajectory within 0.001 degrees of Triton’s sub‑solar point. Thermodynamic modeling confirmed that the fracture enabled a rapid transfer of latent heat, melting subsurface clathrate deposits and releasing a plume of nitrogen gas.
 
 *Implications*: The plume injected a pulse of nitrogen and methane into Triton’s thin atmosphere, raising surface pressure by 24 % for the duration of the event. This pressure spike triggered a cascade of atmospheric dynamics, including a temporary collapse of the polar stratospheric haze and a shift in the moon’s seasonal albedo pattern. Over geological timescales, repeated micro‑fracture cycles could sustain a quasi‑steady state of cryovolcanic activity, explaining the observed youthful surface features on Triton despite its advanced age. The case underscores how fractures near icy bodies can modulate atmospheric evolution and surface chemistry far beyond the immediate event horizon.
+
+**TPI:** 0.55 — a higher loop contribution reflecting a relatively stable climate loop tempered by a brief fracture‑induced entropy suspension.
+**EDL:** 4.2 × 10⁴ J·s⁻¹·yr⁻¹ — the entropy debt associated with the rapid heat transfer, representing the temporary borrowing of future thermal states.
 
 ******
 
@@ -88,8 +97,8 @@ On 1 September 2187, a space‑weather observatory at L1 detected an unprece
 
 *Implications*: The polarity reversal temporarily allowed Galactic Cosmic Rays (GCRs) to penetrate deeper into the lower atmosphere, increasing production of isotopes such as ^14C and ^10Be. Ice‑core analyses from the Greenland Ice Sheet show a corresponding spike in these isotopes dated to 2187 CE, matching the timing of the fracture event. This elevated isotopic production would have modestly increased radiative forcing, potentially contributing to a short‑term warming episode that could have affected regional climates. Moreover, the brief exposure to heightened GCR flux may have accelerated mutation rates in terrestrial biota, offering a plausible mechanism for rapid evolutionary jumps recorded in the fossil record during the Holocene. The event illustrates how heliospheric fractures can modulate planetary climate and biological evolution through a direct temporal link to future solar activity.
 
-These four cases together demonstrate that time fractures are not isolated curiosities but systemic agents that can alter atmospheric composition, reshape planetary geology, and even steer the course of biological evolution. By cataloguing the mechanisms — spacetime distortion near compact objects, resonant dust interactions, cryovolcanic heat pulses, and heliospheric magnetic reversals — we gain a framework for interpreting anomalous geological and atmospheric records, and for anticipating future fracturing episodes that may emerge as humanity expands its observational reach across the galaxy.
-
+**TPI:** 0.38 — a fracture‑heavy ratio indicating a dominant entropy‑borrowing event with limited deterministic looping.
+**EDL:** 1.5 × 10⁵ J·s⁻¹·yr⁻¹ — the entropy debt measured from the ionospheric temperature rise, quantifying the magnitude of entropy borrowed from the future solar cycle.
 ## Initial Conditions and Historical Case Studies
 
 ### Initial Conditions: The Origin of Temporal Loops and Fractures

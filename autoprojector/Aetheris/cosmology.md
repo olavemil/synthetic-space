@@ -425,3 +425,17 @@ Verification Criteria
 All recorded events VY‑2083, KTH‑9SN, and GL‑581g‑FR1 satisfy the defined thresholds within ±5 % tolerance, confirming their classification as temporal fissures under the present specification.
 
 This specification provides a concrete, verifiable framework for identifying, characterizing, and managing temporal fissures, integrating gravitational, quantum, and thermodynamic parameters into a unified predictive model.
+
+## 2.4 Mythic Fragments and Abstract Principles
+
+**Mythic Fragment – “The Song of the Unwoven Hour”**
+A primordial chant describing a moment when sound ceased to travel forward and instead rewound the breath of the world, allowing a forgotten melody to be heard again centuries later. *Worldbuilding influence*: Serves as a cultural motif that frames temporal loops as sacred cycles, inspiring rituals that seek to “re‑sing” lost eras and shaping societies that worship the echo of past events.
+
+**Abstract Principle – “Entropy Reversal as Sacred Equilibrium”**
+A governing axiom that treats the suspension of entropy increase as a divine balance point, where the cosmos pauses to exchange information with its own future. *Worldbuilding influence*: Guides the design of technological systems — such as entropy‑borrowing engines — and religious doctrines that view controlled entropy suspensions as pathways to prophetic insight or temporal blessing.
+
+**Philosophical Idea – “The Fractal Paradox of Immutable Futures”**
+The notion that every possible future is simultaneously fixed and fluid, existing as a tapestry of intertwined loops that can be accessed only through ruptures. *Worldbuilding influence*: Provides a narrative device for characters to navigate alternate outcomes, enabling plotlines where decisions are both predetermined and contingent on fracture events.
+
+**Mythic Fragment – “The Veiled Fracture of the First Dawn”**
+A legend recounting a crack in the newborn sky that split time into twin strands, one of which folded back upon itself, creating a mirror‑world that repeats but never repeats exactly. *Worldbuilding influence*: Introduces a cosmological origin story for multiple parallel timelines, influencing the cosmology’s spatial layout and the mythic status of anchor points (e.g., pulsars, dark‑matter filaments) that stabilize the fracture.
