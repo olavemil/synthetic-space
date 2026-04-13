@@ -168,6 +168,14 @@ project:
     role: active
     summary: An exploration of the physical mechanisms governing temporal echoes,
       including conditions where diso
+  - path: /cosmology/cosmology_mythic_fragments/cosmology_mythic_fragments_entropy_reversal/cosmology_mythic_fragments_entropy_reversal_core_phenomena.md
+    role: active
+    summary: Core phenomena related to entropy suspension, closed timelike curves
+      (CTCs), and quantum superpositi
+  - path: /cosmology/cosmology_mythic_fragments/cosmology_mythic_fragments_entropy_reversal/cosmology_mythic_fragments_entropy_reversal_open_questions.md
+    role: active
+    summary: Open questions regarding local curvature, quantum entanglement stabilization
+      of macroscopic loops, a
   participants:
   - id: primary
     type: agent
