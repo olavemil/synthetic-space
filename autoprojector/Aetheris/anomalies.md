@@ -308,3 +308,95 @@ Thus the expanded Technological Fracture section provides a unified framework, c
 3. **Branching Factor (Bᵢ)**: Quantifies divergence potential at fracture points.
 
 **Output**: A predictive model for historical fractures, with rules to identify loops and branches.
+
+## Physical Anomaly Observations and Mathematical Underpinnings
+
+**Anomaly Catalog – Physical Manifestations and Formalisms**
+
+**1. Aetheric‑Light Constancy**
+- *Observation*: All inertial measurements of light speed yield the same value **cₐ** irrespective of source or observer velocity.
+- *Mathematical Formulation*: \(v_{\text{light}} = c_{a}\,(1+\varepsilon)\) with \(|\varepsilon|<10^{-12}\).
+- *Link to Universal Constant*: \(c_{a}\) is the fundamental speed constant defined in **/core_laws.md**.
+
+**2. Entropy‑Suspension Fracture**
+- *Observation*: Localized regions where entropy production halts (\(dS=0\)) for a finite interval, producing temporal echoes.
+- *Mathematical Formulation*:
+  \[
+  \Delta t = \frac{\hbar}{k_{B}T}\,\exp\!\big[-\beta\,\nabla S\big],
+  \qquad \beta = \frac{1}{k_{B}T}.
+  \]
+- *Link to Universal Constants*: \(\hbar\) (reduced Planck constant) and \(k_{B}\) (Boltzmann constant) are listed in **/core_laws.md**.
+
+**3. Gravitational‑Resonance Loop**
+- *Observation*: Closed‑orbit systems lock into repeating period ratios (\(p\!:\!q\)) that persist across cosmological timescales.
+- *Mathematical Formulation*:
+  \[
+  \frac{\omega_{1}}{\omega_{2}} = \frac{p}{q},\qquad
+  \lambda = \frac{G M}{r^{3}} \;\;\text{(curvature eigenvalue)}.
+  \]
+- *Link to Universal Constants*: Gravitational constant \(G\) and curvature coupling \(\lambda\) are defined in **/core_laws.md**.
+
+**4. Quantum‑Echo Collapse**
+- *Observation*: At a fracture, a superposed quantum state collapses into multiple loop continuations, each weighted by its entropy‑suspension history.
+- *Mathematical Formulation*:
+  \[
+  \mathcal{B}_{i}= \frac{\exp\!\big[-\beta\,\nabla S_{i}\big]}
+  {\displaystyle\sum_{j}\exp\!\big[-\beta\,\nabla S_{j}\big]},
+  \]
+  where each branch \(i\) represents a distinct history.
+- *Link to Universal Constants*: \(\beta\) (inverse temperature) and \(\nabla S\) reference the entropy functional in **/core_laws.md**.
+
+**5. Dark‑Energy Pressure Modulation**
+- *Observation*: Regions of elevated dark‑energy density \(\rho_{\Lambda}\) lower the effective temperature, extending fracture duration.
+- *Mathematical Formulation*:
+  \[
+  T_{\text{eff}} = T\,(1-\lambda\,\rho_{\Lambda}),
+  \]
+  where \(\lambda\) is the dark‑energy coupling parameter.
+- *Link to Universal Constant*: \(\rho_{\Lambda}\) (dark‑energy energy density) appears in **/core_laws.md**.
+
+**6. Temporal‑Loop Recurrence**
+- *Observation*: Certain planetary and cultural cycles repeat with a scalable period \(\tau\).
+- *Mathematical Formulation*:
+  \[
+  \tau = \tau_{0}\,\exp\!\big[\gamma\,\Delta I\big],
+  \]
+  where \(\Delta I\) is the cumulative informational load of the loop and \(\gamma\) a coupling constant.
+- *Link to Universal Constant*: \(\tau_{0}\) (intrinsic loop period) is specified in **/core_laws.md**.
+
+**7. Causal‑Echo Propagation**
+- *Observation*: Signals can be received before their emission when a fracture-induced entropy suspension is traversed.
+- *Mathematical Formulation*:
+  \[
+  \Delta t_{\text{echo}} = -\frac{\hbar}{k_{B}T}\,\exp\!\big[-\beta\,\nabla S\big],
+  \]
+  with negative \(\Delta t_{\text{echo}}\) indicating backward-in-time reception.
+- *Link to Universal Constants*: \(\hbar\), \(k_{B}\), and \(\beta\) are defined in **/core_laws.md**.
+
+**8. Historical‑Entropy Debt**
+- *Observation*: Civilizations accumulate a debt when their actual entropy production falls short of the expected baseline over multiple cycles.
+- *Mathematical Formulation*:
+  \[
+  \text{HED}= \sum_{i=1}^{N}\big(S_{\text{exp},i}-S_{\text{actual},i}\big)\,\Delta t_{i},
+  \]
+  where \(S_{\text{exp},i}=k_{B}\ln W_{\text{max},i}\).
+- *Link to Universal Constants*: \(k_{B}\) and the entropy functional \(S\) are defined in **/core_laws.md**.
+
+**9. Phase‑Coherent Temporal Coupling**
+- *Observation*: Two loops become phase‑coherent when their entropy‑driven phase angles align within a narrow tolerance.
+- *Mathematical Formulation*:
+  \[
+  |\Phi_{i}-\Phi_{j}|<\epsilon_{\Phi}\quad(\epsilon_{\Phi}\sim10^{-3}\,\text{rad}),
+  \]
+  leading to constructive interference of echo amplitudes.
+- *Link to Universal Constants*: Phase tolerance \(\epsilon_{\Phi}\) is tied to the curvature‑eigenvalue scaling in **/core_laws.md**.
+
+**10. Loop‑Saturation Threshold**
+- *Observation*: When the realized entropy approaches its maximum permissible value, loop recurrence periods elongate.
+- *Mathematical Formulation*:
+  \[
+  \frac{S_{\text{actual}}}{S_{\text{max}}}\ge 1-\epsilon
+  \;\;\Longrightarrow\;\;
+  \Delta\tau = \frac{1}{\epsilon}\,\tau_{0}.
+  \]
+- *Link to Universal Constant*: \(S_{\text{max}}\) and \(\tau_{0}\) are specified constants in **/core_laws.md**.

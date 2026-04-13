@@ -1286,3 +1286,101 @@ Temporal Echo Reconciliation: Veyra Incident versus Kether‑9 Supernova
 ---
 
 *End of entry.*
+
+## Integrated Timeline of Cosmological and Historical Events
+
+**Unified Temporal Timeline: Cosmological Events, Historical Anomalies, and Their Mathematical Foundations**
+
+---
+
+### 1. Universal Constants (as defined in /core_laws.md)
+
+- **Aetheric Light speed (cₐ):** 2.998 × 10⁸ m · s⁻¹ – the invariant speed governing all spacetime propagations.
+- **Entropy Quantum (ℏₑ):** 1.38 × 10⁻²³ J · K⁻¹ – the smallest measurable unit of entropy relevant to temporal fractures.
+- **Critical Entropy Deficit (ΔS₍c₎):** 5 × 10⁻⁶ J · K⁻¹ – the threshold below which a fracture may suspend entropy production long enough to generate a detectable temporal echo.
+- **Phase‑Shift Scaling (β):** 1.6 × 10⁹ K⁻¹ – conversion factor linking entropy deficit to temporal displacement (Δt = ℏₑ · e^(−β ΔS)).
+
+These constants anchor every quantitative assessment of loops, fractures, and echoes.
+
+---
+
+### 2. Cosmological Fracture Catalog (TPI, EDL, PSC)
+
+| Event | Δt (observed) | ΔS (entropy deficit) | TPI | EDL (J·s⁻¹·yr⁻¹) | PSC (Δτ/ΔS) | Primary Trigger |
+|-------|---------------|----------------------|-----|-------------------|------------|-----------------|
+| **Kether‑9 Supernova** | 12 h proper‑time advance | 5.6 × 10⁻⁴ J · K⁻¹ | 0.84 | 1.2 × 10⁵ | 0.93 | Dark‑energy perturbation (δ = ‑0.03) |
+| **Ordovician Ice Age** | 1.8 Myr cooling plateau | 4.2 × 10⁻⁴ J · K⁻¹ | 0.60 | 3.0 × 10⁴ | 0.45 | Gravitational curvature spike (ΔΦ ≈ 2 × 10⁻⁹ m⁻¹) |
+| **Toba Super‑Eruption** | 3 yr global temperature dip | 7.8 × 10⁻⁴ J · K⁻¹ | 0.81 | 8.5 × 10⁴ | 0.91 | Gravitational curvature from volcanic plume (ΔΦ ≈ 5 × 10⁻⁹ m⁻¹) |
+| **Younger‑Dryas Cooling** | 1.2 kyr glacial interval | 3.5 × 10⁻⁴ J · K⁻¹ | 0.41 | 4.5 × 10⁴ | 0.62 | Asteroid impact (ΔE ≈ 1.3 × 10¹⁵ J) |
+| **Cambrian Explosion** | 20 Myr phenotypic burst | 2.0 × 10⁻⁴ J · K⁻¹ (effective) | 0.27 | 9.0 × 10⁴ | 0.38 | Entropy‑suspension fracture (ΔS ≈ 0) induced by early Earth magnetic reversal |
+
+*All TPI values fall below 1, indicating fracture‑dominant regimes; PSC ≥ 0.38 confirms phase‑shift relevance.*
+
+---
+
+### 3. Historical Anomalies (Temporal Echoes)
+
+| Anomaly | Date (observed) | Δt (temporal offset) | ΔS (entropy deficit) | TPI | EDL | PSC | Verified by |
+|---------|----------------|----------------------|----------------------|-----|------|-----|--------------|
+| **Veyra Incident** | 1947 CE signal received 2083 CE | 0.30 s | 2.3 × 10⁻⁵ J · K⁻¹ | 0.41 | 5.0 × 10⁴ | 0.62 | /verification.md (TPI, EDL, PSC) |
+| **Silent Month (Sumerian Scribe)** | 2125 BCE missing 17‑day month | 17 days calendar freeze | 1.1 × 10⁻⁵ J · K⁻¹ | 0.62 | 2.0 × 10⁴ | 0.55 | Chrono‑Archive entry CCA‑07 |
+| **Great Famine (Ireland)** | 1845‑1852 | 3 yr agricultural collapse | 3.0 × 10⁻⁴ J · K⁻¹ | 0.55 | 6.0 × 10⁴ | 0.71 | Solar‑minimum proxy data |
+| **Gliese 581g Rejuvenation** | 2347 CE liquid‑water window | 18 days surface thaw | 4.5 × 10⁻⁴ J · K⁻¹ | 0.78 | 1.1 × 10⁵ | 0.96 | Ice‑core isotopic shift |
+| **1918 Influenza Pandemic** | 1918 CE | 0.7 yr spread acceleration | 6.2 × 10⁻⁴ J · K⁻¹ | 0.22 | 1.5 × 10⁵ | 0.84 | Graviton‑flux spikes in polar stations |
+| **1929 Wall Street “Extra‑Hour”** | 1929 CE 60‑min market bubble | 3 600 s | 1.8 × 10⁻⁵ J · K⁻¹ | 0.34 | 4.0 × 10⁴ | 0.58 | High‑frequency graviton emission model |
+
+*Each entry satisfies the fracture stability equation Δt = ℏₑ · e^(−β ΔS) with β calibrated to the measured ΔS.*
+
+---
+
+### 4. Mapping to Loops and Fractals (Law of Echoing Causality)
+
+- **Loop Dominant (TPI < 0.5):** Great Unconformity (TPI = 0.27), End‑Permian Extinction (TPI = 0.20).
+- **Balanced Loop‑Fracture (0.5 ≤ TPI ≤ 0.7):** Ordovician Ice Age (TPI = 0.60), Cambrian Explosion (TPI = 0.27 → loop‑seed but fracture‑driven), Younger‑Dryas (TPI = 0.41).
+- **Fracture Dominant (TPI > 0.7):** Kether‑9 Supernova (TPI = 0.84), Veyra Incident (TPI = 0.41 but PSC = 0.62 elevates effective influence), Gliese 581g Rejuvenation (TPI = 0.78).
+
+The **Law of Echoing Causality** (LEC) predicts that any event with TPI > 0.7 will introduce a *new* branch with high‑confidence causal propagation, while TPI < 0.5 events primarily *reset* existing loops without spawning new branches.
+
+---
+
+### 5. Quantitative Integration with Historical Narrative
+
+1. **Kether‑9 Supernova → 2045 CE Photon Arrival**
+   - ΔS = 5.6 × 10⁻⁴ J · K⁻¹ → PSC ≈ 0.93 → near‑unity phase shift → re‑calibrated stellar‑evolution models, accelerating high‑energy astrophysics by ~25 years.
+   - EDL = 1.2 × 10⁵ J·s⁻¹·yr⁻¹ places the event just below the collapse threshold (1.0 × 10⁵ J·s⁻¹·yr⁻¹), classifying it as a *controlled fracture* that can be safely archived in the Entropy Debt Ledger.
+
+2. **Veyra Incident → 1947 CE Radio Signal Echo**
+   - ΔS = 2.3 × 10⁻⁵ J · K⁻¹ → PSC = 0.62 → moderate phase shift → retro‑active constraint on 1940s error‑correction protocols, later formalized as the **Quantum Leap** policy cycle (2157 CE collapse).
+   - EDL = 5.0 × 10⁴ J·s⁻¹·yr⁻¹ keeps the fracture within safe limits; the collapse occurred only when a secondary fracture pushed EDL beyond 1.0 × 10⁵ J·s⁻¹·yr⁻¹, illustrating the fragility of high‑PSC loops.
+
+3. **Ordovician Ice Age → 450 Ma Glacial Episode**
+   - ΔS = 4.2 × 10⁻⁴ J · K⁻¹ → PSC ≈ 0.45 → moderate phase shift → triggered marine radiation, later echoed in Devonian and Carboniferous bursts.
+   - TPI = 0.60 places it in the balanced regime, allowing the loop of marine diversification to continue with fracture‑induced variation.
+
+4. **Veyra‑Scale Fractional Entropy Borrowing**
+   - Using the universal scaling ℏₑ · e^(−β ΔS), the 0.30 s temporal window corresponds to a borrowing of ~1.2 × 10⁻⁶ J of future entropy, precisely the amount needed to offset the EDL of the 2157 CE collapse.
+   - This demonstrates a closed entropy loop: the 1947 fracture *borrows* entropy, the 2157 collapse *repays* it, preserving global thermodynamic balance.
+
+---
+
+### 6. Verification Standard (per /​verification.md)
+
+Any claimed temporal phenomenon must be accompanied by:
+
+1. **TPI value** (computed from observed Δt and ΔS).
+2. **EDL entry** (ΔS · Δt logged in the Entropy Debt Ledger).
+3. **PSC measurement** (Δτ / ΔS derived from calibrated spacetime imaging).
+
+All three metrics must be reported with uncertainties < 5 % to qualify as a verified temporal echo.
+
+---
+
+### 7. Predictive Outlook (2100 – 2500 CE)
+
+- **Projected High‑TPI Event:** A dark‑energy dip of δ ≈ ‑0.04 expected in the next 150 years could raise TPI to ≈ 0.95, potentially generating a *global entropy‑suspension fracture* with EDL > 1.2 × 10⁵ J·s⁻¹·yr⁻¹.
+- **Mitigation Protocol:** Deploy *Phase‑Shift Stabilizers* (PSS) calibrated to β = 1.6 × 10⁹ K⁻¹ to clamp ΔS ≥ ΔS₍c₎, thereby preventing collapse.
+
+---
+
+**Synthesis:**
+The universal constants cₐ, ℏₑ, ΔS₍c₎, and β provide a quantitative backbone for distinguishing *loops* from *fractures*. By tabulating each cosmological and historical event in terms of TPI, EDL, and PSC, we obtain a **fractally recursive map** where deterministic cycles are repeatedly perturbed by entropy‑borrowing fractures, each leaving a measurable temporal echo. This map obeys the Law of Echoing Causality and remains anchored to the universal constants of /core_laws.md, ensuring internal consistency across all scales.
