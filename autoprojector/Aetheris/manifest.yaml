@@ -45,6 +45,26 @@ project:
     role: active
     summary: Document specific time-related anomalies observed in the universe, including
       their effects on physic
+  - path: /time_loops.md
+    role: active
+    summary: Content related to time loops, including their mechanisms and historical
+      examples.
+  - path: /time_fractures.md
+    role: active
+    summary: Content related to time fractures, including their mechanisms and historical
+      examples.
+  - path: /temporal_echoes.md
+    role: active
+    summary: Content related to temporal echoes, including their mechanisms and historical
+      examples.
+  - path: /historical_anomalies.md
+    role: active
+    summary: Content related to historical anomalies, including their mechanisms and
+      impacts.
+  - path: /cosmological_events.md
+    role: active
+    summary: Content related to cosmological events, including their mechanisms and
+      impacts.
   participants:
   - id: primary
     type: agent
