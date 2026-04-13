@@ -69,3 +69,51 @@ The long-term implications of astral drift are still unfolding, but several key 
    - Development of echo-based governance models
 
 The most significant legacy may be the fundamental rethinking of time itself - no longer a linear progression but an intricate web of interconnected moments.
+
+## Core Principles
+
+- **Entropy Reversal:** When ∇S approaches zero, the normal thermodynamic arrow is momentarily inverted.
+- **Closed Timelike Curves (CTCs):** The loop structure permits information to reappear in the past, but only if the local physics permits.
+- **Quantum Superposition:** Temporal echoes arise from quantum fields that temporarily occupy both past and future states.
+
+## Observable Signatures
+
+| Phenomenon | Detectable By | Approx. Duration |
+|------------|----------------|-------------------|
+| **Redshift Anomalies** | Gravitational wave interferometers | 3.2 s |
+| **Ionization Pulses** | Spectrographic arrays | 0.8 s |
+| **Magnetic Flux Variations** | Gridded induction sensors | 1.5 s |
+
+## Underlying Physics
+
+The **Echo Resonance Condition** is defined as:
+
+\[
+\nabla S = \mathbf{0} \quad \text{for} \quad \tau = \frac{\hbar}{k_B \, \Delta S}
+\]
+
+where \( \Delta S \) is the entropy change associated with the echo event. When this condition holds, the system temporarily reverts to a state where past events can influence present observations.
+
+### Example: Kether‑9 Supernova Echo
+
+During the 2047 Kether‑9 event, a burst of neutrinos was detected by the Mars probe *Ares‑7* at 14:32 UTC. The signal exhibited a **phase shift** of 0.8 Hz, matching the predicted echo frequency. The event’s entropy inversion lasted precisely 3.2 seconds before normal causality resumed, allowing the team to reconstruct a fragment of the supernova’s pre-collapse spectrum.
+
+## Applications
+
+- **Temporal Cartography:** Mapping regions where echoes occur to predict future temporal disturbances.
+- **Chrono‑Navigation:** Using echo signatures as beacons for faster‑than‑light travel.
+- **Cultural Rituals:** Communities develop ceremonies around the appearance of echoes, such as the *Song of Unwoven Hour*.
+
+## Limitations
+
+- **Stability:** Echoes are inherently unstable; they decay rapidly unless stabilized by exotic matter fields.
+- **Ethical Concerns:** Manipulating echoes may inadvertently alter historical outcomes, raising questions about causality and responsibility.
+
+---
+
+### References
+
+- Kether‑9 Supernova Event Log, 2047
+- Mars Climate Orbiter Temporal Echo Dataset, 2048
+
+---
