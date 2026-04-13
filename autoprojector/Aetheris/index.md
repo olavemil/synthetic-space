@@ -21,6 +21,5 @@ title: "Aetheris"
 - [Anomalies](anomalies)
 - [Cosmology](cosmology)
 - [Notes](notes)
-- [Physics](physics)
 - [Time Fractures](time_fractures)
 - [Timeline](timeline)

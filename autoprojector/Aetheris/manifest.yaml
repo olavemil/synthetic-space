@@ -17,9 +17,6 @@ project:
     role: active
     summary: Core principles of the universe, including time, space, and fundamental
       forces.
-  - path: /physics.md
-    role: active
-    summary: Laws of physics governing the world, including anomalies.
   - path: /timeline.md
     role: active
     summary: Major historical events and eras of the world.
@@ -81,18 +78,6 @@ project:
     role: active
     summary: 'Explains time fractures, their triggers (e.g., gravitational curvature),
       mechanisms, and effects on '
-  - path: /celestial_bodies/celestial_bodies_case_studies.md
-    role: active
-    summary: Consolidated from /cosmology/cosmology_primary_celestial_bodies.md, /celestial_bodies/celestial_bodies_temporal_influences.md,
-      /celestial_bodies/celestial_bodies_orbital_dynamics.md, /celestial_bodies/celestial_bodies_time_fractures_math.md,
-      /physics/physics_historical_anomalies.md, /cosmological_events.md, /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_quantum_superposition.md,
-      /initial_inspiration.md, /temporal_echoes.md, /celestial_bodies.md, /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_veyra_incident.md,
-      /celestial_bodies/celestial_bodies_time_fractures.md, /core_laws.md, /celestial_bodies/celestial_bodies_time_fractures_influence.md,
-      /cosmology/cosmology_temporal_loops.md, /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_dark_matter_fractures.md,
-      /notes/notes_temporal_echoes.md, /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_kether9_ghost_light.md,
-      /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_quantitative_modeling.md,
-      /time_phenomena.md, /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_entropy_suspension.md,
-      /cosmology/cosmology_initial_conditions.md, /physics/physics_temporal_echoes.md
   - path: /celestial_bodies/celestial_bodies_quantum_superposition.md
     role: active
     summary: Explores quantum superposition in curved spacetime and its role in creating
@@ -129,9 +114,6 @@ project:
     role: active
     summary: 'Case study of the Kether-9 supernova and its ''ghost'' light phenomenon,
       exploring temporal fractures '
-  - path: /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_veyra_incident.md
-    role: active
-    summary: Consolidated from /time_loops.md
   - path: /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_dark_matter_fractures.md
     role: active
     summary: Case study of dark matter-induced temporal anomalies near Mars, exploring
@@ -162,16 +144,13 @@ project:
       habitability and atmosphe
   - path: /physics/physics_historical_anomalies.md
     role: active
-    summary: Consolidated from /physics/physics_temporal_echoes.md, /physics/physics_temporal_fractures.md
+    summary: Consolidated from /celestial_bodies/celestial_bodies_case_studies.md
   - path: /physics/physics_entropy_borrowing.md
     role: active
     summary: 'Entropy Borrowing: The Physics of Reversed Entropy'
-  - path: /physics/physics_quantum_mechanics.md
-    role: active
-    summary: Quantum Mechanics and Temporal Entanglement
   - path: /physics/physics_time_travel_paradoxes.md
     role: active
-    summary: 'Time Travel Paradoxes: Resolving Logical Inconsistencies'
+    summary: Consolidated from /physics.md
   - path: /physics/physics_chronology_theory.md
     role: active
     summary: 'Chronology Theory: Theoretical Foundations'
@@ -181,8 +160,8 @@ project:
       and lullabies to reenact a cosmi'
   - path: /cosmology/cosmology_mythic_fragments/cosmology_mythic_fragments_entropy_reversal.md
     role: active
-    summary: 'Entropy Reversal as Sacred Equilibrium: The cosmic law of exchanging
-      breaths with the future and its'
+    summary: Consolidated from /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_veyra_incident.md,
+      /physics/physics_quantum_mechanics.md
   - path: /cosmology/cosmology_mythic_fragments/cosmology_mythic_fragments_veiled_fracture.md
     role: active
     summary: 'The Veiled Fracture of the First Dawn: A mythic event where time splits

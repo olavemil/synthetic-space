@@ -21,4 +21,3 @@ title: "Celestial Bodies Case Studies"
 - [Celestial Bodies Case Studies Observational Signatures](celestial_bodies_case_studies_observational_signatures)
 - [Celestial Bodies Case Studies Orbital Decay](celestial_bodies_case_studies_orbital_decay)
 - [Celestial Bodies Case Studies Primary Stars](celestial_bodies_case_studies_primary_stars)
-- [Celestial Bodies Case Studies Veyra Incident](celestial_bodies_case_studies_veyra_incident)

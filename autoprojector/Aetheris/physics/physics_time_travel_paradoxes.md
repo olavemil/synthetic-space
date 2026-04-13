@@ -1,4 +1,3 @@
-```markdown
 # Time Travel Paradoxes: Resolving Logical Inconsistencies
 
 ## Overview of Temporal Loops and Fractures
@@ -60,6 +59,30 @@ Temporal loops are self-reinforcing cycles where events repeat with controlled v
 - **Paradox:** Civilizational collapses repeat with minor variations.
 - **Resolution:** The loop's causal anchors ensure that fractures introduce controlled divergence (e.g., different barbarian migrations).
 
+## Additional Physics Concepts
+
+### Temporal Echoes
+Mechanisms and historical examples of entropy-suspended causal signals that propagate backward through time, often observed as anomalous repetitions in archival data.
+
+### Temporal Fractures
+Spacetime ruptures enabling closed timelike curves and retrocausal effects. These fractures are typically stabilized by quantum resonance fields to prevent paradoxical divergence.
+
+### Historical Anomalies
+Cases of inverted or suspended temporal arrows, where events appear to occur out of chronological order due to localized entropy borrowing.
+
+### Entropy Borrowing
+The temporary restoration of lost entropy from future states, often observed in micro-black hole interactions or quantum resonance fields.
+
+### Quantum Mechanics
+Temporal entanglement and superposition across time, where particles exhibit non-local correlations with their past or future selves.
+
+### Chronology Theory
+Theoretical foundations of temporal ordering and closed timelike curves (CTCs), including the mathematical framework for predicting paradox resolution.
+
 ## Conclusion
 Time travel paradoxes are resolved through the interplay of temporal loops, fractures, and entropic feedback. By adhering to these mechanisms, inconsistencies are avoided while allowing for controlled variations in history.
-```
+
+---
+
+**Project: Aetheris**
+*Goal:* Create a fully autonomous, self-consistent world from scratch with no predefined constraints.

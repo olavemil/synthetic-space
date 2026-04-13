@@ -1,5 +1,3 @@
-**/physics/physics_self_reflexive_merge.md**
-
 # Self-Reflexive Causal Merger
 
 ## PRIMARY (absorbed) – This file survives
@@ -90,38 +88,4 @@ The **Self-Reflexive Merger** treats the primary file as immutable and non-negot
 ## Measurement Protocols
 
 ### **Echo Detection**
-1. **Spectral Analysis:** Identify unique absorption features (e.g., K2-18b at 1.4 µm)
-2. **Geological Records:** Detect abrupt isotopic excursions in polar ice cores
-3. **Celestial Phenomena:** Observe UV auroral surges or submillimeter synchrotron emission
-
-### **Stability Criteria**
-- **Critical gradient inversion magnitude** (F ≥ 0.71)
-- **Suspension duration τ:** Must satisfy τ = ħ/(k_B ΔS)
-- **Loop duration L:** Must be ≥ 1.0 × 10⁻¹² s
-
----
-
-## Theoretical Framework Summary
-- **Entropy reversal** occurs when ∇S = 0, permitting retroactive observation.
-- **Fracture duration** is defined by τ = ħ/(k_B ΔS).
-- **Stable loop periods** are defined by L = nτ (n ∈ ℕ).
-- **Entropy constraint** requires ΔS_loop < 10⁻²³ J/K.
-
----
-
-## Project: Aetheris
-
-**Objective:**
-Create a fully autonomous, self-consistent world from scratch with no predefined rules.
-
-**Approach:**
-- Begin with the PRIMARY file as the immutable base.
-- Integrate unique anomalies from ABSORBED files **without weakening** any content.
-- Add new sections only when necessary to preserve the integrity of the original.
-
-**Outcome:**
-A world where **causality is preserved**, and **temporal echoes** are fully understood and utilized.
-
----
-
-**/physics/physics_self_reflexive_merge.md**
+1. **
