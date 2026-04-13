@@ -1380,3 +1380,56 @@ linking gravitational influences to the likelihood of a shared resonance.
 In practice, these principles suggest a world where technological breakthroughs are not random but arise at the intersection of a loop’s deterministic recurrence and a fracture’s entropy‑suspended echo. The 2024 Martian dust‑storm echo, whose entropy dip of \(2.3\times10^{-24}\) J K⁻¹ produced a 0.47‑second suspension, is a concrete instance of a fracture that will re‑appear in the next Martian dust cycle, offering a template for future energy‑harvesting strategies that exploit the borrowed entropy. By mapping the curvature‑entropy landscape of the planet, one can anticipate where and when such borrowing will occur, allowing societies to align their innovations with the natural temporal architecture of the system.
 
 Thus, the fabric of history is woven from repeating loops that lock societies into predictable cycles of growth and decline, and from fractures that inject novel possibilities by momentarily suspending entropy. Understanding the mathematical conditions that generate each — closed manifolds for loops, vanishing entropy gradients for fractures — provides a concrete roadmap for shaping both the near‑term events and the deep‑time trajectories of civilizations, ensuring that every breakthrough, every cultural shift, can be traced back to a specific curvature‑driven loop or a precisely timed entropy‑suspension event. This unified view not only explains the anomalies catalogued in /anomalies.md but also equips creators with a quantitative framework to design future scenarios that are internally consistent with the governing laws of gravitation, thermodynamics, quantum mechanics, and dark energy.
+
+## Entropy Suspension and Its Implications on Time Phenomena
+
+## Temporal Loops: Mathematical Framework
+
+### Core Definition
+A temporal loop is a closed timelike trajectory that returns to an earlier state after proper duration τ, satisfying the curvature condition:
+
+\[
+R_{\mu\nu} = \Lambda g_{\mu\nu}
+\]
+
+on its support.
+
+### Quantitative Parameters
+1. **Loop Period**:
+   \[
+   \tau = 2\pi/\omega, \quad \text{where } \omega^2 = GM/a^3
+   \]
+   (a: semimajor axis)
+
+2. **Stability Threshold**:
+   \[
+   Q = \frac{R_{\mu\nu}R^{\mu\nu}}{R^2} < 1.2\times10^{-8}
+   \]
+
+3. **Entropy-Suspension Duration**:
+   \[
+   \Delta t = \frac{\hbar}{k_B T} e^{-\beta\nabla S}(1+\gamma\rho_{\Lambda})
+   \]
+   (\(\beta = 1/k_B T\), \(\gamma=2.3\times10^{-4}\) m³/kg²)
+
+### Historical Examples
+- **Pluto-Charon 124-year resonance loop**: Predicts periodic comet influx.
+- **Bronze Age metallurgical cycle (2300 years)**: Aligns with lunar tidal forcing.
+- **Vedic cultural loop (3200 years)**: Linked to dark-energy-enhanced curvature.
+
+### Future Forecasting
+- **Temporal Resonance Index (TRI)**:
+  \[
+  TRI = \frac{\tau}{\tau_{ref}} \cdot Q/Q_{ref} (1+\delta\rho_{\Lambda})
+  \]
+  (\(\tau_{ref}=10^3\) years, \(Q_{ref}=1\times10^{-8}\), \(\delta=3\times10^{-4}\) kg²/m⁶)
+
+  Values >1.05 correlate with cultural upheavals (r=0.78) within 50 years.
+
+### Validation Cases
+- **2134 Titan atmospheric reversal**: ∇S dip of 5×10⁻²³ J/K → Δt=3.7s.
+- **2347 Gliese 581 fracture**: Dark matter filament triggered methane-based life resurrection.
+
+**See Also**:
+- /anomalies.md (detailed catalog)
+- *Law of Echoing Causality* (/physics.md)
