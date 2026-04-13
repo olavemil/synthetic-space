@@ -113,6 +113,30 @@ project:
     role: active
     summary: Presents mythic fragments and abstract principles that influence worldbuilding,
       such as 'The Song of
+  - path: /celestial_bodies/celestial_bodies_temporal_influences.md
+    role: active
+    summary: Covers temporal influences on celestial bodies, including stellar loops
+      and time fractures.
+  - path: /celestial_bodies/celestial_bodies_time_fractures_influence.md
+    role: active
+    summary: Explores the influence of time fractures on celestial bodies, including
+      case studies and mechanisms.
+  - path: /celestial_bodies/celestial_bodies_planetary_phase_shifts.md
+    role: active
+    summary: Details case studies of planetary phase shifts induced by time fractures
+      and spacetime distortions.
+  - path: /celestial_bodies/celestial_bodies_initial_conditions.md
+    role: active
+    summary: Examines the initial conditions and historical case studies of temporal
+      loops and fractures in celes
+  - path: /celestial_bodies/celestial_bodies_geological_case_studies.md
+    role: active
+    summary: Presents geological case studies of time fractures and their impact on
+      planetary evolution.
+  - path: /celestial_bodies/celestial_bodies_time_fractures_math.md
+    role: active
+    summary: Provides mathematical grounding for time fractures in celestial bodies,
+      including spacetime curvatur
   participants:
   - id: primary
     type: agent
