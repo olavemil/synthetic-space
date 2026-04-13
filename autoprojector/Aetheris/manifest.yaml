@@ -177,6 +177,14 @@ project:
     role: active
     summary: The dynamics of the Kether-9 supernova shockwave interaction with NGC
       6946-23, including phases of c
+  - path: /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_kether9_supernova/celestial_bodies_case_studies_kether9_supernova_shockwave_interaction/celestial_bodies_case_studies_kether9_supernova_shockwave_interaction_dust_grain_alignment.md
+    role: active
+    summary: Describes the alignment of dust grains due to magnetic field amplification
+      during the Kether-9 super
+  - path: /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_kether9_supernova/celestial_bodies_case_studies_kether9_supernova_shockwave_interaction/celestial_bodies_case_studies_kether9_supernova_shockwave_interaction_temporal_fracture.md
+    role: active
+    summary: Examines the temporal fracture signature observed during the Kether-9
+      supernova shockwave interactio
   participants:
   - id: primary
     type: agent
