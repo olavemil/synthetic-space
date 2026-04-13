@@ -8,6 +8,7 @@ title: "Celestial Bodies Case Studies"
 
 ## Sections
 
+- [Celestial Bodies Case Studies Earth Oxygenation](celestial_bodies_case_studies_earth_oxygenation/)
 - [Celestial Bodies Case Studies Kether9 Supernova](celestial_bodies_case_studies_kether9_supernova/)
 
 ## Files

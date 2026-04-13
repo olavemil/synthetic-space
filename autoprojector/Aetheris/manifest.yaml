@@ -153,6 +153,18 @@ project:
     role: active
     summary: Describes the alignment of dust grains due to magnetic field amplification
       during the Kether-9 super
+  - path: /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_earth_oxygenation/temporal_fractures_and_atmospheric_shifts.md
+    role: active
+    summary: This file covers the concept of temporal fractures and their role in
+      atmospheric shifts, particularl
+  - path: /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_earth_oxygenation/temporal_fractures_in_cosmology.md
+    role: active
+    summary: This file explores temporal fractures in a cosmological context, including
+      their emergence near blac
+  - path: /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_earth_oxygenation/exoplanetary_habitability_and_fractures.md
+    role: active
+    summary: This file discusses the implications of temporal fractures on exoplanetary
+      habitability and atmosphe
   participants:
   - id: primary
     type: agent
