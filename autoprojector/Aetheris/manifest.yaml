@@ -17,9 +17,6 @@ project:
     role: active
     summary: Core principles of the universe, including time, space, and fundamental
       forces.
-  - path: /celestial_bodies.md
-    role: active
-    summary: Primary stars, planets, and other significant astronomical objects.
   - path: /physics.md
     role: active
     summary: Laws of physics governing the world, including anomalies.
@@ -33,14 +30,6 @@ project:
     role: active
     summary: Create a file to document all known physical anomalies in the universe,
       including their observations
-  - path: /core_laws.md
-    role: active
-    summary: Centralize mathematical formulations of core laws and link them to existing
-      examples such as the Ord
-  - path: /time_phenomena.md
-    role: active
-    summary: Explore time-related phenomena such as loops, fractures, and their potential
-      impact on the world's h
   - path: /time_anomalies.md
     role: active
     summary: Document specific time-related anomalies observed in the universe, including
@@ -53,17 +42,9 @@ project:
     role: active
     summary: Content related to time fractures, including their mechanisms and historical
       examples.
-  - path: /temporal_echoes.md
-    role: active
-    summary: Content related to temporal echoes, including their mechanisms and historical
-      examples.
   - path: /historical_anomalies.md
     role: active
     summary: Content related to historical anomalies, including their mechanisms and
-      impacts.
-  - path: /cosmological_events.md
-    role: active
-    summary: Content related to cosmological events, including their mechanisms and
       impacts.
   - path: /notes/notes_time_phenomena.md
     role: active
@@ -81,46 +62,18 @@ project:
     role: active
     summary: Details the mechanisms and historical examples of time fractures, including
       their effects on spaceti
-  - path: /notes/notes_temporal_echoes.md
-    role: active
-    summary: Explains the mechanisms and historical examples of temporal echoes, including
-      their effects on infor
-  - path: /cosmology/cosmology_temporal_loops.md
-    role: active
-    summary: Covers the concept of temporal loops, their governance by the Law of
-      Echoing Causality, and examples
   - path: /cosmology/cosmology_time_fractures.md
     role: active
     summary: Explains time fractures, their triggers, mechanisms, effects, and alignment
       with existing documents.
-  - path: /cosmology/cosmology_entropy_suspension.md
-    role: active
-    summary: Describes the entropy-gradient suspension model and its role in spacetime
-      distortions, including mat
-  - path: /cosmology/cosmology_primary_celestial_bodies.md
-    role: active
-    summary: Lists and details primary celestial bodies such as stars, planets, and
-      anomalous objects in the univ
   - path: /cosmology/cosmology_laws_beyond_fractures.md
     role: active
     summary: 'Outlines the Laws Beyond Fractures, including gravitational echoes,
       quantum superposition collapse, '
-  - path: /cosmology/cosmology_initial_conditions.md
-    role: active
-    summary: Explains the initial conditions of the universe, including cosmic inflation
-      and temporal loop seedin
   - path: /cosmology/cosmology_mythic_fragments.md
     role: active
     summary: Presents mythic fragments and abstract principles that influence worldbuilding,
       such as 'The Song of
-  - path: /celestial_bodies/celestial_bodies_temporal_influences.md
-    role: active
-    summary: Covers temporal influences on celestial bodies, including stellar loops
-      and time fractures.
-  - path: /celestial_bodies/celestial_bodies_time_fractures_influence.md
-    role: active
-    summary: Explores the influence of time fractures on celestial bodies, including
-      case studies and mechanisms.
   - path: /celestial_bodies/celestial_bodies_planetary_phase_shifts.md
     role: active
     summary: Details case studies of planetary phase shifts induced by time fractures
@@ -133,10 +86,6 @@ project:
     role: active
     summary: Presents geological case studies of time fractures and their impact on
       planetary evolution.
-  - path: /celestial_bodies/celestial_bodies_time_fractures_math.md
-    role: active
-    summary: Provides mathematical grounding for time fractures in celestial bodies,
-      including spacetime curvatur
   - path: /physics/physics_temporal_loops.md
     role: active
     summary: 'Covers the concept of temporal loops, their governance by mathematical
@@ -147,36 +96,23 @@ project:
       mechanisms, and effects on '
   - path: /physics/physics_entropy_suspension.md
     role: active
-    summary: Describes the entropy-gradient suspension model and its role in spacetime
-      distortions, including mat
-  - path: /physics/physics_temporal_echoes.md
-    role: active
-    summary: Explains the mechanisms and historical examples of temporal echoes, including
-      their effects on infor
-  - path: /physics/physics_historical_anomalies.md
-    role: active
-    summary: Documents specific time-related anomalies observed in history, including
-      their mechanisms and impact
-  - path: /celestial_bodies/celestial_bodies_time_fractures.md
-    role: active
-    summary: 'Explains time fractures, their triggers (e.g., gravitational curvature),
-      mechanisms, and effects on '
+    summary: Consolidated from /cosmology/cosmology_entropy_suspension.md
   - path: /celestial_bodies/celestial_bodies_case_studies.md
     role: active
-    summary: Presents detailed case studies of temporal echoes and fractures, including
-      their mechanisms and impa
-  - path: /celestial_bodies/celestial_bodies_orbital_dynamics.md
-    role: active
-    summary: Details orbital decay, gravitational wave emission, and their effects
-      on celestial bodies.
+    summary: Consolidated from /cosmology/cosmology_primary_celestial_bodies.md, /celestial_bodies/celestial_bodies_temporal_influences.md,
+      /celestial_bodies/celestial_bodies_orbital_dynamics.md, /celestial_bodies/celestial_bodies_time_fractures_math.md,
+      /physics/physics_historical_anomalies.md, /cosmological_events.md, /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_quantum_superposition.md,
+      /initial_inspiration.md, /temporal_echoes.md, /celestial_bodies.md, /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_veyra_incident.md,
+      /celestial_bodies/celestial_bodies_time_fractures.md, /core_laws.md, /celestial_bodies/celestial_bodies_time_fractures_influence.md,
+      /cosmology/cosmology_temporal_loops.md, /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_dark_matter_fractures.md,
+      /notes/notes_temporal_echoes.md, /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_kether9_ghost_light.md,
+      /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_quantitative_modeling.md,
+      /time_phenomena.md, /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_entropy_suspension.md,
+      /cosmology/cosmology_initial_conditions.md, /physics/physics_temporal_echoes.md
   - path: /celestial_bodies/celestial_bodies_quantum_superposition.md
     role: active
     summary: Explores quantum superposition in curved spacetime and its role in creating
       branching histories.
-  - path: /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_kether9_ghost_light.md
-    role: active
-    summary: 'Case study of the Kether-9 supernova and its ''ghost'' light phenomenon,
-      exploring temporal fractures '
   - path: /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_earth_oxygenation.md
     role: active
     summary: Case study of Earth's Great Oxygenation Event (~2.4 Ga), examining temporal
@@ -185,30 +121,14 @@ project:
     role: active
     summary: Case study of gravitational-wave echoes in the solar system, analyzing
       their effects on planetary or
-  - path: /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_dark_matter_fractures.md
-    role: active
-    summary: Case study of dark matter-induced temporal anomalies near Mars, exploring
-      their impact on atmospheri
-  - path: /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_quantum_superposition.md
-    role: active
-    summary: Case study of quantum superposition experiments on the ISS, examining
-      fracture-induced branching and
   - path: /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_causal_loops.md
     role: active
     summary: Case study of causal loops near Jupiter's moon Europa, exploring their
       effects on orbital dynamics a
-  - path: /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_entropy_suspension.md
-    role: active
-    summary: Case study of entropy suspension near Venus, analyzing its impact on
-      atmospheric and climate dynamic
   - path: /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_observational_signatures.md
     role: active
     summary: Case study of observational signatures near Mercury, examining timing
       anomalies and their effects on
-  - path: /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_quantitative_modeling.md
-    role: active
-    summary: Case study of quantitative modeling near Saturn's moon Titan, exploring
-      temporal echoes and their im
   - path: /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_primary_stars.md
     role: active
     summary: Case study of primary stars' evolutionary trajectories, examining their
@@ -225,10 +145,6 @@ project:
     role: active
     summary: 'Case study of the Kether-9 supernova and its ''ghost'' light phenomenon,
       exploring temporal fractures '
-  - path: /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_veyra_incident.md
-    role: active
-    summary: "Case study of the Veyra Incident near Saturn\u2019s rings in 2083, focusing\
-      \ on temporal fractures and the"
   participants:
   - id: primary
     type: agent
