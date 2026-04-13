@@ -175,6 +175,10 @@ project:
     role: active
     summary: A concise description of a device designed to stabilize temporal conditions
       and facilitate controlle
+  - path: /cosmology/cosmology_mythic_fragments/physics_of_the_echo.md
+    role: active
+    summary: An exploration of the physical mechanisms governing temporal echoes,
+      including conditions where diso
   participants:
   - id: primary
     type: agent
