@@ -1,0 +1,17 @@
+/notes/01_definitions.md
+Time fracture: localized rupture of the causal manifold where the local entropy gradient temporarily reverses (∇S → –∇S), permitting past states, alternate outcomes, and quantum echoes to surface within the present. Triggered by extreme gravitational curvature, quantum superposition collapse, or thermodynamic instability. Core manifestations: (1) temporal echo – observable manifestation of a past event; (2) causal inversion – reversal of entropy flow enabling non‑commuting histories; (3) branching propagation – emergence of parallel looptimes.
+
+/notes/02_physics.md
+Temporal loops arise when closed timelike curves satisfy periodic boundary conditions in curved spacetime, producing repeating histories with slight variations. Time fractures occur at points where the entropy gradient vanishes (∇S = 0), allowing retrocausal entanglement and entropy borrowing. Notable events: Veyra Incident (1947 signal re‑detected 2083), Kether‑9 “ghost” light (2047 supernova pre‑death state), Crab Nebula pulsar entropy borrowing (2075) – each documented with governing law (e.g., Hawking’s Modified Entropy Theorem) and quantitative parameters (e.g., TDF = 0.87, Δt derived from ∇S).
+
+/notes/03_cosmology.md
+Cosmic temporal loops are governed by the Law of Echoing Causality: major historical events imprint on future iterations, creating fractal‑like progress. Time fractures are dynamic ruptures where ∇S ≈ 0, producing localized entropy suspension. Governing equations: (1) Entropy‑Gradient Suspension Condition – ∇S = 0 ⇒ Δt_echo = ħ/(k_B T_c)·e^(–βE); (2) Loop Stability Constraint – ∮_C g_μν dx^μ dx^ν = 0; (3) Fracture Induction Equation – 𝔽 = √(R_μν R^μν) – λ ∇S = 0. These bind loops, fractures, and echoes into a unified causal framework.
+
+/notes/04_examples.md
+Historical anomalies linked to fractures: (1) Veyra Incident (1947 radio transmission observed 2083, Δt ≈ 86 years, fracture width governed by ∇S inversion); (2) Kether‑9 “ghost” light (2047 supernova collapse revealed pre‑death stellar state, entropy borrowing radius 0.3 ly); (3) Tambora Eruption (1815, macro‑fracture Δt ≈ 10⁴ s, climate anomaly persistence); (4) Tunguska Event (1908, micro‑fracture Δt ≈ 10⁻⁶ s, atmospheric luminous pulse); (5) 2023 Global Quantum Synchronization (30 s fracture, synchronized data burst across networks).
+
+/notes/05_methodology.md
+Mathematical expressions governing fractures: Entropy‑Suspension Condition – dS = 0 ⇒ ∇S = 0; Fracture Stability Equation – Δt = ħ/(k_B T)·e^(–β ∇S); Loop Stability Constraint – ∮_C g_μν dx^μ dx^ν = 0; Fracture Induction Equation – 𝔽 = √(R_μν R^μν) – λ ∇S = 0; Dark‑Energy Scaling – effective temperature T_eff lowered by negative pressure p = –ρc², extending echo duration; Temporal Displacement Factor – TDF = e^(–β ∇S) quantifies causal inversion strength.
+
+/notes/06_references.md
+Andromeda Temporal Loop Study, J. Astrochronology 2051; LIGO Collaboration, “Retrocausal Gravity Waves and Temporal Fractures,” Phys. Rev. Lett. 2039; Crab Nebula Temporal Dynamics, Astrophys. J. 2076; Unified Definition of Time Fractures, Astrophys. J. 2051; Law of Echoing Causality, Physical Review 2052; Dark‑Energy Scaling in Temporal Mechanics, J. Cosmol. 2053.

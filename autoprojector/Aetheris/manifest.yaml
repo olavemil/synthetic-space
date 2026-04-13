@@ -65,6 +65,26 @@ project:
     role: active
     summary: Content related to cosmological events, including their mechanisms and
       impacts.
+  - path: /notes/notes_time_phenomena.md
+    role: active
+    summary: 'Explores time-related phenomena such as loops, fractures, and their
+      potential impact on the world''s '
+  - path: /notes/notes_time_anomalies.md
+    role: active
+    summary: Documents specific time-related anomalies observed in the universe, including
+      their effects on physi
+  - path: /notes/notes_time_loops.md
+    role: active
+    summary: Covers the mechanisms and historical examples of time loops, including
+      their effects on causality.
+  - path: /notes/notes_time_fractures.md
+    role: active
+    summary: Details the mechanisms and historical examples of time fractures, including
+      their effects on spaceti
+  - path: /notes/notes_temporal_echoes.md
+    role: active
+    summary: Explains the mechanisms and historical examples of temporal echoes, including
+      their effects on infor
   participants:
   - id: primary
     type: agent
