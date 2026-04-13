@@ -182,6 +182,14 @@ project:
     role: active
     summary: The Legacy of the Echo, encompassing its enduring influence on human
       thought, culture, and technolog
+  - path: /cosmology/cosmology_mythic_fragments/astral_drift_echoes_of_the_forforgotten_future.md
+    role: active
+    summary: A brief overview of the phenomenon where information propagates backward
+      through time, creating feed
+  - path: /cosmology/cosmology_mythic_fragments/chrono_anchor_protocol.md
+    role: active
+    summary: A concise description of a device designed to stabilize temporal conditions
+      and facilitate controlle
   participants:
   - id: primary
     type: agent
