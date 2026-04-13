@@ -14,6 +14,7 @@ title: "Aetheris"
 - [Celestial Bodies](celestial_bodies/)
 - [Cosmology](cosmology/)
 - [Notes](notes/)
+- [Physics](physics/)
 
 ## Files
 

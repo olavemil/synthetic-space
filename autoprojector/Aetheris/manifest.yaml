@@ -137,6 +137,26 @@ project:
     role: active
     summary: Provides mathematical grounding for time fractures in celestial bodies,
       including spacetime curvatur
+  - path: /physics/physics_temporal_loops.md
+    role: active
+    summary: 'Covers the concept of temporal loops, their governance by mathematical
+      frameworks such as curvature '
+  - path: /physics/physics_time_fractures.md
+    role: active
+    summary: 'Explains time fractures, their triggers (e.g., gravitational curvature),
+      mechanisms, and effects on '
+  - path: /physics/physics_entropy_suspension.md
+    role: active
+    summary: Describes the entropy-gradient suspension model and its role in spacetime
+      distortions, including mat
+  - path: /physics/physics_temporal_echoes.md
+    role: active
+    summary: Explains the mechanisms and historical examples of temporal echoes, including
+      their effects on infor
+  - path: /physics/physics_historical_anomalies.md
+    role: active
+    summary: Documents specific time-related anomalies observed in history, including
+      their mechanisms and impact
   participants:
   - id: primary
     type: agent
