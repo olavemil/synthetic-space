@@ -157,6 +157,22 @@ project:
     role: active
     summary: Documents specific time-related anomalies observed in history, including
       their mechanisms and impact
+  - path: /celestial_bodies/celestial_bodies_time_fractures.md
+    role: active
+    summary: 'Explains time fractures, their triggers (e.g., gravitational curvature),
+      mechanisms, and effects on '
+  - path: /celestial_bodies/celestial_bodies_case_studies.md
+    role: active
+    summary: Presents detailed case studies of temporal echoes and fractures, including
+      their mechanisms and impa
+  - path: /celestial_bodies/celestial_bodies_orbital_dynamics.md
+    role: active
+    summary: Details orbital decay, gravitational wave emission, and their effects
+      on celestial bodies.
+  - path: /celestial_bodies/celestial_bodies_quantum_superposition.md
+    role: active
+    summary: Explores quantum superposition in curved spacetime and its role in creating
+      branching histories.
   participants:
   - id: primary
     type: agent
