@@ -51,10 +51,6 @@ project:
     role: active
     summary: Explains time fractures, their triggers, mechanisms, effects, and alignment
       with existing documents.
-  - path: /cosmology/cosmology_laws_beyond_fractures.md
-    role: active
-    summary: 'Outlines the Laws Beyond Fractures, including gravitational echoes,
-      quantum superposition collapse, '
   - path: /cosmology/cosmology_mythic_fragments.md
     role: active
     summary: Presents mythic fragments and abstract principles that influence worldbuilding,
@@ -145,17 +141,14 @@ project:
   - path: /physics/physics_entropy_borrowing.md
     role: active
     summary: 'Entropy Borrowing: The Physics of Reversed Entropy'
-  - path: /physics/physics_time_travel_paradoxes.md
-    role: active
-    summary: Consolidated from /physics/physics_chronology_theory.md
   - path: /cosmology/cosmology_mythic_fragments/cosmology_mythic_fragments_song_unwoven_hour.md
     role: active
     summary: 'The Song of the Unwoven Hour: A ritual involving drumming, cymbals,
       and lullabies to reenact a cosmi'
   - path: /cosmology/cosmology_mythic_fragments/cosmology_mythic_fragments_entropy_reversal.md
     role: active
-    summary: Consolidated from /cosmology/cosmology_mythic_fragments/astral_drift_echoes_of_the_forforgotten_future.md,
-      /cosmology/cosmology_mythic_fragments/cosmology_mythic_fragments_astral_drift.md
+    summary: Consolidated from /cosmology/cosmology_mythic_fragments/cosmology_mythic_fragments_chrono_protocol.md,
+      /physics/physics_time_travel_paradoxes.md
   - path: /cosmology/cosmology_mythic_fragments/cosmology_mythic_fragments_veiled_fracture.md
     role: active
     summary: 'The Veiled Fracture of the First Dawn: A mythic event where time splits
@@ -164,13 +157,9 @@ project:
     role: active
     summary: 'Rituals and Practices: The Ritual of the Unwoven Hour, Doctrine of Borrowed
       Seconds, and other tempo'
-  - path: /cosmology/cosmology_mythic_fragments/cosmology_mythic_fragments_chrono_protocol.md
-    role: active
-    summary: Consolidated from /physics/physics_historical_anomalies.md
   - path: /cosmology/cosmology_mythic_fragments/cosmology_mythic_fragments_legacy_of_the_echo.md
     role: active
-    summary: The Legacy of the Echo, encompassing its enduring influence on human
-      thought, culture, and technolog
+    summary: Consolidated from /cosmology/cosmology_laws_beyond_fractures.md
   - path: /cosmology/cosmology_mythic_fragments/chrono_anchor_protocol.md
     role: active
     summary: A concise description of a device designed to stabilize temporal conditions
