@@ -23,5 +23,4 @@ title: "Aetheris"
 - [Notes](notes)
 - [Physics](physics)
 - [Time Fractures](time_fractures)
-- [Time Loops](time_loops)
 - [Timeline](timeline)
