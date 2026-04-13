@@ -173,6 +173,54 @@ project:
     role: active
     summary: Explores quantum superposition in curved spacetime and its role in creating
       branching histories.
+  - path: /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_kether9_ghost_light.md
+    role: active
+    summary: 'Case study of the Kether-9 supernova and its ''ghost'' light phenomenon,
+      exploring temporal fractures '
+  - path: /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_earth_oxygenation.md
+    role: active
+    summary: Case study of Earth's Great Oxygenation Event (~2.4 Ga), examining temporal
+      fractures and their role
+  - path: /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_gravitational_wave_echoes.md
+    role: active
+    summary: Case study of gravitational-wave echoes in the solar system, analyzing
+      their effects on planetary or
+  - path: /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_dark_matter_fractures.md
+    role: active
+    summary: Case study of dark matter-induced temporal anomalies near Mars, exploring
+      their impact on atmospheri
+  - path: /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_quantum_superposition.md
+    role: active
+    summary: Case study of quantum superposition experiments on the ISS, examining
+      fracture-induced branching and
+  - path: /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_causal_loops.md
+    role: active
+    summary: Case study of causal loops near Jupiter's moon Europa, exploring their
+      effects on orbital dynamics a
+  - path: /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_entropy_suspension.md
+    role: active
+    summary: Case study of entropy suspension near Venus, analyzing its impact on
+      atmospheric and climate dynamic
+  - path: /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_observational_signatures.md
+    role: active
+    summary: Case study of observational signatures near Mercury, examining timing
+      anomalies and their effects on
+  - path: /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_quantitative_modeling.md
+    role: active
+    summary: Case study of quantitative modeling near Saturn's moon Titan, exploring
+      temporal echoes and their im
+  - path: /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_primary_stars.md
+    role: active
+    summary: Case study of primary stars' evolutionary trajectories, examining their
+      influence on surrounding pla
+  - path: /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_orbital_decay.md
+    role: active
+    summary: Case study of orbital decay and gravitational wave emission in binary
+      systems, analyzing their effec
+  - path: /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_exoplanetary_echoes.md
+    role: active
+    summary: Case study of temporal echoes in exoplanetary systems, examining their
+      impact on planetary evolution
   participants:
   - id: primary
     type: agent

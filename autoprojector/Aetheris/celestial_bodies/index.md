@@ -6,6 +6,10 @@ title: "Celestial Bodies"
 
 [< Aetheris](../)
 
+## Sections
+
+- [Celestial Bodies Case Studies](celestial_bodies_case_studies/)
+
 ## Files
 
 - [Celestial Bodies Case Studies](celestial_bodies_case_studies)
