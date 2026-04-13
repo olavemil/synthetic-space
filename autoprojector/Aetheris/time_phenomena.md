@@ -80,3 +80,21 @@ Verification Standard Alignment
 - No contradiction with established historical chronology; the temporal metrics are derived from documented dates and impacts, ensuring compatibility with the timeline recorded in /timeline.md.
 
 These reconciliations demonstrate how disparate historical moments can be understood as expressions of the same underlying temporal mechanics, each preserving logical coherence within the broader model of celestial and terrestrial time phenomena.
+
+## Time Loops and Their Historical Impact
+
+### Causal Feedback Mechanics
+
+A temporal loop generates a **causal feedback loop** when the curvature‑induced proper duration τ aligns with an external periodic driver, causing the system’s entropy gradient ∇S to be drawn repeatedly into a narrowed window Δt. The feedback strength Φ quantifies how much future entropy is borrowed per cycle:
+
+\[
+\Phi = \exp\!\big(-\beta\,\nabla S\big)\,\bigl(1+\eta\,\rho_{\Lambda}\bigr),
+\qquad
+\beta=\frac{1}{k_{B}T},\;
+\eta=4.2\times10^{-4}\;\text{m}^{3}\,\text{kg}^{-2}.
+\]
+
+When Φ > 1 the loop **amplifies** its own cause, embedding the same causal pattern with diminishing phase error ε = e^{‑Δt/τ}. The loop‑closure condition therefore becomes:
+
+\[
+Q=\frac{R_{\mu\nu}R^{\mu\nu}}{R^{2}}
