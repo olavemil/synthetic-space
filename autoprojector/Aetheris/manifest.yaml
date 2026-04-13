@@ -145,6 +145,18 @@ project:
     role: active
     summary: 'Case study of the Kether-9 supernova and its ''ghost'' light phenomenon,
       exploring temporal fractures '
+  - path: /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_veyra_incident.md
+    role: active
+    summary: Case study of the Veyra Incident in 2083, focusing on temporal fractures
+      near Saturn's rings and the
+  - path: /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_dark_matter_fractures.md
+    role: active
+    summary: Case study of dark matter-induced temporal anomalies near Mars, exploring
+      their effects on atmospher
+  - path: /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_quantum_superposition.md
+    role: active
+    summary: Case study of quantum superposition experiments on the ISS, examining
+      fracture-induced branching.
   participants:
   - id: primary
     type: agent
