@@ -11,6 +11,7 @@ title: "Aetheris"
 
 ## Sections
 
+- [Cosmology](cosmology/)
 - [Notes](notes/)
 
 ## Files

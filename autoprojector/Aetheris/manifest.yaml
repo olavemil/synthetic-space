@@ -85,6 +85,34 @@ project:
     role: active
     summary: Explains the mechanisms and historical examples of temporal echoes, including
       their effects on infor
+  - path: /cosmology/cosmology_temporal_loops.md
+    role: active
+    summary: Covers the concept of temporal loops, their governance by the Law of
+      Echoing Causality, and examples
+  - path: /cosmology/cosmology_time_fractures.md
+    role: active
+    summary: Explains time fractures, their triggers, mechanisms, effects, and alignment
+      with existing documents.
+  - path: /cosmology/cosmology_entropy_suspension.md
+    role: active
+    summary: Describes the entropy-gradient suspension model and its role in spacetime
+      distortions, including mat
+  - path: /cosmology/cosmology_primary_celestial_bodies.md
+    role: active
+    summary: Lists and details primary celestial bodies such as stars, planets, and
+      anomalous objects in the univ
+  - path: /cosmology/cosmology_laws_beyond_fractures.md
+    role: active
+    summary: 'Outlines the Laws Beyond Fractures, including gravitational echoes,
+      quantum superposition collapse, '
+  - path: /cosmology/cosmology_initial_conditions.md
+    role: active
+    summary: Explains the initial conditions of the universe, including cosmic inflation
+      and temporal loop seedin
+  - path: /cosmology/cosmology_mythic_fragments.md
+    role: active
+    summary: Presents mythic fragments and abstract principles that influence worldbuilding,
+      such as 'The Song of
   participants:
   - id: primary
     type: agent
