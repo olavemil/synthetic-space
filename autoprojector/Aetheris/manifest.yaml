@@ -174,6 +174,22 @@ project:
     role: active
     summary: 'Rituals and Practices: The Ritual of the Unwoven Hour, Doctrine of Borrowed
       Seconds, and other tempo'
+  - path: /cosmology/cosmology_mythic_fragments/cosmology_mythic_fragments_astral_drift.md
+    role: active
+    summary: The discovery of the Null Point and its implications for causality, including
+      the first interstellar
+  - path: /cosmology/cosmology_mythic_fragments/cosmology_mythic_fragments_chrono_protocol.md
+    role: active
+    summary: The Chrono-Anchor Protocol and the Odyssey mission's attempt to reach
+      the Null Point, including temp
+  - path: /cosmology/cosmology_mythic_fragments/cosmology_mythic_fragments_physics_of_echo.md
+    role: active
+    summary: The physics behind the Null Point, including entropy gradients, closed
+      timelike curves, and thermody
+  - path: /cosmology/cosmology_mythic_fragments/cosmology_mythic_fragments_cultural_impact.md
+    role: active
+    summary: The cultural and ethical impact of the Null Point, including temporal
+      ethics, Echo Painting art form
   participants:
   - id: primary
     type: agent
