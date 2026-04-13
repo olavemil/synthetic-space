@@ -6,6 +6,10 @@ title: "Celestial Bodies Case Studies"
 
 [< Celestial Bodies](../)
 
+## Sections
+
+- [Celestial Bodies Case Studies Kether9 Supernova](celestial_bodies_case_studies_kether9_supernova/)
+
 ## Files
 
 - [Celestial Bodies Case Studies Causal Loops](celestial_bodies_case_studies_causal_loops)
