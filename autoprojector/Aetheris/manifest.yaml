@@ -30,10 +30,6 @@ project:
     role: active
     summary: Create a file to document all known physical anomalies in the universe,
       including their observations
-  - path: /time_anomalies.md
-    role: active
-    summary: Document specific time-related anomalies observed in the universe, including
-      their effects on physic
   - path: /time_loops.md
     role: active
     summary: Content related to time loops, including their mechanisms and historical
@@ -42,10 +38,6 @@ project:
     role: active
     summary: Content related to time fractures, including their mechanisms and historical
       examples.
-  - path: /historical_anomalies.md
-    role: active
-    summary: Content related to historical anomalies, including their mechanisms and
-      impacts.
   - path: /notes/notes_time_phenomena.md
     role: active
     summary: 'Explores time-related phenomena such as loops, fractures, and their
@@ -88,15 +80,11 @@ project:
       planetary evolution.
   - path: /physics/physics_temporal_loops.md
     role: active
-    summary: 'Covers the concept of temporal loops, their governance by mathematical
-      frameworks such as curvature '
+    summary: Consolidated from /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_kether9_supernova/celestial_bodies_case_studies_kether9_supernova_shockwave_interaction/celestial_bodies_case_studies_kether9_supernova_shockwave_interaction_dynamics.md
   - path: /physics/physics_time_fractures.md
     role: active
     summary: 'Explains time fractures, their triggers (e.g., gravitational curvature),
       mechanisms, and effects on '
-  - path: /physics/physics_entropy_suspension.md
-    role: active
-    summary: Consolidated from /cosmology/cosmology_entropy_suspension.md
   - path: /celestial_bodies/celestial_bodies_case_studies.md
     role: active
     summary: Consolidated from /cosmology/cosmology_primary_celestial_bodies.md, /celestial_bodies/celestial_bodies_temporal_influences.md,
@@ -115,12 +103,12 @@ project:
       branching histories.
   - path: /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_earth_oxygenation.md
     role: active
-    summary: Case study of Earth's Great Oxygenation Event (~2.4 Ga), examining temporal
-      fractures and their role
-  - path: /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_gravitational_wave_echoes.md
-    role: active
-    summary: Case study of gravitational-wave echoes in the solar system, analyzing
-      their effects on planetary or
+    summary: Consolidated from /time_anomalies.md, /physics/physics_entropy_suspension.md,
+      /historical_anomalies.md, /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_kether9_supernova/celestial_bodies_case_studies_kether9_supernova_temporal_echoes.md,
+      /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_gravitational_wave_echoes.md,
+      /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_kether9_supernova/celestial_bodies_case_studies_kether9_supernova_magnetic_reconnection.md,
+      /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_quantum_superposition.md,
+      /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_kether9_supernova/celestial_bodies_case_studies_kether9_supernova_shockwave_interaction/celestial_bodies_case_studies_kether9_supernova_shockwave_interaction_temporal_fracture.md
   - path: /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_causal_loops.md
     role: active
     summary: Case study of causal loops near Jupiter's moon Europa, exploring their
@@ -153,10 +141,6 @@ project:
     role: active
     summary: Case study of dark matter-induced temporal anomalies near Mars, exploring
       their effects on atmospher
-  - path: /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_quantum_superposition.md
-    role: active
-    summary: Case study of quantum superposition experiments on the ISS, examining
-      fracture-induced branching.
   - path: /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_kether9_supernova/celestial_bodies_case_studies_kether9_supernova_shockwave_interaction.md
     role: active
     summary: The interaction of the Kether-9 supernova shockwave with a nearby molecular
@@ -165,26 +149,10 @@ project:
     role: active
     summary: The dynamics of the relativistic accretion disc formed around Kether-9's
       neutron star remnant, inclu
-  - path: /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_kether9_supernova/celestial_bodies_case_studies_kether9_supernova_temporal_echoes.md
-    role: active
-    summary: 'The temporal echoes and gravitational wave bursts observed in the Kether-9
-      remnant, including their '
-  - path: /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_kether9_supernova/celestial_bodies_case_studies_kether9_supernova_magnetic_reconnection.md
-    role: active
-    summary: The magnetic reconnection cascade triggered by the Kether-9 supernova
-      and its interaction with plane
-  - path: /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_kether9_supernova/celestial_bodies_case_studies_kether9_supernova_shockwave_interaction/celestial_bodies_case_studies_kether9_supernova_shockwave_interaction_dynamics.md
-    role: active
-    summary: The dynamics of the Kether-9 supernova shockwave interaction with NGC
-      6946-23, including phases of c
   - path: /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_kether9_supernova/celestial_bodies_case_studies_kether9_supernova_shockwave_interaction/celestial_bodies_case_studies_kether9_supernova_shockwave_interaction_dust_grain_alignment.md
     role: active
     summary: Describes the alignment of dust grains due to magnetic field amplification
       during the Kether-9 super
-  - path: /celestial_bodies/celestial_bodies_case_studies/celestial_bodies_case_studies_kether9_supernova/celestial_bodies_case_studies_kether9_supernova_shockwave_interaction/celestial_bodies_case_studies_kether9_supernova_shockwave_interaction_temporal_fracture.md
-    role: active
-    summary: Examines the temporal fracture signature observed during the Kether-9
-      supernova shockwave interactio
   participants:
   - id: primary
     type: agent

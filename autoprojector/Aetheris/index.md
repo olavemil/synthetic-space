@@ -20,10 +20,8 @@ title: "Aetheris"
 
 - [Anomalies](anomalies)
 - [Cosmology](cosmology)
-- [Historical Anomalies](historical_anomalies)
 - [Notes](notes)
 - [Physics](physics)
-- [Time Anomalies](time_anomalies)
 - [Time Fractures](time_fractures)
 - [Time Loops](time_loops)
 - [Timeline](timeline)
