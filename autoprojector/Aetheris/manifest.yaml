@@ -180,6 +180,10 @@ project:
     role: active
     summary: A brief overview of the phenomenon where information propagates backward
       through time, creating feed
+  - path: /cosmology/cosmology_mythic_fragments/cosmology_mythic_fragments_entropy_reversal/cosmology_mythic_fragments_entropy_reversal_core_phenomena/chrono_anchor_protocol.md
+    role: active
+    summary: A device designed to stabilize temporal conditions and facilitate controlled
+      observation of future e
   participants:
   - id: primary
     type: agent
