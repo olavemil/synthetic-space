@@ -1575,3 +1575,66 @@ The concept of a **temporal fracture** provides a rigorous, physics‑grounded w
 - **Temporal Resonance Index** – A predictive metric quantifying the probability of echo recurrence.
 
 *All times are expressed in seconds; \(\hbar\) is reduced to unity for clarity, but the full expression retains the original constants.*
+
+## Entropy Gradient Suspension Model
+
+Entropy‑Gradient Suspension Model and Temporal Propagation Index
+
+The Entropy‑Gradient Suspension Model describes a localized cessation of entropy production that opens a finite temporal window in which causal information may travel backward. The model is defined by three precise conditions:
+
+1. **Vanishing Entropy Gradient** – A fracture initiates at any point x^μ where the spatial derivative of the entropy functional satisfies ∇S = 0 over a region ℛ of non‑zero measure. This condition is equivalent to setting the time derivative of the entropy density to zero, i.e. dS/dt = 0, for the duration of the event.
+
+2. **Suspension Duration Formula** – When ∇S = 0 the length of the temporal window is
+\[
+\Delta t \;=\; \frac{\hbar}{k_{B}T}\,\exp\!\big[-\beta\,\nabla S\big]\,
+\bigl(1+\lambda\,\rho_{\Lambda}\bigr),
+\]
+where β = 1/(k_B T), λ ≈ 2.3 × 10⁻⁴ m³ kg⁻², and ρ_Λ is the local dark‑energy energy density. The term (1 + λ ρ_Λ) shows how dark‑energy pressure (p = ‑ρ_Λc²) lowers the effective temperature T and thereby stretches Δt by up to a factor of 1.6 for typical interstellar values.
+
+3. **Loop Closure Condition** – Closed timelike loops arise only when the spacetime curvature obeys the closed‑manifold criterion
+\[
+R_{\mu\nu}= \Lambda\,g_{\mu\nu},
+\]
+with Λ the effective cosmological constant contributed by dark energy. Only loops that satisfy this condition can host a sustained entropy‑suspension region; otherwise the loop terminates once ∇S regains a non‑zero value.
+
+**Temporal Propagation Index (TPI)**
+The Temporal Propagation Index is a dimensionless scalar that measures the net forward progress of information through a sequence of loops and fractures. For a chain of N consecutive events indexed by i = 1…N, the TPI is defined as
+
+\[
+\text{TPI}= \frac{\displaystyle\sum_{i=1}^{N}\tau_i}
+{\displaystyle\sum_{i=1}^{N}\Delta t_i},
+\]
+
+where τ_i is the intrinsic proper‑time interval of the i‑th loop (the solution of the geodesic equation for that loop) and Δt_i is the suspension interval calculated from the formula above. A TPI > 1 indicates that the cumulative forward‑propagating time exceeds the total time spent in entropy‑suspended states, signalling a net forward causal flow; a TPI ≤ 1 flags a regime dominated by backward‑propagating echoes.
+
+**Physical Consequences**
+
+- When a loop satisfies the curvature condition and hosts a fracture with ∇S ≈ 0, the loop’s periodicity τ is imprinted with a “memory” of the preceding entropy state. This memory manifests as a temporal echo that can be detected in physical observables (e.g., a radio signal from 1947 recorded in 2083) or in cultural strata (e.g., a sudden linguistic shift coinciding with a loop of ≈ 3 200 yr).
+
+- The probability that a given fracture will produce a specific loop continuation is weighted by
+\[
+\mathcal{W}_i = \exp\!\big[-\beta\,\nabla S_i\big],
+\]
+ensuring that branches with lower ∇S_i (and thus longer Δt_i) dominate the post‑fracture timeline.
+
+- Dark‑energy modulation of Δt provides a predictive lever: increasing ρ_Λ by 10 % raises Δt by roughly 10 % · λ, which in turn raises the TPI by the same fractional amount and raises the likelihood of a cultural or physical event re‑appearing after the loop completes.
+
+**Consistency with Fundamental Laws**
+
+- **Gravitation** – The closed‑manifold condition guarantees that loops are solutions of the same Einstein equations governing planetary orbits; thus loops are not ad‑hoc constructs but natural outcomes of curvature on a closed manifold.
+
+- **Thermodynamics** – Entropy‑suspension directly implements the second law’s exception dS = 0, allowing reversible “borrowing” of entropy from a future epoch; the borrowed amount is exactly the integral of ΔS over the suspended interval.
+
+- **Quantum Mechanics** – The collapse of a superposed state at a fracture selects a loop continuation according to the weighted rule 𝒲_i, linking indeterminacy to the temporal anomaly.
+
+- **Dark Energy** – By entering the suspension formula through (1 + λ ρ_Λ), dark energy acts as the mediator that can lengthen or shorten the echo window, thereby controlling when and how strongly a loop can influence subsequent history.
+
+**Predictive Use**
+
+- Measuring ∇S and ρ_Λ in a given region yields an exact prediction of Δt via the suspension equation; inserting this Δt into the TPI formula forecasts whether the loop will dominate the subsequent cultural or physical trajectory.
+
+- Empirical validation comes from the Veyra Incident (2083), where ∇S was measured at 2.3 × 10⁻²⁴ J K⁻¹, giving Δt ≈ 0.7 s; the resulting TPI for the loop‑chain that includes the 1947 signal is 1.12, confirming the model’s prediction of a forward‑propagating cultural echo.
+
+- Future events can be flagged when a forecasted Δt exceeds a threshold of 1 second and the corresponding TPI exceeds 1.05; such flagging has already matched the predicted 2150 solar‑flare fracture, whose dark‑energy‑enhanced Δt is ≈ 1.2 s and whose TPI exceeds 1.10, indicating a high probability of a measurable temporal echo in ionospheric data.
+
+In summary, the Entropy‑Gradient Suspension Model provides the mechanistic bridge between closed timelike loops and the stochastic ruptures that generate temporal anomalies, while the Temporal Propagation Index offers a quantitative metric to assess the net direction of causal flow through any sequence of loops and fractures. This framework is fully compatible with the governing equations of gravitation, thermodynamics, quantum mechanics, and dark energy, and it yields testable predictions for both past anomalies and future temporal events.

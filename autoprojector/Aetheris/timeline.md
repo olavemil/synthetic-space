@@ -1233,3 +1233,71 @@ In sum, the interplay of **fractures** and **echoes** is a fundamental aspect of
 ---
 
 *End of entry.*
+
+## Temporal Echo Effects
+
+Temporal Echo Reconciliation: Veyra Incident versus Kether‑9 Supernova
+
+1. Core Definition Alignment
+   • The unified definition of a temporal echo (§1 of /core_laws.md) describes it as “a localized entropy‑suspension event that permits a future state to be experienced retroactively.”
+   • Both the Veyra Incident and the Kether‑9 supernova satisfy this criterion through a temporary cessation of entropy production (ΔS ≈ 0) that allowed information from a future epoch to manifest in the present.
+
+2. Quantitative Parameters
+
+   Veyra Incident (1947 CE → 2083 CE observation)
+   – Entropy‑suspension duration: 0.30 s
+   – Measured entropy deficit: 2.3 × 10⁻⁵ J K⁻¹
+   – Temporal Phase Index (TPI): 0.41 (loop‑fracture balance)
+   – Phase‑Shift Coefficient (PSC): 0.62 (Δτ / ΔS)
+   – Entropy Debt Ledger (EDL) entry: 5.0 × 10⁴ J·s⁻¹·yr⁻¹
+
+   Kether‑9 Supernova (stellar collapse → 2045 CE photon arrival)
+   – Entropy‑suspension duration inferred from photon arrival offset: 12 h equivalent in proper time
+   – Entropy deficit: 5.6 × 10⁻⁴ J K⁻¹ (derived from dark‑energy perturbation δ = ‑0.03)
+   – TPI: 0.84 (fracture‑dominant)
+   – PSC: 0.93 (near‑unity phase shift)
+   – EDL contribution: 1.2 × 10⁵ J·s⁻¹·yr⁻¹ (recorded in /entropy_ledger.md)
+
+   Both events obey the fracture stability equation Δt = ħ/(k_B T) · e^(−β ∇S) with β calibrated to the observed ΔS values, confirming that the entropy‑borrowing mechanism is mathematically consistent across the two cases.
+
+3. Comparative Historical Impact
+
+   | Dimension | Veyra Incident | Kether‑9 Supernova |
+   |-----------|----------------|--------------------|
+   | Technological acceleration | Advanced quantum‑communication research by ≈ 40 years (2083 CE → 2123 CE milestone) | Prompted revised stellar‑evolution models; accelerated development of high‑energy astrophysical instrumentation by ≈ 25 years (2045 CE → 2070 CE) |
+   • Societal ripple | Initiated the “Quantum Leap” policy cycle, leading to the 2157 CE Collapse that erased all recorded Veyra data (EDL rebound exceeded 1.0 × 10⁵ J·s⁻¹·yr⁻¹) | Triggered a cultural “Stellar Dawn” movement; influenced the 2145 CE policy to institute permanent entropy‑monitoring grids around supernova‑prone systems |
+   • Governance response | Formation of the Chrono‑Stability Council (CSC) with mandate to audit EDL entries exceeding 8.0 × 10⁴ J·s⁻¹·yr⁻¹ | Adoption of the Dark‑Energy Fracture Protocol (DEFP‑1) mandating real‑time PSC monitoring for all high‑luminosity events |
+   • Empirical verification | Re‑analysis of 1947 telemetry confirmed PSC = 0.62 ± 0.02; TPI = 0.41 ± 0.05 | Spectroscopic re‑measurement of Kether‑9 remnant yields PSC = 0.93 ± 0.01; TPI aligns with simulation predictions (0.84 ± 0.03) |
+
+   The comparative table demonstrates that while the Veyra Incident generated a modest but technologically pivotal echo with a lower EDL burden, the Kether‑9 supernova produced a high‑magnitude echo with a larger entropy debt, yielding broader scientific and cultural repercussions.
+
+4. Event‑Specific Ripple Effects
+
+   • Veyra Incident Ripple
+     – Causal echo introduced a retro‑active constraint on 1940s communication protocols, forcing the adoption of early error‑correction codes that later became standard in 2080s quantum networks.
+     – The induced entropy debt required a compensatory phase‑shift in 2157 CE, resulting in a systemic collapse that erased all Veyra‑related archives, illustrating the fragility of fracture‑driven loops.
+
+   • Kether‑9 Supernova Ripple
+     – The early‑arrival photon field altered astronomical reference frames, causing a 0.02 s advance in pulse timing models for PSR J1738‑3735 (recorded in /pulse_logs.md).
+     – This advance propagated into the 2134 CE “Titan Atmospheric Reversal” event, where a comet‑induced fracture sustained entropy inversion for 17 minutes, directly linking the supernova echo to a later climate‑control decision cycle.
+
+5. Synthesis of Loop‑Fracture Interaction
+   – Both events illustrate the Law of Echoing Causality: deterministic loops (e.g., technological diffusion, stellar observation cycles) provide scaffolding, while fractures inject divergent possibilities.
+   – The Veyra Incident’s lower TPI (0.41) placed it in a loop‑dominant regime, making its technological echo more readily integrated into existing developmental pathways.
+   – The Kether‑9 Supernova’s higher TPI (0.84) situates it in a fracture‑dominant regime, granting it the capacity to reshape broader observational frameworks and induce systemic policy shifts.
+
+6. Verification Protocol for Future Echo Assessment
+   – Step 1: Quantify ∇S using calibrated thermodynamic sensors; record the exact ΔS value.
+   – Step 2: Compute TPI = (Δt · ∇S)/(ħ / k_B T) and verify against the target range (0 < TPI < 1).
+   – Step 3: Derive PSC = Δτ / ΔS from observed temporal offset Δτ and entropy deficit ΔS.
+   – Step 4: Log EDL contribution as ΔS · Δt in the Entropy Debt Ledger; ensure it does not exceed the critical threshold of 1.0 × 10⁵ J·s⁻¹·yr⁻¹ for non‑mitigated fractures.
+   – Step 5: Apply the verification standard from /verification.md: any claim of a new temporal echo must be accompanied by a TPI value, an EDL entry, and a PSC measurement derived from calibrated spacetime imaging.
+
+7. Outlook
+   – The reconciliation confirms that the Veyra Incident and Kether‑9 supernova are two manifestations of the same underlying phenomenon, differentiated only by scale and entropy budget.
+   – Their differential impacts on technology, culture, and governance underscore the dual role of loops (providing stability) and fractures (enabling breakthroughs).
+   – Future work will map additional historical anomalies onto the TPI‑EDL‑PSC triad to refine predictive models of temporal echo propagation.
+
+---
+
+*End of entry.*
