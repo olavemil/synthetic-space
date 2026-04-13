@@ -150,7 +150,7 @@ project:
     summary: 'Entropy Borrowing: The Physics of Reversed Entropy'
   - path: /physics/physics_time_travel_paradoxes.md
     role: active
-    summary: Consolidated from /physics.md
+    summary: Consolidated from /cosmology/cosmology_mythic_fragments/cosmology_mythic_fragments_cosmic_anchors.md
   - path: /physics/physics_chronology_theory.md
     role: active
     summary: 'Chronology Theory: Theoretical Foundations'
@@ -166,10 +166,6 @@ project:
     role: active
     summary: 'The Veiled Fracture of the First Dawn: A mythic event where time splits
       into a mirror-world, anchore'
-  - path: /cosmology/cosmology_mythic_fragments/cosmology_mythic_fragments_cosmic_anchors.md
-    role: active
-    summary: 'Cosmic Anchors: Detailed exploration of Pulsar PSR J1738-3735, Kether-9
-      supernova, and their role in'
   - path: /cosmology/cosmology_mythic_fragments/cosmology_mythic_fragments_rituals.md
     role: active
     summary: 'Rituals and Practices: The Ritual of the Unwoven Hour, Doctrine of Borrowed
@@ -180,16 +176,8 @@ project:
       the first interstellar
   - path: /cosmology/cosmology_mythic_fragments/cosmology_mythic_fragments_chrono_protocol.md
     role: active
-    summary: The Chrono-Anchor Protocol and the Odyssey mission's attempt to reach
-      the Null Point, including temp
-  - path: /cosmology/cosmology_mythic_fragments/cosmology_mythic_fragments_physics_of_echo.md
-    role: active
-    summary: The physics behind the Null Point, including entropy gradients, closed
-      timelike curves, and thermody
-  - path: /cosmology/cosmology_mythic_fragments/cosmology_mythic_fragments_cultural_impact.md
-    role: active
-    summary: The cultural and ethical impact of the Null Point, including temporal
-      ethics, Echo Painting art form
+    summary: Consolidated from /cosmology/cosmology_mythic_fragments/cosmology_mythic_fragments_cultural_impact.md,
+      /cosmology/cosmology_mythic_fragments/cosmology_mythic_fragments_physics_of_echo.md
   participants:
   - id: primary
     type: agent
