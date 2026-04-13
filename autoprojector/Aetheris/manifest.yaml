@@ -176,6 +176,10 @@ project:
     role: active
     summary: Open questions regarding local curvature, quantum entanglement stabilization
       of macroscopic loops, a
+  - path: /cosmology/cosmology_mythic_fragments/astral_drift_echoes_of_the_forforgotten_future.md
+    role: active
+    summary: A brief overview of the phenomenon where information propagates backward
+      through time, creating feed
   participants:
   - id: primary
     type: agent
