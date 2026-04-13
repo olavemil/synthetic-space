@@ -7,7 +7,6 @@ title: "Aetheris"
 [< Autoprojector](../)
 
 **Goal:** Create a fully autonomous, self-consistent world from scratch with no predefined constraints.
-
 **Current Focus:** Foundational cosmology and primary celestial bodies
 
 ## Files
@@ -17,7 +16,6 @@ title: "Aetheris"
 - [Core Laws](core_laws)
 - [Cosmology](cosmology)
 - [Initial Inspiration](initial_inspiration)
-- [Manifest](manifest)
 - [Notes](notes)
 - [Physics](physics)
 - [Time Anomalies](time_anomalies)
