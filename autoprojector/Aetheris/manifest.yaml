@@ -163,6 +163,18 @@ project:
   - path: /physics/physics_historical_anomalies.md
     role: active
     summary: Consolidated from /physics/physics_temporal_echoes.md, /physics/physics_temporal_fractures.md
+  - path: /physics/physics_entropy_borrowing.md
+    role: active
+    summary: 'Entropy Borrowing: The Physics of Reversed Entropy'
+  - path: /physics/physics_quantum_mechanics.md
+    role: active
+    summary: Quantum Mechanics and Temporal Entanglement
+  - path: /physics/physics_time_travel_paradoxes.md
+    role: active
+    summary: 'Time Travel Paradoxes: Resolving Logical Inconsistencies'
+  - path: /physics/physics_chronology_theory.md
+    role: active
+    summary: 'Chronology Theory: Theoretical Foundations'
   participants:
   - id: primary
     type: agent
