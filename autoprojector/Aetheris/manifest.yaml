@@ -178,6 +178,10 @@ project:
     role: active
     summary: Consolidated from /cosmology/cosmology_mythic_fragments/cosmology_mythic_fragments_cultural_impact.md,
       /cosmology/cosmology_mythic_fragments/cosmology_mythic_fragments_physics_of_echo.md
+  - path: /cosmology/cosmology_mythic_fragments/cosmology_mythic_fragments_legacy_of_the_echo.md
+    role: active
+    summary: The Legacy of the Echo, encompassing its enduring influence on human
+      thought, culture, and technolog
   participants:
   - id: primary
     type: agent
