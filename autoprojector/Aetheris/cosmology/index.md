@@ -6,6 +6,10 @@ title: "Cosmology"
 
 [< Aetheris](../)
 
+## Sections
+
+- [Cosmology Mythic Fragments](cosmology_mythic_fragments/)
+
 ## Files
 
 - [Cosmology Laws Beyond Fractures](cosmology_laws_beyond_fractures)

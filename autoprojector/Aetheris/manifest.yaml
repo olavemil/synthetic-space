@@ -175,6 +175,26 @@ project:
   - path: /physics/physics_chronology_theory.md
     role: active
     summary: 'Chronology Theory: Theoretical Foundations'
+  - path: /cosmology/cosmology_mythic_fragments/cosmology_mythic_fragments_song_unwoven_hour.md
+    role: active
+    summary: 'The Song of the Unwoven Hour: A ritual involving drumming, cymbals,
+      and lullabies to reenact a cosmi'
+  - path: /cosmology/cosmology_mythic_fragments/cosmology_mythic_fragments_entropy_reversal.md
+    role: active
+    summary: 'Entropy Reversal as Sacred Equilibrium: The cosmic law of exchanging
+      breaths with the future and its'
+  - path: /cosmology/cosmology_mythic_fragments/cosmology_mythic_fragments_veiled_fracture.md
+    role: active
+    summary: 'The Veiled Fracture of the First Dawn: A mythic event where time splits
+      into a mirror-world, anchore'
+  - path: /cosmology/cosmology_mythic_fragments/cosmology_mythic_fragments_cosmic_anchors.md
+    role: active
+    summary: 'Cosmic Anchors: Detailed exploration of Pulsar PSR J1738-3735, Kether-9
+      supernova, and their role in'
+  - path: /cosmology/cosmology_mythic_fragments/cosmology_mythic_fragments_rituals.md
+    role: active
+    summary: 'Rituals and Practices: The Ritual of the Unwoven Hour, Doctrine of Borrowed
+      Seconds, and other tempo'
   participants:
   - id: primary
     type: agent
