@@ -24,7 +24,6 @@ title: "Aetheris"
 - [Notes](notes)
 - [Phase Context](phase_context)
 - [Phase Report](phase_report)
-- [Project Review](project_review)
 - [Session Recap](session_recap)
 - [Time Fractures](time_fractures)
 - [Timeline](timeline)

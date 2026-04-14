@@ -181,7 +181,7 @@ project:
       temporal engineering protoc
   - path: /celestial_bodies/celestial_bodies_case_studies/rogue_planets.md
     role: active
-    summary: Consolidated from /celestial_bodies/celestial_bodies_case_studies/exoplanetary_gas_giants.md
+    summary: Consolidated from /project_review.md, /notes/notes_time_phenomena/notes_time_phenomena_fracture_mechanics.md
   - path: /celestial_bodies/celestial_bodies_case_studies/dark_matter_halos.md
     role: active
     summary: Investigation of dark matter halos around exoplanetary systems, focusing
@@ -190,9 +190,6 @@ project:
     role: active
     summary: Covers the definition, initiation conditions, verifiable examples, and
       knowledge effects of temporal
-  - path: /notes/notes_time_phenomena/notes_time_phenomena_fracture_mechanics.md
-    role: active
-    summary: Consolidated from /cosmology/cosmology_mythic_fragments/cosmology_mythic_fragments_entropy_reversal/cosmology_mythic_fragments_entropy_reversal_core_phenomena/chrono_anchor_protocol.md
   - path: /celestial_bodies/formation_mechanics.md
     role: active
     summary: 'Explain the formation of primary stars and planets, focusing on nebula

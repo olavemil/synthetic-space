@@ -8,5 +8,4 @@ title: "Notes Time Phenomena"
 
 ## Files
 
-- [Notes Time Phenomena Fracture Mechanics](notes_time_phenomena_fracture_mechanics)
 - [Notes Time Phenomena Temporal Loops](notes_time_phenomena_temporal_loops)
