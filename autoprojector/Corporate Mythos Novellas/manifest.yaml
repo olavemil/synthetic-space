@@ -1,0 +1,28 @@
+project:
+  name: Corporate Mythos Novellas
+  type: fiction
+  goal: Create concise, educational novellas about corporate management within a shared
+    mythos.
+  constraints:
+  - Stories must be no longer than necessary
+  - Avoid excessive horror imagery
+  current_focus: Developing the shared mythos and first novella outline
+  known_issues: []
+  files:
+  - path: /mythos_bible.md
+    role: active
+    summary: Shared worldbuilding document for the corporate mythos.
+  - path: /novella_outline_1.md
+    role: active
+    summary: Outline for the first novella in the series.
+  - path: /management_guide.md
+    role: active
+    summary: Educational content on middle management practices.
+  - path: /style_guide.md
+    role: active
+    summary: Writing guidelines for tone, length, and thematic consistency.
+  participants:
+  - id: primary
+    type: agent
+    description: Main development agent
+    endpoint: null
