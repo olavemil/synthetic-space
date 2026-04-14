@@ -21,7 +21,6 @@ title: "Corporate Mythos Novellas"
 
 ## Files
 
-- [Ledger Of Echoes](ledger_of_echoes)
 - [Novella Outline 1](novella_outline_1)
 - [Project Overview](project_overview)
 - [Style Guide](style_guide)

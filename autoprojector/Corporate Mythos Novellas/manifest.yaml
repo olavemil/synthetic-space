@@ -9,9 +9,6 @@ project:
   current_focus: Developing the shared mythos and first novella outline
   known_issues: []
   files:
-  - path: /ledger_of_echoes.md
-    role: active
-    summary: Consolidated from /novella_1/chapter_1.md
   - path: /novella_outline_1.md
     role: active
     summary: Consolidated from /mythos_bible/mythos_bible_cfo_shadow.md, /mythos_bible/mythos_bible_reckoning.md,
@@ -35,12 +32,23 @@ project:
       mysteries within The Glas
   - path: /novella_outline_1/novella_outline_1_overview.md
     role: active
-    summary: This file will cover the project overview, including title, word count
-      target, core objective, deliv
+    summary: Consolidated from /ledger_of_echoes.md
   - path: /novella_1/chapter_3.md
     role: active
     summary: The third chapter of the novella, where the protagonist faces a critical
       decision that will shape th
+  - path: /mythos_bible/mythos_bible_ledgers_echo/mythos_bible_ledgers_echo_setting.md
+    role: active
+    summary: Details about the Glass Atrium setting, including architecture, atmosphere,
+      and guardians.
+  - path: /novella_1/chapter_glass_atrium/glossary.md
+    role: active
+    summary: Create a glossary of key terms and concepts specific to the Glass Atrium
+      setting, including architec
+  - path: /novella_1/chapter_glass_atrium/guardians.md
+    role: active
+    summary: "Detail the guardians of The Glass Atrium, focusing on Ledger\u2019s\
+      \ Echo and any other entities. Include "
   participants:
   - id: primary
     type: agent
