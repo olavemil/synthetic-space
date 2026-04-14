@@ -171,10 +171,6 @@ project:
     role: active
     summary: A concise description of future-directed temporal echoes, their characteristics,
       and detection metho
-  - path: /cosmology/cosmology_mythic_fragments/cosmology_mythic_fragments_entropy_reversal/cosmology_mythic_fragments_entropy_reversal_core_phenomena/chrono_anchor_protocol.md
-    role: active
-    summary: A device designed to stabilize temporal conditions and facilitate controlled
-      observation of future e
   - path: /cosmology/cosmology_mythic_fragments/cosmology_mythic_fragments_legacy_of_the_echo/cosmology_mythic_fragments_legacy_of_the_echo_quantum_superposition_collapse.md
     role: active
     summary: Covers the collapse of quantum superpositions into classical trajectories,
@@ -196,8 +192,11 @@ project:
       knowledge effects of temporal
   - path: /notes/notes_time_phenomena/notes_time_phenomena_fracture_mechanics.md
     role: active
-    summary: Explains the definition, probability rule, confirmed instances, and artificial
-      stabilization of frac
+    summary: Consolidated from /cosmology/cosmology_mythic_fragments/cosmology_mythic_fragments_entropy_reversal/cosmology_mythic_fragments_entropy_reversal_core_phenomena/chrono_anchor_protocol.md
+  - path: /celestial_bodies/formation_mechanics.md
+    role: active
+    summary: 'Explain the formation of primary stars and planets, focusing on nebula
+      collapse dynamics influenced '
   participants:
   - id: primary
     type: agent
