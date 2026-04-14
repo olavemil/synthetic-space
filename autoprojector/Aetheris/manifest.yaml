@@ -175,6 +175,26 @@ project:
     role: active
     summary: A device designed to stabilize temporal conditions and facilitate controlled
       observation of future e
+  - path: /cosmology/cosmology_mythic_fragments/cosmology_mythic_fragments_legacy_of_the_echo/cosmology_mythic_fragments_legacy_of_the_echo_quantum_superposition_collapse.md
+    role: active
+    summary: Covers the collapse of quantum superpositions into classical trajectories,
+      governed by temporal deca
+  - path: /cosmology/cosmology_mythic_fragments/cosmology_mythic_fragments_legacy_of_the_echo/cosmology_mythic_fragments_legacy_of_the_echo_applied_consequences.md
+    role: active
+    summary: Details applied consequences such as predictive civilizational modeling,
+      temporal engineering protoc
+  - path: /celestial_bodies/celestial_bodies_case_studies/exoplanetary_gas_giants.md
+    role: active
+    summary: Detailed case study of a gas giant exoplanet, focusing on its atmospheric
+      composition, unique anomal
+  - path: /celestial_bodies/celestial_bodies_case_studies/rogue_planets.md
+    role: active
+    summary: Case study of a rogue planet, detailing its formation history, lack of
+      host star, and observed anoma
+  - path: /celestial_bodies/celestial_bodies_case_studies/dark_matter_halos.md
+    role: active
+    summary: Investigation of dark matter halos around exoplanetary systems, focusing
+      on their detection methods,
   participants:
   - id: primary
     type: agent

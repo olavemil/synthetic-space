@@ -9,6 +9,7 @@ title: "Cosmology Mythic Fragments"
 ## Sections
 
 - [Cosmology Mythic Fragments Entropy Reversal](cosmology_mythic_fragments_entropy_reversal/)
+- [Cosmology Mythic Fragments Legacy Of The Echo](cosmology_mythic_fragments_legacy_of_the_echo/)
 
 ## Files
 
