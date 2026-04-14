@@ -1,12 +1,16 @@
 direction:
-  guidance: '- Create a fully autonomous, self-consistent world from scratch with
-    no predefined constraints
-
-    - Build out concrete content beyond foundational cosmology and primary celestial
-    bodies, focusing on succinct concepts to minimize inconsistencies
-
-    - Limit file sizes for mutable content'
-  updated_cycle: 100
+  guidance: "- Prioritize adding concrete content beyond foundational cosmology and\
+    \ primary celestial bodies to build out the world\n- Maintain succinct concepts\
+    \ with limited file sizes for mutable content to minimize inconsistencies\n- Lengthen\
+    \ cycles slightly, focusing on:\n  - Requirements: Generate updated UserSteering\
+    \ and PhaseContext from messages\n  - Plan: Determine technical focus (maintenance,\
+    \ ideation, creativity, refinement) and project focus algorithmically\n  - Execute:\
+    \ Perform steps with LLM calls using SessionContext, retrying for duplicates or\
+    \ mangled results\n  - Review: Recap session and generate PhaseReport/ProjectReview\
+    \ if due (3/9 cycles)\n- Avoid remaining in foundational space indefinitely; balance\
+    \ between depth and breadth\n- Continue algorithmic task selection based on FileMetrics,\
+    \ with optional maintenance steps for high-similarity files"
+  updated_cycle: 102
   history:
   - cycle: 94
     guidance: '- Create a fully autonomous, self-consistent world from scratch with
@@ -14,3 +18,11 @@ direction:
 
       - Build out concrete content beyond foundational cosmology and primary celestial
       bodies'
+  - cycle: 100
+    guidance: '- Create a fully autonomous, self-consistent world from scratch with
+      no predefined constraints
+
+      - Build out concrete content beyond foundational cosmology and primary celestial
+      bodies, focusing on succinct concepts to minimize inconsistencies
+
+      - Limit file sizes for mutable content'

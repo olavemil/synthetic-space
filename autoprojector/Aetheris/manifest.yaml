@@ -184,6 +184,10 @@ project:
     role: active
     summary: A device designed to stabilize temporal conditions and facilitate controlled
       observation of future e
+  - path: /cosmology/cosmology_mythic_fragments/cosmology_mythic_fragments_entropy_reversal/cosmology_mythic_fragments_entropy_reversal_core_phenomena/astral_drift_echoes_of_the_forgotten_future.md
+    role: active
+    summary: A concise description of astral drift echoes, focusing on their temporal
+      and spectral characteristic
   participants:
   - id: primary
     type: agent
