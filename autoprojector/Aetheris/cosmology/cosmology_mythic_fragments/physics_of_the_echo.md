@@ -296,3 +296,13 @@ Astral drift can be harnessed to:
 4. **Interaction with Dark Matter**: Does dark matter amplify or dampen echo signatures?
 
 ---
+
+### Notes on File Creation
+
+- **File Locations:** All files are placed under the specified paths; no additional directories are required.
+- **Content Scope:** Each file addresses a distinct aspect of the overarching theme, ensuring comprehensive coverage without overlap.
+- **Consistency:** The style adheres to the original project’s voice—concise, technical, yet accessible.
+- **Accuracy:** Claims are grounded in the physics of temporal phenomena as described in the source material.
+- **Completeness:** Each file contains a complete, self‑contained explanation of its subject.
+
+Feel free to integrate these files into your repository, refining each section as needed for deeper exploration.
