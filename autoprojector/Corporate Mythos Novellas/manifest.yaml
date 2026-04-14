@@ -14,32 +14,29 @@ project:
     summary: Shared worldbuilding document for the corporate mythos.
   - path: /novella_outline_1.md
     role: active
-    summary: Outline for the first novella in the series.
+    summary: Consolidated from /mythos_bible/mythos_bible_cfo_shadow.md, /mythos_bible/mythos_bible_reckoning.md,
+      /management_guide/management_guide_implementation.md
   - path: /management_guide.md
     role: active
     summary: Educational content on middle management practices.
-  - path: /style_guide.md
+  - path: /writing_style/guidelines.md
     role: active
     summary: Writing guidelines for tone, length, and thematic consistency.
   - path: /mythos_bible/mythos_bible_ledgers_echo.md
     role: active
     summary: "This file covers the 'Ledger\u2019s Echo' chapter, including its setting\
       \ in The Glass Atrium and key fram"
-  - path: /mythos_bible/mythos_bible_reckoning.md
-    role: active
-    summary: This file covers the 'The Reckoning' chapter, detailing The Vault setting
-      and frameworks like the La
-  - path: /mythos_bible/mythos_bible_cfo_shadow.md
-    role: active
-    summary: "This file covers the 'The CFO\u2019s Shadow' chapter, describing its\
-      \ manifestation rules and implications"
-  - path: /management_guide/management_guide_project.md
+  - path: /operational_frameworks/triad_accountability.md
     role: active
     summary: This file covers the project details, including its name and goal.
-  - path: /management_guide/management_guide_implementation.md
+  - path: /novella_1/chapter_1.md
     role: active
-    summary: This file outlines the implementation blueprint, including success metrics
-      and delivery cadence.
+    summary: The first chapter of the novella, introducing the protagonist and setting
+      up their initial encounter
+  - path: /novella_1/chapter_2.md
+    role: active
+    summary: The second chapter of the novella, where the protagonist begins to uncover
+      mysteries within The Glas
   participants:
   - id: primary
     type: agent
