@@ -28,3 +28,4 @@ title: "Aetheris"
 - [Session Recap](session_recap)
 - [Time Fractures](time_fractures)
 - [Timeline](timeline)
+- [User Steering](user_steering)

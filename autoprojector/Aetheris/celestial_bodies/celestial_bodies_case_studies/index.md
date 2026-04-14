@@ -22,5 +22,4 @@ title: "Celestial Bodies Case Studies"
 - [Celestial Bodies Case Studies Orbital Decay](celestial_bodies_case_studies_orbital_decay)
 - [Celestial Bodies Case Studies Primary Stars](celestial_bodies_case_studies_primary_stars)
 - [Dark Matter Halos](dark_matter_halos)
-- [Exoplanetary Gas Giants](exoplanetary_gas_giants)
 - [Rogue Planets](rogue_planets)

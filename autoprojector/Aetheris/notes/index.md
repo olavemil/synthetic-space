@@ -6,6 +6,10 @@ title: "Notes"
 
 [< Aetheris](../)
 
+## Sections
+
+- [Notes Time Phenomena](notes_time_phenomena/)
+
 ## Files
 
 - [Notes Time Anomalies](notes_time_anomalies)

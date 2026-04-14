@@ -183,18 +183,21 @@ project:
     role: active
     summary: Details applied consequences such as predictive civilizational modeling,
       temporal engineering protoc
-  - path: /celestial_bodies/celestial_bodies_case_studies/exoplanetary_gas_giants.md
-    role: active
-    summary: Detailed case study of a gas giant exoplanet, focusing on its atmospheric
-      composition, unique anomal
   - path: /celestial_bodies/celestial_bodies_case_studies/rogue_planets.md
     role: active
-    summary: Case study of a rogue planet, detailing its formation history, lack of
-      host star, and observed anoma
+    summary: Consolidated from /celestial_bodies/celestial_bodies_case_studies/exoplanetary_gas_giants.md
   - path: /celestial_bodies/celestial_bodies_case_studies/dark_matter_halos.md
     role: active
     summary: Investigation of dark matter halos around exoplanetary systems, focusing
       on their detection methods,
+  - path: /notes/notes_time_phenomena/notes_time_phenomena_temporal_loops.md
+    role: active
+    summary: Covers the definition, initiation conditions, verifiable examples, and
+      knowledge effects of temporal
+  - path: /notes/notes_time_phenomena/notes_time_phenomena_fracture_mechanics.md
+    role: active
+    summary: Explains the definition, probability rule, confirmed instances, and artificial
+      stabilization of frac
   participants:
   - id: primary
     type: agent
