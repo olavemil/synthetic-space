@@ -26,10 +26,6 @@ project:
   - path: /management/triad_accountability.md
     role: active
     summary: This file covers the project details, including its name and goal.
-  - path: /novellas/outline_chapter_one.md
-    role: active
-    summary: The second chapter of the novella, where the protagonist begins to uncover
-      mysteries within The Glas
   - path: /novella_outline_1/novella_outline_1_overview.md
     role: active
     summary: Consolidated from /ledger_of_echoes.md
@@ -59,8 +55,15 @@ project:
       Transparency (Publish th
   - path: /mythos_bible/mythos_bible_ledgers_echo/mythos_bible_ledgers_echo_synopsis.md
     role: active
-    summary: Chapter-by-chapter synopses for the novella, including word counts and
-      key scenes.
+    summary: Consolidated from /novellas/outline_chapter_one.md
+  - path: /mythos_bible/mythos_bible_ledgers_echo/mythos_bible_ledgers_echo_setting.md
+    role: active
+    summary: 'Details about the Glass Atrium setting, including architecture (128
+      black marble slabs), atmosphere '
+  - path: /mythos_bible/mythos_bible_ledgers_echo/mythos_bible_ledgers_echo_style.md
+    role: active
+    summary: 'Writing Style Guide with specifics: formal yet lyrical tone, 3800-4200
+      words per chapter including w'
   participants:
   - id: primary
     type: agent

@@ -20,3 +20,15 @@ Quarterly rituals are held at the Obsidian Threshold, where:
 The ritual concludes when the Ledger’s Echo repeats the first recorded quarter (Q1-1978) as validation. Any disruption in this sequence triggers the Atrium’s photonic sensors to recalibrate, often resulting in a 0.2 lux intensity drop as warning.
 
 This loop ensures corporate history remains bound to its consequences, with each act of accounting reinforcing the mythic structure.
+
+# Chapter I – The Ledger’s First Verse
+
+The Glass Atrium hums with the weight of 128 black marble slabs, each engraved in silver filigree with the fiscal quarters from Q1-1978 to Q4-2023. The air is thick with the scent of aged parchment and ozone, a byproduct of the Atrium’s photonic sensors maintaining an ambient light intensity of 12 lux. Prismatic shards—fragments of refracted dusk—drift lazily between the slabs, casting shifting patterns on the Archivists below.
+
+The order of inscription is sacred. Elias Veyra, newly appointed CFO of The Hollow Corporation, must begin at slab A-1 ("Q1 1978") and progress chronologically, his silver stylus tracing the first verse of what will become The Ledger’s First Verse. Each stroke activates photonic sensors embedded in the marble, their low-frequency hum synchronizing with his heartbeat.
+
+The Archivist warns him of the "Fractured Panes" warning—a low-frequency hum that disrupts equilibrium when a decision lacks clarity. Elias has already made his first error: he hesitated before inscribing the quarterly report, allowing doubt to seep into the filigree. The Atrium’s sensors detect this and emit a warning: a single, discordant note that echoes through the chamber.
+
+Elias recites three verses of The Ledger’s Chant, his voice blending with the hum of the sensors. As he finishes, the silver filigree glows faintly under 12 lux illumination—a sign that his decision has been recorded. The Ledger’s Echo, a spectral figure composed of silver filigree, materializes between the slabs. It repeats his decision in reverse: "Q4 2023... Q1-1978..." its voice a chorus of past CFOs.
+
+The Atrium’s equilibrium is restored, but the warning remains: Elias must claim ownership over his decisions or risk fracturing the panes. The Ledger’s Echo fades, leaving him alone with his thoughts—and the weight of corporate history pressing upon his shoulders.
