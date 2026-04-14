@@ -197,6 +197,18 @@ project:
     role: active
     summary: 'Explain the formation of primary stars and planets, focusing on nebula
       collapse dynamics influenced '
+  - path: /cosmology/cosmology_mythic_fragments/cosmology_mythic_fragments_legacy_of_the_echo/cosmology_mythic_fragments_legacy_of_the_echo_quantum_superposition_collapse/cosmology_mythic_fragments_legacy_of_the_echo_quantum_superposition_collapse_temporal_loops.md
+    role: active
+    summary: Overview of temporal loops, their formation mechanisms, and observable
+      consequences.
+  - path: /cosmology/cosmology_mythic_fragments/cosmology_mythic_fragments_legacy_of_the_echo/cosmology_mythic_fragments_legacy_of_the_echo_quantum_superposition_collapse/cosmology_mythic_fragments_legacy_of_the_echo_quantum_superposition_collapse_observable_effects.md
+    role: active
+    summary: Observable consequences of temporal fractures on planetary systems and
+      human technology.
+  - path: /physics/fundamental_forces.md
+    role: active
+    summary: Outline the fundamental forces of Aetheris, their interactions with temporal
+      phenomena, and how they
   participants:
   - id: primary
     type: agent
