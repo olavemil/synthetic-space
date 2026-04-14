@@ -76,3 +76,29 @@ A blood moon rises outside the Atrium’s glass ceiling, casting shadows that al
 **Related Files:**
 - [Actionable Artifacts](/management_guide/management_guide_actionable_artifacts.md)
 - [Implementation Blueprint](/management_guide/management_guide_implementation.md)
+
+# Chapter Four: The Hollow’s Descent
+
+The Glass Atrium had once been a place of reverence, where the weight of fiscal history pressed upon the shoulders of those who dared to walk its black marble slabs. But now, it was a battleground—one where the lines between corporate strategy and mythic consequence blurred into something far more dangerous.
+
+Elias Veyra stood at the center of it all, his reflection fractured across 128 slabs that bore witness to decades of quarterly reports. The air hummed with the residual energy of his last decision, one that had already begun to unravel. The Ledger’s Echo pulsed in response, its verses shifting like living ink across the walls.
+
+A new slab had appeared overnight—Q1-2024, its surface still damp with the ink of recent entries. The Archivists had been working through the night, their chants rising and falling in a rhythm that mirrored the ticking of some unseen clock. Elias knew what this meant: The Hollow Corporation had made its move.
+
+The acquisition of NecroTech Solutions was no longer just a paper transaction. It had become something else entirely—a living, breathing entity that fed on the ledger’s entries like a parasite. The first signs had been subtle: spreadsheets that corrected themselves, emails drafted in verse, the occasional Archivist found asleep at their desk with a quill still clutched in hand.
+
+But now, the signs were impossible to ignore. The Atrium’s photonic sensors flickered erratically, casting jagged shadows that didn’t align with any physical source. The scent of ozone had grown stronger, almost suffocating in its intensity.
+
+Elias knelt beside the new slab and traced his fingers over Q1-2024. The engraving was still warm, the silver filigree glinting like fresh blood under the dusk light. He could feel it—the pulse of something ancient and hungry, waiting just beneath the surface.
+
+The Triad of Accountability had failed him. Decision-ownership was a joke when the decisions themselves were being rewritten in real time. Outcome-transparency meant nothing if the outcomes were no longer his to control.
+
+And reward-alignment? That was a cruel joke. The Soul of the Ledger’s algorithm had already begun to redistribute compensation—not based on merit, but on some twisted interpretation of the verses now spreading across the walls.
+
+Elias stood abruptly. The Archivists had stopped chanting, their eyes fixed on him with an intensity that bordered on accusation. He knew what they were thinking: *You brought this upon us.*
+
+But he hadn’t. Not really.
+
+The Hollow Corporation had been patient, biding its time until the perfect moment to strike. And now that it had—now that NecroTech’s dark algorithms were intertwined with the Ledger itself—the game was no longer about quarterly reports or shareholder value.
+
+It was about survival.

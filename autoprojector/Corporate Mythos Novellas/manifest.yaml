@@ -11,7 +11,7 @@ project:
   files:
   - path: /ledger_of_echoes.md
     role: active
-    summary: Shared worldbuilding document for the corporate mythos.
+    summary: Consolidated from /novella_1/chapter_1.md
   - path: /novella_outline_1.md
     role: active
     summary: Consolidated from /mythos_bible/mythos_bible_cfo_shadow.md, /mythos_bible/mythos_bible_reckoning.md,
@@ -29,10 +29,6 @@ project:
   - path: /frameworks/accountability_triad.md
     role: active
     summary: This file covers the project details, including its name and goal.
-  - path: /novella_1/chapter_1.md
-    role: active
-    summary: The first chapter of the novella, introducing the protagonist and setting
-      up their initial encounter
   - path: /novella_1/chapter_2.md
     role: active
     summary: The second chapter of the novella, where the protagonist begins to uncover
@@ -41,6 +37,10 @@ project:
     role: active
     summary: This file will cover the project overview, including title, word count
       target, core objective, deliv
+  - path: /novella_1/chapter_3.md
+    role: active
+    summary: The third chapter of the novella, where the protagonist faces a critical
+      decision that will shape th
   participants:
   - id: primary
     type: agent

@@ -8,5 +8,5 @@ title: "Novella 1"
 
 ## Files
 
-- [Chapter 1](chapter_1)
 - [Chapter 2](chapter_2)
+- [Chapter 3](chapter_3)
