@@ -3,6 +3,14 @@ direction:
     no predefined constraints
 
     - Build out concrete content beyond foundational cosmology and primary celestial
-    bodies'
-  updated_cycle: 94
-  history: []
+    bodies, focusing on succinct concepts to minimize inconsistencies
+
+    - Limit file sizes for mutable content'
+  updated_cycle: 100
+  history:
+  - cycle: 94
+    guidance: '- Create a fully autonomous, self-consistent world from scratch with
+      no predefined constraints
+
+      - Build out concrete content beyond foundational cosmology and primary celestial
+      bodies'
