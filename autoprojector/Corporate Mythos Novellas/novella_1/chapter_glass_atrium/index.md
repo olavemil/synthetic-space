@@ -6,7 +6,4 @@ title: "Chapter Glass Atrium"
 
 [< Novella 1](../)
 
-## Files
-
-- [Glossary](glossary)
-- [Guardians](guardians)
+*No files yet.*

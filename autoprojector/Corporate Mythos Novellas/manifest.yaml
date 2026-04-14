@@ -23,10 +23,10 @@ project:
     role: active
     summary: "This file covers the 'Ledger\u2019s Echo' chapter, including its setting\
       \ in The Glass Atrium and key fram"
-  - path: /frameworks/accountability_triad.md
+  - path: /management/triad_accountability.md
     role: active
     summary: This file covers the project details, including its name and goal.
-  - path: /novella_1/chapter_2.md
+  - path: /novellas/outline_chapter_one.md
     role: active
     summary: The second chapter of the novella, where the protagonist begins to uncover
       mysteries within The Glas
@@ -37,18 +37,30 @@ project:
     role: active
     summary: The third chapter of the novella, where the protagonist faces a critical
       decision that will shape th
-  - path: /mythos_bible/mythos_bible_ledgers_echo/mythos_bible_ledgers_echo_setting.md
+  - path: /mythos/glass_atrium_setting.md
     role: active
     summary: Details about the Glass Atrium setting, including architecture, atmosphere,
       and guardians.
-  - path: /novella_1/chapter_glass_atrium/glossary.md
+  - path: /novellas/atrium_terms.md
     role: active
     summary: Create a glossary of key terms and concepts specific to the Glass Atrium
       setting, including architec
-  - path: /novella_1/chapter_glass_atrium/guardians.md
+  - path: /mythos/atrium_guardians.md
     role: active
     summary: "Detail the guardians of The Glass Atrium, focusing on Ledger\u2019s\
       \ Echo and any other entities. Include "
+  - path: /mythos_bible/mythos_bible_ledgers_echo/mythos_bible_ledgers_echo_core_loop.md
+    role: active
+    summary: 'Description of the Core Mythic Loop, including recording acts, translating
+      stanzas into glyphs, and '
+  - path: /mythos_bible/mythos_bible_ledgers_echo/mythos_bible_ledgers_echo_triad.md
+    role: active
+    summary: Operationalized Triad of Accountability, covering Authority (Do-it-itself),
+      Transparency (Publish th
+  - path: /mythos_bible/mythos_bible_ledgers_echo/mythos_bible_ledgers_echo_synopsis.md
+    role: active
+    summary: Chapter-by-chapter synopses for the novella, including word counts and
+      key scenes.
   participants:
   - id: primary
     type: agent
