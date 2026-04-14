@@ -9,6 +9,11 @@ title: "Corporate Mythos Novellas"
 **Goal:** Create concise, educational novellas about corporate management within a shared mythos.
 **Current Focus:** Developing the shared mythos and first novella outline
 
+## Sections
+
+- [Management Guide](management_guide/)
+- [Mythos Bible](mythos_bible/)
+
 ## Files
 
 - [Management Guide](management_guide)

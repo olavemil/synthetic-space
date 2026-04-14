@@ -1,26 +1,35 @@
-```
-# Educational content on middle management practices.
+# /management_guide/management_guide_project.md
 
-## Project
-**Name:** Corporate Mythos Novellas
-**Goal:** Produce a series of concise, educational novellas that teach middle‑management competencies through a unified mythic narrative. Each novella must embed three actionable management frameworks and include a “synergy” blood‑pact clause.
+**Project Name:** Corporate Mythos Novellas
+**Primary Artifact:** *The Boardroom of Shadows* (12,000-word novella)
+**Secondary Artifacts:**
+- Appendix A: *Mythos of Bureaucratic Decay* (core tenets)
+- Appendix B: Synergy-pact clauses (one per chapter, verbatim)
+- Appendix C: Spreadsheet error-correction matrix
 
-## Related Context (from semantic index)
-- **The Triad of Accountability** – defined in /novella_outline_1.md, Chapter 1; a three‑pillar model linking decision‑authority, outcome transparency, and reward alignment.
-- **Crisis Delegation Protocols** – detailed in /novella_outline_1.md, Chapter 2; a five‑step checklist for delegating authority during critical events.
-- **Project Phoenix** – case study where 68 % of KPIs were misaligned, causing a 23 % performance dip; the novella uses this to illustrate the need for the Triad.
+**Core Goal:** Embed three actionable management frameworks per chapter within a unified mythic narrative, each concluding with a synergy-pact clause (≤150 characters).
 
-**Actionable Artifacts per Chapter**
-- A real‑world scenario (e.g., a merger with NecroTech Solutions) where the *Triad* is applied.
-- A concise “synergy” clause (≤150 characters) that must be embedded verbatim.
-- Three practical steps drawn from /management_guide.md to operationalize the frameworks.
+**Key Constraints:**
+- 80% KPI alignment required before finalizing chapters
+- Each framework must include a short vignette (≤500 words)
+- Narrative flow: origin → crisis points → synergy resolution
 
-## Implementation Blueprint
-- **Metric of Success:** Ensure at least 80 % KPI alignment before finalizing any chapter.
-- **Delivery Cadence:** Each novella must contain exactly three actionable frameworks, each illustrated with a short vignette.
-- **Narrative Flow:** Begin with the Triad’s origin story, move through crisis points, and conclude with the synergy pact resolution.
+**Case Study Integration:**
+*Project Phoenix*: 68% KPI misalignment → 23% performance dip (illustrates Triad failure)
 
-**Deliverables**
-- One 12,000‑word novella titled *The Boardroom of Shadows* (working title.
-- An appendix listing every referenced framework, metric, and the precise wording of the synergy‑pact clause.
-```
+**Delivery Cadence:**
+- Chapter 1: *The Summoning of Synergy* (4,000 words)
+- Chapter 2: *The Descent into Approval* (4,000 words)
+- Chapter 3: *The Ritual of Ruin* (4,000 words)
+
+**Mythic Audit Scene:** Must serve as catalyst for final decision (see /mythos_bible_ledgers_echo.md)
+
+**Next Steps:**
+1. Refine frameworks into actionable checklists
+2. Embed synergy-pact clauses in narrative climaxes (verbatim)
+3. Ensure recurring symbols: blood moon, Nine Halls
+4. Finalize mythic audit scene as decision catalyst
+
+**Related Files:**
+- [Actionable Artifacts](/management_guide/management_guide_actionable_artifacts.md)
+- [Implementation Blueprint](/management_guide/management_guide_implementation.md)

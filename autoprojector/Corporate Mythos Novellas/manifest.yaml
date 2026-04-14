@@ -21,6 +21,25 @@ project:
   - path: /style_guide.md
     role: active
     summary: Writing guidelines for tone, length, and thematic consistency.
+  - path: /mythos_bible/mythos_bible_ledgers_echo.md
+    role: active
+    summary: "This file covers the 'Ledger\u2019s Echo' chapter, including its setting\
+      \ in The Glass Atrium and key fram"
+  - path: /mythos_bible/mythos_bible_reckoning.md
+    role: active
+    summary: This file covers the 'The Reckoning' chapter, detailing The Vault setting
+      and frameworks like the La
+  - path: /mythos_bible/mythos_bible_cfo_shadow.md
+    role: active
+    summary: "This file covers the 'The CFO\u2019s Shadow' chapter, describing its\
+      \ manifestation rules and implications"
+  - path: /management_guide/management_guide_project.md
+    role: active
+    summary: This file covers the project details, including its name and goal.
+  - path: /management_guide/management_guide_implementation.md
+    role: active
+    summary: This file outlines the implementation blueprint, including success metrics
+      and delivery cadence.
   participants:
   - id: primary
     type: agent
