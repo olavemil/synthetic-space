@@ -10,6 +10,3 @@ title: "Mythos Bible"
 
 - [Mythos Bible Ledgers Echo](mythos_bible_ledgers_echo/)
 
-## Files
-
-- [Mythos Bible Ledgers Echo](mythos_bible_ledgers_echo)

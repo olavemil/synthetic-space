@@ -11,6 +11,7 @@ title: "Corporate Mythos Novellas"
 
 ## Sections
 
+- [Chapters](chapters/)
 - [Frameworks](frameworks/)
 - [Management](management/)
 - [Management Guide](management_guide/)
@@ -22,8 +23,3 @@ title: "Corporate Mythos Novellas"
 - [Operational Frameworks](operational_frameworks/)
 - [Writing Style](writing_style/)
 
-## Files
-
-- [Novella Outline 1](novella_outline_1)
-- [Project Overview](project_overview)
-- [Style Guide](style_guide)

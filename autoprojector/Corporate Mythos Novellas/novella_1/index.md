@@ -9,7 +9,5 @@ title: "Novella 1"
 ## Sections
 
 - [Chapter Glass Atrium](chapter_glass_atrium/)
+- [Characters](characters/)
 
-## Files
-
-- [Chapter 3](chapter_3)

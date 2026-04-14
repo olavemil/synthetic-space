@@ -13,57 +13,90 @@ project:
     role: active
     summary: Consolidated from /mythos_bible/mythos_bible_cfo_shadow.md, /mythos_bible/mythos_bible_reckoning.md,
       /management_guide/management_guide_implementation.md
+    content_type: outline
   - path: /project_overview.md
     role: active
     summary: Educational content on middle management practices.
+    content_type: meta
   - path: /style_guide.md
     role: active
     summary: Writing guidelines for tone, length, and thematic consistency.
+    content_type: reference
   - path: /mythos_bible/mythos_bible_ledgers_echo.md
     role: active
     summary: "This file covers the 'Ledger\u2019s Echo' chapter, including its setting\
       \ in The Glass Atrium and key fram"
+    content_type: worldbuilding
   - path: /management/triad_accountability.md
     role: active
     summary: This file covers the project details, including its name and goal.
+    content_type: notes
   - path: /novella_outline_1/novella_outline_1_overview.md
     role: active
     summary: Consolidated from /ledger_of_echoes.md
+    content_type: outline
   - path: /novella_1/chapter_3.md
     role: active
     summary: The third chapter of the novella, where the protagonist faces a critical
       decision that will shape th
+    content_type: chapter
   - path: /mythos/glass_atrium_setting.md
     role: active
     summary: Details about the Glass Atrium setting, including architecture, atmosphere,
       and guardians.
+    content_type: worldbuilding
   - path: /novellas/atrium_terms.md
     role: active
     summary: Create a glossary of key terms and concepts specific to the Glass Atrium
       setting, including architec
+    content_type: reference
   - path: /mythos/atrium_guardians.md
     role: active
     summary: "Detail the guardians of The Glass Atrium, focusing on Ledger\u2019s\
       \ Echo and any other entities. Include "
+    content_type: worldbuilding
   - path: /mythos_bible/mythos_bible_ledgers_echo/mythos_bible_ledgers_echo_core_loop.md
     role: active
     summary: 'Description of the Core Mythic Loop, including recording acts, translating
       stanzas into glyphs, and '
+    content_type: worldbuilding
   - path: /mythos_bible/mythos_bible_ledgers_echo/mythos_bible_ledgers_echo_triad.md
     role: active
     summary: Operationalized Triad of Accountability, covering Authority (Do-it-itself),
       Transparency (Publish th
+    content_type: worldbuilding
   - path: /mythos_bible/mythos_bible_ledgers_echo/mythos_bible_ledgers_echo_synopsis.md
     role: active
     summary: Consolidated from /novellas/outline_chapter_one.md
+    content_type: outline
   - path: /mythos_bible/mythos_bible_ledgers_echo/mythos_bible_ledgers_echo_setting.md
     role: active
     summary: 'Details about the Glass Atrium setting, including architecture (128
       black marble slabs), atmosphere '
+    content_type: worldbuilding
   - path: /mythos_bible/mythos_bible_ledgers_echo/mythos_bible_ledgers_echo_style.md
     role: active
     summary: 'Writing Style Guide with specifics: formal yet lyrical tone, 3800-4200
       words per chapter including w'
+    content_type: reference
+  - path: /mythos_bible/mythos_bible_ledgers_echo/mythos_bible_ledgers_echo_setting/mythos_bible_ledgers_echo_setting_atmospheric_control.md
+    role: active
+    summary: Describes the atmospheric control mechanisms in The Glass Atrium, such
+      as lighting and sound regulat
+    content_type: worldbuilding
+  - path: /mythos_bible/mythos_bible_ledgers_echo/mythos_bible_ledgers_echo_setting/mythos_bible_ledgers_echo_setting_core_mythic_loop.md
+    role: active
+    summary: Describes the Core Mythic Loop, including recording acts, translation
+      stanzas into glyphs, and ritua
+    content_type: worldbuilding
+  - path: /novella_1/characters/main_protagonist.md
+    role: active
+    summary: 'Create a standardized character file for the main protagonist with sections:
+      Name, Bio, Background, '
+  - path: /novella_1/characters/supporting_cast.md
+    role: active
+    summary: 'Create a standardized character file for the supporting cast with sections:
+      Name, Bio, Background, A'
   participants:
   - id: primary
     type: agent

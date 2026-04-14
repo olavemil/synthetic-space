@@ -6,6 +6,4 @@ title: "Novellas"
 
 [< Corporate Mythos Novellas](../)
 
-## Files
-
-- [Atrium Terms](atrium_terms)
+*No files yet.*
