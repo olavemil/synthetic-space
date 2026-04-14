@@ -6,6 +6,4 @@ title: "Writing Style"
 
 [< Corporate Mythos Novellas](../)
 
-## Files
-
-- [Guidelines](guidelines)
+*No files yet.*

@@ -60,3 +60,5 @@
 **References**
 - Appendix A: *The Mythos of Bureaucratic Decay* (Mythic Consistency)
 - Appendix B: *The Hollow Corporation’s Soul* (Operational Cadence)
+
+# /novella_outline_1.md

@@ -6,6 +6,4 @@ title: "Operational Frameworks"
 
 [< Corporate Mythos Novellas](../)
 
-## Files
-
-- [Triad Accountability](triad_accountability)
+*No files yet.*
