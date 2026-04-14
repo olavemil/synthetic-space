@@ -51,10 +51,6 @@ project:
     role: active
     summary: Explains time fractures, their triggers, mechanisms, effects, and alignment
       with existing documents.
-  - path: /cosmology/cosmology_mythic_fragments.md
-    role: active
-    summary: Presents mythic fragments and abstract principles that influence worldbuilding,
-      such as 'The Song of
   - path: /celestial_bodies/celestial_bodies_planetary_phase_shifts.md
     role: active
     summary: Details case studies of planetary phase shifts induced by time fractures
@@ -164,30 +160,21 @@ project:
     role: active
     summary: A concise description of a device designed to stabilize temporal conditions
       and facilitate controlle
-  - path: /cosmology/cosmology_mythic_fragments/physics_of_the_echo.md
-    role: active
-    summary: An exploration of the physical mechanisms governing temporal echoes,
-      including conditions where diso
   - path: /cosmology/cosmology_mythic_fragments/cosmology_mythic_fragments_entropy_reversal/cosmology_mythic_fragments_entropy_reversal_core_phenomena.md
     role: active
-    summary: Core phenomena related to entropy suspension, closed timelike curves
-      (CTCs), and quantum superpositi
+    summary: Consolidated from /cosmology/cosmology_mythic_fragments.md
   - path: /cosmology/cosmology_mythic_fragments/cosmology_mythic_fragments_entropy_reversal/cosmology_mythic_fragments_entropy_reversal_open_questions.md
     role: active
     summary: Open questions regarding local curvature, quantum entanglement stabilization
       of macroscopic loops, a
-  - path: /cosmology/cosmology_mythic_fragments/astral_drift_echoes_of_the_forforgotten_future.md
+  - path: /cosmology/cosmology_mythic_fragments/cosmology_mythic_fragments_entropy_reversal/cosmology_mythic_fragments_entropy_reversal_core_phenomena/astral_drift_echoes_of_the_future.md
     role: active
-    summary: A brief overview of the phenomenon where information propagates backward
-      through time, creating feed
+    summary: A concise description of future-directed temporal echoes, their characteristics,
+      and detection metho
   - path: /cosmology/cosmology_mythic_fragments/cosmology_mythic_fragments_entropy_reversal/cosmology_mythic_fragments_entropy_reversal_core_phenomena/chrono_anchor_protocol.md
     role: active
     summary: A device designed to stabilize temporal conditions and facilitate controlled
       observation of future e
-  - path: /cosmology/cosmology_mythic_fragments/cosmology_mythic_fragments_entropy_reversal/cosmology_mythic_fragments_entropy_reversal_core_phenomena/astral_drift_echoes_of_the_forgotten_future.md
-    role: active
-    summary: A concise description of astral drift echoes, focusing on their temporal
-      and spectral characteristic
   participants:
   - id: primary
     type: agent
