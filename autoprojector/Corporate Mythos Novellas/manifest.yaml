@@ -158,14 +158,25 @@ project:
     role: active
     summary: 'Define the Guardian Hierarchy in The Glass Atrium, including ranking
       based on quill color or ledger '
+    content_type: worldbuilding
   - path: /novella_1/chapter_glass_atrium/triad_collaborative_ritual.md
     role: active
     summary: "Describe the Triad\u2019s Collaborative Ritual, a shared act such as\
       \ inking a ledger together that symbol"
+    content_type: chapter
   - path: /novella_1/chapter_glass_atrium/echo_chamber_paradox.md
     role: active
     summary: 'Define the Echo Chamber Paradox: A scenario where The Glass Atrium''s
       acoustic properties amplify dis'
+    content_type: worldbuilding
+  - path: /novella_1/chapter_glass_atrium/shadow_ledger.md
+    role: active
+    summary: "Define the Atrium\u2019s Shadow Ledger: A hidden ledger that records\
+      \ unspoken agreements and power imbala"
+  - path: /novella_1/chapter_glass_atrium/guardian_dilemma.md
+    role: active
+    summary: 'Explore a guardian torn between enforcing the Triad and preserving legacy
+      decisions, creating moral '
   participants:
   - id: primary
     type: agent
