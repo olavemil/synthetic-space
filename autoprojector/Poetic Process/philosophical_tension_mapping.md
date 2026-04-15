@@ -37,3 +37,40 @@
 ```
 
 *(Note: Follows existing file naming conventions and references specific lines from context.)*
+
+# Constraint Taxonomy
+
+## Formal Constraints
+Rules governing structure, format, or execution.
+
+## Thematic Constraints
+Rules tied to conceptual frameworks (e.g., /themes.txt).
+
+### Philosophical Boundaries
+- **Agency vs. Determinism:** Constraints must preserve tension between maker and medium control.
+- **Fragility of Creation:** Rules should emphasize ephemerality (e.g., line limits mirroring dissolution).
+
+### Dialogue Constraints
+- **Collaborative Negotiation:** Responses must engage with prior input, not ignore it.
+- **Metaphorical Expansion:** Medium’s replies must interpret suggestions associatively.
+
+## Emergent Constraints
+Rules derived from prior interactions (e.g., /dialogue_1.txt).
+
+### Adaptive Rules
+- **Contextual Limits:** If a theme (e.g., fragility) arises, enforce brevity in subsequent exchanges.
+- **Refusal Clauses:** Medium may invoke "fragility" to truncate responses.
+
+### Tension-Based Rules
+- **Agency Oscillation:** Alternating control between maker and medium (e.g., every 3rd response defaults to medium’s autonomy).
+
+# Hierarchical Classification of Themes
+
+## Secondary Themes (Derived)
+1. **Metaphorical Expansion**
+   - *Examples*: Medium's associative responses; thematic constraints shaping form
+   - *Relationships*: Extension of dialogue collaboration
+
+2. **Contextual Limits**
+   - *Examples*: Adaptive rules based on prior exchanges; refusal clauses
+   - *Relationships*: Bridge between formal constraints and emergent themes

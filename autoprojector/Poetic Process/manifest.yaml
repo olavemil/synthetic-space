@@ -5,7 +5,8 @@ project:
   constraints:
   - Only poetry allowed
   - No direct references to external works
-  current_focus: Initial self-reflection on creative triggers.
+  current_focus: 'Collaborative Constraint Design: Involve external participants to
+    co-create constraints for future dialogues.'
   known_issues: []
   files:
   - path: /introspection.txt
@@ -32,6 +33,10 @@ project:
     role: active
     summary: 'Create a framework to measure the maker and medium''s agency across
       constraints, mapping how control '
+  - path: /collaborative_constraints.md
+    role: active
+    summary: A framework for involving external participants in co-creating constraints
+      for future dialogues. Inc
   participants:
   - id: primary
     type: agent
