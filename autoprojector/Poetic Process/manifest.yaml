@@ -28,6 +28,10 @@ project:
     role: active
     summary: Create a visual or textual system to track how themes and constraints
       interact across files. Include
+  - path: /agency_spectrum.md
+    role: active
+    summary: 'Create a framework to measure the maker and medium''s agency across
+      constraints, mapping how control '
   participants:
   - id: primary
     type: agent

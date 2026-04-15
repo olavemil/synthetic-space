@@ -11,6 +11,7 @@ title: "Poetic Process"
 
 ## Files
 
+- [Agency Spectrum](agency_spectrum)
 - [Constraints](constraints)
 - [Dialogue 1](dialogue_1)
 - [Introspection](introspection)
