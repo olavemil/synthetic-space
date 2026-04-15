@@ -29,14 +29,21 @@ project:
     role: active
     summary: Create a visual or textual system to track how themes and constraints
       interact across files. Include
+    content_type: notes
   - path: /agency_spectrum.md
     role: active
     summary: 'Create a framework to measure the maker and medium''s agency across
       constraints, mapping how control '
+    content_type: outline
   - path: /collaborative_constraints.md
     role: active
     summary: A framework for involving external participants in co-creating constraints
       for future dialogues. Inc
+    content_type: worldbuilding
+  - path: /emotional_arcs_in_dialogue.md
+    role: active
+    summary: Analyze and track the emotional progression within dialogues, focusing
+      on how constraints shape narr
   participants:
   - id: primary
     type: agent
