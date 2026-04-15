@@ -103,6 +103,7 @@ project:
     role: active
     summary: "Expand the outline for 'Ledger\u2019s Echo' chapter, focusing on management\
       \ frameworks such as accountabi"
+    content_type: outline
   participants:
   - id: primary
     type: agent
