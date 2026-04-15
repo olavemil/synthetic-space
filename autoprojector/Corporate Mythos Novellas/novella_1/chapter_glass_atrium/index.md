@@ -13,4 +13,5 @@ title: "Chapter Glass Atrium"
 - [Ledgers Echo](ledgers_echo)
 - [Ledgers Echo Metaphor](ledgers_echo_metaphor)
 - [Protagonist Risk Tolerance](protagonist_risk_tolerance)
+- [Triad Failure Mode](triad_failure_mode)
 - [Triad Pillars](triad_pillars)

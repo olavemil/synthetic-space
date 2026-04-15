@@ -129,6 +129,10 @@ project:
     role: active
     summary: "Define the Ledger\u2019s Echo Metaphor: How the phrase \u201CYour ledger\
       \ echoes here\u201D functions as a narrative"
+  - path: /novella_1/chapter_glass_atrium/triad_failure_mode.md
+    role: active
+    summary: A scene where all three pillars of the triad collapse (e.g., Authority
+      without Transparency), leadin
   participants:
   - id: primary
     type: agent
