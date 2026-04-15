@@ -197,6 +197,10 @@ project:
     role: active
     summary: Define how the novellas will integrate actionable management insights
       beyond storytelling, including
+  - path: /novella_1/chapter_glass_atrium/guardian_fall_from_grace.md
+    role: active
+    summary: Narrate a guardian's downfall after breaching the triad, serving as both
+      cautionary tale and plot dr
   participants:
   - id: primary
     type: agent

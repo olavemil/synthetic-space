@@ -15,6 +15,7 @@ title: "Chapter Glass Atrium"
 - [Educational Framework](educational_framework)
 - [Guardian Dilemma](guardian_dilemma)
 - [Guardian Duties](guardian_duties)
+- [Guardian Fall From Grace](guardian_fall_from_grace)
 - [Guardian Hierarchy](guardian_hierarchy)
 - [Hidden Glyphs](hidden_glyphs)
 - [Historical Crisis](historical_crisis)
