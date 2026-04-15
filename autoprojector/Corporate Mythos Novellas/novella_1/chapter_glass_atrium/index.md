@@ -8,9 +8,11 @@ title: "Chapter Glass Atrium"
 
 ## Files
 
+- [Atmospheric Control Hypothesis](atmospheric_control_hypothesis)
 - [Atrium Acoustic Echo](atrium_acoustic_echo)
 - [Atrium Architecture](atrium_architecture)
 - [Guardian Duties](guardian_duties)
+- [Guardian Hierarchy](guardian_hierarchy)
 - [Hidden Glyphs](hidden_glyphs)
 - [Ledgers Echo](ledgers_echo)
 - [Ledgers Echo Metaphor](ledgers_echo_metaphor)

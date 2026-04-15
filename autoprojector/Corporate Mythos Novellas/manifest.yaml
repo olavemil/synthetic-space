@@ -141,6 +141,14 @@ project:
     role: active
     summary: Describe the faint, reflective glyphs in The Glass Atrium that only appear
       under certain lighting co
+  - path: /novella_1/chapter_glass_atrium/atmospheric_control_hypothesis.md
+    role: active
+    summary: Explore the hypothesis of how atmospheric control mechanisms in The Glass
+      Atrium, such as lighting a
+  - path: /novella_1/chapter_glass_atrium/guardian_hierarchy.md
+    role: active
+    summary: 'Define the Guardian Hierarchy in The Glass Atrium, including ranking
+      based on quill color or ledger '
   participants:
   - id: primary
     type: agent
