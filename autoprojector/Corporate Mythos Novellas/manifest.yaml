@@ -113,42 +113,59 @@ project:
     role: active
     summary: "A scene where the protagonist\u2019s low risk tolerance causes hesitation\
       \ during a triad-driven negotiati"
+    content_type: chapter
   - path: /novella_1/chapter_glass_atrium/guardian_duties.md
     role: active
     summary: "Detail the duties and roles of The Glass Atrium guardians, focusing\
       \ on Ledger\u2019s Echo. Include their "
+    content_type: worldbuilding
   - path: /novella_1/chapter_glass_atrium/triad_pillars.md
     role: active
     summary: Describe the three physical pillars in The Glass Atrium representing
       Authority, Transparency, and Co
+    content_type: worldbuilding
   - path: /novella_1/characters/antagonist.md
     role: active
     summary: 'Create a standardized character file for the antagonist with sections:
       Name, Bio, Background, Arc, a'
+    content_type: character
   - path: /novella_1/chapter_glass_atrium/ledgers_echo_metaphor.md
     role: active
     summary: "Define the Ledger\u2019s Echo Metaphor: How the phrase \u201CYour ledger\
       \ echoes here\u201D functions as a narrative"
+    content_type: worldbuilding
   - path: /novella_1/chapter_glass_atrium/triad_failure_mode.md
     role: active
     summary: A scene where all three pillars of the triad collapse (e.g., Authority
       without Transparency), leadin
+    content_type: chapter
   - path: /novella_1/chapter_glass_atrium/atrium_architecture.md
     role: active
     summary: 'A detailed description of The Glass Atrium''s architecture, including
       its 128 black marble slabs and '
+    content_type: worldbuilding
   - path: /novella_1/chapter_glass_atrium/hidden_glyphs.md
     role: active
     summary: Describe the faint, reflective glyphs in The Glass Atrium that only appear
       under certain lighting co
+    content_type: worldbuilding
   - path: /novella_1/chapter_glass_atrium/atmospheric_control_hypothesis.md
     role: active
     summary: Explore the hypothesis of how atmospheric control mechanisms in The Glass
       Atrium, such as lighting a
+    content_type: worldbuilding
   - path: /novella_1/chapter_glass_atrium/guardian_hierarchy.md
     role: active
     summary: 'Define the Guardian Hierarchy in The Glass Atrium, including ranking
       based on quill color or ledger '
+  - path: /novella_1/chapter_glass_atrium/triad_collaborative_ritual.md
+    role: active
+    summary: "Describe the Triad\u2019s Collaborative Ritual, a shared act such as\
+      \ inking a ledger together that symbol"
+  - path: /novella_1/chapter_glass_atrium/echo_chamber_paradox.md
+    role: active
+    summary: 'Define the Echo Chamber Paradox: A scenario where The Glass Atrium''s
+      acoustic properties amplify dis'
   participants:
   - id: primary
     type: agent
