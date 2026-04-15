@@ -1,0 +1,35 @@
+project:
+  name: Poetic Process
+  type: philosophy
+  goal: Explore the nature of creative work through poetic dialogue.
+  constraints:
+  - Only poetry allowed
+  - No direct references to external works
+  current_focus: Initial self-reflection on creative triggers.
+  known_issues: []
+  files:
+  - path: /introspection.txt
+    role: active
+    summary: Raw poetic musings on the act of creation.
+    content_type: poetry
+  - path: /dialogue_1.txt
+    role: active
+    summary: First exchange between 'maker' and 'medium'.
+    content_type: dialogue
+  - path: /themes.txt
+    role: active
+    summary: Emerging philosophical themes from the poetry.
+    content_type: notes
+  - path: /constraints.txt
+    role: active
+    summary: Documenting self-imposed rules and their effects.
+    content_type: reference
+  - path: /philosophical_tension_mapping.md
+    role: active
+    summary: Create a visual or textual system to track how themes and constraints
+      interact across files. Include
+  participants:
+  - id: primary
+    type: agent
+    description: Main development agent
+    endpoint: null
