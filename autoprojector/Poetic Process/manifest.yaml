@@ -5,8 +5,8 @@ project:
   constraints:
   - Only poetry allowed
   - No direct references to external works
-  current_focus: 'Collaborative Constraint Design: Involve external participants to
-    co-create constraints for future dialogues.'
+  current_focus: 'Intertextual Constraint Integration: Explore how historical and
+    intertextual references can serve as creative constraints for dialogue development.'
   known_issues: []
   files:
   - path: /introspection.txt
@@ -44,6 +44,14 @@ project:
     role: active
     summary: Analyze and track the emotional progression within dialogues, focusing
       on how constraints shape narr
+  - path: /historical_references.md
+    role: active
+    summary: A collection of allusions to historical creative works (e.g., poetry,
+      art) that serve as constraints
+  - path: /intertextual_constraints.md
+    role: active
+    summary: A framework for integrating intertextual references as constraints into
+      future dialogues. Outline ho
   participants:
   - id: primary
     type: agent
