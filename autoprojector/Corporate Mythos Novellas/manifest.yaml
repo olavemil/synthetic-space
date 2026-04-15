@@ -99,6 +99,10 @@ project:
     summary: 'Create a standardized character file for the supporting cast with sections:
       Name, Bio, Background, A'
     content_type: character
+  - path: /novella_1/chapter_glass_atrium/ledgers_echo.md
+    role: active
+    summary: "Expand the outline for 'Ledger\u2019s Echo' chapter, focusing on management\
+      \ frameworks such as accountabi"
   participants:
   - id: primary
     type: agent
