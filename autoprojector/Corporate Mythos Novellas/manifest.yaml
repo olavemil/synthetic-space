@@ -177,6 +177,22 @@ project:
     role: active
     summary: 'Explore a guardian torn between enforcing the Triad and preserving legacy
       decisions, creating moral '
+  - path: /novella_1/chapter_glass_atrium/historical_crisis.md
+    role: active
+    summary: 'Explore the historical event that led to the creation of The Glass Atrium,
+      framing it as a response '
+  - path: /novella_1/chapter_glass_atrium/unbound_faction.md
+    role: active
+    summary: Develop a rival group called the Unbound Faction that rejects ledger-based
+      governance, offering an a
+  - path: /novella_1/chapter_glass_atrium/unbound_faction_accountability.md
+    role: active
+    summary: Explore the Unbound Faction's alternative accountability framework, detailing
+      how they define and en
+  - path: /novella_1/chapter_glass_atrium/unbound_faction_conflict.md
+    role: active
+    summary: Write a scene where the Unbound Faction clashes with the guardians of
+      The Glass Atrium over governan
   participants:
   - id: primary
     type: agent
