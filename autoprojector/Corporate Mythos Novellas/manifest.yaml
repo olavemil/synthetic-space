@@ -193,6 +193,10 @@ project:
     role: active
     summary: Write a scene where the Unbound Faction clashes with the guardians of
       The Glass Atrium over governan
+  - path: /novella_1/chapter_glass_atrium/educational_framework.md
+    role: active
+    summary: Define how the novellas will integrate actionable management insights
+      beyond storytelling, including
   participants:
   - id: primary
     type: agent

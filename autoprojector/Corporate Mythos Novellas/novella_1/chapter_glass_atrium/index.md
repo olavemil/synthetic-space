@@ -12,6 +12,7 @@ title: "Chapter Glass Atrium"
 - [Atrium Acoustic Echo](atrium_acoustic_echo)
 - [Atrium Architecture](atrium_architecture)
 - [Echo Chamber Paradox](echo_chamber_paradox)
+- [Educational Framework](educational_framework)
 - [Guardian Dilemma](guardian_dilemma)
 - [Guardian Duties](guardian_duties)
 - [Guardian Hierarchy](guardian_hierarchy)
