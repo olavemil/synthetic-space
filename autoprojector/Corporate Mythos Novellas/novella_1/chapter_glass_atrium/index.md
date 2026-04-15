@@ -8,4 +8,5 @@ title: "Chapter Glass Atrium"
 
 ## Files
 
+- [Atrium Acoustic Echo](atrium_acoustic_echo)
 - [Ledgers Echo](ledgers_echo)

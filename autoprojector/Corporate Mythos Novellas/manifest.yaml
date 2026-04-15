@@ -104,6 +104,10 @@ project:
     summary: "Expand the outline for 'Ledger\u2019s Echo' chapter, focusing on management\
       \ frameworks such as accountabi"
     content_type: outline
+  - path: /novella_1/chapter_glass_atrium/atrium_acoustic_echo.md
+    role: active
+    summary: "Define the Atrium\u2019s Acoustic Echo: How the glass architecture amplifies\
+      \ and distorts sound to symbol"
   participants:
   - id: primary
     type: agent
