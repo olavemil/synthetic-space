@@ -125,6 +125,10 @@ project:
     role: active
     summary: 'Create a standardized character file for the antagonist with sections:
       Name, Bio, Background, Arc, a'
+  - path: /novella_1/chapter_glass_atrium/ledgers_echo_metaphor.md
+    role: active
+    summary: "Define the Ledger\u2019s Echo Metaphor: How the phrase \u201CYour ledger\
+      \ echoes here\u201D functions as a narrative"
   participants:
   - id: primary
     type: agent
