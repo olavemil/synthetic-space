@@ -133,6 +133,14 @@ project:
     role: active
     summary: A scene where all three pillars of the triad collapse (e.g., Authority
       without Transparency), leadin
+  - path: /novella_1/chapter_glass_atrium/atrium_architecture.md
+    role: active
+    summary: 'A detailed description of The Glass Atrium''s architecture, including
+      its 128 black marble slabs and '
+  - path: /novella_1/chapter_glass_atrium/hidden_glyphs.md
+    role: active
+    summary: Describe the faint, reflective glyphs in The Glass Atrium that only appear
+      under certain lighting co
   participants:
   - id: primary
     type: agent
