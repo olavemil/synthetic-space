@@ -108,6 +108,23 @@ project:
     role: active
     summary: "Define the Atrium\u2019s Acoustic Echo: How the glass architecture amplifies\
       \ and distorts sound to symbol"
+    content_type: chapter
+  - path: /novella_1/chapter_glass_atrium/protagonist_risk_tolerance.md
+    role: active
+    summary: "A scene where the protagonist\u2019s low risk tolerance causes hesitation\
+      \ during a triad-driven negotiati"
+  - path: /novella_1/chapter_glass_atrium/guardian_duties.md
+    role: active
+    summary: "Detail the duties and roles of The Glass Atrium guardians, focusing\
+      \ on Ledger\u2019s Echo. Include their "
+  - path: /novella_1/chapter_glass_atrium/triad_pillars.md
+    role: active
+    summary: Describe the three physical pillars in The Glass Atrium representing
+      Authority, Transparency, and Co
+  - path: /novella_1/characters/antagonist.md
+    role: active
+    summary: 'Create a standardized character file for the antagonist with sections:
+      Name, Bio, Background, Arc, a'
   participants:
   - id: primary
     type: agent

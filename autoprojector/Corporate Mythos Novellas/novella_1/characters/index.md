@@ -8,5 +8,6 @@ title: "Characters"
 
 ## Files
 
+- [Antagonist](antagonist)
 - [Main Protagonist](main_protagonist)
 - [Supporting Cast](supporting_cast)
