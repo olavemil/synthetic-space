@@ -1,0 +1,30 @@
+project:
+  name: LocalLLM Ethics & Design
+  type: Research + Software (with group discussions)
+  goal: Produce a design specification for an ethically grounded local LLM agent,
+    including technical blueprints and moral frameworks.
+  constraints:
+  - Focus on local/offline deployment (no cloud dependencies).
+  - 'Prioritize transparency: all training data and decision logic must be auditable.'
+  - Limit scope to text-based tasks (e.g., Q&A, summarization) for Phase 1.
+  - "Include at least two \"moral scenario\" documents to stress-test the agent\u2019\
+    s design."
+  current_focus: ''
+  known_issues: []
+  files:
+  - path: /specs/architecture.md
+    role: active
+    summary: High-level system diagram (model, storage, interfaces).
+  - path: /ethics/moral_scenarios.md
+    role: active
+    summary: "Hypothetical dilemmas to evaluate the agent\u2019s design."
+  - path: /discussions/transcript_20240517.md
+    role: active
+    summary: Summary of group debate on "autonomy vs. control."
+  - path: /code/requirements.txt
+    role: active
+    summary: Minimal dependencies for local deployment.
+  - path: /research/bias_mitigation.md
+    role: active
+    summary: Proposed techniques to reduce harmful outputs.
+  participants: []
