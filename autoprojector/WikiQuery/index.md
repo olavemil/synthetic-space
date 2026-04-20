@@ -12,3 +12,6 @@ title: "WikiQuery"
 
 - [Docs](docs/)
 
+## Files
+
+- [Readme](README)
