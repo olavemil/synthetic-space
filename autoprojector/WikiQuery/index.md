@@ -20,6 +20,7 @@ title: "WikiQuery"
 - [Ethical Charter](ethical_charter)
 - [Ethical Drive Framework](ethical_drive_framework)
 - [Ethical Guidelines](ethical_guidelines)
+- [Ethics Air Agent Guide](ethics_air_agent_guide)
 - [Ethics Air Agent System](ethics_air_agent_system)
 - [Ethics Framework](ethics_framework)
 - [Impact Assessment](impact_assessment)
