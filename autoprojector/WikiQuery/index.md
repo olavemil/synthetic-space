@@ -14,6 +14,7 @@ title: "WikiQuery"
 
 ## Files
 
+- [Contributing](CONTRIBUTING)
 - [Readme](README)
 - [Design Spec](design_spec)
 - [Ethical Charter](ethical_charter)
