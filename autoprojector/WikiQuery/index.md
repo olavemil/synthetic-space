@@ -17,3 +17,5 @@ title: "WikiQuery"
 - [Readme](README)
 - [Design Spec](design_spec)
 - [Ethical Charter](ethical_charter)
+- [Ethical Drive Framework](ethical_drive_framework)
+- [Utilitarian Summary](utilitarian_summary)
