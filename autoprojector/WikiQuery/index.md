@@ -20,4 +20,5 @@ title: "WikiQuery"
 - [Ethical Drive Framework](ethical_drive_framework)
 - [Ethical Guidelines](ethical_guidelines)
 - [Ethics Framework](ethics_framework)
+- [Impact Assessment](impact_assessment)
 - [Utilitarian Summary](utilitarian_summary)
