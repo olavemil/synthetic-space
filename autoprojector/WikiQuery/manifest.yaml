@@ -1,0 +1,19 @@
+project:
+  name: WikiQuery
+  type: software (research tool)
+  goal: Build a system that synthesizes knowledge from wikis and external sources
+    to generate thoughtful, context-aware responses.
+  constraints:
+  - "Limit initial scope to 3\u20135 wikis (e.g., Wikipedia, Wikidata)."
+  - Responses must cite sources and avoid hallucinations.
+  - No personal data storage beyond session context (e.g., query history).
+  current_focus: ''
+  known_issues: []
+  files:
+  - path: /src/api_wrapper.py
+    role: active
+    summary: Wiki API integration and data normalization.
+  - path: /docs/usage.md
+    role: active
+    summary: Example queries and response formats.
+  participants: []
