@@ -15,3 +15,4 @@ title: "WikiQuery"
 ## Files
 
 - [Readme](README)
+- [Design Spec](design_spec)
