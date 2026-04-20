@@ -18,4 +18,5 @@ title: "WikiQuery"
 - [Design Spec](design_spec)
 - [Ethical Charter](ethical_charter)
 - [Ethical Drive Framework](ethical_drive_framework)
+- [Ethics Framework](ethics_framework)
 - [Utilitarian Summary](utilitarian_summary)
