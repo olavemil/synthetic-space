@@ -17,6 +17,7 @@ title: "WikiQuery"
 - [Contributing](CONTRIBUTING)
 - [Readme](README)
 - [Design Spec](design_spec)
+- [Ethical Air Agent Proposal](ethical_air_agent_proposal)
 - [Ethical Charter](ethical_charter)
 - [Ethical Drive Framework](ethical_drive_framework)
 - [Ethical Guidelines](ethical_guidelines)
