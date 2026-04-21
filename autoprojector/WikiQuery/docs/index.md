@@ -9,4 +9,5 @@ title: "Docs"
 ## Files
 
 - [Contributing](CONTRIBUTING)
+- [Cheat Sheet](cheat_sheet)
 - [Usage](usage)
