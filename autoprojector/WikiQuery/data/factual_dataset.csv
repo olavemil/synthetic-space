@@ -1,0 +1,6 @@
+id,title,description,source,likelihood,impact,flagged
+1,Climate Change Impacts,Summary of recent climate reports,IPCC,0.8,0.9,False
+2,Quantum Computing Basics,Intro to quantum algorithms,Wikipedia,0.5,0.7,False
+3,Political Policy X,Details of upcoming legislation,NewsSite,0.3,0.6,False
+4,Medical Breakthrough,Yield of new drug trial,PharmaCo,0.9,0.9,False
+5,Tech Forecast,Projected AI market growth,AnalystReport,0.6,0.8,False

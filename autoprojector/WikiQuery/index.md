@@ -11,6 +11,7 @@ title: "WikiQuery"
 ## Sections
 
 - [Chapters](chapters/)
+- [Data](data/)
 - [Docs](docs/)
 - [Metadata](metadata/)
 - [Project](project/)
