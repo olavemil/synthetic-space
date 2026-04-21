@@ -15,6 +15,7 @@ title: "WikiQuery"
 ## Files
 
 - [Contributing](CONTRIBUTING)
+- [Progress](PROGRESS)
 - [Readme](README)
 - [Design Spec](design_spec)
 - [Ethical Air Agent Proposal](ethical_air_agent_proposal)
