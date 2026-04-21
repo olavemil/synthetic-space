@@ -1,50 +1,36 @@
-# Response Generation
+# Response Generation Template
 
 ## Overview
-A structured approach to generating high-quality, context-aware replies by integrating user feedback and performance metrics.
+This template provides a structured approach to generating high-quality, context-aware responses. It aligns with the workshop's goals of confidence, constructiveness, and forward-looking guidance.
 
-## 1. User Input Guidelines
-- **Clarity**: Ensure each prompt specifies the desired tone, length, and constraints.
-- **Constraints**: List hard limits (e.g., word count) and soft limits (e.g., style guides).
+## Core Components
+- **Prompt Source**: Wikis and external knowledge sources
+- **Output Format**: Structured, user‑focused responses
 
-## 2. Bias & Safety Checks
-- **Bias Lexicon Update**: Log flagged terms weekly and expand the bias lexicon.
-- **Safety Filters**: Auto-reject outputs containing hate speech or disallowed content.
+## Template Sections
+1. **Prompt Definition**
+   - Explicitly state the task and desired output style.
+2. **Input/Output Examples**
+   - Provide clear examples of inputs and expected outputs.
+3. **Evaluation Criteria**
+   - Define metrics for success (e.g., relevance, coherence, creativity).
 
-## 3. Creative Evaluation Metrics
-| KPI                     | Measurement Method                                  | Target |
-|-------------------------|-----------------------------------------------------|--------|
-| Novelty Score          | Perplexity-weighted semantic diversity               | ≥ 0.7  |
-| Diversity Score         | Type-token diversity index                          | ≥ 0.6  |
-| Relevance Score         | Human‑in‑the‑loop validation                         | ≥ 85%   |
+## Edge-Case Handling
+- Include prompts for common errors (typos, ambiguous phrasing).
+- Document assumptions and constraints clearly.
 
-## 4. Feedback Loop Mechanism
-- **Capture**: Auto‑log user ratings (1–5) and free‑text comments.
-- **Analyze**: Daily CSV export to a pandas DataFrame; compute aggregate scores.
-- **Refine**: Trigger prompt updates when average rating < 3.5 for two consecutive cycles.
+## Testing Workflow
+1. Generate prompts using the template.
+2. Validate with a test suite of realistic user queries.
+3. Log results for reproducibility.
 
-## 5. Visual Mechanism Map
-```
-[User Intent] → [Bias Check] → [Value Alignment] → [Final Output]
-                     ↑                                   ↓
-               [Feedback Capture]              [Stakeholder Review]
-```
-- **Icons**: 🟢 = Safe, 🔴 = Requires Review
-- **Annotations**: Each stage annotated with decision criteria.
+## Multi-Stage Validation
+- Implement a pluggable adapter layer to integrate audit results into prompt generation.
 
-## 6. Iterative Workflow
-1. **Collect**: Gather prompts, ratings, and comments via API.
-2. **Analyze**: Run weekly aggregation with NumPy/Pandas.
-3. **Refine**: Deploy updated prompts and bias filters.
+## Visual Aids
+- Use diagrams to illustrate nested prompts and iterative refinement.
 
-## 7. Dashboard Proposal
-- **Real‑time Widgets**: Show trending issues, sentiment trends.
-- **Alerts**: Notify on significant drops in novelty or relevance.
+## Assumptions & Scope
+- Clearly state any domain or language constraints.
 
-## 8. Scalability Plan
-- **Automation**: Use Airflow DAGs for scheduled metric collection.
-- **Storage**: Partition logs by month; retain 12 months.
-
-## 9. Feedback Loop Templates
-- **Prompt Library**: Downloadable `.md` files for common scenarios.
-- **Version Control**: Tag each prompt with semantic versioning.
+## Generated with a focus on clarity and creativity.
