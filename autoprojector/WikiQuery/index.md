@@ -10,6 +10,7 @@ title: "WikiQuery"
 
 ## Sections
 
+- [Chapters](chapters/)
 - [Docs](docs/)
 - [Project](project/)
 
