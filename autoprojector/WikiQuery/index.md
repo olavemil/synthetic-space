@@ -37,6 +37,7 @@ title: "WikiQuery"
 - [Impact Assessment](impact_assessment)
 - [Overview](overview)
 - [Project Roadmap](project_roadmap)
+- [Stakeholder Alignment Checklist](stakeholder_alignment_checklist)
 - [Summary](summary)
 - [Utilitarian Summary](utilitarian_summary)
 - [Verification Report](verification_report)
