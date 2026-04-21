@@ -27,4 +27,5 @@ title: "WikiQuery"
 - [Ethics Framework](ethics_framework)
 - [Impact Assessment](impact_assessment)
 - [Overview](overview)
+- [Project Roadmap](project_roadmap)
 - [Utilitarian Summary](utilitarian_summary)
