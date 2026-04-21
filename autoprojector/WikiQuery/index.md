@@ -27,6 +27,7 @@ title: "WikiQuery"
 - [Checklist](checklist)
 - [Conclusion](conclusion)
 - [Design Spec](design_spec)
+- [Edge Case Protocol](edge_case_protocol)
 - [Ethical Air Agent Proposal](ethical_air_agent_proposal)
 - [Ethical Charter](ethical_charter)
 - [Ethical Drive Framework](ethical_drive_framework)
