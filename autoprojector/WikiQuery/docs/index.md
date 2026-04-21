@@ -10,4 +10,5 @@ title: "Docs"
 
 - [Contributing](CONTRIBUTING)
 - [Cheat Sheet](cheat_sheet)
+- [Checklist](checklist)
 - [Usage](usage)
