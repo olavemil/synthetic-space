@@ -8,4 +8,5 @@ title: "Docs"
 
 ## Files
 
+- [Contributing](CONTRIBUTING)
 - [Usage](usage)
