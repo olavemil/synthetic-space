@@ -24,6 +24,7 @@ title: "WikiQuery"
 - [Progress](PROGRESS)
 - [Readme](README)
 - [Bug Fixes Summary](bug_fixes_summary)
+- [Checklist](checklist)
 - [Conclusion](conclusion)
 - [Design Spec](design_spec)
 - [Ethical Air Agent Proposal](ethical_air_agent_proposal)
