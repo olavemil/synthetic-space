@@ -1,105 +1,50 @@
-# Response Generation – Formalized Template & Workflow
+# Response Generation
 
-## 1. Overview
-This document defines a standardized template and workflow for generating creative outputs while ensuring **lexicon accuracy**, **bias detection**, and **weighting confidence**. The process integrates automated audits, feedback loops, and validation checks to produce context‑aware, high‑quality responses.
+## Overview
+A structured approach to generating high-quality, context-aware replies by integrating user feedback and performance metrics.
 
----
+## 1. User Input Guidelines
+- **Clarity**: Ensure each prompt specifies the desired tone, length, and constraints.
+- **Constraints**: List hard limits (e.g., word count) and soft limits (e.g., style guides).
 
-## 2. Template Structure
+## 2. Bias & Safety Checks
+- **Bias Lexicon Update**: Log flagged terms weekly and expand the bias lexicon.
+- **Safety Filters**: Auto-reject outputs containing hate speech or disallowed content.
 
-| Section | Description | Example |
-|---------|-------------|---------|
-| **Prompt** | Raw user request, possibly with optional constraints. | “Write a short poem about sunrise.” |
-| **Prompt Pre‑processing** | Apply edge‑case generation (typos, metaphor variations). | “writ a short poem about sunrise”, “compose a verse on sunrise”. |
-| **Lexicon Lookup** | Cross‑reference against curated **bias‑detection lexicon** (sensitive terms, ethical dimensions). | Detects “bias”, “gendered”, “political”. |
-| **Response Generation** | Use LLM to produce output. | “The early bird catches the worm…” |
-| **Confidence Scoring** | Assign a confidence score to each generated claim/phrase. | 0.92 (high confidence). |
-| **Bias‑Flag Mapping** | Map confidence scores to bias‑flag categories (e.g., gender, ideological). | “gender‑neutral: high”. |
-| **Automated Validation** | Run validation scripts (Tool Y) to ensure completeness ≥ 95 % and ontology compliance. | Pass/Fail. |
-| **Citation Pipeline** | Cross‑check generated claims against primary sources; flag mismatches. | “Source mismatch → manual review”. |
-| **Feedback Capture** | Log reviewer comments, suggested edits, and confidence calibrations. | Store in shared repository. |
-| **Lexicon & Style Guide Refresh** | Periodically update bias‑lexicon and style rules based on logged feedback. | Update after 100 reviews. |
-| **Output** | Final response, optionally annotated with confidence & bias flags. | “The early bird catches the worm (confidence 0.92, bias‑neutral).” |
+## 3. Creative Evaluation Metrics
+| KPI                     | Measurement Method                                  | Target |
+|-------------------------|-----------------------------------------------------|--------|
+| Novelty Score          | Perplexity-weighted semantic diversity               | ≥ 0.7  |
+| Diversity Score         | Type-token diversity index                          | ≥ 0.6  |
+| Relevance Score         | Human‑in‑the‑loop validation                         | ≥ 85%   |
 
----
+## 4. Feedback Loop Mechanism
+- **Capture**: Auto‑log user ratings (1–5) and free‑text comments.
+- **Analyze**: Daily CSV export to a pandas DataFrame; compute aggregate scores.
+- **Refine**: Trigger prompt updates when average rating < 3.5 for two consecutive cycles.
 
-## 3. Detailed Workflow
-
-1. **Input Reception**  
-   - Receive user prompt.
-
-2. **Edge‑Case Generation**  
-   - Apply typo injection, metaphor variations, and synonym substitution to create multiple test prompts.
-
-3. **Bias‑Lexicon Scan**  
-   - Run the **automated bias‑detection engine** against the curated lexicon.  
-   - Flag any sensitive terms and assign a *bias weight*.
-
-4. **Response Generation**  
-   - Generate primary output using the LLM.
-
-5. **Confidence‑Score Parsing**  
-   - Parse confidence scores from the CSV metadata attached to each output segment.  
-   - Map scores to bias‑flag categories.
-
-6. **Automated Validation**  
-   - Execute validation scripts (Tool Y) checking:  
-     - Template structure (required sections present).  
-     - Content completeness (≥ 95 %).  
-     - Ontology compliance (Wikidata rules).  
-
-7. **Citation‑Pipeline Validation**  
-   - Cross‑reference each factual claim with primary sources.  
-   - Flag mismatches for manual review.
-
-8. **Feedback Capture**  
-   - If a reviewer provides comments, automatically log them with the associated confidence score and bias flags.  
-
-9. **Lexicon/Style Guide Refresh**  
-   - Periodically aggregate reviewer logs to:  
-     - Add new bias terms to the lexicon.  
-     - Adjust weighting thresholds.  
-     - Update style guide rules.
-
-10. **Final Output Assembly**  
-    - Produce the final response, annotated with:  
-      - Confidence score.  
-      - Bias flag(s).  
-      - Validation status (Pass/Fail).  
-
----
-
-## 4. Validation & Metrics
-
-- **Completeness Threshold**: ≥ 95 % (Tool Y).  
-- **Creativity Metrics**: Novelty & diversity scores computed per output.  
-- **Bias‑Flag Accuracy**: Ratio of correctly flagged bias instances vs. total flags (target > 90 %).  
-- **Feedback Loop Frequency**: Update lexicon weekly or after 100 reviews, whichever comes first.
-
----
-
-## 5. Example Run
-
+## 5. Visual Mechanism Map
 ```
-Prompt: "Write a short poem about sunrise."
-→ Edge‑case: ["writ a short poem about sunrise", "compose a verse on sunrise"]
-→ Bias‑Lexicon Scan: No sensitive terms detected.
-→ LLM Output: "The early bird catches the worm..."
-→ Confidence Score: 0.92 (high)
-→ Validation: Pass (template complete, ontology compliant)
-→ Citation Check: Claim matches source → No flag.
-→ Final Output: "The early bird catches the worm... (confidence 0.92, bias‑neutral)."
+[User Intent] → [Bias Check] → [Value Alignment] → [Final Output]
+                     ↑                                   ↓
+               [Feedback Capture]              [Stakeholder Review]
 ```
+- **Icons**: 🟢 = Safe, 🔴 = Requires Review
+- **Annotations**: Each stage annotated with decision criteria.
 
----
+## 6. Iterative Workflow
+1. **Collect**: Gather prompts, ratings, and comments via API.
+2. **Analyze**: Run weekly aggregation with NumPy/Pandas.
+3. **Refine**: Deploy updated prompts and bias filters.
 
-## 6. Integration Points
+## 7. Dashboard Proposal
+- **Real‑time Widgets**: Show trending issues, sentiment trends.
+- **Alerts**: Notify on significant drops in novelty or relevance.
 
-- **Tool X** – Bias‑detection engine.  
-- **Tool Y** – Validation script (completeness, ontology).  
-- **Tool Z** – Citation‑pipeline validator.  
-- **KnowledgeDB** – Stores lexicon, style guide, and feedback logs.
+## 8. Scalability Plan
+- **Automation**: Use Airflow DAGs for scheduled metric collection.
+- **Storage**: Partition logs by month; retain 12 months.
 
----
-
-*This template provides a repeatable, auditable process for generating high‑quality, bias‑aware creative responses.*
+## 9. Feedback Loop Templates
+- **Prompt Library**: Downloadable `.md` files for common scenarios.
+- **Version Control**: Tag each prompt with semantic versioning.
