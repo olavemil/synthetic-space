@@ -30,3 +30,4 @@ title: "WikiQuery"
 - [Overview](overview)
 - [Project Roadmap](project_roadmap)
 - [Utilitarian Summary](utilitarian_summary)
+- [Verification Report](verification_report)
