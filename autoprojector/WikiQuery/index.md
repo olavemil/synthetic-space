@@ -11,6 +11,7 @@ title: "WikiQuery"
 ## Sections
 
 - [Docs](docs/)
+- [Project](project/)
 
 ## Files
 
