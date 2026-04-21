@@ -15,6 +15,7 @@ title: "WikiQuery"
 ## Files
 
 - [Contributing](CONTRIBUTING)
+- [Next Steps](NEXT_STEPS)
 - [Progress](PROGRESS)
 - [Readme](README)
 - [Design Spec](design_spec)
