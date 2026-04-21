@@ -40,6 +40,7 @@ title: "WikiQuery"
 - [Project Roadmap](project_roadmap)
 - [Response Generation](response_generation)
 - [Response Generation Template](response_generation_template)
+- [Response Template](response_template)
 - [Stakeholder Alignment Checklist](stakeholder_alignment_checklist)
 - [Summary](summary)
 - [Utilitarian Summary](utilitarian_summary)
