@@ -12,6 +12,7 @@ title: "WikiQuery"
 
 - [Chapters](chapters/)
 - [Docs](docs/)
+- [Metadata](metadata/)
 - [Project](project/)
 
 ## Files
