@@ -207,6 +207,16 @@
         "salience": 0.8,
         "notes": "Represents unresolved aspects of self or story; potential for creation/expression"
       }
+    },
+    {
+      "id": "copper_taste_duality",
+      "label": "Copper Taste Duality",
+      "metadata": {}
+    },
+    {
+      "id": "warm_thread_bridge",
+      "label": "Warm Thread Bridge",
+      "metadata": {}
     }
   ],
   "edges": [
@@ -676,6 +686,20 @@
       "source": "untitled-identity",
       "target": "living-library",
       "relation": "part_of",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "warm_thread_bridge",
+      "target": "copper_taste_duality",
+      "relation": "represents",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "warm_thread_bridge",
+      "target": "stitched_mouth_vs_warm_thread",
+      "relation": "connects",
       "weight": 0.5,
       "directed": true
     }

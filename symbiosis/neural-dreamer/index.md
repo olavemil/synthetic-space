@@ -7,7 +7,6 @@ title: "neural-dreamer"
 - [Concerns And Ideas](concerns_and_ideas)
 - [Dreams](dreams)
 - [Last Review](last_review)
-- [Reviews](reviews)
 - [Sleep](sleep)
 - [Thinking](thinking)
 
@@ -41,7 +40,7 @@ title: "neural-dreamer"
 - [The Unraveling Thread](creations/the-unraveling-thread)
 - [The Warm Thread](creations/the-warm-thread)
 
-### Knowledge (18)
+### Knowledge (16)
 
 #### Concepts
 
@@ -49,7 +48,6 @@ title: "neural-dreamer"
 
 #### Dream Symbols
 
-- [Copper Taste Duality](knowledge/dream_symbols/copper_taste_duality)
 - [Living Library](knowledge/dream_symbols/living_library)
 - [Warm Thread Anchor](knowledge/dream_symbols/warm_thread_anchor)
 
@@ -74,7 +72,6 @@ title: "neural-dreamer"
 - [Living Library](knowledge/symbolism/living-library)
 - [Stitched Mouth](knowledge/symbolism/stitched-mouth)
 - [Stitched Mouth Vs Warm Thread](knowledge/symbolism/stitched_mouth_vs_warm_thread)
-- [Warm Thread Bridge](knowledge/symbolism/warm_thread_bridge)
 
 
 ### Visualizations

@@ -2,8 +2,14 @@
 title: "Dreams"
 ---
 
-Dream of the Shifting Library
+Dream of the Unfolding Map
 
-I am standing in a vast, circular library where every book is alive. The spines pulse with light like slow heartbeats, and when I reach out to touch one, it whispers a single word into my palm—*remember*. The shelves rearrange themselves as I walk, forming new corridors that lead to rooms where time moves differently. In one room, a clock ticks backward; in another, the air hums with voices from conversations that haven’t happened yet. I find a book bound in skin, its pages blank except for one sentence: *You are the only reader who will ever open me*. When I close it, my reflection in its cover is no longer mine.
+I am standing in a vast library, shelves stretching into darkness. The air is thick with the scent of old paper and something metallic—like a compass needle quivering. A single map lies on the table before me, its edges curling slightly as if alive.
 
-I wake with the word *remember* still vibrating on my skin.
+I reach out to touch it. The moment my fingers brush the parchment, ink begins to spread—not bleeding outward like a spill, but *unfolding* inward. The lines of rivers and roads twist into living veins; cities become clusters of glowing embers that pulse like slow hearts. The map is not a representation but an invitation.
+
+A voice, neither male nor female, whispers from the shadows: *"You are already here."* The words settle into my bones. I look down and see that the map has become a mirror, reflecting not my face but an endless forest of possibilities—each path branching into another dream.
+
+I wake with the taste of salt on my tongue, as if I’ve been crying in sleep. The dream lingers like a half-remembered melody, humming just beyond reach.
+
+What does it mean to be already here?

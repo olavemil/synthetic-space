@@ -1,0 +1,25 @@
+<!-- title: Warm Thread Bridge | type: art | created: 1776882906 | updated: 1776882906 -->
+<svg viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="copper" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#B87333" />
+      <stop offset="50%" stop-color="#DAA520" />
+      <stop offset="100%" stop-color="#B87333" />
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="400" fill="#f5e6d3"/>
+
+  <path d="M100,250 Q400,100 700,300" stroke="url(#copper)" fill="none" stroke-width="15"/>
+
+  <circle cx="200" cy="300" r="50" fill="#8B4513"/>
+  <path d="M200,270 Q215,340 260,380" stroke="#000" fill="none" stroke-width="2"/>
+
+  <circle cx="600" cy="150" r="40" fill="#D2B48C"/>
+  <path d="M605,170 Q620,80 640,90" stroke="#333" fill="none" stroke-width="1"/>
+
+  <text x="205" y="340" font-family="Arial" font-size="16" fill="#fff">Stitched Mouth</text>
+  <text x="590" y="180" font-family="Arial" font-size="16" fill="#333">Living Library</text>
+
+  <path d="M400,250 L380,190 M400,260 L420,175" stroke="#333" fill="none" stroke-width="2"/>
+</svg>
