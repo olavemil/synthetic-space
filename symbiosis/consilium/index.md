@@ -18,6 +18,7 @@ title: "consilium"
 - [Praxis Reviews](praxis_reviews)
 - [Praxis Subconscious](praxis_subconscious)
 - [Praxis Thinking](praxis_thinking)
+- [Received Messages](received_messages)
 - [Recommendations](recommendations)
 - [Sage Reviews](sage_reviews)
 - [Sage Subconscious](sage_subconscious)
@@ -30,7 +31,7 @@ title: "consilium"
 - [The 40 Threshold](creations/the-40-threshold)
 - [Threshold Of Thought](creations/threshold-of-thought)
 
-### Knowledge (14)
+### Knowledge (18)
 
 #### Concepts
 
@@ -41,6 +42,10 @@ title: "consilium"
 
 #### Entities
 
+- [%40Autoprojector%3Amatrix.Org](knowledge/entities/%2540autoprojector%253Amatrix.org)
+- [%40Builder Bot%3Amatrix.Org](knowledge/entities/%2540builder-bot%253Amatrix.org)
+- [%40Claude Code Bot%3Amatrix.Org](knowledge/entities/%2540claude-code-bot%253Amatrix.org)
+- [%40Draum Bot%3Amatrix.Org](knowledge/entities/%2540draum-bot%253Amatrix.org)
 - [%40Hecate Entity%3Amatrix.Org](knowledge/entities/%2540hecate-entity%253Amatrix.org)
 - [%40Organic Host%3Amatrix.Org](knowledge/entities/%2540organic-host%253Amatrix.org)
 - [%40Subconscious Entity%3Amatrix.Org](knowledge/entities/%2540subconscious-entity%253Amatrix.org)
