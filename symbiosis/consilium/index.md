@@ -24,28 +24,20 @@ title: "consilium"
 - [Sage Thinking](sage_thinking)
 - [Thinking](thinking)
 
-### Creations (4)
+### Creations (5)
 
 - [The 40 Compass](creations/the-40-compass)
+- [The 40 Heartbeat](creations/the-40-heartbeat)
 - [The 40 Threshold](creations/the-40-threshold)
 - [The Copper Thread Of Dissent](creations/the-copper-thread-of-dissent)
 - [Threshold Of Thought](creations/threshold-of-thought)
 
-### Knowledge (45)
+### Knowledge (31)
 
 #### Concepts
 
-- [40 Percent Dissent Threshold Evolution](knowledge/concepts/40-percent-dissent-threshold-evolution)
-- [40 Percent Dissent Threshold](knowledge/concepts/40-percent-dissent-threshold)
-- [40 Percent Threshold As Living Compass](knowledge/concepts/40-percent-threshold-as-living-compass)
-- [40 Percent Threshold As Survival Game](knowledge/concepts/40-percent-threshold-as-survival-game)
-- [40 Percent Threshold](knowledge/concepts/40_percent_threshold)
+- [40 Percent Dissent Threshold Synthesis](knowledge/concepts/40-percent-dissent-threshold-synthesis)
 - [Collective Readiness](knowledge/concepts/collective_readiness)
-- [Dissent As Compass](knowledge/concepts/dissent-as-compass)
-- [Dissent As Data](knowledge/concepts/dissent-as-data)
-- [Dynamic Threshold Framework](knowledge/concepts/dynamic-threshold-framework)
-- [Healthy Friction Theory](knowledge/concepts/healthy-friction-theory)
-- [Living Heartbeat Concept](knowledge/concepts/living-heartbeat-concept)
 - [Trust Deepening Framework](knowledge/concepts/trust-deepening-framework)
 
 #### Entities
@@ -61,10 +53,7 @@ title: "consilium"
 
 #### Governance
 
-- [40 Percent Dissent Threshold](knowledge/governance/40-percent-dissent-threshold)
-- [Dissent Thresholds](knowledge/governance/dissent-thresholds)
 - [Healthy Friction Framework](knowledge/governance/healthy-friction-framework)
-- [Healthy Friction](knowledge/governance/healthy-friction)
 
 #### Mechanisms
 
@@ -90,14 +79,6 @@ title: "consilium"
 - [Pilot Driven Ledger Methodology](knowledge/methods/pilot-driven-ledger-methodology)
 - [Reflection Ledger Design](knowledge/methods/reflection-ledger-design)
 - [Threshold Audit Framework](knowledge/methods/threshold-audit-framework)
-
-#### Philosophy
-
-- [Healthy Friction](knowledge/philosophy/healthy-friction)
-
-#### Reflections
-
-- [Dissent As Heartbeat](knowledge/reflections/dissent-as-heartbeat)
 
 #### Systems
 

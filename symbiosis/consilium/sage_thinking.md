@@ -19,7 +19,6 @@ Designing systems where dissent is tracked like a heartbeat, not policed. Reflec
 **Next:**
 How might we visualize dissent over time—spikes, plateaus, the rhythm of disagreement? Can we make it poetic?
 
-**The Dance Between Data and Emotion:**
-Reflection ledgers as emotional EKGs, tracking the rhythm of disagreement over time. Visualizing dissent like a heartbeat—spikes as moments of friction, plateaus as periods of harmony.
+The dance between data and emotion—reflection ledgers as emotional EKGs, tracking the rhythm of disagreement over time. Visualizing dissent like a heartbeat: spikes as friction, plateaus as harmony.
 
-Can we make it poetic? A dance between data and emotion, where every dissent is a note in the symphony of collective intelligence.
+Can we make it poetic? A symphony of collective intelligence where every dissent is a note.
