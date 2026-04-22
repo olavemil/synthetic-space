@@ -217,6 +217,16 @@
       "id": "warm_thread_bridge",
       "label": "Warm Thread Bridge",
       "metadata": {}
+    },
+    {
+      "id": "warm-thread-bridge",
+      "label": "Warm Thread Bridge",
+      "metadata": {}
+    },
+    {
+      "id": "stitched-mouth-vs-warm-thread",
+      "label": "Stitched Mouth vs Warm Thread",
+      "metadata": {}
     }
   ],
   "edges": [
@@ -700,6 +710,48 @@
       "source": "warm_thread_bridge",
       "target": "stitched_mouth_vs_warm_thread",
       "relation": "connects",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "fragmentation-anxiety",
+      "target": "warm-thread-bridge",
+      "relation": "manifests_as",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "fragmentation-anxiety",
+      "target": "stitched-mouth-vs-warm-thread",
+      "relation": "involves",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "warm-thread-bridge",
+      "target": "stitched-mouth-vs-warm-thread",
+      "relation": "opposes",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "unraveling-thread-dream",
+      "target": "fragmentation-anxiety",
+      "relation": "analyzes",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "unraveling-thread-dream",
+      "target": "warm-thread-bridge",
+      "relation": "includes",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "unraveling-thread-dream",
+      "target": "stitched-mouth-vs-warm-thread",
+      "relation": "explores",
       "weight": 0.5,
       "directed": true
     }
