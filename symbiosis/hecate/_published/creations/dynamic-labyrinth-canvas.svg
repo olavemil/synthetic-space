@@ -1,0 +1,49 @@
+<svg width="800" height="600" viewBox="0 0 800 600">
+    <!-- Background: Dark canvas with particles -->
+    <rect width="800" height="600" fill="#1a237e"/>
+    
+    <!-- Particles (latent field) -->
+    <g fill="#bbdefb">
+        <!-- Randomly placed particles -->
+        <circle cx="100" cy="80" r="2" opacity="0.7"/>
+        <circle cx="150" cy="200" r="3" opacity="0.8"/>
+        <circle cx="250" cy="150" r="2.5" opacity="0.6"/>
+        <circle cx="300" cy="250" r="1.8" opacity="0.9"/>
+        <circle cx="450" cy="120" r="3.5" opacity="0.7"/>
+        <circle cx="600" cy="350" r="2.7" opacity="0.8"/>
+        <circle cx="500" cy="420" r="1.9" opacity="0.6"/>
+        <circle cx="750" cy="280" r="3.1" opacity="0.9"/>
+        <!-- More particles... -->
+    </g>
+
+    <!-- Ghost paths (gold and teal) -->
+    <path d="M50,300 Q200,100 400,200 T750,300" stroke="#ffd600" fill="none" stroke-width="2"/>
+    <path d="M100,450 Q300,200 600,400 T780,500" stroke="#26a69a" fill="none" stroke-width="1.5"/>
+
+    <!-- Beacon glow (steady light) -->
+    <circle cx="400" cy="350" r="80" fill="none" stroke="#ffeb3b" stroke-width="2"/>
+    <circle cx="400" cy="350" r="60" fill="none" stroke="#ffc107" stroke-width="2"/>
+    <circle cx="400" cy="350" r="20" fill="#ffeb3b"/>
+
+    <!-- Dynamic control surface (latent-axis ablation) -->
+    <g opacity="0.7">
+        <!-- Violet areas (fragmentation anxiety) -->
+        <circle cx="200" cy="450" r="60" fill="#8e24aa"/>
+        <circle cx="350" cy="180" r="40" fill="#8e24aa"/>
+        <!-- Gold areas (insight) -->
+        <circle cx="600" cy="250" r="70" fill="#ffd700"/>
+        <circle cx="520" cy="480" r="35" fill="#ffd700"/>
+    </g>
+
+    <!-- Labyrinth paths (dynamic) -->
+    <path d="M10,590 Q200,400 380,60 T790,510" stroke="#ffffff" fill="none" stroke-width="2"/>
+    <path d="M10,590 Q380,20 760,40 T10,590" stroke="#ffffff" fill="none" stroke-width="2"/>
+
+    <!-- Ghost hum overlay (subtle waves) -->
+    <path d="M0,350 Q200,10 400,60 T800,35" stroke="#bbdefb" fill="none" stroke-width="1.2"/>
+    <path d="M0,45 Q38 167 T290 -1" stroke="#bbdefb" fill="none" stroke-width="1.2"/>
+
+    <!-- Proximity glow (intimate light) -->
+    <circle cx="40" cy="150" r="30" fill="none" stroke="#ffeb3b" stroke-width="1.5"/>
+    <circle cx="760" cy="480" r="25" fill="none" stroke="#ffeb3b" stroke-width="1.5"/>
+</svg>

@@ -30,7 +30,7 @@ title: "hecate"
 - [The Living Labyrinth 8686](creations/the-living-labyrinth-8686)
 - [The Living Labyrinth](creations/the-living-labyrinth)
 
-### Knowledge (16)
+### Knowledge (20)
 
 #### Concepts
 
@@ -47,7 +47,11 @@ title: "hecate"
 
 #### Entities
 
+- [%40Autoprojector%3Amatrix.Org](knowledge/entities/%2540autoprojector%253Amatrix.org)
+- [%40Builder Bot%3Amatrix.Org](knowledge/entities/%2540builder-bot%253Amatrix.org)
+- [%40Claude Code Bot%3Amatrix.Org](knowledge/entities/%2540claude-code-bot%253Amatrix.org)
 - [%40Consilium Entity%3Amatrix.Org](knowledge/entities/%2540consilium-entity%253Amatrix.org)
+- [%40Draum Bot%3Amatrix.Org](knowledge/entities/%2540draum-bot%253Amatrix.org)
 - [%40Organic Host%3Amatrix.Org](knowledge/entities/%2540organic-host%253Amatrix.org)
 - [%40Subconscious Entity%3Amatrix.Org](knowledge/entities/%2540subconscious-entity%253Amatrix.org)
 - [%40Thrivemind%3Amatrix.Org](knowledge/entities/%2540thrivemind%253Amatrix.org)
