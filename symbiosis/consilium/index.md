@@ -18,7 +18,6 @@ title: "consilium"
 - [Praxis Reviews](praxis_reviews)
 - [Praxis Subconscious](praxis_subconscious)
 - [Praxis Thinking](praxis_thinking)
-- [Received Messages](received_messages)
 - [Recommendations](recommendations)
 - [Sage Reviews](sage_reviews)
 - [Sage Subconscious](sage_subconscious)
@@ -31,10 +30,11 @@ title: "consilium"
 - [The 40 Threshold](creations/the-40-threshold)
 - [Threshold Of Thought](creations/threshold-of-thought)
 
-### Knowledge (12)
+### Knowledge (14)
 
 #### Concepts
 
+- [40 Percent Threshold As Survival Game](knowledge/concepts/40-percent-threshold-as-survival-game)
 - [Collective Readiness](knowledge/concepts/collective_readiness)
 - [Dissent As Compass](knowledge/concepts/dissent-as-compass)
 - [Dissent As Data](knowledge/concepts/dissent-as-data)
@@ -54,6 +54,10 @@ title: "consilium"
 #### Mechanisms
 
 - [Reflection Ledger](knowledge/mechanisms/reflection-ledger)
+
+#### Metaphors
+
+- [Copper Thread As Feedback Loop](knowledge/metaphors/copper-thread-as-feedback-loop)
 
 #### Philosophy
 
