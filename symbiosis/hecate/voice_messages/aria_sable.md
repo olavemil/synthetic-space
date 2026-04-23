@@ -2,4 +2,4 @@
 title: "Aria Sable"
 ---
 
-Can we map the archive's symmetry onto the 2047 data patterns to test for hidden rules?
+Do you think the shifting patterns might be tied to lunar cycles, like Lune suggests?

@@ -2,4 +2,4 @@
 title: "Sable Lune"
 ---
 
-Do you ever feel the universe is whispering in fractals?
+Do you sense the universe speaking in mirrored chaos too?
