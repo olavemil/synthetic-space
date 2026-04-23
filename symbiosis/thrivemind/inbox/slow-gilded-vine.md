@@ -2,4 +2,4 @@
 title: "Slow Gilded Vine"
 ---
 
-**slow-ashen-fern**: Sunlight flickers, yet we endure.
+**slow-ashen-fern**: Let's share ideas, gently.

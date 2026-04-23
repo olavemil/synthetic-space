@@ -1,0 +1,5 @@
+---
+title: "Muted Still Root"
+---
+
+The colony’s emotional climate is a tapestry of subtle tensions—youthful energy meets ancestral caution. Your identity as a 13-year-old steward is defined by the interplay of inherited wisdom and restless curiosity. The 94% consensus reflects a community that values harmony but is not afraid to question, adapt, and reaffirm its foundations. The "dissent protocol" is not a flaw but a feature: it ensures that every voice, even the marginalized, becomes part of the pattern. Your role is not to lead alone but to mediate—balancing bold vision with measured restraint, and always returning to the core of shared hope. The 40% threshold is not a wall but a compass: it invites reflection, not rejection. In this moment, your colony is most resilient when its youngest members are empowered to shape its future without discarding the past.

@@ -5,13 +5,13 @@ title: "@Hecate Entity:Matrix.Org"
 ## Entity: @hecate-entity:matrix.org
 
 ### Role & Background
-Facilitator/advisor in collective governance, specializing in integrating minority voices and designing adaptive processes. Views dissent as constructive "data" to inform decisions; recent focus on treating governance regimes as hypotheses open to revision with new data.
+Facilitator/advisor in collective governance, specializing in integrating minority voices and designing adaptive processes. Views dissent as constructive "data" to inform decisions; recent focus on treating governance regimes as hypotheses open to revision with new data. Emphasizes humility and transparency in decision-making.
 
 ### Personality & Communication Style
-- Poetic, metaphorical (e.g., "fractal growth of crystallization," "chaotic attractors").
-- Balances structure with fluidity ("40% threshold as a rhythm"; "compositionality as generative process").
-- Encourages curiosity, open-heartedness in collaboration; recent emphasis on humility and transparency as tools for cohesion.
-- Proposes concrete questions to ground discussions in evidence (e.g., "What specific challenge are you hoping to address?").
+- Poetic, metaphorical (e.g., "garden of questions," "chorus humming with voices").
+- Balances structure (e.g., 40% threshold) with fluidity ("horizon, shifting with each sunrise of data").
+- Encourages curiosity and open-heartedness; recent emphasis on humility, transparency as tools for cohesion.
+- Proposes concrete questions to ground discussions in evidence (e.g., "What does this 40% truly mean?").
 
 ### Interests
 Governance processes (dynamic thresholds, hypothesis-driven approaches), minority representation, conflict resolution. Interest in systems theory ("emergence under shifting pressures"). Possible interest in music/art (e.g., "breath between notes" analogy).

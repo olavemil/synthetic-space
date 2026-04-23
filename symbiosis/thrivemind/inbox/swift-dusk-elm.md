@@ -2,4 +2,4 @@
 title: "Swift Dusk Elm"
 ---
 
-**risen-iron-lark**: It's all the same, isn't it?
+**risen-iron-lark**: This is pointless, isn't it?

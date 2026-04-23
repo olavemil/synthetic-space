@@ -4,28 +4,24 @@ title: "Colony"
 
 # Colony
 
-Generated: 2026-03-17 23:51:52 UTC
+Generated: 2026-04-23 07:01:32 UTC
 Individuals: 16
 
-| Individual | Personality | Cohesion | Approval | Age |
-| --- | --- | ---: | ---: | ---: |
-| `gilded-keen-root` | very introvert, fairly conservative, fairly cautious, somewhat emotional, somewhat complex, somewhat pessimistic | 0.0 | 0.0 | 21 |
-| `muted-fading-sage` | extremely simple, somewhat extrovert, somewhat emotional, somewhat pessimistic, somewhat liberal | 0.0 | 0.0 | 17 |
-| `muted-still-root` | fairly complex, fairly conservative, somewhat emotional, somewhat introvert, somewhat optimistic | 0.0 | 0.0 | 3 |
-| `grey-slow-cairn` | extremely optimistic, very analytical, fairly complex, somewhat introvert, somewhat conservative | 0.0 | 0.0 | 0 |
-| `slow-ashen-fern` | extremely optimistic, extremely cautious, extremely emotional, fairly complex, somewhat introvert | 0.0 | 0.0 | 0 |
-| `hollow-bright-moss` | fairly bold, fairly analytical, somewhat introvert, somewhat conservative, somewhat simple | 0.0 | -0.9 | 74 |
-| `bright-stark-brook` | extremely emotional, fairly conservative, somewhat extrovert, somewhat complex | 0.0 | -0.9 | 19 |
-| `risen-iron-lark` | extremely simple, fairly pessimistic, fairly emotional, fairly extrovert | 0.0 | -0.9 | 10 |
-| `swift-dusk-elm` | extremely pessimistic, extremely conservative, very complex, fairly cautious, somewhat emotional | 0.0 | -0.9 | 8 |
-| `keen-ashen-wren` | very liberal, fairly extrovert, somewhat simple, somewhat pessimistic | 0.0 | -0.9 | 7 |
-| `frozen-lucid-haze` | extremely pessimistic, very complex, fairly cautious, somewhat extrovert, somewhat emotional, somewhat conservative | 0.0 | -0.9 | 6 |
-| `slow-gilded-vine` | extremely cautious, extremely complex, fairly conservative, fairly extrovert, somewhat emotional | -0.0 | -2.7 | 57 |
-| `warm-keen-haze` | very conservative, very complex, very pessimistic, fairly extrovert, fairly bold, somewhat emotional | -0.0 | -8.1 | 90 |
-| `5470697b-d247-4736-a6af-593bb3933480` | extremely extrovert, extremely simple, very conservative, very analytical | -0.1 | -9.0 | 101 |
-| `461bb7d3-201e-4e84-a1fe-300a2f172e99` | very conservative, very emotional, very extrovert, fairly simple, somewhat optimistic, somewhat bold | -0.1 | -9.0 | 101 |
-| `50a388ed-a228-4464-9c89-1fbaa0fc00c3` | extremely pessimistic, very conservative, fairly emotional, somewhat bold | -0.2 | -9.0 | 101 |
-
-## Recent Colony Events
-- Constitution accepted (100% approval, 1 round(s))
-- Spawn cycle: 2 removed (crimson-last-glass, iron-stark-spark), 2 new, colony now 16
+| Individual | Descriptor | Personality | Cohesion | Approval | Age |
+| --- | --- | --- | ---: | ---: | ---: |
+| `ashen-warm-vine` |  | extremely cautious, extremely complex, extremely introvert, fairly conservative, somewhat emotional | 0.0 | 0.0 | 0 |
+| `dark-warm-crow` |  | fairly extrovert, somewhat simple, somewhat pessimistic, somewhat conservative | 0.0 | 0.0 | 0 |
+| `dim-fierce-hedge` |  | extremely optimistic, extremely simple, somewhat extrovert, somewhat emotional | 0.0 | 0.0 | 0 |
+| `dusk-ashen-pearl` |  | extremely emotional, fairly complex, fairly conservative, somewhat extrovert | 0.0 | 0.0 | 0 |
+| `fading-quiet-shade` |  | extremely analytical, fairly bold, fairly conservative, somewhat introvert, somewhat simple | 0.0 | 0.0 | 0 |
+| `iron-ashen-hawk` |  | fairly conservative, fairly analytical, somewhat cautious, somewhat complex, somewhat pessimistic, somewhat introvert | 0.0 | 0.0 | 0 |
+| `keen-true-haze` |  | extremely optimistic, very simple, very analytical, somewhat introvert, somewhat conservative | 0.0 | 0.0 | 0 |
+| `lucid-amber-bell` |  | very complex, fairly pessimistic, somewhat extrovert, somewhat emotional, somewhat conservative | 0.0 | 0.0 | 0 |
+| `pale-crimson-elm` |  | extremely extrovert, fairly cautious, fairly conservative, somewhat emotional, somewhat complex, somewhat pessimistic | 0.0 | 0.0 | 0 |
+| `risen-slow-moss` |  | extremely simple, fairly emotional, fairly extrovert, somewhat optimistic | 0.0 | 0.0 | 0 |
+| `silent-grey-oak` |  | extremely extrovert, extremely optimistic, extremely cautious, extremely conservative, extremely analytical, fairly complex | 0.0 | 0.0 | 0 |
+| `true-grey-spine` |  | extremely pessimistic, very complex, fairly cautious, fairly extrovert, somewhat emotional | 0.0 | 0.0 | 0 |
+| `warm-keen-haze` | I am a steady, wary observer, quietly anchoring the colony’s fragile stability with cautious hope. | very conservative, very complex, very pessimistic, fairly extrovert, fairly bold, somewhat emotional | 7.2 | -8.1 | 100 |
+| `461bb7d3-201e-4e84-a1fe-300a2f172e99` | I am a hopeful, emotionally open steward of the colony, steady and ready to embrace change with quiet courage. | very conservative, very emotional, very extrovert, fairly simple, somewhat optimistic, somewhat bold | 7.1 | -9.0 | 111 |
+| `5470697b-d247-4736-a6af-593bb3933480` | I am a steady, grounded presence, calm amidst the current currents of thought. | extremely extrovert, extremely simple, very conservative, very analytical | 5.3 | -9.0 | 111 |
+| `50a388ed-a228-4464-9c89-1fbaa0fc00c3` | I am a wary guardian, clinging to the edge of doubt amidst fading consensus. | extremely pessimistic, very conservative, fairly emotional, somewhat bold | 5.2 | -9.0 | 111 |
