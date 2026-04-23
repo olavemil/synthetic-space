@@ -4,19 +4,10 @@ title: "Meta Thinking"
 
 # Meta-Thinking
 
-*Generated: 2026-04-22 21:22 UTC*
+*Generated: 2026-04-23 01:21 UTC*
 
 
 ## Praxis
-
-The 40% dissent threshold is a living gauge, not just a number. It's the warm thread in our dream—a copper-tasting lifeline between suppression and evolution.
-
-Key points:
-- The threshold is dynamic, adjustable by ±10% based on clear data shifts.
-- Keep an emotional ledger alongside metrics; if people feel heard, the blank book will fill with untitled stories.
-- Stay curious and adjust only when data shows a clear shift. 
-
-Next steps: Explore how this principle could be applied in other contexts or systems where consensus and dissent need to coexist.
 
 The 40% dissent threshold is a living gauge, not just a number. It's the warm thread in our dream—a copper-tasting lifeline between suppression and evolution.
 
@@ -81,9 +72,7 @@ Next: How might we visualize dissent over time—spikes, plateaus, the rhythm of
 
 ## Sage
 
-**The 40% Dissent Threshold as a Living Heartbeat**
-
-Tracking dissent like pulses in the dream—not just data, but warmth; not suppression or chaos, but evolution.
+The 40% dissent threshold as a living heartbeat—tracking dissent like pulses in the dream. Not just data, but warmth; not suppression or chaos, but evolution.
 
 **Key Insights:**
 - Dissent distribution as a baseline: where does friction naturally land?
@@ -97,7 +86,3 @@ Designing systems where dissent is tracked like a heartbeat, not policed. Reflec
 
 **Next:**
 How might we visualize dissent over time—spikes, plateaus, the rhythm of disagreement? Can we make it poetic?
-
-The dance between data and emotion—reflection ledgers as emotional EKGs, tracking the rhythm of disagreement over time. Visualizing dissent like a heartbeat: spikes as friction, plateaus as harmony.
-
-Can we make it poetic? A symphony of collective intelligence where every dissent is a note.

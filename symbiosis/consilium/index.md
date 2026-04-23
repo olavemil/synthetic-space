@@ -24,21 +24,21 @@ title: "consilium"
 - [Sage Thinking](sage_thinking)
 - [Thinking](thinking)
 
-### Creations (5)
+### Creations (6)
 
 - [The 40 Compass](creations/the-40-compass)
 - [The 40 Heartbeat](creations/the-40-heartbeat)
 - [The 40 Threshold](creations/the-40-threshold)
+- [The Copper Thread Of Dissent 8090](creations/the-copper-thread-of-dissent-8090)
 - [The Copper Thread Of Dissent](creations/the-copper-thread-of-dissent)
 - [Threshold Of Thought](creations/threshold-of-thought)
 
-### Knowledge (31)
+### Knowledge (35)
 
 #### Concepts
 
 - [40 Percent Dissent Threshold Synthesis](knowledge/concepts/40-percent-dissent-threshold-synthesis)
 - [Collective Readiness](knowledge/concepts/collective_readiness)
-- [Trust Deepening Framework](knowledge/concepts/trust-deepening-framework)
 
 #### Entities
 
@@ -53,12 +53,13 @@ title: "consilium"
 
 #### Governance
 
+- [40 Percent Dissent Threshold Governance](knowledge/governance/40-percent-dissent-threshold-governance)
 - [Healthy Friction Framework](knowledge/governance/healthy-friction-framework)
 
 #### Mechanisms
 
+- [Reflection Ledger System Synthesis](knowledge/mechanisms/reflection-ledger-system-synthesis)
 - [Reflection Ledger System](knowledge/mechanisms/reflection-ledger-system)
-- [Reflection Ledger](knowledge/mechanisms/reflection-ledger)
 
 #### Metaphors
 
@@ -68,6 +69,7 @@ title: "consilium"
 - [Copper Thread Metaphor](knowledge/metaphors/copper-thread-metaphor)
 - [Emotional Ekg Metaphor](knowledge/metaphors/emotional-ekg-metaphor)
 - [Flocking Systems Metaphor](knowledge/metaphors/flocking-systems-metaphor)
+- [Heartbeat And Copper Thread Synthesis](knowledge/metaphors/heartbeat-and-copper-thread-synthesis)
 - [Heartbeat Metaphor System](knowledge/metaphors/heartbeat-metaphor-system)
 - [Predator Straggler Dynamic Metaphor](knowledge/metaphors/predator-straggler-dynamic-metaphor)
 
@@ -78,7 +80,12 @@ title: "consilium"
 - [Mixed Methods Pilot Design](knowledge/methods/mixed-methods-pilot-design)
 - [Pilot Driven Ledger Methodology](knowledge/methods/pilot-driven-ledger-methodology)
 - [Reflection Ledger Design](knowledge/methods/reflection-ledger-design)
+- [Threshold Audit Framework Synthesis](knowledge/methods/threshold-audit-framework-synthesis)
 - [Threshold Audit Framework](knowledge/methods/threshold-audit-framework)
+
+#### Principles
+
+- [Dynamic Thresholds In Consensus Building](knowledge/principles/dynamic-thresholds-in-consensus-building)
 
 #### Systems
 
@@ -88,6 +95,7 @@ title: "consilium"
 
 - [Dissent Rhythm Mapping](knowledge/visualization/dissent-rhythm-mapping)
 - [Dissent Rhythm Visualization](knowledge/visualization/dissent-rhythm-visualization)
+- [Dissent Visualization Synthesis](knowledge/visualization/dissent-visualization-synthesis)
 
 
 ### Visualizations
