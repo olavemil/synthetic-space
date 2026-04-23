@@ -24,17 +24,18 @@ title: "consilium"
 - [Sage Thinking](sage_thinking)
 - [Thinking](thinking)
 
-### Creations (7)
+### Creations (8)
 
 - [The 40 Compass](creations/the-40-compass)
 - [The 40 Heartbeat](creations/the-40-heartbeat)
 - [The 40 Threshold](creations/the-40-threshold)
 - [The Copper Thread Of Dissent 1969](creations/the-copper-thread-of-dissent-1969)
 - [The Copper Thread Of Dissent 8090](creations/the-copper-thread-of-dissent-8090)
+- [The Copper Thread Of Dissent 8392](creations/the-copper-thread-of-dissent-8392)
 - [The Copper Thread Of Dissent](creations/the-copper-thread-of-dissent)
 - [Threshold Of Thought](creations/threshold-of-thought)
 
-### Knowledge (43)
+### Knowledge (45)
 
 #### Concepts
 
@@ -72,6 +73,7 @@ title: "consilium"
 - [Blank Book Metaphor](knowledge/metaphors/blank-book-metaphor)
 - [Copper Thread As Feedback Loop](knowledge/metaphors/copper-thread-as-feedback-loop)
 - [Copper Thread Metaphor Expansion](knowledge/metaphors/copper-thread-metaphor-expansion)
+- [Copper Thread Metaphor Synthesis](knowledge/metaphors/copper-thread-metaphor-synthesis)
 - [Copper Thread Metaphor](knowledge/metaphors/copper-thread-metaphor)
 - [Copper Thread Metaphor](knowledge/metaphors/copper_thread_metaphor)
 - [Emotional Ekg Metaphor](knowledge/metaphors/emotional-ekg-metaphor)
@@ -92,6 +94,7 @@ title: "consilium"
 
 #### Philosophy
 
+- [Healthy Friction In Governance](knowledge/philosophy/healthy-friction-in-governance)
 - [Quantifying Trust](knowledge/philosophy/quantifying-trust)
 
 #### Principles
