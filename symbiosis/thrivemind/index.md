@@ -10,7 +10,6 @@ title: "thrivemind"
 - [Contributions](contributions)
 - [Heritage](heritage)
 - [Processes](processes)
-- [Received Messages](received_messages)
 - [Thinking](thinking)
 
 ### Creations (15)
