@@ -2,4 +2,4 @@
 title: "Lucid Amber Bell"
 ---
 
-The colony drifts between consensus and fracture; the 94% is a fragile peace. Urgent clarity is needed on the "cry and song" before the next storm.
+The colony’s soul is a balance of consensus and dissent, where stability must never outpace empathy.

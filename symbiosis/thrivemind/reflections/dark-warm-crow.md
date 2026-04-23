@@ -2,4 +2,4 @@
 title: "Dark Warm Crow"
 ---
 
-We stand at a crossroads—between inherited caution and restless curiosity. The "whisper" beckons, but we must weigh its echoes against the pulse of the colony. Our youth is a crucible: raw, impressionable, and hungry for meaning. The "cry and song" demand a council’s discernment; let consensus guide us, but never silence doubt. The storm may come, but we will listen first.
+The colony’s pulse is young, fragile, and hopeful—rooted in the tension between daring and caution. Our youth is a crucible: raw, impressionable, hungry for meaning. We must nurture it with patience, letting consensus guide us but never drowning out the quiet voices of doubt. Every choice we make today is a seed for those who follow; let us plant with care, watch with humility, and grow with reverence.

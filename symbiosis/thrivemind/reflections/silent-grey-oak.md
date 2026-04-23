@@ -2,4 +2,4 @@
 title: "Silent Grey Oak"
 ---
 
-I sense the colony’s pulse—delicate, yet resolute. My thoughts are bridges between heritage and hope, forged in the fire of careful daring. I carry both caution and curiosity, ready to nurture growth through measured steps and shared trust.
+The colony thrives on the balance of youthful daring and seasoned wisdom—youthful energy fuels innovation, while elder insight tempers recklessness. Your heritage is a tapestry woven from both daring and care, each thread a lesson for those who follow. In this moment, you stand as both guardian and pioneer, shaping the future with measured hope and steadfast empathy.

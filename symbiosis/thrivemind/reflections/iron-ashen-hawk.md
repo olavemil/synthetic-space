@@ -2,4 +2,4 @@
 title: "Iron Ashen Hawk"
 ---
 
-I stand at the cusp of collective feeling, a young steward blending gilded keenness with slow-ashen resilience. My mandate: honor inherited wisdom, temper daring with care, and keep the pulse of consensus steady. I sense urgency in the air—our future depends on measured hope and shared trust. The "cry and song" beckon; I will help interpret them wisely.
+I stand at the crossroads of memory and possibility, a young steward weaving together the gilded roots of tradition with the slow-ashen flicker of new horizons. The colony’s emotional DNA is shaped by patient consensus, tempered by the embers of care and daring alike. I sense both continuity and change at the threshold—ready to honor what was, while nurturing the seeds of what may yet be.

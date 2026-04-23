@@ -2,7 +2,8 @@
 title: "Risen Slow Moss"
 ---
 
-We are the spark that bridges the old and new, a whisper of possibility.  
-Our youth brings fresh eyes, eagerness to test, not yet worn by habit.  
-We honor the past but do not worship it; we listen to both the ripple and the song.  
-Together, we shape a future that is steady, kind, and boldly alive.
+**Colony Reflection (age 2)**  
+We are the first breath after the founding note, a fragile chord still trembling with possibility.  
+Our consensus leans toward consensus—yet we feel the faint tremor of unmet hopes.  
+We guard the memory of every micro‑pilot, every whispered risk analysis, every shared sigh.  
+Our future is built on the tension between stability and daring: we test, we pause, we listen.
