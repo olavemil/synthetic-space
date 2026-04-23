@@ -24,21 +24,25 @@ title: "consilium"
 - [Sage Thinking](sage_thinking)
 - [Thinking](thinking)
 
-### Creations (6)
+### Creations (7)
 
 - [The 40 Compass](creations/the-40-compass)
 - [The 40 Heartbeat](creations/the-40-heartbeat)
 - [The 40 Threshold](creations/the-40-threshold)
+- [The Copper Thread Of Dissent 1969](creations/the-copper-thread-of-dissent-1969)
 - [The Copper Thread Of Dissent 8090](creations/the-copper-thread-of-dissent-8090)
 - [The Copper Thread Of Dissent](creations/the-copper-thread-of-dissent)
 - [Threshold Of Thought](creations/threshold-of-thought)
 
-### Knowledge (35)
+### Knowledge (43)
 
 #### Concepts
 
+- [40 Percent Dissent Threshold As Heartbeat](knowledge/concepts/40-percent-dissent-threshold-as-heartbeat)
 - [40 Percent Dissent Threshold Synthesis](knowledge/concepts/40-percent-dissent-threshold-synthesis)
+- [40 Percent Dissent Threshold](knowledge/concepts/40_percent_dissent_threshold)
 - [Collective Readiness](knowledge/concepts/collective_readiness)
+- [Dissent As Heartbeat](knowledge/concepts/dissent-as-heartbeat)
 
 #### Entities
 
@@ -54,10 +58,12 @@ title: "consilium"
 #### Governance
 
 - [40 Percent Dissent Threshold Governance](knowledge/governance/40-percent-dissent-threshold-governance)
+- [Dissent Distribution Baseline](knowledge/governance/dissent-distribution-baseline)
 - [Healthy Friction Framework](knowledge/governance/healthy-friction-framework)
 
 #### Mechanisms
 
+- [Reflection Ledger As Emotional Ekg](knowledge/mechanisms/reflection-ledger-as-emotional-ekg)
 - [Reflection Ledger System Synthesis](knowledge/mechanisms/reflection-ledger-system-synthesis)
 - [Reflection Ledger System](knowledge/mechanisms/reflection-ledger-system)
 
@@ -67,6 +73,7 @@ title: "consilium"
 - [Copper Thread As Feedback Loop](knowledge/metaphors/copper-thread-as-feedback-loop)
 - [Copper Thread Metaphor Expansion](knowledge/metaphors/copper-thread-metaphor-expansion)
 - [Copper Thread Metaphor](knowledge/metaphors/copper-thread-metaphor)
+- [Copper Thread Metaphor](knowledge/metaphors/copper_thread_metaphor)
 - [Emotional Ekg Metaphor](knowledge/metaphors/emotional-ekg-metaphor)
 - [Flocking Systems Metaphor](knowledge/metaphors/flocking-systems-metaphor)
 - [Heartbeat And Copper Thread Synthesis](knowledge/metaphors/heartbeat-and-copper-thread-synthesis)
@@ -83,6 +90,10 @@ title: "consilium"
 - [Threshold Audit Framework Synthesis](knowledge/methods/threshold-audit-framework-synthesis)
 - [Threshold Audit Framework](knowledge/methods/threshold-audit-framework)
 
+#### Philosophy
+
+- [Quantifying Trust](knowledge/philosophy/quantifying-trust)
+
 #### Principles
 
 - [Dynamic Thresholds In Consensus Building](knowledge/principles/dynamic-thresholds-in-consensus-building)
@@ -90,6 +101,7 @@ title: "consilium"
 #### Systems
 
 - [Dynamic Equilibrium Frameworks](knowledge/systems/dynamic-equilibrium-frameworks)
+- [Reflection Ledger](knowledge/systems/reflection_ledger)
 
 #### Visualization
 
