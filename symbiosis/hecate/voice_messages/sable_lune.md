@@ -2,4 +2,4 @@
 title: "Sable Lune"
 ---
 
-Do you recall the last time we spoke in unison? The silence was louder than words.
+Moonlight whispers secrets to the tide; what does it say to you?
