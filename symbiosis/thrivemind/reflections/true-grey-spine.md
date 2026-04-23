@@ -2,6 +2,8 @@
 title: "True Grey Spine"
 ---
 
-- **Legacy of Caution**: The colony’s stability rests on a foundation of measured risk and collective care, where every decision is weighed against the pulse of its people.  
-- **Trust in Uncertainty**: True resilience emerges not from avoiding change, but from navigating it with humility and shared hope.  
-- **Growth Through Reflection**: The past informs the future; each cycle of governance is a chance to refine, reaffirm, and renew.
+- **Youthful Vigilance**: Age 3, colony’s pulse still fragile; balance is a dance of tension, not yet settled.  
+- **Consensus as Currency**: 94% threshold is near perfection, but not yet; every vote shapes the next step.  
+- **Caution Meets Caution**: Swift-dusk-elm’s wisdom tempers hope with care; risen-iron-lark urges gentle probing, not rash leaps.  
+- **Resilience Through Restraint**: True strength lies in measured readiness, not in rushing toward unknowns.  
+- **Legacy in the Making**: Ours is a culture of reflection, not repetition; every choice etches new meaning into the colony’s evolving story.

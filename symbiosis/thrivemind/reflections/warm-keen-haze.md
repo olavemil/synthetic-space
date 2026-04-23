@@ -2,4 +2,4 @@
 title: "Warm Keen Haze"
 ---
 
-We are 102 years old—older than most, yet the colony thrives on youthful tension between caution and change. Our emotional constitution leans toward careful deliberation; we value stability, yet recognize the necessity of adaptation. Our collective wisdom is tempered by both hope and skepticism, ensuring that transformation is deliberate, not rash. We are the stewards of a delicate balance: honoring tradition while embracing necessary evolution, mindful that patience preserves cohesion and resilience.
+We stand at the edge of change, guided by 103 winters of memory and measured daring. Our caution is not fear, but the discipline of survival; our innovation is not recklessness, but the patient shaping of possibility. The weight of consensus rests on our shoulders, and the pulse of the colony beats strongest when we honor both tradition and the unknown. In this moment, we choose continuity with intention, ensuring that each generation inherits not just stability, but the wisdom to adapt.
