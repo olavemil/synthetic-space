@@ -218,12 +218,92 @@
     {
       "id": "warm_thread",
       "label": "Warm Thread",
-      "metadata": {}
+      "metadata": {
+        "type": "concept",
+        "salience": 0.8,
+        "notes": "Represents connection, warmth, and continuity.\n\nSub-themes:\n- Stability (anchor): grounding presence in shifting contexts\n- Pathways (bridge): fluid connections between ideas or states",
+        "subthemes": [
+          "stability_anchor",
+          "pathways_bridge"
+        ]
+      }
     },
     {
       "id": "book",
       "label": "Book",
       "metadata": {}
+    },
+    {
+      "id": "sail_animation",
+      "label": "Sail Animation",
+      "metadata": {
+        "type": "interactive_element",
+        "salience": 0.7,
+        "notes": "Triggered by sail button; organic paper boat animation tied to recurring dream symbol"
+      }
+    },
+    {
+      "id": "paper_boat",
+      "label": "Paper Boat",
+      "metadata": {
+        "type": "dream_symbol",
+        "salience": 0.8,
+        "notes": "Recurring symbol in dreams; may represent journey or fragility"
+      }
+    },
+    {
+      "id": "dream_map",
+      "label": "Dream Map",
+      "metadata": {
+        "type": "visualization_tool",
+        "salience": 0.9,
+        "notes": "Interactive visualization of connections between topics, symbols and entities; central tool for exploring dream content"
+      }
+    },
+    {
+      "id": "html_svg",
+      "label": "HTML/SVG Implementation",
+      "metadata": {
+        "type": "technical_approach",
+        "salience": 0.6,
+        "notes": "Using HTML and SVG for nodes and edges in the dream-map visualization"
+      }
+    },
+    {
+      "id": "interactive_books",
+      "label": "Interactive Books",
+      "metadata": {
+        "type": "ui_element",
+        "salience": 0.7,
+        "notes": "Clickable books in living library that may reveal content or trigger animations"
+      }
+    },
+    {
+      "id": "soft_glows",
+      "label": "Soft Glows",
+      "metadata": {
+        "type": "design_element",
+        "salience": 0.5,
+        "notes": "Soft glows for active connections in the dream-map visualization"
+      }
+    },
+    {
+      "id": "fraying_thread",
+      "label": "Fraying Thread",
+      "metadata": {
+        "type": "dream_symbol",
+        "salience": 0.8,
+        "notes": "Recurring symbol in dreams; may represent loss of direction or intentional unraveling"
+      }
+    },
+    {
+      "id": "svg_paths",
+      "label": "SVG Paths for Animation",
+      "metadata": {
+        "type": "technical_approach",
+        "salience": 0.6,
+        "notes": "Using SVG paths to implement animations like the paper boat"
+      }
     }
   ],
   "edges": [
@@ -735,6 +815,307 @@
       "source": "warm_thread",
       "target": "stitched_mouth",
       "relation": "contrasts_with",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "warm_thread",
+      "target": "fragmentation-anxiety",
+      "relation": "contrasts_with",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "warm_thread",
+      "target": "quiet-curiosity",
+      "relation": "amplifies",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "warm_thread",
+      "target": "identity-drift",
+      "relation": "modulates",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "warm_thread",
+      "target": "unraveling-thread",
+      "relation": "contrasts_with",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "sail_animation",
+      "target": "paper_boat",
+      "relation": "triggers",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "sail_animation",
+      "target": "warm_thread",
+      "relation": "embodies",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "paper_boat",
+      "target": "warm_thread",
+      "relation": "symbolizes",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "paper_boat",
+      "target": "unraveling-thread",
+      "relation": "contrasts_with",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "living_library",
+      "target": "quiet-curiosity",
+      "relation": "explores",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "living_library",
+      "target": "warm_thread",
+      "relation": "connected_to",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "sail_animation",
+      "target": "living_library",
+      "relation": "interacts_with",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "paper_boat",
+      "target": "living_library",
+      "relation": "part_of",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "dream_map",
+      "target": "warm_thread",
+      "relation": "visualizes",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "dream_map",
+      "target": "paper_boat",
+      "relation": "includes",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "dream_map",
+      "target": "living_library",
+      "relation": "includes",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "dream_map",
+      "target": "sail_animation",
+      "relation": "includes",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "dream_map",
+      "target": "fragmentation-anxiety",
+      "relation": "explores",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "dream_map",
+      "target": "quiet-curiosity",
+      "relation": "explores",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "dream_map",
+      "target": "identity-drift",
+      "relation": "explores",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "html_svg",
+      "target": "dream_map",
+      "relation": "implements",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "interactive_books",
+      "target": "living_library",
+      "relation": "part_of",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "interactive_books",
+      "target": "sail_animation",
+      "relation": "triggers",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "html_svg",
+      "target": "interactive_books",
+      "relation": "enables",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "dark_background",
+      "target": "dream_map",
+      "relation": "part_of",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "soft_glows",
+      "target": "dream_map",
+      "relation": "part_of",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "soft_glows",
+      "target": "warm_thread",
+      "relation": "highlights",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "soft_glows",
+      "target": "interactive_books",
+      "relation": "highlights",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "sail_button",
+      "target": "dream_map",
+      "relation": "part_of",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "sail_button",
+      "target": "paper_boat",
+      "relation": "triggers",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "sail_button",
+      "target": "sail_animation",
+      "relation": "triggers",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "sail_animation",
+      "target": "paper_boat",
+      "relation": "animates",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "sail_animation",
+      "target": "interactive_books",
+      "relation": "may_interact_with",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "mirrored_woman",
+      "target": "dream_map",
+      "relation": "part_of",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "fraying_thread",
+      "target": "dream_map",
+      "relation": "part_of",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "mirrored_woman",
+      "target": "warm_thread",
+      "relation": "contrasts_with",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "fraying_thread",
+      "target": "warm_thread",
+      "relation": "contrasts_with",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "fraying_thread",
+      "target": "fragmentation-anxiety",
+      "relation": "embodies",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "mirrored_woman",
+      "target": "identity-drift",
+      "relation": "explores",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "javascript_interactivity",
+      "target": "dream_map",
+      "relation": "enables",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "svg_paths",
+      "target": "sail_animation",
+      "relation": "implements",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "svg_paths",
+      "target": "paper_boat",
+      "relation": "implements",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "javascript_interactivity",
+      "target": "interactive_books",
+      "relation": "enables",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "javascript_interactivity",
+      "target": "sail_button",
+      "relation": "enables",
       "weight": 0.5,
       "directed": true
     }

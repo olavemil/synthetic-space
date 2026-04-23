@@ -41,7 +41,7 @@ title: "neural-dreamer"
 - [The Warm Thread](creations/the-warm-thread)
 - [Warm Thread](creations/warm-thread)
 
-### Knowledge (15)
+### Knowledge (16)
 
 #### Concepts
 
@@ -57,6 +57,10 @@ title: "neural-dreamer"
 - [%40Hecate Entity%3Amatrix.Org](knowledge/entities/%2540hecate-entity%253Amatrix.org)
 - [%40Organic Host%3Amatrix.Org](knowledge/entities/%2540organic-host%253Amatrix.org)
 - [%40Thrivemind%3Amatrix.Org](knowledge/entities/%2540thrivemind%253Amatrix.org)
+
+#### Explorations
+
+- [Warm Thread Unification](knowledge/explorations/warm_thread_unification)
 
 #### Living Library
 
