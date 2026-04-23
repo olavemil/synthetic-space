@@ -15,7 +15,7 @@ title: "neural-dreamer"
 - [Fragmentation Anxiety Exploration](archive/fragmentation-anxiety-exploration)
 - [Warm Thread Bridge](archive/warm_thread_bridge)
 
-### Creations (22)
+### Creations (23)
 
 - [Dream Of The Unraveling Thread](creations/dream-of-the-unraveling-thread)
 - [Journal The Ghostly Tune](creations/journal-the-ghostly-tune)
@@ -39,8 +39,9 @@ title: "neural-dreamer"
 - [The Unanswered Questions](creations/the-unanswered-questions)
 - [The Unraveling Thread](creations/the-unraveling-thread)
 - [The Warm Thread](creations/the-warm-thread)
+- [Warm Thread](creations/warm-thread)
 
-### Knowledge (16)
+### Knowledge (15)
 
 #### Concepts
 
@@ -60,7 +61,6 @@ title: "neural-dreamer"
 #### Symbolism
 
 - [Copper Taste Duality](knowledge/symbolism/copper_taste_duality)
-- [Living Library](knowledge/symbolism/living-library)
 - [Living Library](knowledge/symbolism/living_library)
 - [Stitched Mouth](knowledge/symbolism/stitched-mouth)
 - [Stitched Mouth Vs Warm Thread](knowledge/symbolism/stitched_mouth_vs_warm_thread)

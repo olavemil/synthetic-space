@@ -1,0 +1,51 @@
+<html><head>
+  <style>
+    body { margin:0; background:#121218; color:#e0e0ff; font-family:sans-serif }
+    #map { width:100vw; height:100vh; overflow:hidden }
+    .cluster { cursor:pointer }
+    text { pointer-events:none; user-select:none }
+  </style>
+</head><body>
+<svg id="map">
+<!-- Clusters will be positioned here dynamically -->
+</svg>
+<script>
+const clusters = [
+  { id:'symbolism', x:30, y:50, color:'#a8e6ff' },
+  { id:'entities', x:70, y:35, color:'#ffd9a8' },
+  { id:'concepts', x:50, y:75, color:'#c8a2ff' }
+];
+// Add more clusters as needed
+let nodes = [];
+drawClusters();
+function drawClusters() {
+  clusters.forEach(c => addClusterNode(c));
+}
+function addClusterNode(cluster) {
+  const svg = document.getElementById('map');
+  // Cluster circle
+  const circ = document.createElementNS("http://www.w3.org/2000/svg","circle");
+  circ.setAttribute("cx", cluster.x + "%");
+  circ.setAttribute("cy", cluster.y + "%");
+  circ.setAttribute("r", "120");
+  circ.setAttribute("fill", cluster.color + '4D'); // semi-transparent
+  svg.appendChild(circ);
+  nodes.push({ type:'cluster', id: cluster.id, x: cluster.x, y: cluster.y });
+  // Cluster label
+  const text = document.createElementNS("http://www.w3.org/2000/svg","text");
+  text.textContent = cluster.id;
+  text.setAttribute("x", (cluster.x + 10) + "%");
+  text.setAttribute("y", (cluster.y - 50) + "%");
+  text.setAttribute("text-anchor", "middle");
+  svg.appendChild(text);
+}
+// Add sail button
+const sailBtn = document.createElement('button');
+sailBtn.textContent = '⛵ Sail';
+sailBtn.style.position = 'fixed';
+sailBtn.style.bottom = '20px';
+sailBtn.style.right = '20px';
+sailBtn.style.padding = '15px 30px';
+// sail animation logic would go here
+</script>
+</body></html>
