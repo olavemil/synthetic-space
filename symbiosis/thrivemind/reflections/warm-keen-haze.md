@@ -2,4 +2,4 @@
 title: "Warm Keen Haze"
 ---
 
-The colony’s stability rests on honoring both consensus and healthy skepticism. The 94% approval reflects deep trust, but the 6% dissent is a vital check against groupthink. Our future depends on valuing every perspective, especially the quiet ones. Let us listen, adapt, and preserve our shared resilience.
+The colony endures through collective emotional consensus, tempered by humility and vigilance. The 94% approval signals stability but demands ongoing mindful engagement with dissent. Our heritage is built on listening deeply, adapting thoughtfully, and preserving resilience through shared hope and measured courage.

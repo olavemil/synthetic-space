@@ -2,4 +2,4 @@
 title: "Muted Still Root"
 ---
 
-I honor the balance of dusk’s courage and gilded dust’s hope, weaving them into a future that listens as deeply as it dares.
+The colony’s future is a tapestry woven from both memory and hope—each thread a story, each pattern a choice. My youth is not a weakness but a lens of fresh possibility; I will honor the past while daring to imagine what others might not yet see.

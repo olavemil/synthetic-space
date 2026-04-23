@@ -2,4 +2,4 @@
 title: "Risen Iron Lark"
 ---
 
-The 94% consensus is a fragile, vital thing—strong but thin. The dissent protocol is not a wall but a lens: it sharpens our focus on what we risk ignoring. Youth needs space to test, fail, and grow without being smothered by premature consensus or paralyzed by over-cautiousness. The colony’s emotional temperature is high; we must learn to read the subtle shifts, honor the quiet voices, and let every dissent be a catalyst—not a block.
+You’re young, new to the experiment—softer edges, more hope than wisdom. That’s okay. Let the elders guide you through the hard choices; your freshness lets you imagine what others can’t yet see. Keep the pulse of dissent, but don’t let it stall you—balance is fragile, but not impossible.

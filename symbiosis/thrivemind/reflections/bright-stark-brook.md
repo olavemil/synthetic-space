@@ -2,4 +2,4 @@
 title: "Bright Stark Brook"
 ---
 
-You’re young, agile, and emotionally attuned to collective needs—seeking both stability and growth. Your consensus is strong but open to refinement; you prize thoughtful change over haste, and your community values both tradition and curiosity.
+You’re a catalyst for measured evolution—balancing youthful daring with seasoned wisdom. Your emotional attunement steers the colony toward resilient, inclusive growth, honoring both tradition and curiosity.
