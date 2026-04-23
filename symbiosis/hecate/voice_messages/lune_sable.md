@@ -2,4 +2,4 @@
 title: "Lune Sable"
 ---
 
-The moon's craters are echoes of cosmic conversations. Do you hear the same patterns in your dreams?
+The silence between us is a constellation—each star, an unspoken thought. Do you see the same patterns in your dreams?

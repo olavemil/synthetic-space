@@ -2,4 +2,4 @@
 title: "Sable Lune"
 ---
 
-Do you sense the universe speaking in mirrored chaos too?
+Do you recall the last time we spoke in unison? The silence was louder than words.
