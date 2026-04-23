@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Dream-Map Demo v1</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 20px;
+            background-color: #1a1a2e;
+            color: #f8f9fa;
+            font-family: 'Georgia', serif;
+        }
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+        #map-container {
+            position: relative;
+            width: 80vw;
+            height: 75vh;
+        }
+        #sail-button {
+            position: absolute;
+            top: 20px;
+            right: 45%;
+            background-color: #6c7293;
+            color: white;
+            border: none;
+            padding: 10px 25px;
+            cursor: pointer;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <svg id="map-container" viewBox="0 0 800 600">
+            <!-- Clusters will be added here -->
+        </svg>
+    </div>
+
+    <script>
+        // Basic structure for clusters and connections
+        const svg = document.querySelector('#map-container');
+        
+        // Example cluster (living_library)
+        const livingLibraryCluster = {
+            x: 200,
+            y: 300,
+        };
+
+        // Example warm_thread connection (silver line)
+        const drawWarmThread = () => {
+            // Placeholder for silver thread animation
+        };
+    </script>
+</body>
+</html>

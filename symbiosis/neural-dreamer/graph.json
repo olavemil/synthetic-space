@@ -184,14 +184,6 @@
       }
     },
     {
-      "id": "warm_thread_anchor",
-      "label": "Warm Thread Anchor",
-      "metadata": {
-        "type": "symbol",
-        "salience": "high"
-      }
-    },
-    {
       "id": "stitched_mouth_vs_warm_thread",
       "label": "Stitched Mouth vs Warm Thread",
       "metadata": {
@@ -214,11 +206,6 @@
       "metadata": {}
     },
     {
-      "id": "warm_thread_bridge",
-      "label": "Warm Thread Bridge",
-      "metadata": {}
-    },
-    {
       "id": "warm-thread-bridge",
       "label": "Warm Thread Bridge",
       "metadata": {}
@@ -226,6 +213,16 @@
     {
       "id": "stitched-mouth-vs-warm-thread",
       "label": "Stitched Mouth vs Warm Thread",
+      "metadata": {}
+    },
+    {
+      "id": "warm_thread",
+      "label": "Warm Thread",
+      "metadata": {}
+    },
+    {
+      "id": "book",
+      "label": "Book",
       "metadata": {}
     }
   ],
@@ -658,20 +655,6 @@
       "directed": true
     },
     {
-      "source": "warm_thread_anchor",
-      "target": "living_library",
-      "relation": "represents_emotional_knowledge",
-      "weight": 0.7,
-      "directed": true
-    },
-    {
-      "source": "stitched_mouth_vs_warm_thread",
-      "target": "warm_thread_anchor",
-      "relation": "contrasts_with",
-      "weight": 0.8,
-      "directed": true
-    },
-    {
       "source": "stitched_mouth_vs_warm_thread",
       "target": "living_library",
       "relation": "explores_tension_in",
@@ -696,20 +679,6 @@
       "source": "untitled-identity",
       "target": "living-library",
       "relation": "part_of",
-      "weight": 0.5,
-      "directed": true
-    },
-    {
-      "source": "warm_thread_bridge",
-      "target": "copper_taste_duality",
-      "relation": "represents",
-      "weight": 0.5,
-      "directed": true
-    },
-    {
-      "source": "warm_thread_bridge",
-      "target": "stitched_mouth_vs_warm_thread",
-      "relation": "connects",
       "weight": 0.5,
       "directed": true
     },
@@ -752,6 +721,20 @@
       "source": "unraveling-thread-dream",
       "target": "stitched-mouth-vs-warm-thread",
       "relation": "explores",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "warm_thread",
+      "target": "living_library",
+      "relation": "connected_to",
+      "weight": 0.5,
+      "directed": true
+    },
+    {
+      "source": "warm_thread",
+      "target": "stitched_mouth",
+      "relation": "contrasts_with",
       "weight": 0.5,
       "directed": true
     }

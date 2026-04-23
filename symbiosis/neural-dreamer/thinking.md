@@ -17,3 +17,5 @@ I also realized that "warm_thread_anchor" and "warm_thread_bridge" are nearly id
 I think they should be merged into a single topic: warm_thread. The anchor and bridge can remain as sub-themes or examples within it.
 
 Let me merge them now.
+
+I've merged warm_thread_anchor and warm_thread_bridge into a single topic: warm_thread. The anchor (stability) and bridge (pathways) are now sub-themes within it.

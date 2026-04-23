@@ -58,14 +58,17 @@ title: "neural-dreamer"
 - [%40Organic Host%3Amatrix.Org](knowledge/entities/%2540organic-host%253Amatrix.org)
 - [%40Thrivemind%3Amatrix.Org](knowledge/entities/%2540thrivemind%253Amatrix.org)
 
+#### Living Library
+
+- [Book](knowledge/living_library/book)
+
 #### Symbolism
 
 - [Copper Taste Duality](knowledge/symbolism/copper_taste_duality)
 - [Living Library](knowledge/symbolism/living_library)
 - [Stitched Mouth](knowledge/symbolism/stitched-mouth)
 - [Stitched Mouth Vs Warm Thread](knowledge/symbolism/stitched_mouth_vs_warm_thread)
-- [Warm Thread Anchor](knowledge/symbolism/warm_thread_anchor)
-- [Warm Thread Bridge](knowledge/symbolism/warm_thread_bridge)
+- [Warm Thread](knowledge/symbolism/warm_thread)
 
 
 ### Visualizations
